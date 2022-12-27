@@ -57,6 +57,7 @@ restart_quiz.onclick = ()=>{
     // startTimerLine(widthValue); //calling startTimerLine function
     timeText.textContent = "Time Left"; //change the text of timeText to Time Left
     next_btn.classList.remove("show"); //hide the next button
+    show_btn.classList.remove("show"); //hide the next button
 }
 
 // if quitQuiz button clicked
@@ -86,6 +87,10 @@ next_btn.onclick = ()=>{
         clearInterval(counterLine); //clear counterLine
         showResult(); //calling showResult function
     }
+}
+
+show_btn.onclick = ()=>{
+    show_btn.classList.remove("show"); //hide the next button
 }
 
 // getting questions and options from array
