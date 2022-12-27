@@ -90,7 +90,7 @@ next_btn.onclick = ()=>{
 }
 
 show_btn.onclick = ()=>{
-    show_btn.classList.remove("show"); //hide the next button
+    // show_btn.classList.remove("show"); //hide the next button
     console.log("clicked")
 }
 
