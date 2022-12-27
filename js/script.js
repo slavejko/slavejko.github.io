@@ -115,9 +115,11 @@ function showQuetions(index){
     // set onclick attribute to all available options
     for(i=0; i < option.length; i++){
         // option[i].setAttribute("onclick", "optionSelected(this)");
-        option[i].setAttribute("onclick", function onera() { 
-            console.log("xxx") 
-        });
+        
+        option[i].setAttribute("onclick", "getOption(this)");
+        // option[i].setAttribute("onclick", function onera() { 
+        //     console.log("xxx") 
+        // });
     }
 }
 // creating the new div tags which for icons
