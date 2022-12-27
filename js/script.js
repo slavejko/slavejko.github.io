@@ -44,7 +44,7 @@ const quit_quiz = result_box.querySelector(".buttons .quit");
 restart_quiz.onclick = ()=>{
     quiz_box.classList.add("activeQuiz"); //show quiz box
     result_box.classList.remove("activeResult"); //hide result box
-    timeValue = 15;
+    // timeValue = 15;
     que_count = 0;
     que_numb = 1;
     userScore = 0;
@@ -92,6 +92,7 @@ next_btn.onclick = ()=>{
 show_btn.onclick = ()=>{
     // show_btn.classList.remove("show"); //hide the next button
     console.log("clicked")
+    console.log(questions)
 }
 
 // getting questions and options from array
