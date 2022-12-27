@@ -115,7 +115,7 @@ function showQuetions(index){
     // set onclick attribute to all available options
     for(i=0; i < option.length; i++){
         // option[i].setAttribute("onclick", "optionSelected(this)");
-        option[i].setAttribute("onclick", function() { 
+        option[i].setAttribute("onclick", function onera() { 
             console.log("xxx") 
         });
     }
