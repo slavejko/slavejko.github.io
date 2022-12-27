@@ -16,18 +16,18 @@ start_btn.onclick = ()=>{
     queCounter(1); //passing 1 parameter to queCounter
 }
 
-// if exitQuiz button clicked
-exit_btn.onclick = ()=>{
-    info_box.classList.remove("activeInfo"); //hide info box
-}
+// // if exitQuiz button clicked
+// exit_btn.onclick = ()=>{
+//     info_box.classList.remove("activeInfo"); //hide info box
+// }
 
-// if continueQuiz button clicked
-continue_btn.onclick = ()=>{
-    info_box.classList.remove("activeInfo"); //hide info box
-    quiz_box.classList.add("activeQuiz"); //show quiz box
-    showQuetions(0); //calling showQestions function
-    queCounter(1); //passing 1 parameter to queCounter
-}
+// // if continueQuiz button clicked
+// continue_btn.onclick = ()=>{
+//     info_box.classList.remove("activeInfo"); //hide info box
+//     quiz_box.classList.add("activeQuiz"); //show quiz box
+//     showQuetions(0); //calling showQestions function
+//     queCounter(1); //passing 1 parameter to queCounter
+// }
 
 // let timeValue =  15;
 let que_count = 0;
