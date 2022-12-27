@@ -12,7 +12,10 @@ const time_line = document.querySelector("header .time_line");
 
 // if startQuiz button clicked
 start_btn.onclick = ()=>{
-    info_box.classList.add("activeInfo"); //show info box
+    // info_box.classList.add("activeInfo"); //show info box
+    quiz_box.classList.add("activeQuiz");
+    showQuetions(0); //calling showQestions function
+    queCounter(1); //passing 1 parameter to queCounter
 }
 
 // if exitQuiz button clicked
