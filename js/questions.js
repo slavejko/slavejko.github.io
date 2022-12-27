@@ -2,7 +2,7 @@ let questions = [
     {
     numb: 1,
     question: "a",
-    answer: "b",
+    answer: "d",
     options: [
       "c",
       "d",
