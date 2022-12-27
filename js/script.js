@@ -110,6 +110,8 @@ function showQuetions(index){
 
     const option = option_list.querySelectorAll(".option");
 
+    console.log(option)
+
     // set onclick attribute to all available options
     for(i=0; i < option.length; i++){
         option[i].setAttribute("onclick", "optionSelected(this)");
