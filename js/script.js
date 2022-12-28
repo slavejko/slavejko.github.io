@@ -150,7 +150,7 @@ function optionSelected(answer){
 
 // !!!!!!!!!!!!!!!!!!!!!!  TU POKRACOVAT A PREMENIT TO NECH BERIE ARRAY !!!!!!!!!!!!!!!!!!!!!!!!!!!!
 //if user clicked on option
-function optionSelected2(){
+function optionSelected3(){
     clearInterval(counter); //clear counter
     clearInterval(counterLine); //clear counterLine
 
@@ -158,7 +158,7 @@ function optionSelected2(){
 
     //                [ktora odpoved][?]
     let answer = vyber[0][0];
-    console.log(vyber.length);
+    // console.log(vyber.length);
 
     for(xi = 0; xi < vyber.length; xi++){
         let answer = vyber[xi][0];
@@ -166,32 +166,55 @@ function optionSelected2(){
         let correcAns = questions[que_count].answer; //getting correct answer from array
         // const allOptions = option_list.children.length; //getting all option items
 
-        if(userAns == correcAns){ //if user selected option is equal to array's correct answer
-            userScore += 1; //upgrading score value with 1
-            answer.classList.add("correct"); //adding green color to correct selected option
-            answer.insertAdjacentHTML("beforeend", tickIconTag); //adding tick icon to correct selected option
-            console.log("Correct Answer");
-            console.log("Your correct answers = " + userScore);
-        }else{
-            answer.classList.add("incorrect"); //adding red color to correct selected option
-            answer.insertAdjacentHTML("beforeend", crossIconTag); //adding cross icon to correct selected option
-            console.log("Wrong Answer");
+        for(xop=0; xop < correcAns.length; xop++){
+            if(userAns == correcAns[xop]){ //if user selected option is equal to array's correct answer
+                userScore += 1; //upgrading score value with 1
+                answer.classList.add("correct"); //adding green color to correct selected option
+                answer.insertAdjacentHTML("beforeend", tickIconTag); //adding tick icon to correct selected option
+                // console.log("Correct Answer");
+                // console.log("Your correct answers = " + userScore);
+            }else{
+                answer.classList.add("incorrect"); //adding red color to correct selected option
+                answer.insertAdjacentHTML("beforeend", crossIconTag); //adding cross icon to correct selected option
+                // console.log("Wrong Answer");
+    
+                // for(i=0; i < allOptions; i++){
+                //     if(option_list.children[i].textContent == correcAns){ //if there is an option which is matched to an array answer
+                //         option_list.children[i].setAttribute("class", "option correct"); //adding green color to matched option
+                //         option_list.children[i].insertAdjacentHTML("beforeend", tickIconTag); //adding tick icon to matched option
+                //         console.log("Auto selected correct answer.");
+                //     }
+                // }
+            }    
 
-            // for(i=0; i < allOptions; i++){
-            //     if(option_list.children[i].textContent == correcAns){ //if there is an option which is matched to an array answer
-            //         option_list.children[i].setAttribute("class", "option correct"); //adding green color to matched option
-            //         option_list.children[i].insertAdjacentHTML("beforeend", tickIconTag); //adding tick icon to matched option
-            //         console.log("Auto selected correct answer.");
-            //     }
-            // }
         }
+
+        // if(userAns == correcAns){ //if user selected option is equal to array's correct answer
+        //     userScore += 1; //upgrading score value with 1
+        //     answer.classList.add("correct"); //adding green color to correct selected option
+        //     answer.insertAdjacentHTML("beforeend", tickIconTag); //adding tick icon to correct selected option
+        //     console.log("Correct Answer");
+        //     console.log("Your correct answers = " + userScore);
+        // }else{
+        //     answer.classList.add("incorrect"); //adding red color to correct selected option
+        //     answer.insertAdjacentHTML("beforeend", crossIconTag); //adding cross icon to correct selected option
+        //     console.log("Wrong Answer");
+
+        //     // for(i=0; i < allOptions; i++){
+        //     //     if(option_list.children[i].textContent == correcAns){ //if there is an option which is matched to an array answer
+        //     //         option_list.children[i].setAttribute("class", "option correct"); //adding green color to matched option
+        //     //         option_list.children[i].insertAdjacentHTML("beforeend", tickIconTag); //adding tick icon to matched option
+        //     //         console.log("Auto selected correct answer.");
+        //     //     }
+        //     // }
+        // }
 
     }
 
     const allOptions = option_list.children.length; //getting all option items
     let correcAns = questions[que_count].answer; //getting correct answer from array
 
-    console.log(allOptions);
+    // console.log(allOptions);
 
     //for corrans length, on yi place, if matched get ticked
 
@@ -258,4 +281,101 @@ function queCounter(index){
     //creating a new span tag and passing the question number and total question
     let totalQueCounTag = '<span><p>'+ index +'</p> of <p>'+ questions.length +'</p> Questions</span>';
     bottom_ques_counter.innerHTML = totalQueCounTag;  //adding new span tag inside bottom_ques_counter
+}
+
+
+function optionSelected2(){
+    clearInterval(counter); //clear counter
+    clearInterval(counterLine); //clear counterLine
+
+    let correcAns2 = questions[que_count].answer;
+    let zvolene_odpoveed_vsetky = [];
+
+    for(a = 0; a < vyber.length; a++){
+        let opx = vyber[a][0]
+        let b = [opx, false];
+        zvolene_odpoveed_vsetky.push(b);
+    }
+
+    for(xop=0; xop < correcAns2.length; xop++){
+        let otazka_vyber = correcAns2[xop];
+        // console.log(otazka_vyber);
+        for(ip = 0; ip < zvolene_odpoveed_vsetky.length; ip++){
+            // console.log("zvolena odpoved ip 0 " +  zvolene_odpoveed_vsetky[ip][0].textContent);
+            if(otazka_vyber == zvolene_odpoveed_vsetky[ip][0].textContent){
+                // sem dat false na correct
+                // ak nebude correct tak oznacim ako krizik inak bude true a bude to fajn
+                zvolene_odpoveed_vsetky[ip][1] = true;
+                // console.log("zvolena odpoved ip 0 " +  zvolene_odpoveed_vsetky[ip][0].textContent);
+                // console.log("otzkavyber odpoved ip 0 " +  otazka_vyber);
+            }
+        }
+    }
+
+
+    for(l = 0; l< zvolene_odpoveed_vsetky.length; l++){
+        if(zvolene_odpoveed_vsetky[l][1] == true){
+            zvolene_odpoveed_vsetky[l][0].classList.add("correct");
+            zvolene_odpoveed_vsetky[l][0].classList.add("correct");
+            zvolene_odpoveed_vsetky[l][0].insertAdjacentHTML("beforeend", tickIconTag);
+        }else{
+            zvolene_odpoveed_vsetky[l][0].classList.add("incorrect"); //adding red color to correct selected option
+            zvolene_odpoveed_vsetky[l][0].insertAdjacentHTML("beforeend", crossIconTag); //adding cross icon to correct selected option
+            // console.log("Wrong Answer");
+        } 
+    }   
+
+
+    // for(xi = 0; xi < vyber.length; xi++){
+    //     console.log("Idem tolkoto krat - vyber length = " + vyber.length);
+    //     let answer = vyber[xi][0];
+    //     let userAns = answer.textContent; //getting user selected option
+    //     let correcAns = questions[que_count].answer; //getting correct answer from array
+    //     // const allOptions = option_list.children.length; //getting all option items
+
+    //     for(xop=0; xop < correcAns.length; xop++){
+    //         if(userAns == correcAns[xop]){ //if user selected option is equal to array's correct answer
+    //             userScore += 1; //upgrading score value with 1
+    //             answer.classList.add("correct"); //adding green color to correct selected option
+    //             answer.insertAdjacentHTML("beforeend", tickIconTag); //adding tick icon to correct selected option
+    //             // console.log("Correct Answer");
+    //             // console.log("Your correct answers = " + userScore);
+    //         }
+    //         else{
+    //             answer.classList.add("incorrect"); //adding red color to correct selected option
+    //             answer.insertAdjacentHTML("beforeend", crossIconTag); //adding cross icon to correct selected option
+    //             // console.log("Wrong Answer");
+    //         }    
+    //     }
+    // }
+
+    const allOptions = option_list.children.length; //getting all option items
+    let correcAns = questions[que_count].answer; //getting correct answer from array
+
+    // console.log(allOptions);
+    //for corrans length, on yi place, if matched get ticked
+
+    for(p = 0; p < correcAns.length; p++){
+        for(i=0; i < allOptions; i++){
+            if(option_list.children[i].textContent == correcAns[p]){ //if there is an option which is matched to an array answer
+                option_list.children[i].setAttribute("class", "option correct"); //adding green color to matched option
+                option_list.children[i].insertAdjacentHTML("beforeend", tickIconTag); //adding tick icon to matched option
+                console.log("Auto selected correct answer.");
+            }
+        }
+    }
+
+    // for(i=0; i < allOptions; i++){
+    //     if(option_list.children[i].textContent == correcAns){ //if there is an option which is matched to an array answer
+    //         option_list.children[i].setAttribute("class", "option correct"); //adding green color to matched option
+    //         option_list.children[i].insertAdjacentHTML("beforeend", tickIconTag); //adding tick icon to matched option
+    //         console.log("Auto selected correct answer.");
+    //     }
+    // }
+
+
+    for(i=0; i < allOptions; i++){
+        option_list.children[i].classList.add("disabled"); //once user select an option then disabled all options
+    }
+
 }
