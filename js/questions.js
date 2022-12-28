@@ -887,4 +887,10 @@ let questions = [
   answer: ["  je tetramér zložený z dvoch katalytických a dvoch regulačných podjednotiek"," je enzým závislý na cAMP"],
   options: [" je dimér zložený z dvoch regulačných podjednotiek"," je tetramér zložený z dvoch katalytických a dvoch regulačných podjednotiek"," je enzým závislý na cAMP"," je enzým závislý na cGMP"]
 },
+{
+  numb: 149,
+  question: " Tioesterová makroergická väzba je prítomná v:",
+  answer: [" acetyl-Coa"," acyl-Coa"," sukcinyl-Coa"],
+  options: [" acetyl-Coa"," HS-Coa"," acyl-Coa"," sukcinyl-Coa"]
+},
 ];
