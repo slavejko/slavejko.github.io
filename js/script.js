@@ -25,24 +25,75 @@ function shuffle(array) {
 
     return array;
 }
+
+function getMyRange(textRange){
+    var ranges = [];
+
+    if(textRange.includes("-")){
+        let novy_range = textRange.split('-');
+        
+        if(novy_range.length > 2){
+            return [0,0];
+        }
+
+        // console.log(novy_range);
+        // console.log(novy_range[0]);
+        // console.log(parseInt(novy_range[0]));
+        // console.log(typeof(novy_range[0]));
+        // console.log(typeof(parseInt(novy_range[0])));
+
+        ranges.push(parseInt(novy_range[0]));
+        ranges.push(parseInt(novy_range[1]));
+        // ranges.push()
+    }
+    // ranges.push(0);
+    // ranges.push(1);
+
+    return ranges;
+}
   
 var otazky_poradie = [];
+var my_lower_range = 0;
+var my_upper_range = 50;
 
-for (let index = 1; index < 51; index++) {
-    otazky_poradie.push(index);
-}
+// for (let index = my_lower_range; index < my_upper_range; index++) {
+//     otazky_poradie.push(index);
+// }
 
-shuffle(otazky_poradie);
+// shuffle(otazky_poradie);
 
 
 // if startQuiz button clicked
 start_btn.onclick = ()=>{
+    // console.log(document.getElementById("mrange").value);
+    let number_ranges = getMyRange(document.getElementById("mrange").value);
+
+    if(number_ranges.length > 0 && number_ranges.length < 3){
+        if(number_ranges[1] < number_ranges[0]){
+            console.log("zle rozmedzie");
+        }
+    
+        if(number_ranges[0] >= 0){
+            my_lower_range = number_ranges[0];
+            my_upper_range = number_ranges[1];
+        }
+    }
+
+    for (let index = my_lower_range; index < my_upper_range; index++) {
+        otazky_poradie.push(index);
+    }
+    
+    shuffle(otazky_poradie);
+
+
+
     // info_box.classList.add("activeInfo"); //show info box
     quiz_box.classList.add("activeQuiz");
     showQuetions(otazky_poradie[que_count]); //calling showQestions function
     queCounter(1); //passing 1 parameter to queCounter
     show_btn.classList.add("show"); //show the next button if user selected any option
     next_btn.classList.add("show"); //show the next button if user selected any option
+
 }
 
 // // if exitQuiz button clicked
@@ -341,7 +392,7 @@ function optionSelected2(){
     for(l = 0; l< zvolene_odpoveed_vsetky.length; l++){
         if(zvolene_odpoveed_vsetky[l][1] == true){
             zvolene_odpoveed_vsetky[l][0].classList.add("correct");
-            zvolene_odpoveed_vsetky[l][0].classList.add("correct");
+            // zvolene_odpoveed_vsetky[l][0].classList.add("correct");
             zvolene_odpoveed_vsetky[l][0].insertAdjacentHTML("beforeend", tickIconTag);
         }else{
             zvolene_odpoveed_vsetky[l][0].classList.add("incorrect"); //adding red color to correct selected option

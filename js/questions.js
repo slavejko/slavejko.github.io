@@ -104,7 +104,7 @@ let questions = [
  {
     numb: 18,
     question: " Guanozíndifosfát obsahuje väzbu:",
-    answer: [" Nglykozidovú"," fosfoesterovú"," fosfoanhydridovú"],
+    answer: [" N-glykozidovú"," fosfoesterovú"," fosfoanhydridovú"],
     options: [" guanidínfosfátovú"," N-glykozidovú"," fosfoesterovú"," fosfoanhydridovú"]
  },
  {
@@ -122,7 +122,7 @@ let questions = [
  {
     numb: 21,
     question: " Najvyššia aktivita kreatínfosfokinázy sa nachádza v:",
-    answer: ["  kostrovom svale"],
+    answer: [" kostrovom svale"],
     options: [" kostrovom svale"," myokarde"," pečeni"," mozgu"]
  },
  {
@@ -176,7 +176,7 @@ let questions = [
  {
     numb: 30,
     question: " Vitamínovou zložkou NAD+ je:",
-    answer: [" nikotínamid, derivát pyridínu"],
+    answer: [" nikotínamid"," derivát pyridínu"],
     options: [" tiamín"," nikotínamid"," riboflavín"," derivát pyridínu"]
  },
  {
@@ -272,7 +272,7 @@ let questions = [
  {
     numb: 46,
     question: " Ktoré z uvedených transportérov prenášajú iba elektróny:",
-    answer: [" FeSproteín"," cytochróm b"],
+    answer: [" FeS-proteín"," cytochróm b"],
     options: [" FMN"," FeS-proteín"," koenzým Q"," cytochróm b"]
  },
  {
@@ -284,7 +284,7 @@ let questions = [
  {
     numb: 48,
     question: " Fosfoanhydridová väzba vzniká väzbou fosfátu na:",
-    answer: ["  adenozínmonofosfát"," adenozíndifosfát"],
+    answer: [" adenozínmonofosfát"," adenozíndifosfát"],
     options: [" adenín"," adenozín"," adenozínmonofosfát"," adenozíndifosfát"]
  },
  {
