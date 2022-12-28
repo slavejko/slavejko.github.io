@@ -98,7 +98,7 @@ let questions = [
  {
     numb: 17,
     question: " Ktorý z týchto vitamínov môže byť zložkou v koenzýmoch oxidoreduktáz:",
-    answer: [" riboflavín, tiamín"],
+    answer: [" riboflavín"," tiamín"],
     options: [" pyridoxín"," riboflavín"," vitamín D"," tiamín"]
  },
  {
@@ -110,7 +110,7 @@ let questions = [
  {
     numb: 19,
     question: " Acylfosfátová makroergická väzba sa nachádza v:",
-    answer: [" 1,3bisfosfoglyceráte"],
+    answer: [" 1,3-bisfosfoglyceráte"],
     options: [" 3-fosfoglyceráte"," 2,3-bisfosfoglyceráte"," 3-fosfoglyceraldehyde"," 1,3-bisfosfoglyceráte"]
  },
  {
@@ -311,5 +311,5 @@ let questions = [
     answer: [" protóny sú transportované do medzimembránového priestoru"],
     options: [" elektróny sú transportované do mitochondrie"," protóny sú transportované do medzimembránového priestoru"," 3 ATP sa vytvárajú z FADH2"," 2 ATP sa vytvárajú z NADH2"]
  },
- 
+
 ];

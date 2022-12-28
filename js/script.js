@@ -39,7 +39,7 @@ shuffle(otazky_poradie);
 start_btn.onclick = ()=>{
     // info_box.classList.add("activeInfo"); //show info box
     quiz_box.classList.add("activeQuiz");
-    showQuetions(0); //calling showQestions function
+    showQuetions(otazky_poradie[que_count]); //calling showQestions function
     queCounter(1); //passing 1 parameter to queCounter
     show_btn.classList.add("show"); //show the next button if user selected any option
     next_btn.classList.add("show"); //show the next button if user selected any option
@@ -79,18 +79,13 @@ restart_quiz.onclick = ()=>{
     que_numb = 1;
     userScore = 0;
     widthValue = 0;
-    showQuetions(que_count); //calling showQestions function
+    showQuetions(otazky_poradie[que_count]); //calling showQestions function
     queCounter(que_numb); //passing que_numb value to queCounter
     clearInterval(counter); //clear counter
     clearInterval(counterLine); //clear counterLine
     // startTimer(timeValue); //calling startTimer function
     // startTimerLine(widthValue); //calling startTimerLine function
     // timeText.textContent = "Time Left"; //change the text of timeText to Time Left
-    next_btn.classList.remove("show"); //hide the next button
-    show_btn.classList.remove("show"); //hide the next button
-
-    show_btn.classList.add("show"); //show the next button if user selected any option
-    next_btn.classList.add("show"); //show the next button if user selected any option
 }
 
 // if quitQuiz button clicked
@@ -107,7 +102,7 @@ next_btn.onclick = ()=>{
     if(que_count < questions.length - 1){ //if question count is less than total question length
         que_count++; //increment the que_count value
         que_numb++; //increment the que_numb value
-        showQuetions(que_count); //calling showQestions function
+        showQuetions(otazky_poradie[que_count]); //calling showQestions function
         queCounter(que_numb); //passing que_numb value to queCounter
         clearInterval(counter); //clear counter
         clearInterval(counterLine); //clear counterLine
@@ -318,7 +313,7 @@ function optionSelected2(){
     clearInterval(counter); //clear counter
     clearInterval(counterLine); //clear counterLine
 
-    let correcAns2 = questions[que_count].answer;
+    let correcAns2 = questions[otazky_poradie[que_count]].answer;
     let zvolene_odpoveed_vsetky = [];
 
     for(a = 0; a < vyber.length; a++){
@@ -380,7 +375,7 @@ function optionSelected2(){
     // }
 
     const allOptions = option_list.children.length; //getting all option items
-    let correcAns = questions[que_count].answer; //getting correct answer from array
+    let correcAns = questions[otazky_poradie[que_count]].answer; //getting correct answer from array
 
     // console.log(allOptions);
     //for corrans length, on yi place, if matched get ticked
