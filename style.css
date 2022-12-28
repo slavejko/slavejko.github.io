@@ -31,7 +31,7 @@ body{
 .mrangefielnd{
     position: absolute;
     height: auto;
-    width: 25%;
+    width: 200px;
     top: 55%;
     left: 50%;
     transform: translate(-50%, -50%);
