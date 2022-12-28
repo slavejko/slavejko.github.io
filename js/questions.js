@@ -8,7 +8,7 @@ let questions = [
  {
     numb: 2,
     question: " Ktorý z nasledujúcich nukleotidov je donorom energie pre proteosyntézu:",
-    answer: [" GTP: bielkoviny, glukogenéza","UTP: sacharidy","CTP: lipidy"],
+    answer: [" GTP"],
     options: [" ATP"," UTP"," GTP"," CTP"]
  },
  {
