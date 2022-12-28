@@ -362,7 +362,7 @@ let questions = [
 {
   numb: 61,
   question: " Zložkou koenzýmov oxidoreduktáz môže byť vitamín:",
-  answer: [" riboflavín","niacín"],
+  answer: [" riboflavín"," niacín"],
   options: [" pyridoxín"," riboflavín"," vitamín D"," niacín"]
 },
 {
@@ -374,7 +374,7 @@ let questions = [
 {
   numb: 63,
   question: " Kyselina oxaloctová:",
-  answer: [" sa v Krebsovom cykle zlučuje s acetylkoenzýmom A (acetylCoa)"," obsahuje 4 uhlíkové atómy"],
+  answer: [" sa v Krebsovom cykle zlučuje s acetyl-koenzýmom A (acetyl-Coa)"," obsahuje 4 uhlíkové atómy"],
   options: [" obsahuje hydroxyskupinu"," sa v Krebsovom cykle zlučuje s acetyl-koenzýmom A (acetyl-Coa)"," obsahuje 1 karboxylovú skupinu"," obsahuje 4 uhlíkové atómy"]
 },
 {
@@ -392,7 +392,7 @@ let questions = [
 {
   numb: 66,
   question: " Laktát:",
-  answer: [" je to anión kyseliny 2hydroxypropánovej"],
+  answer: [" je to anión kyseliny 2-hydroxypropánovej"],
   options: [" je anión kyseliny octovej"," je to anión kyseliny 2-hydroxypropánovej"," vzniká oxidáciou pyruvátu"," v bunkách vzniká z kyseliny etánovej"]
 },
 {
@@ -404,7 +404,7 @@ let questions = [
 {
   numb: 68,
   question: " Ktoré z uvedených tvrdení platia:",
-  answer: [" iba mitochondrie majú dve fosfolipidové membrány"],
+  answer: [" mitochondrie majú dve fosfolipidové membrány"],
   options: [" mitochondrie majú dve fosfolipidové membrány"," lyzozómové enzýmy fungujú optimálne pri pH > 7"," v jadre eukaryotickej bunky prebieha proces transkripcie a translácie"," ribozómy patria medzi membránové organely"]
 },
 {
@@ -416,7 +416,7 @@ let questions = [
 {
   numb: 70,
   question: " Ktoré z uvedených väzieb patria medzi makroergické:",
-  answer: [" iba guanidínfosfátová"],
+  answer: [" guanidínfosfátová"],
   options: [" karboxyesterová"," guanidínfosfátová"," peptidová"," fosfoesterová"]
 },
 {
@@ -572,7 +572,7 @@ let questions = [
 {
   numb: 96,
   question: " Proteínkináza A:",
-  answer: [" jej aktivácii predchádza aktivácia Gs proteínu","  je enzým aktivovaný pomocou cAMP"],
+  answer: [" jej aktivácii predchádza aktivácia Gs proteínu"," je enzým aktivovaný pomocou cAMP"],
   options: [" jej aktivácii predchádza aktivácia Gs proteínu"," jej aktivácii predchádza aktivácia fosfolipázy C"," je enzým aktivovaný pomocou cAMP"," je enzým aktivovaný pomocou cGMP"]
 },
 {
