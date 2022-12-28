@@ -61,6 +61,9 @@ restart_quiz.onclick = ()=>{
     // timeText.textContent = "Time Left"; //change the text of timeText to Time Left
     next_btn.classList.remove("show"); //hide the next button
     show_btn.classList.remove("show"); //hide the next button
+
+    show_btn.classList.add("show"); //show the next button if user selected any option
+    next_btn.classList.add("show"); //show the next button if user selected any option
 }
 
 // if quitQuiz button clicked
