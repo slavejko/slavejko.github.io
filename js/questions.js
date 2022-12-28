@@ -1,13 +1,13 @@
 let questions = [
     {
     numb: 1,
-    question: "a",
-    answer: "d",
+    question: "Tioesterová väzba vznikne naviazaním:",
+    answer: "acylu na síru -SH skupiny",
     options: [
-      "c",
-      "d",
-      "e",
-      "f"
+      "acylu na kyselinu fosforečnú",
+      "acylu na síru -SH skupiny",
+      "kyseliny fosforečnej na síru -SH skupiny",
+      "kyseliny sírovej na -OH skupinu alkoholu"
     ]
   },
     {
