@@ -476,7 +476,7 @@ let questions = [
 {
   numb: 80,
   question: " Gi proteín:",
-  answer: [" skladá sa z troch podjednotiek"," e v aktívnom stave"," keď je na alfapodjednotku naviazaný GTP"," jeho aktivácia vedie k poklesu cAMP v cytosole"],
+  answer: [" skladá sa z troch podjednotiek"," e v aktívnom stave"," keď je na alfa-podjednotku naviazaný GTP"," jeho aktivácia vedie k poklesu cAMP v cytosole"],
   options: [" skladá sa z troch podjednotiek"," je v aktívnom stave, keď je na alfa-podjednotku naviazaný na GDP"," je v aktívnom stave, keď je na alfa-podjednotku naviazaný GTP"," jeho aktivácia vedie k poklesu cAMP v cytosole"]
 },
 {
@@ -536,7 +536,7 @@ let questions = [
 {
   numb: 90,
   question: " G-proteínom možno povedať:",
-  answer: [" všetky obsahujú alfapodjednotku s GTPázovou aktivitou"," sú potrebné pre účinok niektorých peptidových hormónov"],
+  answer: [" všetky obsahujú alfa-podjednotku s GTP-ázovou aktivitou"," sú potrebné pre účinok niektorých peptidových hormónov"],
   options: [" všetky obsahujú alfa-podjednotku s GTP-ázovou aktivitou"," nachádzajú sa v membráne endoplazmatického retikula"," sú potrebné pre účinok niektorých steroidných hormónov"," sú potrebné pre účinok niektorých peptidových hormónov"]
 },
 {
@@ -554,7 +554,7 @@ let questions = [
 {
   numb: 93,
   question: " Ca2+ ióny:",
-  answer: [" sú transportované z cytosolu do endoplazmatického retikula Ca2+závislou ATPázou"," ich koncentrácia v cytosole je nižšia ako mimo bunky"," sú transportované do cytosolu pomocou iónových kanálov"],
+  answer: [" sú transportované z cytosolu do endoplazmatického retikula Ca2+-závislou ATP-ázou"," ich koncentrácia v cytosole je nižšia ako mimo bunky"," sú transportované do cytosolu pomocou iónových kanálov"],
   options: [" sú transportované z cytosolu do endoplazmatického retikula Ca2+-závislou ATP-ázou"," ich koncentrácia v cytosole je nižšia ako mimo bunky"," sú transportované do cytosolu pomocou iónových kanálov"," ich koncentrácia v endoplazmatickom retikule je nižšia ako v cytosole"]
 },
 {
@@ -626,7 +626,7 @@ let questions = [
 {
   numb: 105,
   question: " G- proteínoch platí:",
-  answer: [" sú membránové proteíny"," skladajú sa z troch podjednotiek"," typ podjednotky alfa určuje"," aký enzým a ako bude ovplyvnený G proteínmi"],
+  answer: [" sú membránové proteíny"," skladajú sa z troch podjednotiek"," typ podjednotky alfa určuje"," aký enzým a ako bude ovplyvnený G- proteínmi"],
   options: [" sú membránové proteíny"," skladajú sa z troch podjednotiek"," podjednotka gama môže viazať GTP alebo GDP"," typ podjednotky alfa určuje, aký enzým a ako bude ovplyvnený G- proteínmi"]
 },
 {
@@ -662,7 +662,7 @@ let questions = [
 {
   numb: 111,
   question: " G- proteínoch možno povedať:",
-  answer: [" sú potrebné pre účinok niektorých polypeptidových hormónov"," obsahujú alfapodjednotku s GTPázovou aktivitou"],
+  answer: [" sú potrebné pre účinok niektorých polypeptidových hormónov"," obsahujú alfa-podjednotku s GTP-ázovou aktivitou"],
   options: [" sú potrebné pre účinok niektorých steroidných hormónov"," sú potrebné pre účinok niektorých polypeptidových hormónov"," nachádzajú sa v membránach endoplazmatického retikula"," obsahujú alfa-podjednotku s GTP-ázovou aktivitou"]
 },
 {
@@ -704,7 +704,7 @@ let questions = [
 {
   numb: 118,
   question: " ATP je potrebné:",
-  answer: [" pre aktívny transport"," pre Ca2+závislú ATPázu"],
+  answer: [" pre aktívny transport"," pre Ca2+-závislú ATP-ázu"],
   options: [" pre aktívny transport"," pre sprostredkovanú difúziu"," pre difúziu"," pre Ca2+-závislú ATP-ázu"]
 },
 {
@@ -740,7 +740,7 @@ let questions = [
 {
   numb: 124,
   question: " G-proteínoch možno povedať:",
-  answer: [" sú potrebné pre účinok proteínových hormónov"," všetky obsahujú alfapodjednotku s GTPázovou aktivitou"],
+  answer: [" sú potrebné pre účinok proteínových hormónov"," všetky obsahujú alfa-podjednotku s GTP-ázovou aktivitou"],
   options: [" sú potrebné pre účinok steroidných hormónov"," sú potrebné pre účinok proteínových hormónov"," nachádzajú sa v membránach endoplazmatického retikula"," všetky obsahujú alfa-podjednotku s GTP-ázovou aktivitou"]
 },
 {
@@ -806,7 +806,7 @@ let questions = [
 {
   numb: 135,
   question: " Ca2+ ióny:",
-  answer: [" sú transportované Ca2+závislou ATPázou"," sú transportované do bunky sprostredkovanou difúziou"," ich koncentrácia v endoplazmatickom retikule je vyššia ako v cytozole"],
+  answer: [" sú transportované Ca2+-závislou ATP-ázou"," sú transportované do bunky sprostredkovanou difúziou"," ich koncentrácia v endoplazmatickom retikule je vyššia ako v cytozole"],
   options: [" sú transportované Ca2+-závislou ATP-ázou"," ich koncentrácia v cytozole je vyššia ako mimo bunku"," sú transportované do bunky sprostredkovanou difúziou"," ich koncentrácia v endoplazmatickom retikule je vyššia ako v cytozole"]
 },
 {
@@ -830,7 +830,7 @@ let questions = [
 {
   numb: 139,
   question: " O G-proteínoch možno povedať:",
-  answer: [" všetky obsahujú αpodjednotku s GTPázovou aktivitou"," sú potrebné pre účinok proteínových hormónov"],
+  answer: [" všetky obsahujú α-podjednotku s GTP-ázovou aktivitou"," sú potrebné pre účinok proteínových hormónov"],
   options: [" všetky obsahujú α-podjednotku s GTP-ázovou aktivitou"," nachádzajú sa v membránach endoplazmatického retikula"," sú potrebné pre účinok steroidných hormónov"," sú potrebné pre účinok proteínových hormónov"]
 },
 {
@@ -872,7 +872,7 @@ let questions = [
 {
   numb: 146,
   question: " Gp-proteín:",
-  answer: ["  je súčasť plazmatickej membrány bunky"," je v aktívnom stave"," keď je na αpodjednotku naviazaný GTP"," jeho aktivácia vedie ku zvýšenej aktivite fosfolipázy C"],
+  answer: ["  je súčasť plazmatickej membrány bunky"," je v aktívnom stave, keď je na α-podjednotku naviazaný GTP"," jeho aktivácia vedie ku zvýšenej aktivite fosfolipázy C"],
   options: [" je súčasť plazmatickej membrány bunky"," je v aktívnom stave, keď je na α-podjednotku naviazaný GDP"," je v aktívnom stave, keď je na α-podjednotku naviazaný GTP"," jeho aktivácia vedie ku zvýšenej aktivite fosfolipázy C"]
 },
 {
