@@ -8,6 +8,33 @@ const result_box = document.querySelector(".result_box");
 const option_list = document.querySelector(".option_list");
 const time_line = document.querySelector("header .time_line");
 
+function shuffle(array) {
+    let currentIndex = array.length,  randomIndex;
+
+    // While there remain elements to shuffle.
+    while (currentIndex != 0) {
+
+        // Pick a remaining element.
+        randomIndex = Math.floor(Math.random() * currentIndex);
+        currentIndex--;
+
+        // And swap it with the current element.
+        [array[currentIndex], array[randomIndex]] = [
+        array[randomIndex], array[currentIndex]];
+    }
+
+    return array;
+}
+  
+var otazky_poradie = [];
+
+for (let index = 1; index < 51; index++) {
+    otazky_poradie.push(index);
+}
+
+shuffle(otazky_poradie);
+
+
 // if startQuiz button clicked
 start_btn.onclick = ()=>{
     // info_box.classList.add("activeInfo"); //show info box
@@ -52,7 +79,7 @@ restart_quiz.onclick = ()=>{
     que_numb = 1;
     userScore = 0;
     widthValue = 0;
-    showQuetions(que_count); //calling showQestions function
+    showQuetions(otazky_poradie[que_count]); //calling showQestions function
     queCounter(que_numb); //passing que_numb value to queCounter
     clearInterval(counter); //clear counter
     clearInterval(counterLine); //clear counterLine
@@ -80,7 +107,7 @@ next_btn.onclick = ()=>{
     if(que_count < questions.length - 1){ //if question count is less than total question length
         que_count++; //increment the que_count value
         que_numb++; //increment the que_numb value
-        showQuetions(que_count); //calling showQestions function
+        showQuetions(otazky_poradie[que_count]); //calling showQestions function
         queCounter(que_numb); //passing que_numb value to queCounter
         clearInterval(counter); //clear counter
         clearInterval(counterLine); //clear counterLine

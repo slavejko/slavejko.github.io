@@ -311,4 +311,5 @@ let questions = [
     answer: [" protóny sú transportované do medzimembránového priestoru"],
     options: [" elektróny sú transportované do mitochondrie"," protóny sú transportované do medzimembránového priestoru"," 3 ATP sa vytvárajú z FADH2"," 2 ATP sa vytvárajú z NADH2"]
  },
+ 
 ];
