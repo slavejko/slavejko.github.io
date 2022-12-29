@@ -338,7 +338,7 @@ let questions = [
 {
   numb: 57,
   question: " Dehydrogenáciou vzniká:",
-  answer: [" mliečnej kyselina pyrohroznová"," z 2propanolu acetón"," z kyseliny jablčnej kyselina oxaloctová"],
+  answer: [" mliečnej kyselina pyrohroznová"," z 2-propanolu acetón"," z kyseliny jablčnej kyselina oxaloctová"],
   options: [" mliečnej kyselina pyrohroznová"," z glycerolu etylénglykol"," z 2-propanolu acetón"," z kyseliny jablčnej kyselina oxaloctová"]
 },
 {
@@ -356,7 +356,7 @@ let questions = [
 {
   numb: 60,
   question: " Fosfoesterová väzba sa nachádza:",
-  answer: [" v glukóza6fosfáte"," v 2,3bisfosfoglyceráte"," v ADP"," vo fosfatidylcholíne"],
+  answer: [" v glukóza-6-fosfáte"," v 2,3-bisfosfoglyceráte"," v ADP"," vo fosfatidylcholíne"],
   options: [" v glukóza-6-fosfáte"," v 2,3-bisfosfoglyceráte"," v ADP"," vo fosfatidylcholíne"]
 },
 {
@@ -380,13 +380,13 @@ let questions = [
 {
   numb: 64,
   question: " Naviazaním kyseliny fosforečnej na glycerol vzniká:",
-  answer: [" fosfoesterová väzba: napr. v 3fosfoglyceráte pri glykolýze"],
+  answer: [" fosfoesterová väzba"],
   options: [" karboxyesterová väzba"," acylfosfátová väzba"," fosfoesterová väzba"," glyceraldehydfosfát"]
 },
 {
   numb: 65,
   question: " Hydrochinón:",
-  answer: [" patrí medzi fenoly"," obsahuje dve OH skupiny"],
+  answer: [" patrí medzi fenoly"," obsahuje dve -OH skupiny"],
   options: [" patrí medzi fenoly"," je aromatický alkohol"," obsahuje dve -OH skupiny"," redukciou sa mení benzochinón"]
 },
 {
@@ -476,7 +476,7 @@ let questions = [
 {
   numb: 80,
   question: " Gi proteín:",
-  answer: [" skladá sa z troch podjednotiek"," e v aktívnom stave"," keď je na alfa-podjednotku naviazaný GTP"," jeho aktivácia vedie k poklesu cAMP v cytosole"],
+  answer: [" skladá sa z troch podjednotiek"," je v aktívnom stave, keď je na alfa-podjednotku naviazaný na GDP"," jeho aktivácia vedie k poklesu cAMP v cytosole"],
   options: [" skladá sa z troch podjednotiek"," je v aktívnom stave, keď je na alfa-podjednotku naviazaný na GDP"," je v aktívnom stave, keď je na alfa-podjednotku naviazaný GTP"," jeho aktivácia vedie k poklesu cAMP v cytosole"]
 },
 {
@@ -548,7 +548,7 @@ let questions = [
 {
   numb: 92,
   question: " ATP je potrebné:",
-  answer: [" pre primárne aktívny transport"," pre Ca2+závislú ATPázu"],
+  answer: [" pre primárne aktívny transport"," pre Ca2+-závislú ATP-ázu"],
   options: [" pre primárne aktívny transport"," pre priebeh sprostredkovanej difúzie"," pre priebeh jednoduchej difúzie"," pre Ca2+-závislú ATP-ázu"]
 },
 {
@@ -596,7 +596,7 @@ let questions = [
 {
   numb: 100,
   question: " Pri ktorých procesoch sa látky môžu presúvať po koncentračnom gradiente:",
-  answer: [" pri jednoduchej difúzii","  pri sprostredkovanej difúzii"," pri presune sodných katiónov do bunky cez sodíkový kanál"],
+  answer: [" pri jednoduchej difúzii"," pri sprostredkovanej difúzii"," pri presune sodných katiónov do bunky cez sodíkový kanál"],
   options: [" pri jednoduchej difúzii"," pri primárnom aktívnom transporte"," pri sprostredkovanej difúzii"," pri presune sodných katiónov do bunky cez sodíkový kanál"]
 },
 {
@@ -608,7 +608,7 @@ let questions = [
 {
   numb: 102,
   question: " V procese terminálnej oxidácie:",
-  answer: ["  sú elektróny prenášané z redukovaných koenzýmov až na kyslík","  sú protóny transportované z matrix do medzimembránového priestoru"],
+  answer: [" sú elektróny prenášané z redukovaných koenzýmov až na kyslík"," sú protóny transportované z matrix do medzimembránového priestoru"],
   options: [" sú elektróny prenášané z redukovaných koenzýmov až na kyslík"," sú protóny transportované z matrix do medzimembránového priestoru"," prenosom elektrónov z 1 molekuly NADH sa uvoľní energia pre syntézu 2 molekúl ATP"," prenosom elektrónov z 1 molekuly FADH2 sa uvoľní energia pre syntézu 3 molekúl ATP"]
 },
 {
@@ -680,7 +680,7 @@ let questions = [
 {
   numb: 114,
   question: " Gp- proteín:",
-  answer: [" je súčasťou plazmatickej membrány bunky"," je v aktívnom stave"," keď je na alfapodjednotku naviazaný GTP"," v aktívnom stave zvyšuje aktivitu fosfolipázy C"],
+  answer: [" je súčasťou plazmatickej membrány bunky"," je v aktívnom stave"," keď je na alfa-podjednotku naviazaný GTP"," v aktívnom stave zvyšuje aktivitu fosfolipázy C"],
   options: [" je súčasťou plazmatickej membrány bunky"," je v aktívnom stave, keď je na alfa-podjednotku naviazaný GDP"," je v aktívnom stave, keď je na alfa-podjednotku naviazaný GTP"," v aktívnom stave zvyšuje aktivitu fosfolipázy C"]
 },
 {
@@ -692,7 +692,7 @@ let questions = [
 {
   numb: 116,
   question: " Aktívny transport je:",
-  answer: ["  pohyb látok proti koncentračnému gradientu"," transport Na+ iónov von z bunky"],
+  answer: [" pohyb látok proti koncentračnému gradientu"," transport Na+ iónov von z bunky"],
   options: [" pohyb látok v smere koncentračného gradientu"," pohyb látok proti koncentračnému gradientu"," transport Na+ iónov von z bunky"," transport pomocou nosiča bez potreby ATP"]
 },
 {
@@ -746,7 +746,7 @@ let questions = [
 {
   numb: 125,
   question: " cAMP:",
-  answer: ["  aktivuje proteínkinázu A"," jeho hladina sa znižuje pôsobením fosfodiesterázy"," vzniká po pôsobení glukagónu"],
+  answer: [" aktivuje proteínkinázu A"," jeho hladina sa znižuje pôsobením fosfodiesterázy"," vzniká po pôsobení glukagónu"],
   options: [" aktivuje proteínkinázu A"," jeho hladina sa znižuje pôsobením fosfodiesterázy"," vzniká po pôsobení steroidných hormónov"," vzniká po pôsobení glukagónu"]
 },
 {
@@ -800,7 +800,7 @@ let questions = [
 {
   numb: 134,
   question: " Transport látok z miesta s vyššou koncentráciou na miesto s nižšou koncentráciou je možný:",
-  answer: [" jednoduchou difúziou","  sprostredkovanou difúziou"],
+  answer: [" jednoduchou difúziou"," sprostredkovanou difúziou"],
   options: [" jednoduchou difúziou"," primárnym aktívnym transportom"," sprostredkovanou difúziou"," sekundárnym aktívnym transportom"]
 },
 {
@@ -812,7 +812,7 @@ let questions = [
 {
   numb: 136,
   question: " Glutatión:",
-  answer: [" je tripeptid"," je potrebný pre transport aminokyselín do buniek"," je súčasťou systému gamaglutamyltransferázy"],
+  answer: [" je tripeptid"," je potrebný pre transport aminokyselín do buniek"," je súčasťou systému gama-glutamyltransferázy"],
   options: [" je tripeptid"," je potrebný pre transport aminokyselín do buniek"," je súčasťou systému gama-glutamyltransferázy"," pozostáva z glycínu, glutamínu a cysteínu"]
 },
 {
@@ -824,7 +824,7 @@ let questions = [
 {
   numb: 138,
   question: " Inozitoltrifosfát:",
-  answer: ["  vzniká účinkom fosfolipázy C"," vzniká pomocou enzýmu prítomného v membráne buniek"],
+  answer: [" vzniká účinkom fosfolipázy C"," vzniká pomocou enzýmu prítomného v membráne buniek"],
   options: [" vzniká účinkom fosfolipázy C"," zvyšuje priepustnosť bunkovej membrány pre Na+"," je aktivátorom proteínkinázy C"," vzniká pomocou enzýmu prítomného v membráne buniek"]
 },
 {
@@ -842,25 +842,25 @@ let questions = [
 {
   numb: 141,
   question: " Hydrofilné hormóny môžu sprostredkovať prenos signálu do cieľovej bunky:",
-  answer: ["  prostredníctvom cAMP","  prostredníctvom Ca2+ iónov"],
+  answer: [" prostredníctvom cAMP"," prostredníctvom Ca2+ iónov"],
   options: [" prostredníctvom cytozolového receptora"," prostredníctvom jadrového receptora"," prostredníctvom cAMP"," prostredníctvom Ca2+ iónov"]
 },
 {
   numb: 142,
   question: " Sprostredkovaná difúzia:",
-  answer: ["  vyžaduje transportný proteín","  je to forma pasívneho transportu"],
+  answer: [" vyžaduje transportný proteín"," je to forma pasívneho transportu"],
   options: [" vyžaduje donor energie"," je to transport látok proti koncentračnému gradientu"," vyžaduje transportný proteín"," je to forma pasívneho transportu"]
 },
 {
   numb: 143,
   question: " Ca2+-závislá ATP-áza vyžaduje Mg2+ ióny, pretože:",
-  answer: ["  aktívne miesto enzýmu viaže ATP len ako komplex s iónmi Mg2+"],
+  answer: [" aktívne miesto enzýmu viaže ATP len ako komplex s iónmi Mg2+"],
   options: [" Mg2+ ióny sú substrátom pre ATP-ázu"," aktívne miesto enzýmu viaže ATP len ako komplex s iónmi Mg2+"," Mg2+ ióny sú alosterickým aktivátorom enzýmu"," ATP-áza nevyžaduje Mg2+ ióny pre svoju aktivitu"]
 },
 {
   numb: 144,
   question: " Sekundárny aktívny transport vyžaduje:",
-  answer: ["  koncentračný gradient iónov","  energiu z ATP"," transportné bielkoviny pre transport iónov a transportovanú látku"," transportný systém"," ktorý regeneruje gradient iónov"],
+  answer: [" koncentračný gradient iónov"," energiu z ATP"," transportné bielkoviny pre transport iónov a transportovanú látku"," transportný systém"," ktorý regeneruje gradient iónov"],
   options: [" koncentračný gradient iónov"," energiu z ATP"," transportné bielkoviny pre transport iónov a transportovanú látku"," transportný systém, ktorý regeneruje gradient iónov"]
 },
 {
@@ -872,7 +872,7 @@ let questions = [
 {
   numb: 146,
   question: " Gp-proteín:",
-  answer: ["  je súčasť plazmatickej membrány bunky"," je v aktívnom stave, keď je na α-podjednotku naviazaný GTP"," jeho aktivácia vedie ku zvýšenej aktivite fosfolipázy C"],
+  answer: [" je súčasť plazmatickej membrány bunky"," je v aktívnom stave, keď je na α-podjednotku naviazaný GTP"," jeho aktivácia vedie ku zvýšenej aktivite fosfolipázy C"],
   options: [" je súčasť plazmatickej membrány bunky"," je v aktívnom stave, keď je na α-podjednotku naviazaný GDP"," je v aktívnom stave, keď je na α-podjednotku naviazaný GTP"," jeho aktivácia vedie ku zvýšenej aktivite fosfolipázy C"]
 },
 {
@@ -884,7 +884,7 @@ let questions = [
 {
   numb: 148,
   question: " Proteínkináza A:",
-  answer: ["  je tetramér zložený z dvoch katalytických a dvoch regulačných podjednotiek"," je enzým závislý na cAMP"],
+  answer: [" je tetramér zložený z dvoch katalytických a dvoch regulačných podjednotiek"," je enzým závislý na cAMP"],
   options: [" je dimér zložený z dvoch regulačných podjednotiek"," je tetramér zložený z dvoch katalytických a dvoch regulačných podjednotiek"," je enzým závislý na cAMP"," je enzým závislý na cGMP"]
 },
 {
