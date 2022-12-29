@@ -626,7 +626,7 @@ let questions = [
 {
   numb: 105,
   question: " G- proteínoch platí:",
-  answer: [" sú membránové proteíny"," skladajú sa z troch podjednotiek"," typ podjednotky alfa určuje"," aký enzým a ako bude ovplyvnený G- proteínmi"],
+  answer: [" sú membránové proteíny"," skladajú sa z troch podjednotiek"," typ podjednotky alfa určuje, aký enzým a ako bude ovplyvnený G- proteínmi"],
   options: [" sú membránové proteíny"," skladajú sa z troch podjednotiek"," podjednotka gama môže viazať GTP alebo GDP"," typ podjednotky alfa určuje, aký enzým a ako bude ovplyvnený G- proteínmi"]
 },
 {
@@ -656,7 +656,7 @@ let questions = [
 {
   numb: 110,
   question: " Glutatión:",
-  answer: [" využíva sa napríklad na transport aminokselín do bunky"],
+  answer: [" využíva sa napríklad na transport aminokselín do bunky", " je súčasťou systému, ktorý využíva aktivitu enzýmu gama-glutamyltransferázy"],
   options: [" je dipeptid"," využíva sa napríklad na transport aminokselín do bunky"," je súčasťou systému, ktorý využíva aktivitu enzýmu gama-glutamyltransferázy"," pozostáva z glycínu, cysteínu a glutamínu, je súčasťou systému, ktorý využíva aktivitu enzýmu gama-glutamyltransferázy"]
 },
 {
@@ -680,7 +680,7 @@ let questions = [
 {
   numb: 114,
   question: " Gp- proteín:",
-  answer: [" je súčasťou plazmatickej membrány bunky"," je v aktívnom stave"," keď je na alfa-podjednotku naviazaný GTP"," v aktívnom stave zvyšuje aktivitu fosfolipázy C"],
+  answer: [" je súčasťou plazmatickej membrány bunky"," je v aktívnom stave, keď je na alfa-podjednotku naviazaný GTP"," v aktívnom stave zvyšuje aktivitu fosfolipázy C"],
   options: [" je súčasťou plazmatickej membrány bunky"," je v aktívnom stave, keď je na alfa-podjednotku naviazaný GDP"," je v aktívnom stave, keď je na alfa-podjednotku naviazaný GTP"," v aktívnom stave zvyšuje aktivitu fosfolipázy C"]
 },
 {
@@ -776,7 +776,7 @@ let questions = [
 {
   numb: 130,
   question: " cAMP:",
-  answer: [" na jeho degradácii sa podieľa fosfodiesteráza"],
+  answer: [" na jeho degradácii sa podieľa fosfodiesteráza", " sprostredkuje účinok adrenalínu po väzba na β-adrenergné receptory"],
   options: [" vytvára sa pôsobením cytozolového enzýmu"," na jeho degradácii sa podieľa fosfodiesteráza"," aktivuje tyrozínšpecifickú proteínkinázu"," sprostredkuje účinok adrenalínu po väzba na β-adrenergné receptory"]
 },
 {
