@@ -218,6 +218,9 @@ function optionSelected(answer){
     let x = [];
     x.push(answer);
     vyber.push(x);
+
+    answer.setAttribute("class", "option selec");
+    // document.getElementById(answer).innerHTML = 
     
     // console.log(x);
     // console.log(vyber);

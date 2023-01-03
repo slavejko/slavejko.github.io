@@ -220,14 +220,20 @@ section .option_list .option:last-child{
 }
 
 section .option_list .option:hover{
-    color: #009900;
-    background: #99ff99;
+    color: #00096c;
+    background: #5b9da4;
     border: 1px solid #008000;
 }
 
 section .option_list .option.correct{
-    color: #155724;
+    color: #15571c;
     background: #d4edda;
+    border: 1px solid #c3e6cb;
+}
+
+section .option_list .option.selec{
+    color: #141305;
+    background: #df90d4;
     border: 1px solid #c3e6cb;
 }
 
