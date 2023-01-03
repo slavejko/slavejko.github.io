@@ -2453,4 +2453,214 @@ let questions = [
   answer: [" zvýšené odbúranie karboxylových kyselín"," znížené využitie acetyl-CoA v syntéze VKK"],
   options: [" zvýšené odbúranie karboxylových kyselín"," znížená hladina acetyl-CoA v bunkách"," zvýšená utilizácia acetyl-CoA v citrátovom cykle"," znížené využitie acetyl-CoA v syntéze VKK"]
 },
+{
+  numb: 410,
+  question: " Acetyl-CoA:",
+  answer: [" môže vznikať z glukogénnych aminokyselín"," sa využíva v ketogenéze"," vzniká priamo metabolizovaním ketogénnych aminokyselín"],
+  options: [" môže vznikať z glukogénnych aminokyselín"," sa využíva v ketogenéze"," vzniká priamo metabolizovaním ketogénnych aminokyselín"," pri jeho spaľovaní v citrátovom cykle sa netvorí energia"]
+},
+{
+  numb: 411,
+  question: " Hydroxybutyrátdehydrogenáza je enzým, ktorý:",
+  answer: [" redukuje kyselinu acetoctovú na β-hydroxybutyrát"," má význam pri utilizácii ketolátok v periférnych tkanivách"],
+  options: [" má ako koenzým FAD"," katalyzuje oxidáciu acetoacetátu na kyselinu β-hydroxymaslovú"," redukuje kyselinu acetoctovú na β-hydroxybutyrát"," má význam pri utilizácii ketolátok v periférnych tkanivách"]
+},
+{
+  numb: 412,
+  question: " β-oxidácia je:",
+  answer: [" jeden zo spôsobov krytia energetických požiadaviek bunky"," katabolický proces štiepenia karboxylových kyselín na aktivovanú kyselinu octovú"," zvýšená pri hladovaní"," proces prebiehajúci v mitochondriách"],
+  options: [" jeden zo spôsobov krytia energetických požiadaviek bunky"," katabolický proces štiepenia karboxylových kyselín na aktivovanú kyselinu octovú"," zvýšená pri hladovaní"," proces prebiehajúci v mitochondriách"]
+},
+{
+  numb: 413,
+  question: " karnitínacyltransferáze I platí:",
+  answer: [" nachádza sa na vonkajšej strane vnútornej mitochondriovej membrány"," ako substráty využíva acyl-CoA a karnitín"," katalyzuje prenos zvyšku karboxylovej kyseliny na COOH skupinu karnitínu"," jej inhibícia malonyl-CoA je dôležitá pre reguláciu oxidácie karboxylových kyselín"],
+  options: [" nachádza sa na vonkajšej strane vnútornej mitochondriovej membrány"," ako substráty využíva acyl-CoA a karnitín"," jej inhibícia malonyl-CoA je dôležitá pre reguláciu oxidácie karboxylových kyselín"]
+},
+{
+  numb: 414,
+  question: " Vznik 3 ATP pri reoxidácii koenzýmu vytvoreného v β-oxidácii umožňuje:",
+  answer: [" reakcia vzniku β-keto-acyl-CoA"],
+  options: [" reakcia katalyzovaná acyl-CoA dehydrogenázou"," premena enoyl-CoA na β-hydroxyacyl-CoA"," reakcia vzniku β-keto-acyl-CoA"," reakcia, ktorá je charakteristická pre erytrocyty a tkanivo CNS"]
+},
+{
+  numb: 415,
+  question: " ATP citrátlyáza a citrátsyntáza sa líšia tým, že:",
+  answer: [" citrátsyntáza je potrebná pre syntézu VKK a priebeh Krebsovho cyklu, zatiaľ čo ATP citrátlyáza len pre syntézu VKK"," ATP citrátlyáza sa nachádza v cytosole bunky a citrátsyntáza v mitochondriách"," citrátsyntáza je inhibovaná ATP a ATP-citrátlyáza vyžaduje ATP ako zdroj energie"],
+  options: [" ATP citrátlyáza sa zúčastňuje oxidácie VKK a citrátsyntáza ich syntézy"," citrátsyntáza je potrebná pre syntézu VKK a priebeh Krebsovho cyklu, zatiaľ čo ATP citrátlyáza len pre syntézu VKK"," ATP citrátlyáza sa nachádza v cytosole bunky a citrátsyntáza v mitochondriách"," citrátsyntáza je inhibovaná ATP a ATP-citrátlyáza vyžaduje ATP ako zdroj energie"]
+},
+{
+  numb: 416,
+  question: " Reakcia vzniku malonyl-CoA:",
+  answer: [" je regulačným miestom syntézy VKK"," je aktivovaná citrátom"," je katalyzovaná enzýmom, ktorý je inhibovaný fosforyláciou v prítomnosti glukagónu"," vyžaduje biotín ako koenzým"],
+  options: [" je regulačným miestom syntézy VKK"," je aktivovaná citrátom"," je katalyzovaná enzýmom, ktorý je inhibovaný fosforyláciou v prítomnosti glukagónu"," vyžaduje biotín ako koenzým"]
+},
+{
+  numb: 417,
+  question: " Štiepenie TAG v tukovom tkanive:",
+  answer: [" je aktivované počas hladovania"," je aktivované v strese hormónom adrenalínom, ktorý sprostredkovane spôsobuje premenu hormonsenzitívnej lipázy na aktívnu - fosforylovanú formu"," je inhibované antilipolytickým hormónom inzulínom tak, že po jeho pôsobení dochádza k premene hormónsenzitívnej lipázy na inaktívnu - defosforylovanú formu"],
+  options: [" zabezpečuje enzým, ktorý hydrolyticky odštiepuje zvyšky karboxylových kyselín za vzniku VKK a glycerolfosfátu"," je aktivované počas hladovania"," je aktivované v strese hormónom adrenalínom, ktorý sprostredkovane spôsobuje premenu hormonsenzitívnej lipázy na aktívnu - fosforylovanú formu"," je inhibované antilipolytickým hormónom inzulínom tak, že po jeho pôsobení dochádza k premene hormónsenzitívnej lipázy na inaktívnu - defosforylovanú formu"]
+},
+{
+  numb: 418,
+  question: " K metabolickým možnostiam utilizácie acetylCoA patria:",
+  answer: [" reakcia s intermediátom vzniknutým oxidáciou malátu"," tvorba hydroxymetylglutarylCoA pri syntéze kyseliny mevalonovej"," vznik cholínergného mediátora za katalýzy transferázy"," biosyntéza cholesterolu"],
+  options: [" reakcia s intermediátom vzniknutým oxidáciou malátu"," tvorba hydroxymetylglutarylCoA pri syntéze kyseliny mevalonovej"," vznik cholínergného mediátora za katalýzy transferázy"," biosyntéza cholesterolu"]
+},
+{
+  numb: 419,
+  question: " Glukóza-6-P-fosfatáza:",
+  answer: [" je enzým prítomný len v pečeni"," je enzým potrebný pre glukoneogenézu"," je enzým, ktorý sa zúčastňuje degradácie glykogénu v pečeni"],
+  options: [" je enzým prítomný len v pečeni"," je enzým potrebný pre glukoneogenézu"," je enzým, ktorý sa zúčastňuje degradácie glykogénu v pečeni"," katalyzuje vznik voľnej glukózy a ATP"]
+},
+{
+  numb: 420,
+  question: " Na aktivácii tvorby ketolátok sa podieľa:",
+  answer: [" oxidácia karboxylových kyselín po ich transporte do mitochondrie hepatocytov"],
+  options: [" beta - oxidácia karboxylových kyselín po ich vstupe do cytozolu hepatocytu"," zvýšená hladina intracelulárnej glukózy pri diabete"," defosforylácia hormónsenzitívnej lipázy, vedúca k jej stimulácii"," oxidácia karboxylových kyselín po ich transporte do mitochondrie hepatocytov"]
+},
+{
+  numb: 421,
+  question: " Diabetes mellitus:",
+  answer: [" je podmienený absolútnym alebo relatívnym nedostatkom inzulínu", " je sprevádzaný respiračnou acidózou"," môže byť sprevádzaný polyúriou"],
+  options: [" je podmienený absolútnym alebo relatívnym nedostatkom inzulínu"," je každé zvýšenie glykémie nad 6 mmol/l"," je sprevádzaný respiračnou acidózou"," môže byť sprevádzaný polyúriou"]
+},
+{
+  numb: 422,
+  question: " Kyselina acetoctová:",
+  answer: [" obsahuje karboxylovú aj karbonylovú funkčnú skupinu"," ako látka kyslej povahy môže prispievať k vzniku poruchy ABR"," tvorí sa aj extrahepatálne v reakcii utilizácie beta – hydroxybutyrátu"],
+  options: [" po odštiepení CoA vzniká v cytozole z betahydroxybetametylsukcinylCoA"," obsahuje karboxylovú aj karbonylovú funkčnú skupinu"," ako látka kyslej povahy môže prispievať k vzniku poruchy ABR"," tvorí sa aj extrahepatálne v reakcii utilizácie beta – hydroxybutyrátu"]
+},
+{
+  numb: 423,
+  question: " O aktivácii kyseliny palmitovej pri beta-oxidácii platí:",
+  answer: [" na aktiváciu sa spotrebuje energia 2 makroergických väzieb"," medziproduktom aktivácie je látka s acylfosfátovou makroergickou väzbou"," produkt aktivácie sa prenáša z cytosolu do mitochondrie pomocou karnitínu"],
+  options: [" na aktiváciu sa spotrebuje energia 2 makroergických väzieb"," medziproduktom aktivácie je látka s acylfosfátovou makroergickou väzbou"," produkt reakcie sa prenáša z mitochondrie do cytosolu difúziou"," produkt aktivácie sa prenáša z cytosolu do mitochondrie pomocou karnitínu"]
+},
+{
+  numb: 424,
+  question: " V reakcii beta-oxidácie, ktorej produkt reakcie umožní v dýchacom reťazci vznik dvoch molekúl ATP:",
+  answer: [" je potrebný enzým acyl-CoA dehydrogenáza", " je potrebný FAD ako koenzým"],
+  options: [" je potrebný enzým acyl-CoA dehydrogenáza"," je potrebný enzým beta-hydroxyacyl-CoA dehydrogenáza"," je potrebný FAD ako koenzým"," vzniká látka, ktorá je substrátom beta-ketotiolázy"]
+},
+{
+  numb: 425,
+  question: " Syntéza malonyl CoA:",
+  answer: [" vyžaduje ako substráty acetyl-CoA a biotín"," prebieha v cytosole bunky"],
+  options: [" vyžaduje ako substráty acetyl-CoA a biotín"," prebieha v cytosole bunky"," je regulačné miesto degradácie karboxylových kyselín"," vyžaduje ako koenzým vitamín B12"]
+},
+{
+  numb: 426,
+  question: " Bezprostredný vznik acetyl CoA v cytosole, ktorý je potrebný na syntézu karboxylových kyselín:",
+  answer: [" je katalyzovaný ATP-citrátlyázou"," substrátom reakcie je látka tvorená v mitochondriách"," enzým, ktorý reakciu katalyzuje je aktivovaný fosforyláciou v prítomnosti inzulínu"],
+  options: [" je katalyzovaný ATP-citrátlyázou"," prebieha bez potreby energie"," substrátom reakcie je látka tvorená v mitochondriách"," enzým, ktorý reakciu katalyzuje je aktivovaný fosforyláciou v prítomnosti inzulínu"]
+},
+{
+  numb: 427,
+  question: " AcetoacetylCoA - tioláza:",
+  answer: [" katalyzuje vznik aktívneho acetátu z acetoacetylCoA pri extrahepatálnej utilizácii ketolátok"],
+  options: [" katalyzuje vznik aktívneho acetátu z acetoacetylCoA pri extrahepatálnej utilizácii ketolátok"," jeho absencia je príčinou toho, že utilizácia ketolátok v pečeni neprebieha"," zabezpečuje priamu premenu acetoacetylCoA na kyselinu mevalónovú"," v priebehu beta-oxidácie štiepi ketoacylCoA"]
+},
+{
+  numb: 428,
+  question: " Fruktóza-1,6-bisfosfát ovplyvňuje enzýmy glykolýzy tak, že:",
+  answer: [" aktivuje pyruvát kinázu"],
+  options: [" inhibuje fosfofruktokinázu I"," aktivuje fosfofruktokinázu II"," aktivuje reakciu glykolýzy, v ktorej sa tvorí fosfoenolpyruvát"," aktivuje pyruvát kinázu"]
+},
+{
+  numb: 429,
+  question: " K metabolickým možnostiam utilizácie acetylCoA patria:",
+  answer: [" vznik cholínergného mediátora za katalýzy transferázy"," biosyntéza cholesterolu"],
+  options: [" syntéza látok ketónovej povahy v mitochondriách pečene"," biosyntéza hlavného mediátora sympatika"," vznik cholínergného mediátora za katalýzy transferázy"," biosyntéza cholesterolu"]
+},
+{
+  numb: 430,
+  question: " Ketogenéza:",
+  answer: [" je stimulovaná hormónom aktivujúcim HSL v adipocytoch"],
+  options: [" ako výsledný produkt využíva betahydroxybetametylsukcinylCoA"," prebieha výlučne za patologických podmienok"," nemá výraznejší vplyv na acidobázickú homeostázu"," je stimulovaná hormónom aktivujúcim HSL v adipocytoch"]
+},
+{
+  numb: 431,
+  question: " Na regulácii hladiny glukózy v krvi sa zúčastňuje:",
+  answer: [" tyroxín"," glukagón"," hormón, ktorý sa vyplavuje v strese"],
+  options: [" tyroxín"," kalcitonín"," glukagón"," hormón, ktorý sa vyplavuje v strese"]
+},
+{
+  numb: 432,
+  question: " Tioklastické štiepenie:",
+  answer: [" prebieha za katalýzy enzýmu betaketotiolázy"," je proces, pri ktorom z ketoacylCoA vzniká aktívny acetát a acylCoA"," umožňuje premenu acetoacetylCoA na dve molekuly látky vstupujúcej do KC"," je v procese utilizácie ketolátok zabezpečené acetoacetylCoA – tiolázou"],
+  options: [" prebieha za katalýzy enzýmu betaketotiolázy"," je proces, pri ktorom z ketoacylCoA vzniká aktívny acetát a acylCoA"," umožňuje premenu acetoacetylCoA na dve molekuly látky vstupujúcej do KC"," je v procese utilizácie ketolátok zabezpečené acetoacetylCoA – tiolázou"]
+},
+{
+  numb: 433,
+  question: " Enzýmy, ktoré sa zúčastňujú aktivácie karboxylových kyselín pri β-oxidácii môžu byť:",
+  answer: [" CoA transferáza v prípade karboxylových kyselín s krátkym reťazcom"],
+  options: [" acyl-CoA transferáza"," CoA transferáza v prípade karboxylových kyselín s krátkym reťazcom"," oktanoyl-CoA syntáza lokalizovaná vo vnútornej mitochondriovej membráne"," CoA-transferáza lokalizovaná v matrix mitochondrie"]
+},
+{
+  numb: 434,
+  question: " V β-oxidácii dochádza k adícii vody v reakcii:",
+  answer: [" v ktorej vzniká substrát pre β-hydroxyacyl-CoA dehydrogenázu"],
+  options: [" ktorej substrátom je cis-enoyl-CoA"," v ktorej vzniká substrát pre β-hydroxyacyl-CoA dehydrogenázu"," v ktorej vzniká látka, na premenu ktorej je potrebný ako koenzým FAD"," ktorú katalyzuje enoláza"]
+},
+{
+  numb: 435,
+  question: " Úplná oxidácia kyseliny stearovej umožní:",
+  answer: [" celkove vznik 146 ATP"," vznik 9 ATP substrátovou fosforyláciou pri oxidácii acetyl-CoA v Krebsovom cykle"],
+  options: [" celkove vznik 146 ATP"," vznik 40 ATP pri oxidácii redukovaných koenzýmov tvorených v β-oxidácii"," vznik 9 ATP substrátovou fosforyláciou pri oxidácii acetyl-CoA v Krebsovom cykle"," vznik menej ATP než oxidácia kyseliny myristovej"]
+},
+{
+  numb: 436,
+  question: " Porovnaním β-oxidácie a syntézy VKK možno konštatovať:",
+  answer: [" líšia sa typom koenzýmu - β-oxidácia využíva NAD a FAD, syntéza VKK využíva NADPH2"],
+  options: [" obidva procesy sú lokalizované v tom istom kompartmente"," líšia sa typom koenzýmu - β-oxidácia využíva NAD a FAD, syntéza VKK využíva NADPH2"," regulačným enzýmom pre oba procesy je β-ketotioláza"," obidva procesy sú aktivované inzulínom"]
+},
+{
+  numb: 437,
+  question: " O pôsobení hormónov na proces syntézy VKK platí:",
+  answer: [" po pôsobení inzulínu dochádza k defosforylácii acetyl-CoA karboxylázy a tým k jej aktivácii"," pôsobenie inzulínu zvyšuje priepustnosť bunkových membrán pre glukózu, čím sa zvyšuje ponuka NADPH2 a acetyl-CoA potrebných pre syntézu VKK"," hormón, ktorý sa vyplavuje z α-buniek pankreasu počas hladovania vedie k fosforylácii acetyl-CoA karboxylázy a tým k jej inhibícii"],
+  options: [" glukagón priamo fosforyláciou inhibuje ATP-citrátlyázu"," po pôsobení inzulínu dochádza k defosforylácii acetyl-CoA karboxylázy a tým k jej aktivácii"," pôsobenie inzulínu zvyšuje priepustnosť bunkových membrán pre glukózu, čím sa zvyšuje ponuka NADPH2 a acetyl-CoA potrebných pre syntézu VKK"," hormón, ktorý sa vyplavuje z α-buniek pankreasu počas hladovania vedie k fosforylácii acetyl-CoA karboxylázy a tým k jej inhibícii"]
+},
+{
+  numb: 438,
+  question: " Tioklastické štiepenie:",
+  answer: [" prebieha za katalýzy enzýmu betaketotiolázy"," je proces, v ktorom z ketoacylCoA vzniká aktívny acetát a acylCoA"," vyžaduje prítomnosť HS CoA"],
+  options: [" prebieha za katalýzy enzýmu betaketotiolázy"," v jeho priebehu dochádza k uvoľneniu koenzýmu A"," je proces, v ktorom z ketoacylCoA vzniká aktívny acetát a acylCoA"," vyžaduje prítomnosť HS CoA"]
+},
+{
+  numb: 439,
+  question: " JantarylCoA-transferáza:",
+  answer: ["nic"],
+  options: [" sa zúčastňuje tvorby jantarylCoA z metylmalonylCoA"," patrí medzi dôležité aktivity ketogenézy v pečeni"," katalyzuje premenu acetoacetátu na acetoacetylCoA v extrahepatálnych tkanivách"," v reakčnom mechanizme KC premieňa sukcinylCoA na sukcinát"]
+},
+{
+  numb: 440,
+  question: " Kyselina β-hydroxymaslová:",
+  answer: [" patrí medzi typické látky ketónovej povahy"],
+  options: [" vzniká z β-hydroxy-β-metylglutarylCoA po odštiepení HS CoA"," patrí medzi typické látky ketónovej povahy"," pri jeho tvorbe z acetoacetátu vzniká redukovaný FAD"," sa v prvej reakcii utilizácie ketolátok mení na acetoacetylCoA"]
+},
+{
+  numb: 441,
+  question: " Pri aktivácii karboxylových kyselín pred ich vstupom do β-oxidácie:",
+  answer: [" vzniká ako medziprodukt látka s obsahom makroergickej acylfosfátovej väzby"," produkt aktivácie obsahuje tioesterovú makroergickú väzbu"],
+  options: [" vzniká ako medziprodukt látka s obsahom makroergickej acylfosfátovej väzby"," dochádza k štiepeniu fosfodiesterovej väzby v ATP"," produkt aktivácie obsahuje tioesterovú makroergickú väzbu"," ako medziprodukt vzniká acyl-CoA"]
+},
+{
+  numb: 442,
+  question: " Dehydrogenačné reakcie v β-oxidácii katalyzuje:",
+  answer: [" acyl-CoA dehydrogenáza, ktorá ako koenzým využíva FAD"," enzým, ktorý umožňuje vznik enoyl-CoA a vodíky odovzdáva do terminálnej oxidácie na koenzým Q"," β-hydroxyacyl-CoA dehydrogenáza, ktorej koenzým umožní tvorbu 3 ATP v dýchacom reťazci"],
+  options: [" acyl-CoA dehydrogenáza, ktorá ako koenzým využíva FAD"," enzým, ktorý umožňuje vznik enoyl-CoA a vodíky odovzdáva do terminálnej oxidácie na koenzým Q"," enoyl-CoA hydratáza s koenzýmom NAD"," β-hydroxyacyl-CoA dehydrogenáza, ktorej koenzým umožní tvorbu 3 ATP v dýchacom reťazci"]
+},
+{
+  numb: 443,
+  question: " Vznik acetyl-CoA v cytosole bunky, ktorý sa využíva na syntézu VKK:",
+  answer: [" katalyzuje ATP-citrátlyáza", " je katalyzovaný enzýmom, ktorý je aktivovaný fosforyláciou v prítomnosti inzulínu"],
+  options: [" katalyzuje ATP-citrátlyáza"," katalyzuje acetyl-CoA karboxyláza"," využíva ako substrát látku, ktorá vzniká v cytosole"," je katalyzovaný enzýmom, ktorý je aktivovaný fosforyláciou v prítomnosti inzulínu"]
+},
+{
+  numb: 444,
+  question: " Syntáza VKK:",
+  answer: [" je multienzýmový komplex lokalizovaný v cytosole bunky"],
+  options: [" je multienzýmový komplex lokalizovaný v cytosole bunky"," pozostáva zo štyroch katalytických podjednotiek"," syntetizuje VKK s maximálnou dĺžkou reťazca 18 uhlíkov"," ako hlavný regulačný enzým syntézy VKK je aktivovaná inzulínom"]
+},
 ];
