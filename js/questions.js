@@ -2093,4 +2093,376 @@ let questions = [
   answer: [" 4 ATP sa tvoria substrátovou fosforyláciou"],
   options: [" na aktiváciu glukózy sa spotrebujú 2 ATP"," 4 ATP sa tvoria substrátovou fosforyláciou"," ATP sa netvorí prenosom vodíkov do terminálnej oxidácie"," vzniká acetyl-CoA ako koncový produkt aeróbnej glykolýzy"]
 },
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  numb: 350,
+  question: " Z výrokov o glukokináze a hexokináze platí:",
+  answer: [" glukokináza využíva glukózu ako jediný substrát"],
+  options: [" glukokináza má nižšiu hodnotu Km"," glukokináza využíva glukózu ako jediný substrát"," hexokináza, na rozdiel od glukokinázy, je prítomná jedine v pečeni"," ich distribúcia v tkanivách je rozdielna, pričom ostatné ich vlastnosti sú rovnaké"]
+},
+{
+  numb: 351,
+  question: " Pri oxidácii glyceraldehyd-3-fosfátu v glykolýze:",
+  answer: ["nic"],
+  options: [" vzniká za aeróbnych podmienok 1 ATP substrátovou fosforyláciou"," vzniká ATP substrátovou fosforyláciou len za anaeróbnych podmienok"," nie je rozdiel v energetickej bilancii za aeróbnych a anaeróbnych podmienok"," môžu za aeróbnych podmienok vznikať celkove 4 ATP"]
+},
+{
+  numb: 352,
+  question: " O zlúčenine, ktorá sa v glykolýze premieňa pôsobením fosfoglycerátkinázy, možno povedať:",
+  answer: [" je to látka, ktorá na tvorbu ATP využíva makroergickú acylfosfátovú väzbu"],
+  options: [" je to látka s obsahom makroergickej enolfosfátovej väzby"," látka vzniká pôsobením glycerolfosfátdehydrogenázy"," je to látka, ktorá na tvorbu ATP využíva makroergickú acylfosfátovú väzbu"," je to látka, ktorú možno využiť na tvorbu ATP v mitochondriách"]
+},
+{
+  numb: 353,
+  question: " Aby sa bielkoviny mohli zapojiť do procesu glukoneogenézy:",
+  answer: [" sú potrebné proteinázy v kostrovom svale"," sú potrebné transaminázy v bunkách EHT na premenu aminokyselín"," sú potrebné reakcie, ktorými sa aminokyseliny v pečeni premieňajú na oxokyseliny"],
+  options: [" sú potrebné proteinázy v kostrovom svale"," sú potrebné transaminázy v bunkách EHT na premenu aminokyselín"," sú potrebné reakcie, ktorými sa aminokyseliny v pečeni premieňajú na oxokyseliny"," štiepia sa hlavne bielkoviny vnútorných orgánov ako je napr. myokard, oblička, pečeň"]
+},
+{
+  numb: 354,
+  question: " Ochorenie diabetes mellitus:",
+  answer: [" môže byť sprevádzané polyúriou"," môže viesť k metabolickej acidóze"," je vždy sprevádzané glykozúriou"],
+  options: [" sa prejavuje zníženou koncentráciou glukózy v krvi"," môže byť sprevádzané polyúriou"," môže viesť k metabolickej acidóze"," je vždy sprevádzané glykozúriou"]
+},
+{
+  numb: 355,
+  question: " Hlavným regulačným miestom glykolýzy je:",
+  answer: [" reakcia katalyzovaná fosfofruktokinázou I"," tvorba fruktózy-1,6-bisfosfátu"],
+  options: [" regulácia katalyzovaná hexokinázou"," reakcia katalyzovaná fosfofruktokinázou I"," tvorba fruktózy-1,6-bisfosfátu"," tvorba glukóza-6-fosfátu"]
+},
+{
+  numb: 356,
+  question: " Ak sa oxiduje glukóza aeróbne jej oxidáciou pre pyruvát získame na 1 mol glukózy:",
+  answer: [" 6-8 molov ATP"],
+  options: [" 2 moly ATP"," 36-38 molov ATP"," 6-8 molov ATP"," 12 molov ATP"]
+},
+{
+  numb: 357,
+  question: " Za aeróbnych podmienok dochádza v bunkách:",
+  answer: ["nič"],
+  options: [" k zvýšeniu utilizácie tukov"," vzostupe laktátu"," k poklesu ATP"," k acidóze"]
+},
+{
+  numb: 358,
+  question: " O zlúčenine glukóza-1-fosfát platí, že:",
+  answer: [" jej tvorbu katalyzuje glykogénfosforyláza"," pri syntéze glykogénu sa ďalej premieňa na UDP-glukózu"],
+  options: [" látka priamo vstupuje do syntézy glykogénu"," reakciu jej tvorby katalyzuje glukokináza"," jej tvorbu katalyzuje glykogénfosforyláza"," pri syntéze glykogénu sa ďalej premieňa na UDP-glukózu"]
+},
+{
+  numb: 359,
+  question: " Reakcia, ktorou sa tvorí UDP- glukóza:",
+  answer: [" je katalyzovaná enzýmom UDPG-fosforyláza"," vedie k tvorbe zlúčeniny, ktorá je substrátom glykogénsyntázy"],
+  options: [" je katalyzovaná enzýmom UDPG-fosforyláza"," je to reakcia aktivácie glukózy pri syntéze glykogénu"," vedie k tvorbe zlúčeniny, ktorá je substrátom glykogénfosforylázy"," vedie k tvorbe zlúčeniny, ktorá je substrátom glykogénsyntázy"]
+},
+{
+  numb: 360,
+  question: " V stave dobrej výživy môže pečeňový glykogén predstavovať:",
+  answer: [" 4-5% hmotnosti pečene"],
+  options: [" 4-5% hmotnosti pečene"," 20 % hmotnosti pečene"," 1-2% hmotnosti pečene"," v pečeni sa glykogén nenachádza"]
+},
+{
+  numb: 361,
+  question: " Ktoré z uvedených zlúčenín sú tvorené počas degradácie glykogénu:",
+  answer: [" glukóza-1-fosfát"," voľná glukóza"],
+  options: [" glukóza-1-fosfát"," voľná glukóza"," UDP- glukóza"," UMP + glukóza-6-fosfát"]
+},
+{
+  numb: 362,
+  question: " O regulácií glykolýzy platí:",
+  answer: [" kľúčovým regulačným enzýmom je reakcia vzniku fruktóza-1,6- bisfosátu", " prítomnosť inzulínu vedie k defosforylácií pyruvátkinázy a tým k jej aktivácií"],
+  options: [" kľúčovým regulačným enzýmom je reakcia vzniku fruktóza-1,6- bisfosátu"," vysoké koncentrácie ATP a NADH2 pôsobia inhibične na fosfofruktokinázu a pyruvátkinázu","hormón glukagón, tým že vedie k fosforylácií tandemového enzýmu, zvyšuje koncentráciu fruktóza -2,6-bisfosfátu a inhibuje fosfofruktokinázu"," prítomnosť inzulínu vedie k defosforylácií pyruvátkinázy a tým k jej aktivácií"]
+},
+{
+  numb: 363,
+  question: " Oxidáciou substrátu v bunkách vzniká energia:",
+  answer: ["priamo v Krebsovom cykle","priamo v anaeróbnej glykolýze substrátovou fosforyláciou","z redukovaných koenzýmov v procese terminánej oxidácie a oxidačnej fosforylácie"],
+  options: ["priamo v Krebsovom cykle"," priamo v beta-oxidácií vyšších mastných kyselín","priamo v anaeróbnej glykolýze substrátovou fosforyláciou","z redukovaných koenzýmov v procese terminánej oxidácie a oxidačnej fosforylácie"]
+},
+{
+  numb: 364,
+  question: " oGTT informuje o:",
+  answer: [" časových zmenách glykémie"," pôsobení inzulínu v organizme"," hormonálne regulácii metabolizmu glukózy"],
+  options: [" časových zmenách glykémie"," pôsobení inzulínu v organizme"," hormonálne regulácii metabolizmu glukózy"," stave beta-buniek pankreasu"]
+},
+{
+  numb: 365,
+  question: " Znížené hodnoty glukózy v krvi môžu byť pri:",
+  answer: [" dlhotrvajúcej podvýžive"],
+  options: [" renálnej glykozúrii"," dlhotrvajúcej podvýžive"," úrazoch CNS"," hypertyreóze"]
+},
+{
+  numb: 366,
+  question: " Medzi účinky inzulínu po jeho vyplavení do krvi patrí:",
+  answer: [" zvýšenie priepustnosti bunkových membrán pre glukózu"],
+  options: [" zníženie priepustnosti bunkových membrán pre glukózu"," vyplavenie katecholamínov"," stimulácia kôry nadobličiek a vyplavenie kortizolu"," zvýšenie priepustnosti bunkových membrán pre glukózu"]
+},
+{
+  numb: 367,
+  question: " 3. Obličkový prah pre glukózu:",
+  answer: [" sa môže prekročiť pri hyperglykémii"," je parameter, ktorého prekročenie je príčinou glykozúrie"," je 8,5-11 mmol glukózy v litri séra"],
+  options: [" sa môže prekročiť pri hyperglykémii"," je parameter, ktorého prekročenie je príčinou glykozúrie"," je 8,5-11 mmol glukózy v litri séra"," je 8,5-11 mmol glukózy v litri vylúčeného moču"]
+},
+{
+  numb: 368,
+  question: " Tyroxín:",
+  answer: [" stimuluje glykolýzu"," aktivuje glykogenolýzu"],
+  options: [" stimuluje glykolýzu"," inhibuje glykogenolýzu"," aktivuje glykogenolýzu"," inhibuje oxidáciu cukrov"]
+},
+{
+  numb: 369,
+  question: " Ketogenéza:",
+  answer: [" prebieha aj vo fyziologických podmienkach"," je lokalizovaná v pečeni"],
+  options: [" je proces utilizácie ketolátok"," prebieha len v patologických podmienkach"," prebieha aj vo fyziologických podmienkach"," je lokalizovaná v pečeni"]
+},
+{
+  numb: 370,
+  question: " Kyselina acetoctová sa po uvoľnení z pečene využíva:",
+  answer: [" ako substrát pre reakciu katalyzovanú sukcinyl-CoA-transferázou"," ako zdroj energie po premene na acetyl-CoA"],
+  options: [" v Coriho cykle"," ako substrát pre reakciu katalyzovanú sukcinyl-CoA-transferázou"," po premene na HS-CoA"," ako zdroj energie po premene na acetyl-CoA"]
+},
+{
+  numb: 371,
+  question: " Aktivita enzýmu sukcinyl-CoA-transferázy je potrebná pri:",
+  answer: [" premene acetoacetátu na acetoacetyl-CoA"," extrahepatálnej utilizácii ketolátok"],
+  options: [" premene acetoacetátu na acetoacetyl-CoA"," extrahepatálnej utilizácii ketolátok"," pri priamej premene acetoacetyl-CoA na 2 molekuly acetyl-CoA"," syntéze ketolátok"]
+},
+{
+  numb: 372,
+  question: " Aktivácia karboxylových kyselín pred ich vstupom do β-oxidácie prebieha:",
+  answer: [" za prítomnosti ATP a HS-CoA"],
+  options: [" za prítomnosti ATP a HS-CoA"," na vonkajšej mitochondriálnej membráne a v endoplazmatickom retikule"," pri tvorbe enzým-acyladenylátového medziproduktu"," platí všetko uvedené"]
+},
+{
+  numb: 373,
+  question: " Organizmus má najväčšie zásoby energie vo forme:",
+  answer: [" tukov"],
+  options: [" glukózy"," glykogénu"," tukov"," aminokyselín a bielkovín"]
+},
+{
+  numb: 374,
+  question: " Glukoneogenéza:",
+  answer: [" využíva ako hlavný zdroj pre tvorbu glukózy aminokyseliny"," je stimulovaná glukokortikoidmi"," má význam pri udržiavaní hladiny glukózy v krvi"," môže prebiehať v pečeni a obličkách"],
+  options: [" využíva ako hlavný zdroj pre tvorbu glukózy aminokyseliny"," je stimulovaná glukokortikoidmi"," má význam pri udržiavaní hladiny glukózy v krvi"," môže prebiehať v pečeni a obličkách"]
+},
+{
+  numb: 375,
+  question: " U chorého človeka na cukrovku poukazuje v moči prítomnosť:",
+  answer: [" glukózy", " ketolátok"],
+  options: [" glykogénu"," glukózy"," bilirubínu"," ketolátok"]
+},
+{
+  numb: 376,
+  question: " Indikáciou pre vyšetrenie oGTT je hladina glukózy v krvi nalačno:",
+  answer: [" opakovane 5 - 7 mmol/l"],
+  options: [" 5 mmol/l"," 5 - 7 mmol/l - jednorázovo"," opakovane 5 - 7 mmol/l"," väčšia ako 7 mmol/l"]
+},
+{
+  numb: 377,
+  question: " Tvorba ketolátok:",
+  answer: [" môže byť spojená s tvorbou acetónu"," prebieha hlavne v pečeni"," dochádza pri nej k uvoľneniu HS-CoA"],
+  options: [" môže byť spojená s tvorbou acetónu"," prebieha hlavne v pečeni"," prebieha extrahepatálne"," dochádza pri nej k uvoľneniu HS-CoA"]
+},
+{
+  numb: 378,
+  question: " Vo fyziologických podmienkach tvorí viac ako polovicu ketolátok:",
+  answer: [" kyselina β-hydroxymaslová"],
+  options: [" acetoacetát"," kyselina β-hydroxymaslová"," acetón"," acetoacetát a acetón"]
+},
+{
+  numb: 379,
+  question: " Produktom reakcie katalyzovanej enzýmom tioláza môže byť:",
+  answer: [" acetyl-CoA"," acyl-CoA"],
+  options: [" β-hydroxybutyrát"," acetyl-CoA"," acyl-CoA"," β-hydroxy-β-metylglutaryl-CoA"]
+},
+{
+  numb: 380,
+  question: " Na energetickom zisku oxidácie karboxylových kyselín sa podieľa:",
+  answer: [" oxidácia NADH"," oxidácia FADH2"," oxidácia acetyl-CoA v citrátovom cykle"," β-oxidácia"],
+  options: [" oxidácia NADH"," oxidácia FADH2"," oxidácia acetyl-CoA v citrátovom cykle"," β-oxidácia"]
+},
+{
+  numb: 381,
+  question: " Zvýšenie hladiny glukózy v krvi zdravého človeka vedie k:",
+  answer: [" zníženiu uvoľňovania karboxylových kyselín z tukového tkaniva po vyplavení inzulínu"],
+  options: [" vyplaveniu glukagónu"," zníženiu uvoľňovania karboxylových kyselín z tukového tkaniva po vyplavení inzulínu"," zníženiu vyplavenia inzulínu"," zvýšenému rozkladu zásobných tukov"]
+},
+{
+  numb: 382,
+  question: " Hlavným metabolitom spájajúcim metabolizmus cukrov, tukov a bielkovín je látka:",
+  answer: [" vznikajúca pri oxidácii karboxylových kyselín"," ktorá je produktom reakcie katalyzovanej pyruvátdehydrogenázovým komplexom"," vznikajúca dekarboxyláciou pyruvátu"],
+  options: [" vznikajúca pri oxidácii karboxylových kyselín"," ktorá je produktom reakcie katalyzovanej pyruvátdehydrogenázovým komplexom"," vznikajúca dekarboxyláciou pyruvátu"," acyl-CoA"]
+},
+{
+  numb: 383,
+  question: " Pri oGTT sa podáva u dospelého človeka:",
+  answer: [" 75g glukózy v roztoku perorálne nalačno"],
+  options: [" 75g glukózy intravenózne"," 7,5g glukózy na kg hmotnosti"," 75g glukózy v roztoku perorálne po jedle"," 75g glukózy v roztoku perorálne nalačno"]
+},
+{
+  numb: 384,
+  question: " Príčinou prítomnosti glukózy v moči môže byť:",
+  answer: [" ochorenie obličiek"," zníženie obličkového prahu pre glukózu"," hyperglykémia"],
+  options: [" ochorenie obličiek"," zníženie obličkového prahu pre glukózu"," hyperglykémia"," zvýšená sekrécia aldosterónu"]
+},
+{
+  numb: 385,
+  question: " Vo fyziologických podmienkach sa ketolátky utilizujú:",
+  answer: [" v extrahepatálnych tkanivách"," po premene na acetyl-CoA"],
+  options: [" v extrahepatálnych tkanivách"," v hepatocytoch"," po premene na acetyl-CoA"," v procese ketogenézy"]
+},
+{
+  numb: 386,
+  question: " Na aktivácii tvorby ketolátok sa podieľa:",
+  answer: [" zvýšená lipolýza v tukovom tkanive"," transport karboxylových kyselín do pečene"," znížené využitie acetyl-CoA v syntéze karboxylových kyselín"],
+  options: [" zvýšená lipolýza v tukovom tkanive"," transport acetyl-CoA krvou do pečene"," transport karboxylových kyselín do pečene"," znížené využitie acetyl-CoA v syntéze karboxylových kyselín"]
+},
+{
+  numb: 387,
+  question: " Tvorba acetónu:",
+  answer: [" prebieha dekarboxyláciou acetoacetátu"," nemá metabolický význam"],
+  options: [" prebieha spontánne dekarboxyláciou z β-hydroxybutyrátu"," je enzýmovo katalyzovanou reakciou"," prebieha dekarboxyláciou acetoacetátu"," nemá metabolický význam"]
+},
+{
+  numb: 388,
+  question: " Hladina ketolátok v plazme:",
+  answer: [" počas hladovania stúpa"," pri DM stúpa"],
+  options: [" počas hladovania stúpa"," pri DM klesá"," počas hladovania klesá"," pri DM stúpa"]
+},
+{
+  numb: 389,
+  question: " Glukagón:",
+  answer: [" pôsobí proti regulačným mechanizmom sprostredkovaným inzulínom"," aktivuje glykogénfosforylázu"],
+  options: [" sa vyplavuje z β-buniek pankreasu pri hyperglykémii"," znižuje hladinu krvnej glukózy"," pôsobí proti regulačným mechanizmom sprostredkovaným inzulínom"," aktivuje glykogénfosforylázu"]
+},
+{
+  numb: 390,
+  question: " Príčinou toho, že sa z aktívneho acetátu nemôže tvoriť glukóza je v nevratnosti premeny:",
+  answer: [" ktorú katalyzuje pyruvátdehydrogenázový komplex"," pyruvátu na acetyl-CoA a oxid uhličitý"],
+  options: [" pyruvátu na oxalacetát"," ktorú katalyzuje pyruvátdehydrogenázový komplex"," laktátu na pyruvát"," pyruvátu na acetyl-CoA a oxid uhličitý"]
+},
+{
+  numb: 391,
+  question: " Zvýšenie hladiny glukózy v krvi zdravého človeka vedie k:",
+  answer: [" vyplaveniu inzulínu z beta-buniek pankreasu"," aktivácii glykogénsyntázy"," zníženiu množstva glukagónu"],
+  options: [" vyplaveniu inzulínu z beta-buniek pankreasu"," aktivácii glykogénsyntázy"," zvýšeniu hladiny ketolátok"," zníženiu množstva glukagónu"]
+},
+{
+  numb: 392,
+  question: " Stresovú hyperglykémiu podmieňuje najmä:",
+  answer: [" adrenalín"],
+  options: [" aldosterón"," glukagón"," adrenalín"," ani jeden z uvedených"]
+},
+{
+  numb: 393,
+  question: " Ketolátky, vznikajúce v pečeni sa metabolizujú extrahepatálne, lebo:",
+  answer: [" v pečeni chýba aktivita sukcinyl-CoA-transferázy"," pečeň nemá enzýmovú aktivitu potrebnú pri premene acetoacetátu na acetoacetyl-CoA"],
+  options: [" pečeň neobsahuje enzýmy ketogenézy"," je aktivovaný transport ketolátok do periférnych orgánov"," v pečeni chýba aktivita sukcinyl-CoA-transferázy"," pečeň nemá enzýmovú aktivitu potrebnú pri premene acetoacetátu na acetoacetyl-CoA"]
+},
+{
+  numb: 394,
+  question: " Pri oxidácii karboxylových kyselín sa energia získava:",
+  answer: [" oxidáciou NADH"," prostredníctvom β-oxidácie a citrátového cyklu"," oxidáciou FADH2 a acetyl-CoA"],
+  options: [" aktiváciou karboxylovej kyseliny"," oxidáciou NADH"," prostredníctvom β-oxidácie a citrátového cyklu"," oxidáciou FADH2 a acetyl-CoA"]
+},
+{
+  numb: 395,
+  question: " Prvá reakcia, ktorá je podmienkou využitia β-hydroxybutyrátu pri utilizácii ketolátok je reakcia, ktorú katalyzuje:",
+  answer: [" hydroxybutyrátdehydrogenáza"],
+  options: [" jantaryl-CoA-transferáza"," β-ketotioláza"," hydroxybutyrátdehydrogenáza"," sukcinyl-CoA-transferáza"]
+},
+{
+  numb: 396,
+  question: " Na transporte karboxylovej kyseliny do mitochondrie sa zúčastňuje:",
+  answer: [" karnitín"," karnitíntranslokáza"," acyl-CoA"],
+  options: [" citrát"," karnitín"," karnitíntranslokáza"," acyl-CoA"]
+},
+{
+  numb: 397,
+  question: " oGTT informuje o:",
+  answer: [" časových zmenách glykémie"," pôsobení inzulínu v organizme"],
+  options: [" časových zmenách glykémie"," pôsobení inzulínu v organizme"," hormonálnej regulácii metabolizmu glukózy"," stave β-buniek pankreasu"]
+},
+{
+  numb: 398,
+  question: " Inzulín:",
+  answer: [" stimuluje glykolýzu"," pôsobí aktivačne na glukokinázu"," pôsobí proti regulačnému mechanizmu glukagónu"],
+  options: [" je tvorený v α-bunkách pankreasu"," stimuluje glykolýzu"," pôsobí aktivačne na glukokinázu"," pôsobí proti regulačnému mechanizmu glukagónu"]
+},
+{
+  numb: 399,
+  question: " Glykozúriu môžeme zistiť pri:",
+  answer: [" hyperglykémii"," diabetes mellitus"," znížení obličkového prahu pre glukózu"," prekročení obličkového prahu pre glukózu"],
+  options: [" hyperglykémii"," diabetes mellitus"," znížení obličkového prahu pre glukózu"," prekročení obličkového prahu pre glukózu"]
+},
+{
+  numb: 400,
+  question: " Glykémiu môže glukagón zvyšovať:",
+  answer: [" aktiváciou glykogénfosforylázy"," glukoneogenézou"],
+  options: [" aktiváciou glykogénfosforylázy"," glukoneogenézou"," aktiváciou glykogenézy"," všetkými uvedenými spôsobmi"]
+},
+{
+  numb: 401,
+  question: " Tvorba ketolátok:",
+  answer: [" prebieha aj vo fyziologických podmienkach"," pri diabetes mellitus sa zvyšuje"],
+  options: [" prebieha aj vo fyziologických podmienkach"," prebieha len počas hladovania"," pri diabetes mellitus sa zvyšuje"," je lokalizovaná extrahepatálne"]
+},
+{
+  numb: 402,
+  question: " Acetoacetyl-CoA sa tiolázou mení na:",
+  answer: [" 2 molekuly acetyl-CoA"],
+  options: [" 2 molekuly acetoacetátu"," 2 molekuly acetyl-CoA"," acetyl-CoA a acetón"," kyselinu oxaloctovú"]
+},
+{
+  numb: 403,
+  question: " Pri vyšetrovaní moču diagnostickými pásikmi sa hneď po namočení odčítava hodnota:",
+  answer: [" pH"],
+  options: [" glukózy"," pH"," urobilinogénu"," ketolátok"]
+},
+{
+  numb: 404,
+  question: " Tioklastické štiepenie oxidovaného reťazca karboxylovej kyseliny je katalyzované:",
+  answer: [" β-ketotiolázou"],
+  options: [" β-ketotiolázou"," tioesterázou"," acyl-CoA-dehydratázou"," enoyl-CoA-hydratázou"]
+},
+{
+  numb: 405,
+  question: " Pri nedostatku inzulínu:",
+  answer: [" je v bunkách nízka hladina glukózy"," sú energetické požiadavky buniek citlivých na inzulín kryté oxidáciou tukov"," v krvnom riečisku môže hladina glukózy stúpnuť nad fyziologickú hodinu"],
+  options: [" je v bunkách nízka hladina glukózy"," sú energetické požiadavky buniek citlivých na inzulín kryté oxidáciou tukov"," v krvnom riečisku môže hladina glukózy stúpnuť nad fyziologickú hodinu"," je priepustnosť bunkových membrán pre glukózu zvýšená"]
+},
+{
+  numb: 406,
+  question: " Glukóza-6-fosfátfosfatáza je enzým, ktorý:",
+  answer: [" jeho pôsobením sa uvoľňuje do krvi voľná glukóza"," zohráva úlohu v regulácii glykémie"," nachádza sa v pečeni"],
+  options: [" je prítomný vo všetkých bunkách"," jeho pôsobením sa uvoľňuje do krvi voľná glukóza"," zohráva úlohu v regulácii glykémie"," nachádza sa v pečeni"]
+},
+{
+  numb: 407,
+  question: " Patologickú zmenu funkcie hormonálnych regulačných mechanizmov glykémie zistíme pomocou:",
+  answer: [" oGTT"," jednorázovej vysokej dávky glukózy do organizmu"],
+  options: [" jednorázového stanovenia glykémie po jedle"," opakovaným stanovením glykémie po jedle"," oGTT"," jednorázovej vysokej dávky glukózy do organizmu"]
+},
+{
+  numb: 408,
+  question: " Hypoglykemická fáza na glykemickej krivke je:",
+  answer: [" spôsobená účinkom inzulínu"," charakteristická pre zdravého človeka"," chýba u pacientov s DM"],
+  options: [" spôsobená účinkom inzulínu"," spôsobená účinkom glukagónu"," charakteristická pre zdravého človeka"," chýba u pacientov s DM"]
+},
+{
+  numb: 409,
+  question: " Na hromadení ketolátok pri diabetes mellitus sa podieľa:",
+  answer: [" zvýšené odbúranie karboxylových kyselín"," znížené využitie acetyl-CoA v syntéze VKK"],
+  options: [" zvýšené odbúranie karboxylových kyselín"," znížená hladina acetyl-CoA v bunkách"," zvýšená utilizácia acetyl-CoA v citrátovom cykle"," znížené využitie acetyl-CoA v syntéze VKK"]
+},
 ];
