@@ -2663,4 +2663,64 @@ let questions = [
   answer: [" je multienzýmový komplex lokalizovaný v cytosole bunky"],
   options: [" je multienzýmový komplex lokalizovaný v cytosole bunky"," pozostáva zo štyroch katalytických podjednotiek"," syntetizuje VKK s maximálnou dĺžkou reťazca 18 uhlíkov"," ako hlavný regulačný enzým syntézy VKK je aktivovaná inzulínom"]
 },
+{
+  numb: 445,
+  question: " Hormónsenzitívna lipáza je enzým, ktorý:",
+  answer: [" je aktivovaná glukagónom tak, že po jeho pôsobení dochádza k jej premene na aktívnu - fosforylovanú formu"],
+  options: [" zodpovedá za fosforolytické štiepenie TAG v tukovom tkanive"," zodpovedá za štiepenie TAG prijatých potravou"," je aktivovaná glukagónom tak, že po jeho pôsobení dochádza k jej premene na aktívnu - fosforylovanú formu"," je inhibovaná v podmienkach hladovania, pretože dochádza k jej premene na inaktívnu - defosforylovanú formu"]
+},
+{
+  numb: 446,
+  question: " AcetoacetylCoA - tioláza:",
+  answer: ["nic"],
+  options: [" zabezpečuje priamu premenu acetoacetylCoA na kyselinu mevalónovú"," v priebehu beta-oxidácie štiepi ketoacylCoA"," je súčasťou pyruvátdehydrogenázového komplexu"," pri syntéze ketolátok v pečeni katalyzuje tvorbu glutarylCoA"]
+},
+{
+  numb: 447,
+  question: " Malonyl CoA:",
+  answer: [" môže vznikať z aktívnej kyseliny octovej aktivitou karboxylázy"," moduluje aktivitu acylkarnitíntransferázy"," v regulačnom mechanizme tvorby ketolátok nemá význam"],
+  options: [" môže vznikať z aktívnej kyseliny octovej aktivitou karboxylázy"," moduluje aktivitu acylkarnitíntransferázy"," v stave nedostatočnej výživy stimuluje tvorbu ketolátok"," v regulačnom mechanizme tvorby ketolátok nemá význam"]
+},
+{
+  numb: 448,
+  question: " Keď sa aktivuje kyselina palmitová pri β-oxidácii:",
+  answer: [" ako substráty sú potrebné C?? karboxylová kyselina, ATP a CoA"],
+  options: [" ako substráty sú potrebné C?? karboxylová kyselina, ATP a CoA"," spotrebuje sa energia 1 makroergickej väzby"," vzniká ako medziprodukt látka s obsahom makroergickej difosfátovej väzby"," produkt aktivácie - palmitoyl-CoA je transportovaný do mitochondrie difúziou"]
+},
+{
+  numb: 449,
+  question: " Prenos aktivovanej karboxylovej kyseliny do matrix mitochondrie zabezpečuje:",
+  answer: [" karnitín"," látka, na ktorej syntézu sa využíva lyzín a metionín"," látka, na ktorú sa karboxylová kyselina viaže pôsobením enzýmu karnitínacyltransferázy I"],
+  options: [" karnitín"," látka, na ktorej syntézu sa využíva lyzín a metionín"," látka, na ktorú sa karboxylová kyselina viaže pôsobením enzýmu karnitínacyltransferázy I"," látka, ktorá je dôležitá pre tvorbu energie napr. v myokarde"]
+},
+{
+  numb: 450,
+  question: " Reakcia β-oxidácie, ktorej koenzým umožní vznik 2 ATP oxidatívnou fosforyláciou:",
+  answer: [" je reakcia premeny acyl-CoA na enoyl-CoA"," využíva rovnaký koenzým ako sukcinátdehydrogenáza"],
+  options: [" je reakcia premeny acyl-CoA na enoyl-CoA"," využíva rovnaký koenzým ako sukcinátdehydrogenáza"," je katalyzovaná enoyl-CoA hydratázou"," je reakcia, pri ktorej vzniká substrát ketotiolázy"]
+},
+{
+  numb: 451,
+  question: " Acetyl-CoA pri syntéze vyšších karboxylových kyselín vzniká v cytosole z:",
+  answer: [" zlúčeniny, ktorá v mitochondriách vzniká citrátsyntázou"],
+  options: [" acylkarnitínu"," hydroxybutántriovej kyseliny"," zlúčeniny, ktorá v mitochondriách vzniká citrátsyntázou"," zlúčeniny, ktorá sa do cytosolu prenáša aktívnym transportom"]
+},
+{
+  numb: 452,
+  question: " Pri syntéze triacylglycerolov:",
+  answer: [" sú potrebné VKK v aktívnej forme ako acyl-CoA"," je potrebný enzým fosfatidátfosfatáza"," zdrojom alkoholovej zložky v pečeni môže byť voľný glycerol a v tukovom tkanive dihydroxyacetónfosfát"],
+  options: [" sú potrebné VKK v aktívnej forme ako acyl-CoA"," je potrebný enzým fosfatidátfosfatáza"," ako medziprodukt vzniká 2-monoacylglycerol"," zdrojom alkoholovej zložky v pečeni môže byť voľný glycerol a v tukovom tkanive dihydroxyacetónfosfát"]
+},
+{
+  numb: 453,
+  question: " AcetoacetylCoA - tioláza:",
+  answer: [" katalyzuje vznik aktívneho acetátu z acetoacetylCoA pri extrahepatálnej utilizácii ketolátok"],
+  options: [" katalyzuje vznik aktívneho acetátu z acetoacetylCoA pri extrahepatálnej utilizácii ketolátok"," je aktivita zúčastňujúca sa syntézy acetylCoA počas biosyntézy cholesterolu"," jeho absencia je príčinou toho, že utilizácia ketolátok v pečeni neprebieha"," je zodpovedná za prenos karboxylových kyselín z cytozolu do mitochondrie"]
+},
+{
+  numb: 454,
+  question: " Enzým hydroxybutyrátdehydrogenáza:",
+  answer: [" katalyzuje premenu intermediátu vzniknutého z betahydroxybetametylglutarylCoA po odštiepenie aktívneho acetylu", " patrí medzi oxidoredukčné enzýmy"],
+  options: [" katalyzuje premenu intermediátu vzniknutého z betahydroxybetametylglutarylCoA po odštiepenie aktívneho acetylu"," je aktivita dependentná na koenzýme obsahujúcom izoaloxazínovú štruktúru"," má aktivitu enzýmu LD 1,2"," patrí medzi oxidoredukčné enzýmy"]
+},
 ];
