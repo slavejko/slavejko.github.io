@@ -1700,7 +1700,7 @@ let questions = [
 {
   numb: 284,
   question: " Za aeróbnych podmienok v glykolýze:",
-  answer: ["nic"],
+  answer: [" reoxidáciou redukovaného koenzýmu vytvoreného premenou 1 mol glukózy môžu vznikať 4 ATP"],
   options: [" na 1 mol glukózy vznikajú 2 mol laktátu"," vznikajú na 1 mol glukózy 2 acetyl-CoA"," vznikajú na 1 mol glukózy 2 CO2"," reoxidáciou redukovaného koenzýmu vytvoreného premenou 1 mol glukózy môžu vznikať 4 ATP"]
 },
 {
@@ -1904,13 +1904,13 @@ let questions = [
 {
   numb: 318,
   question: " Počas dlhodobého hladovania sú zdrojom energie:",
-  answer: [" A,C"],
+  answer: [" vo svale VKK"," v mozgu ketolátky a glukóza"],
   options: [" vo svale VKK"," vo svale glukóza"," v mozgu ketolátky a glukóza"," v erytrocytoch VKK a glukóza"]
 },
 {
   numb: 319,
   question: " Kyselina mliečna je látka, ktorá:",
-  answer: [" vzniká ako koncový produkt glykolýzy za anaeróbnych podmienok"," vzniká účinkom laktátdehydrogenázy"],
+  answer: [" vzniká ako koncový produkt glykolýzy za anaeróbnych podmienok"," vzniká účinkom laktátdehydrogenázy", " vzniká účinkom laktátdehydrogenázy"," za anaeróbnych podmienok vzniká pri regenerácii NAD+ laktátdehydrogenázou"],
   options: [" vzniká ako koncový produkt glykolýzy za anaeróbnych podmienok"," vzniká ako koncový produkt vo všetkých bunkách organizmu"," vzniká účinkom laktátdehydrogenázy"," za anaeróbnych podmienok vzniká pri regenerácii NAD+ laktátdehydrogenázou"]
 },
 {
