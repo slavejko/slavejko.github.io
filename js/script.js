@@ -215,11 +215,22 @@ let crossIconTag = '<div class="icon cross"><i class="fas fa-times"></i></div>';
 function optionSelected(answer){
     // console.log("xxx");
     // odpovede1.push(answer.textContent);
+
+    if( answer.getAttribute("class")== "option selec"){
+        answer.setAttribute("class", "option unselec");
+    }else{
+        answer.setAttribute("class", "option selec");
+    }
+
     let x = [];
     x.push(answer);
     vyber.push(x);
 
-    answer.setAttribute("class", "option selec");
+    // answer.setAttribute("class", "option selec");
+
+    // console.log(answer.getAttribute("class"));
+
+    // console.log(answer);
     // document.getElementById(answer).innerHTML = 
     
     // console.log(x);
