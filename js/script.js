@@ -207,12 +207,14 @@ show_btn.onclick = ()=>{
 function showQuetions(index){
     const que_text = document.querySelector(".que_text");
 
+    var mojShuf = shuffle([0, 1, 2, 3]);
+
     //creating a new span and div tag for question and option and passing the value using array index
     let question_tag = '<span>'+ questions[index].numb + ". " + questions[index].question +'</span>';
-    let option_tag = '<div class="option"><span>'+ questions[index].options[0] +'</span></div>'
-    + '<div class="option"><span>'+ questions[index].options[1] +'</span></div>'
-    + '<div class="option"><span>'+ questions[index].options[2] +'</span></div>'
-    + '<div class="option"><span>'+ questions[index].options[3] +'</span></div>';
+    let option_tag = '<div class="option"><span>'+ questions[index].options[mojShuf[0]] +'</span></div>'
+    + '<div class="option"><span>'+ questions[index].options[mojShuf[1]] +'</span></div>'
+    + '<div class="option"><span>'+ questions[index].options[mojShuf[2]] +'</span></div>'
+    + '<div class="option"><span>'+ questions[index].options[mojShuf[3]] +'</span></div>';
 
     que_text.innerHTML = question_tag; // adding question into html ,adding new span tag inside question_tag
 
