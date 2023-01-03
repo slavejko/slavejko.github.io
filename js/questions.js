@@ -2093,18 +2093,6 @@ let questions = [
   answer: [" 4 ATP sa tvoria substrátovou fosforyláciou"],
   options: [" na aktiváciu glukózy sa spotrebujú 2 ATP"," 4 ATP sa tvoria substrátovou fosforyláciou"," ATP sa netvorí prenosom vodíkov do terminálnej oxidácie"," vzniká acetyl-CoA ako koncový produkt aeróbnej glykolýzy"]
 },
-
-
-
-
-
-
-
-
-
-
-
-
 {
   numb: 350,
   question: " Z výrokov o glukokináze a hexokináze platí:",
