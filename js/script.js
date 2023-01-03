@@ -55,6 +55,27 @@ function getMyRange(textRange){
 function setVyber(){
     vyber = [];
 }
+
+
+function retUnq(answer){
+
+    var novy_vyber = [];
+
+    for( var i = 0; i < vyber.length; i++ ){ 
+
+        if ( vyber[i][0] != answer) { 
+            novy_vyber.push(vyber[i]);
+        }
+        // setVyber();
+
+    }
+
+    console.log(vyber);
+    console.log(novy_vyber);
+    console.log(answer);
+
+    return novy_vyber;
+}
   
 var otazky_poradie = [];
 var my_lower_range = 0;
@@ -226,30 +247,28 @@ function optionSelected(answer){
         
         // var novy_vyber = [];
 
+        // const index = vyber.indexOf(answer);
 
-        // for( var i = 0; i < vyber.length; i++){ 
-
-        //     if ( vyber[i][0] != answer) { 
-
-        //         novy_vyber.push(vyber[i]);
-
-        //     }
-
-        //     setVyber();
-
-            
-        //     // answer.setAttribute("class", "option unselec");
+        // console.log(index);
+        // if (index > -1) { // only splice array when item is found
+        //     array.splice(index, 1); // 2nd parameter means remove one item only
         // }
+
+        vyber = retUnq(answer);
 
         answer.setAttribute("class", "option unselec");
 
     }else{
         answer.setAttribute("class", "option selec");
+
+        let x = [];
+        x.push(answer);
+        vyber.push(x);
     }
 
-    let x = [];
-    x.push(answer);
-    vyber.push(x);
+    // let x = [];
+    // x.push(answer);
+    // vyber.push(x);
 
 
     // answer.setAttribute("class", "option selec");
