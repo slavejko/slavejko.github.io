@@ -1325,4 +1325,772 @@ let questions = [
   answer: [" jednoduchou difúziou"," sprostredkovanou difúziou"],
   options: [" jednoduchou difúziou"," primárnym aktívnym transportom"," sprostredkovanou difúziou"," sekundárnym aktívnym transportom"]
 },
+{
+  numb: 222,
+  question: " Ca2+ ióny:",
+  answer: [" sú transportované Ca2+-závislou ATP-ázou"," sú transportované do bunky sprostredkovanou difúziou"," ich koncentrácia v endoplazmatickom retikule je vyššia ako v cytozole"],
+  options: [" sú transportované Ca2+-závislou ATP-ázou"," ich koncentrácia v cytozole je vyššia ako mimo bunku"," sú transportované do bunky sprostredkovanou difúziou"," ich koncentrácia v endoplazmatickom retikule je vyššia ako v cytozole"]
+},
+{
+  numb: 223,
+  question: " Glutatión:",
+  answer: [" je tripeptid"," je potrebný pre transport aminokyselín do buniek"," je súčasťou systému gama-glutamyltransferázy"],
+  options: [" je tripeptid"," je potrebný pre transport aminokyselín do buniek"," je súčasťou systému gama-glutamyltransferázy"," pozostáva z glycínu, glutamínu a cysteínu"]
+},
+{
+  numb: 224,
+  question: " Primárny aktívny transport:",
+  answer: [" je transport Na+ iónov von z bunky"," vyžaduje energiu z ATP"," transportuje látky proti koncentračnému gradientu"],
+  options: [" je mechanizmus pre transport glukózy do buniek"," je transport Na+ iónov von z bunky"," vyžaduje energiu z ATP"," transportuje látky proti koncentračnému gradientu"]
+},
+{
+  numb: 225,
+  question: " Inozitoltrifosfát:",
+  answer: [" vzniká účinkom fosfolipázy C"," vzniká pomocou enzýmu prítomného v membráne buniek"],
+  options: [" vzniká účinkom fosfolipázy C"," zvyšuje priepustnosť bunkovej membrány pre Na+"," je aktivátorom proteínkinázy C"," vzniká pomocou enzýmu prítomného v membráne buniek"]
+},
+{
+  numb: 226,
+  question: " O G-proteínoch možno povedať:",
+  answer: [" všetky obsahujú α-podjednotku s GTP-ázovou aktivitou"," sú potrebné pre účinok proteínových hormónov"],
+  options: [" všetky obsahujú α-podjednotku s GTP-ázovou aktivitou"," nachádzajú sa v membránach endoplazmatického retikula"," sú potrebné pre účinok steroidných hormónov"," sú potrebné pre účinok proteínových hormónov"]
+},
+{
+  numb: 227,
+  question: " Lipofilné hormóny môžu sprostredkovať prenos signálu:",
+  answer: [" prostredníctvom cytozolových receptorov"," prostredníctvom jadrových receptorov"," prostredníctvom indukcie alebo represie génovej transkripcie"],
+  options: [" prostredníctvom druhých poslov"," prostredníctvom cytozolových receptorov"," prostredníctvom jadrových receptorov"," prostredníctvom indukcie alebo represie génovej transkripcie"]
+},
+{
+  numb: 228,
+  question: " Hydrofilné hormóny môžu sprostredkovať prenos signálu do cieľovej bunky:",
+  answer: [" prostredníctvom cAMP"," prostredníctvom Ca2+ iónov"],
+  options: [" prostredníctvom cytozolového receptora"," prostredníctvom jadrového receptora"," prostredníctvom cAMP"," prostredníctvom Ca2+ iónov"]
+},
+{
+  numb: 229,
+  question: " Sprostredkovaná difúzia:",
+  answer: [" vyžaduje transportný proteín"," je to forma pasívneho transportu"],
+  options: [" vyžaduje donor energie"," je to transport látok proti koncentračnému gradientu"," vyžaduje transportný proteín"," je to forma pasívneho transportu"]
+},
+{
+  numb: 230,
+  question: " Ca2+-závislá ATP-áza vyžaduje Mg2+ ióny, pretože:",
+  answer: [" aktívne miesto enzýmu viaže ATP len ako komplex s iónmi Mg2+"],
+  options: [" Mg2+ ióny sú substrátom pre ATP-ázu"," aktívne miesto enzýmu viaže ATP len ako komplex s iónmi Mg2+"," Mg2+ ióny sú alosterickým aktivátorom enzýmu"," ATP-áza nevyžaduje Mg2+ ióny pre svoju aktivitu"]
+},
+{
+  numb: 231,
+  question: " Sekundárny aktívny transport vyžaduje:",
+  answer: [" koncentračný gradient iónov"," energiu z ATP"," transportné bielkoviny pre transport iónov a transportovanú látku"," transportný systém, ktorý regeneruje gradient iónov"],
+  options: [" koncentračný gradient iónov"," energiu z ATP"," transportné bielkoviny pre transport iónov a transportovanú látku"," transportný systém, ktorý regeneruje gradient iónov"]
+},
+{
+  numb: 232,
+  question: " Pri stanovení Ca2+-závislej ATP-ázy slúžia membrány erytrocytov ako:",
+  answer: [" zdroj enzýmu"],
+  options: [" substrát"," tlmivý systém"," zdroj enzýmu"," aktivátor enzýmu"]
+},
+{
+  numb: 233,
+  question: " Gp-proteín:",
+  answer: [" je súčasť plazmatickej membrány bunky"," je v aktívnom stave, keď je na α-podjednotku naviazaný GTP"," jeho aktivácia vedie ku zvýšenej aktivite fosfolipázy C"],
+  options: [" je súčasť plazmatickej membrány bunky"," je v aktívnom stave, keď je na α-podjednotku naviazaný GDP"," je v aktívnom stave, keď je na α-podjednotku naviazaný GTP"," jeho aktivácia vedie ku zvýšenej aktivite fosfolipázy C"]
+},
+{
+  numb: 234,
+  question: " Adenylátcykláza:",
+  answer: [" je enzým lokalizovaný v plazmatickej membráne"," je enzým katalyzujúci syntézu cyklického AMP z ATP"],
+  options: [" štiepi cyklický AMP"," syntetizuje cyklický AMP z ADP"," je enzým lokalizovaný v plazmatickej membráne"," je enzým katalyzujúci syntézu cyklického AMP z ATP"]
+},
+{
+  numb: 235,
+  question: " Proteínkináza A:",
+  answer: [" je tetramér zložený z dvoch katalytických a dvoch regulačných podjednotiek"," je enzým závislý na cAMP"],
+  options: [" je dimér zložený z dvoch regulačných podjednotiek"," je tetramér zložený z dvoch katalytických a dvoch regulačných podjednotiek"," je enzým závislý na cAMP"," je enzým závislý na cGMP"]
+},
+{
+  numb: 236,
+  question: " Druhé posly:",
+  answer: [" môžu sa tvoriť z fosfolipidov"],
+  options: [" sú zlúčeniny vznikajúce v bunkách po účinku steroidných hormónov"," sú hormóny, ktoré ovplyvňujú funkcie bunky"," sú napr. ATP a AMP"," môžu sa tvoriť z fosfolipidov"]
+},
+{
+  numb: 237,
+  question: " Difúzia:",
+  answer: [" je, keď látky prechádzajú cez membránu z miesta s vyššou koncentráciou na miesto s nižšou koncentráciou"],
+  options: [" je, keď látky prechádzajú cez membránu z miesta s vyššou koncentráciou na miesto s nižšou koncentráciou"," je, keď látky prechádzajú z miesta s nižšou koncentráciou na miesto s vyššou koncentráciou"," vyžaduje prívod energie"," je to jedna z foriem aktívneho transportu"]
+},
+{
+  numb: 238,
+  question: " Ca2+-závislá ATP-áza:",
+  answer: [" je hydroláza, ktorá katalyzuje štiepenie ATP"," je prítomná aj v erytrocytoch"," v bunkách kostrového svalu transportuje Ca2+ z cytozolu do sarkoplazmatického retikula"],
+  options: [" je hydroláza, ktorá katalyzuje štiepenie ATP"," je zodpovedná za transport kalciových iónov do bunky"," je prítomná aj v erytrocytoch"," v bunkách kostrového svalu transportuje Ca2+ z cytozolu do sarkoplazmatického retikula"]
+},
+{
+  numb: 239,
+  question: " Malé nepolárne molekuly sú transportované cez membrány hlavne:",
+  answer: [" difúziou"],
+  options: [" difúziou"," uľahčenou difúziou"," pomocou transportných proteínov"," aktívnym transportom"]
+},
+{
+  numb: 240,
+  question: " Exocytózou sú transportované:",
+  answer: [" proteíny von z bunky"],
+  options: [" proteíny do bunky"," ióny von z bunky"," proteíny von z bunky"," exocytóza nie je transportný systém"]
+},
+{
+  numb: 241,
+  question: " cAMP:",
+  answer: [" jeho hladina sa znižuje pôsobením fosfodiesterázy"],
+  options: [" vzniká v pečeni po pôsobení inzulínu"," vzniká po pôsobení steroidných hormónov"," jeho hladina sa znižuje pôsobením fosfodiesterázy"," aktivuje proteínkinázu C"]
+},
+{
+  numb: 242,
+  question: " Hydrofóbne látky:",
+  answer: [" ovplyvňujú bunkové procesy po ich vstupe do buniek"," viažu sa na intracelulárne receptory"," môžu meniť permeabilitu bunkových membrán pre ióny"],
+  options: [" ovplyvňujú bunkové procesy po ich vstupe do buniek"," viažu sa na intracelulárne receptory"," zvyšujú syntézu cAMP"," môžu meniť permeabilitu bunkových membrán pre ióny"]
+},
+{
+  numb: 243,
+  question: " Druhé posly:",
+  answer: [" sú látky vznikajúce v bunkách po účinku vo vode rozpustných regulačných látok"," sú cyklické nukleotidy ako napr. cAMP, cGMP"],
+  options: [" sú látky vznikajúce v bunkách po účinku vo vode rozpustných regulačných látok"," sú cyklické nukleotidy ako napr. cAMP, cGMP"," sú látky, ktoré sa tvoria účinkom cytozolových enzýmov"," sú potrebné pre účinok tyroxínu"]
+},
+{
+  numb: 244,
+  question: " Cytozolové receptory:",
+  answer: [" uplatňujú sa pri účinku vitamínu D"," sú potrebné pre sprostredkovanie účinku kortizolu"," po väzbe hormónu vstupujú do jadra a regulujú expresiu génov"],
+  options: [" aktivujú sa cAMP"," uplatňujú sa pri účinku vitamínu D"," sú potrebné pre sprostredkovanie účinku kortizolu"," po väzbe hormónu vstupujú do jadra a regulujú expresiu génov"]
+},
+{
+  numb: 245,
+  question: " K produktom a medziproduktom Krebsovho cyklu nepatrí:",
+  answer: [" acetyl CoA"," pyruvát"," 1,3-bis-fosfoglutarát"],
+  options: [" acetyl CoA"," pyruvát"," 2-oxoglutarát"," 1,3-bis-fosfoglutarát"]
+},
+{
+  numb: 246,
+  question: " Enolfosfátová väzba vzniká v reakcii:",
+  answer: [" pri ktorej dochádza k dehydratácii"],
+  options: [" katalyzovanej pyruvátkinázou"," katalyzovanej 3-fosfoglycerátdehydrogenázou"," pri ktorej dochádza k dehydratácii"," pri ktorej dochádza k dehydrogenácii"]
+},
+{
+  numb: 247,
+  question: " Anaeróbne podmienky sú charakterizované:",
+  answer: [" zvýšenou tvorbou laktátu"," zníženou tvorbou ATP v mitochondriách",],
+  options: [" alkalózou zapríčinenou laktátom"," zvýšenou tvorbou laktátu"," zníženou tvorbou ATP v mitochondriách"," zvýšenou oxidáciou VKK"]
+},
+{
+  numb: 248,
+  question: " Už krátka anoxia CNS vedie k:",
+  answer: [" zvýšeniu laktátu"],
+  options: [" poklesu glykogénu"," poklesu glukózy"," zvýšeniu laktátu"," zvýšeniu ATP"]
+},
+{
+  numb: 249,
+  question: " Ktorá zlúčenina je tvorená priamo pôsobením glykogénfosforylázy:",
+  answer: [" glukóza-1-fosfát"],
+  options: [" glukóza-1-fosfát"," glukóza-6-fosfát"," voľná glukóza"," UDP-glukóza"]
+},
+{
+  numb: 250,
+  question: " Vytvorenie cAMP v bunke fosforyláciou ovplyvňuje aktivity enzýmov metabolizmu glykogénu:",
+  answer: [" glykogénsyntáza"," glykogénfosforyláza"],
+  options: [" UDP-glukóza-pyrofosforyláza"," glykogénsyntáza"," glykogénfosforyláza"," 1,6-glukozidáza"]
+},
+{
+  numb: 251,
+  question: " Glukóza-6-fosfát:",
+  answer: ["  B,","V pečeni je koncový produkt odbúravanie glukózy: voľná glukóza a fosfát","Vo svale sa glukóza odbúrava na glukóza-6-fosfát ktorá ide do glykolýzy alebo pentózového cyklu","  D - oddeli sa samostatna cista glukoza"],
+  options: [" vzniká priamo odbúravaním glykogénu"," je koncový produkt odbúravania glykogénu vo svale"," je koncový produkt odbúravania glykogénu v pečeni"," vzniká v reakcii katalyzovanej 1,6-glukozidázou"]
+},
+{
+  numb: 252,
+  question: " Glukagón zvyšuje:",
+  answer: ["  B,C,"],
+  options: [" syntézu glykogénu"," glukoneogenézu"," degradáciu glykogénu v pečeni"," oxidáciu glukózy v pečeni"]
+},
+{
+  numb: 253,
+  question: " Za aeróbnych podmienok:",
+  answer: ["  B,"],
+  options: [" je konečným produktom glykolýzy kyselina mliečna"," redukované koenzýmy sú oxidované v mitochondriách"," stúpa v bunkách laktát"," nemôže prebiehať citrátový cyklus"]
+},
+{
+  numb: 254,
+  question: " Počas Coriho cyklu:",
+  answer: ["  B,C,","vo svale sa tvorí laktát a ten je uvoľnení do krvi a vychytaní pečeňovými bunkami a vzniká z neho pyruvát a glukóza"],
+  options: [" dochádza k tvorbe pyruvátu vo svale a jeho uvoľneniu do krvi"," dochádza k tvorbe laktátu vo svale a jeho uvoľneniu do krvi"," sa z produktu uvoľneného zo svalu môže v pečeni vytvárať glukóza"," dochádza k priamej oxidácii glukózy na 6-fosfoglukolaktón"]
+},
+{
+  numb: 255,
+  question: " Z glykolýzy (za aeróbnych podmienok) získame ATP:",
+  answer: [". B,D,"," mA tam byt 7"],
+  options: [" len substrátovou fosforyláciou"," substrátovou fosforyláciou a v terminálnej oxidácii oxidáciou NADH2"," 2 moly ATP/1 mol glukózy"," 8 molov ATP/1 mol glukózy"]
+},
+{
+  numb: 256,
+  question: " K medziproduktom glykolýzy patrí:",
+  answer: [" C,D,"],
+  options: [" acetyl CoA"," citrát"," dihydroxyacetón fosfát"," 1,3-bis-fosfoglycerát"]
+},
+{
+  numb: 257,
+  question: " Glykogénsyntáza využíva ako bezprostredný donor glukózových jednotiek v syntéze glykogénu:",
+  answer: [" C,"],
+  options: [" glukóza-1-fosfát"," glukóza-6-fosfát"," UDP-glukóza"," glycerol"]
+},
+{
+  numb: 258,
+  question: " Glukoneogenéza je syntéza glukózy z:",
+  answer: [" B,D,"],
+  options: [" karboxylových kyselín"," aminokyselín"," glykogénu"," glycerolu"]
+},
+{
+  numb: 259,
+  question: " Počas hladovania:",
+  answer: [" B,"],
+  options: [" glykogén zo svalov je zdroj glukózy v krvi"," z glykogénu v pečeni sa uvoľňuje glukóza do krvi"," karboxylové kyseliny z tukového tkaniva sa oxidujú v erytrocytoch"," pečeň využíva karboxylové kyseliny pre glukoneogenézu"]
+},
+{
+  numb: 260,
+  question: " cAMP, ako druhý posol sa tvorí v bunke:",
+  answer: [" B,D,","cAMP sa zvyšuje vplyvom glukagónu alebo adrenalínu"],
+  options: [" po väzbe inzulínu na receptor v membráne"," po väzbe glukagónu na receptor v membráne"," pri hyperglykémii"," pri hypoglykémii"]
+},
+{
+  numb: 261,
+  question: " Koncové produkty glykolýzy môžu byť (podľa dostupnosti O2):",
+  answer: [" B,C,"],
+  options: [" laktát + NADH + H+"," pyruvát + NADH + H+"," laktát + NAD+"," pyruvát + NAD+"]
+},
+{
+  numb: 262,
+  question: " Za anaeróbnych podmienok sa v bunke:",
+  answer: [" A,"],
+  options: [" tvorí ATP len substrátovou fosforyláciou"," regeneruje NAD+ v terminálnej oxidácii"," regeneruje NAD+ v reakcii katalyzovanej pyruvátkinázou"," zvyšuje pH"]
+},
+{
+  numb: 263,
+  question: " Laktátdehydrogenáza je aktívna:",
+  answer: [" A,C,D,"],
+  options: [" v erytrocytoch aj za aeróbnych podmienok"," vo svaloch aj pri nedostatku kyslíka"," vo svaloch hlavne za anaeróbnych podmienok"," vo forme tetraméru"]
+},
+{
+  numb: 264,
+  question: " Spoločným medziproduktom metabolizmu cukrov, tukov a bielkovín je:",
+  answer: [" A,","acetylCoa vzniká z pyruvátu v matrix mitochondrie","môže vznikať aj beta-oxidáciou mastných kyselín a z AMK"],
+  options: [" zlúčenina vstupujúca do Krebsovho cyklu"," acetyl-CoA tvorený v cytosole a následne transportovaný do mitochondrií"," CO2 a H2O"," za anaeróbnych podmienok laktát"]
+},
+{
+  numb: 265,
+  question: " V stave dobrej výživy môže pečeňový glykogén predstaviť:",
+  answer: [" A, ale v skutočnosti je to 10%"],
+  options: [" 4-5% hmotnosti pečene"," 20% hmotnosti pečene"," 1-2% hmotnosti pečene"," v pečeni sa glykogén neukladá"]
+},
+{
+  numb: 266,
+  question: " Počas krátkodobého hladovania:",
+  answer: [" B,"],
+  options: [" glykogén zo svalov je zdrojom glukózy v krvi"," z glykogénu v pečeni sa uvoľňuje glukóza"," vyššie karboxylové kyseliny z tukového tkaniva sú oxidované v erytrocytoch"," pečeň využíva vyššie karboxylové kyseliny pre glukoneogenézu"]
+},
+{
+  numb: 267,
+  question: " UDP-glukóza:",
+  answer: [" nic"," podla mna B ?"],
+  options: [" je tvorená pri degradácii glykogénu"," je aktívna forma glukózy pre syntézu glykogénu"," je intermediát glukoneogenézy"," podieľa sa na regulácii glykolýzy"]
+},
+{
+  numb: 268,
+  question: " Tvorbu α-1,4-glykozidových väzieb katalyzuje:",
+  answer: [" C,"],
+  options: [" glykogénfosforyláza"," vetviaci enzým"," glykogénsyntáza"," glukozidáza"]
+},
+{
+  numb: 269,
+  question: " Laktát:",
+  answer: [" A,C,D,"],
+  options: [" je tvorený redukciou pyruvátu"," je koncový produkt aeróbnej glykolýzy"," je tvorený v anaeróbnych podmienkach počas oxidácie NADH2"," v bunkách stúpa v anaeróbnych podmienkach"]
+},
+{
+  numb: 270,
+  question: " K medziproduktom glykolýzy patrí:",
+  answer: [" C,D,"],
+  options: [" acetyl-CoA"," citrát"," dihydroxyacetónfosfát"," 1,3-bisfosfoglycerát"]
+},
+{
+  numb: 271,
+  question: " Oxidáciou substrátov vzniká:",
+  answer: [" C, D (je tu aj tento argument ↓ ale osobne si myslim, ze to je ajtak dobre)","Terminálnou oxidáciou (oxidacáciou redukovaných koenzýmov) vzniká na vnútornej mitochondriálnej membráne gradient protónov.","V oxidačnej fosforylácií sa tvorí ATP."],
+  options: [" ATP priamo v Krebsovom cykle"," ATP priamo v β-oxidácii"," ATP a NADH2 v glykolýze"," ATP z redukovaných koenzýmov v terminálnej oxidácii a oxidatívnej fosforylácii"]
+},
+{
+  numb: 272,
+  question: " Pre glukoneogenézu sa vyžadujú ako zdroj energie:",
+  answer: [" C,D,"],
+  options: [" UTP"," CTP"," GTP"," ATP"]
+},
+{
+  numb: 273,
+  question: " Pôsobením α-1,6-glukozidázy je tvorená:",
+  answer: [" C,"],
+  options: [" glukóza-1-fosfát"," glukóza-6-fosfát"," voľná glukóza"," maltóza"]
+},
+{
+  numb: 274,
+  question: " Pre degradáciu glykogénu v pečeni je potrebná:",
+  answer: [" A, C? (B ak tam je glukoza-6-fosfataza tak je to dobre)"],
+  options: [" fosfoglukomutáza"," glukóza-6-bisfosfátfosfatáza"," fosforyláza"," glukokináza"]
+},
+{
+  numb: 275,
+  question: " K ireverzibilným reakciám glykolýzy patrí:",
+  answer: [" A (D, ATP je vysledok glykolyzy, cize ju bude inhibovat)"],
+  options: [" všetky reakcie, ktoré spotrebúvajú ATP"," obidve reakcie, v ktorých sa v glykolýze tvorí ATP"," reakcia vzniku fosfoenolpyruvátu"," reakcia, ktorá je v glykolýze aktivovaná ATP"]
+},
+{
+  numb: 276,
+  question: " Reakcia glykolýzy, v ktorej dochádza k štiepeniu fosforylovanej hexózy:",
+  answer: [" A,C,D","aldoláza patrí medzi lyázy","DHAP je ketotrióza","GA3P je aldotrióza"],
+  options: [" je katalyzovaná enzýmom, ktorý patrí medzi lyázy"," syntetizuje dve fosforylované aldotriózy"," vedie k vzniku glyceraldehyd-3-fosfátu, ktorý sa ďalej metabolizuje v glykolýze"," reakcia je inhibovaná ATP"]
+},
+{
+  numb: 277,
+  question: " Fosfoglycerátkináza je enzým, ktorý:",
+  answer: [" B,C,D,","katalyzuje tvorbu 3-fosfoglycerátu v glykolýze"," ono to prebieha az po pyruvat, len potom sa pyruvat meni na laktat"],
+  options: [" katalyzuje tvorbu 1,3-bisfosfoglycerátu v glykolýze"," katalyzuje vratnú reakciu"," podieľa sa na tvorbe ATP substrátovou fosforyláciou"," umožňuje tvorbu ATP aj za anaeróbnych podmienok"]
+},
+{
+  numb: 278,
+  question: " Pri úplnej oxidácii glukózy za aeróbnych podmienok:",
+  answer: ["A,B,D"],
+  options: [" 2 CO2 vznikajú pôsobením pyruvátdehydrogenázy"," pri oxidácii acetyl-CoA v Krebsovom cykle vznikajú 4 mol CO2 na 1 mol glukózy"," oxidatívnou fosforyláciou v glykolýze sa tvorí 8 ATP"," substrátovou fosforyláciou v glykolýze sa tvoria 4 ATP"]
+},
+{
+  numb: 279,
+  question: " Substrátovej regulácie glykolýzy sa zúčastňuje:",
+  answer: [" A,B,","Hexokináza: je aktivovaná ADP a inhibovaná ATP a G-6P","Pyruvátkináza: ADP ju aktivuje, ATP ju inaktivuje","Fosfofruktokináza: je aktivovaná ADP a AMP a je inaktivovaná ATP, NADH a citrátom","Fruktóza 1,6-bisfosfátfosfatáza je inhibovaná AMP,ADP a fruktóza-2,6-bisfosfátom"],
+  options: [" ATP tak, že inhibuje pyruvátkinázu"," ADP tak, že aktivuje fosfofruktokinázu"," glukóza-6-fosfát tak, že inhibuje glukokinázu aj hexokinázu"," fruktóza-1,6-bisfosfát tak, že aktivuje fosfofruktokinázu"]
+},
+{
+  numb: 280,
+  question: " Priebeh glukoneogenézy je ovplyvnený:",
+  answer: [" A - lebo chceme inhibovat glykolyzu,"," C,- kortizol indukuje tvorbu enzýmov glukoneogenézy v pečeni tým že indukuje expresiu génov, zároveň degraduje bielkoviny"],
+  options: [" glukagónom, ktorý po väzbe na membránový receptor s následným vzostupom cAMP vedie k fosforylácii pyruvátkinázy a tým k jej inaktivácii"," kortizolom, ktorý fosforyláciou aktivuje enzýmy glukoneogenézy v pečeni"," kortizolom, ktorý indukuje enzýmy glukoneogenézy v pečeni"," acetyl-CoA, ktorý je priamym aktivátorom fosfoenolpyruvátkarboxykinázy"]
+},
+{
+  numb: 281,
+  question: " Na regulácii glykémie sa podieľa:",
+  answer: [" A,D,"],
+  options: [" kortizol"," kalcitonín"," testosterón"," glukagón"]
+},
+{
+  numb: 282,
+  question: " Orálny glukózový tolerančný test:",
+  answer: [" B,"," je to overene"],
+  options: [" robí sa u každého pacienta s diabetes mellitus"," sa nerobí ak glykémia nalačno je väčšia ako 8mmol/l"," vyžaduje podanie inzulínu pacientovi"," je potrebné u pacienta s diabetom pravidelne opakovať"]
+},
+{
+  numb: 283,
+  question: " 1,3-bisfosfoglycerát obsahuje fosfát viazaný:",
+  answer: [" nič"," co"," acylfosfátová na C1"," 1 makroergická väzba"],
+  options: [" fosfomonoesterovou väzbou na C1"," acylfosfátovou makroergickou väzbou na C3"," fosfodiesterovou väzbou na C3"," dvomi makroergickými väzbami"]
+},
+{
+  numb: 284,
+  question: " Za aeróbnych podmienok v glykolýze:",
+  answer: [" D z NADH2 moze vznikat 2 ATP, ak vyuzije glycerolfosfat-dihydroxyacetonfosfatovy clnok"," vznikajú 2 acetyl-CoA ale nie v glykolýze"," reoxidáciou koenzýmov vzniká 4-6 ATP"," -podla noveho by malo vzniknut 5 ATP (podla mna"],
+  options: [" na 1 mol glukózy vznikajú 2 mol laktátu"," vznikajú na 1 mol glukózy 2 acetyl-CoA"," vznikajú na 1 mol glukózy 2 CO2"," reoxidáciou redukovaného koenzýmu vytvoreného premenou 1 mol glukózy môžu vznikať 4 ATP"]
+},
+{
+  numb: 285,
+  question: " Premena dihydroxyacetónfosfátu na glycerolfosfát:",
+  answer: [" A,B,C,D"," transportuje vodíky z FADH2"],
+  options: [" je vratná reakcia"," je katalyzovaná glycerolfosfátdehydrogenázou"," nemá význam pre proces glukoneogenézy"," je aj súčasťou transportu vodíkov z NADH2 vytvorených napr. v glykolýze do mitochondrie"]
+},
+{
+  numb: 286,
+  question: " Hypoxia buniek a tkanív:",
+  answer: [" B,D,"],
+  options: [" spôsobuje pokles tvorby ATP substrátovou fosforyláciou"," znižuje priebeh terminálnej oxidácie a oxidačnej fosforylácie"," neovplyvňuje tvorbu protónového gradientu v mitochondriách"," neovplyvňuje priebeh reakcií anaeróbnej glykolýzy"]
+},
+{
+  numb: 287,
+  question: " Pyruvátkináza:",
+  answer: [" B (a) energia vo fosfoenolpyruvate = 61kJ/mol, ATP = 30,5)"," pyruvátkináza sa aktivuje defosforyláciou"," asi sa aktivuje ked mame praveze vela cukrov ?"],
+  options: [" katalyzuje reakciu, ktorá je ireverzibilná, pretože obsah energie v ATP je vyšší ako obsah energie v substráte reakcie"," katalyzuje reakciu, ktorá je dôležitá pre tvorbu ATP v anaeróbnych podmienkach"," je aktivovaná defosforyláciou, k čomu dochádza počas hladovania"," zodpovedá za tvorbu fosfoenolpyruvátu v glukoneogenéze"]
+},
+{
+  numb: 288,
+  question: " Glukoneogenéza:",
+  answer: [" B,C,D,"],
+  options: [" je proces, pri ktorom sa syntetizuje glukóza z vyšších karboxylových kyselín"," prebieha v pečeni a obličkách"," zabezpečuje tvorbu glukózy v podmienkach hladovania"," je proces, ktorý je aktivovaný glukokortikoidmi"]
+},
+{
+  numb: 289,
+  question: " Orálny glukózo-tolerančný test je vyšetrenie, ktoré:",
+  answer: [" C,"],
+  options: [" informuje o množstve glukózy prijatej potravou"," sa robí vždy, ak glykémia nalačno presahuje hodnoty 8 mmol/l"," sa robí na zistenie porúch regulácie metabolizmu glukózy"," sa nesmie uskutočniť, ak glykémia nalačno je viac ako 6mmol/l"]
+},
+{
+  numb: 290,
+  question: " Hypoglykémia:",
+  answer: [" C,D (C – v kore nadobliciek sa tvoria glukokortikoidy, ktore indukuju enzymy glukoneogenezy)"],
+  options: [" je stav, keď koncentrácia glukózy v krvi klesá pod 5,6 mmol/l"," je dôsledkom zníženej sekrécie inzulínu"," môže nastať u pacienta so zlyhaním kôry nadobličiek"," poškodzuje predovšetkým tkanivo CNS"]
+},
+{
+  numb: 291,
+  question: " Aktivácia glukózy:",
+  answer: [" A,B,C,","v pečeni ju aktivuje glukokináza (vyššia Km)","má menšiu afinitu ku glukóze"],
+  options: [" vyžaduje zdroj energie ATP"," znamená premenu glukózy na glukóza-6-P"," je potrebná pre zapojenie glukózy do glykolýzy, syntézy glykogénu i do pentózového cyklu"," v pečeni je katalyzovaná najmä hexokinázou, ktorá má vysokú afinitu ku glukóze"]
+},
+{
+  numb: 292,
+  question: " Fosfofruktokináza katalyzuje reakciu:",
+  answer: [" nič"," v glukoneogenéze sa obchádza fruktóza -1,6- bisfosfatázou"," vzniká fruktóza -1,6-bisfosfát"],
+  options: [" ktorá je vratná"," ktorá sa v glukoneogenéze obchádza glukóza-6-fosfátfosfatázou"," v ktorej vzniká fruktóza-6-fosfát"," k aktivácii ktorej dochádza najmä pri nedostatku glukózy"]
+},
+{
+  numb: 293,
+  question: " Pri oxidácii jedného glyceraldehyd-3-fosfátu na 3-fosfoglycerát za aeróbnych podmienok:",
+  answer: [" B"," podla noveho 2,5"],
+  options: [" sa získa rovnaké množstvo ATP ako za anaeróbnych podmienok"," sa môžu získať 3 ATP oxidatívnou fosforyláciou a 1 ATP substrátovou fosforyláciou"," môže vzniknúť celkove 6 ATP"," môžu vzniknúť 2 ATP substrátovou fosforyláciou"]
+},
+{
+  numb: 294,
+  question: " Pri úplnej aeróbnej oxidácii glukózy:",
+  answer: [" C"," pozor pytaju sa na koncove produkty, nie medziprodukty"," dekarboxylácia pyruvátu na acetylCoa je v matrixe mitochondrie"," Krebsovým cyklom sa získa 12 ATP a kedže z glukózy vzniknú 2 acetylCoA spolu 24 ATP"," podla noveho 20ATP"],
+  options: [" vznikajú 2 mol pyruvátu"," vzniká 2 CO2 v procese, ktorý si vyžaduje tiamíndifosfát a prebieha v cytozole bunky"," vzniká 24 ATP v Krebsovom cykle"," procesom oxidatívnej fosforylácie sa celkove tvorí 24 ATP"]
+},
+{
+  numb: 295,
+  question: " Zapojenie bielkovín do glukoneogenézy:",
+  answer: [" nic"," z AMK vzniká deamináciou a transamináciou pyruvát alebo oxalacetát a tie sú ďalej využívané v Krebsovom cykle"],
+  options: [" nie je potrebné, pretože dostatočným substrátom je laktát"," si vyžaduje proteázy predovšetkým v pečeni"," si vyžaduje reakcie, ktorými sa aminokyseliny menia na hydroxykyseliny"," si vyžaduje enzým laktátdehydrogenázu"]
+},
+{
+  numb: 296,
+  question: " Spoločná metabolická dráha oxidácie cukrov, tukov a bielkovín je:",
+  answer: [" B,D,"],
+  options: [" glykolýza"," Krebsov cyklus"," β-oxidácia"," citrátový cyklus"]
+},
+{
+  numb: 297,
+  question: " Ak sa oxiduje glukóza aeróbne, jej oxidáciou po pyruvát získame na 1 mol glukózy:",
+  answer: [" C,"," po novom 7"],
+  options: [" 2 moly ATP"," 36-38 molov ATP"," 8 molov ATP"," 12 molov ATP"]
+},
+{
+  numb: 298,
+  question: " Za anaeróbnych podmienok dochádza v bunkách:",
+  answer: [" B,C,D (prakticke cvicenia str. 42, Obr. 5,2)"],
+  options: [" k vzostupu glukózy"," k vzostupu laktátu"," k poklesu ATP"," k acidóze"]
+},
+{
+  numb: 299,
+  question: " Na regulácii syntézy glykogénu sa podieľa:",
+  answer: [" glykogénfosforyláza sa podiela na odburavani glykogenu"," A,B,C"],
+  options: [" glukagón"," inzulín"," cAMP"," regulačný enzým glykogénfosforyláza"]
+},
+{
+  numb: 300,
+  question: " Pri hladovaní je hlavným zdrojom energie:",
+  answer: [" C"],
+  options: [" v pečeni glukóza"," vo svale glukóza"," vo svale VKK"," v mozgu VKK"]
+},
+{
+  numb: 301,
+  question: " Pôsobením α-1,6-glukozidázy:",
+  answer: [" B,C,"],
+  options: [" sa tvorí vetvenie (väzba 1-6) v glykogéne"," sa ruší vetvenie (väzba 1-6) v glykogéne"," sa tvorí priamo voľná glukóza"," je regulovaný metabolizmus glykogénu"]
+},
+{
+  numb: 302,
+  question: " Pre degradáciu glykogénu v pečeni je potrebná:",
+  answer: [" A,C,"],
+  options: [" fosfoglukomutáza"," glukóza-1-fosfátfosfatáza"," glykogénfosforyláza"," glukokináza"]
+},
+{
+  numb: 303,
+  question: " V priebehu glykolýzy vzniká:",
+  answer: [" C,"],
+  options: [" acetyl CoA"," GTP"," 1,3-bis-fosfoglycerát"," sukcinyl CoA"]
+},
+{
+  numb: 304,
+  question: " Pre priebeh Krebsovho cyklu je potrebný:",
+  answer: [" A,C"],
+  options: [" oxalacetát"," laktát"," kyslík"," ATP"]
+},
+{
+  numb: 305,
+  question: " Za anaeróbnych podmienok v organizme:",
+  answer: [" A,B,D,"],
+  options: [" vzniká acidóza"," klesá tvorba ATP"," neprebieha substrátová fosforylácia"," znižuje sa priebeh terminálnej oxidácie"]
+},
+{
+  numb: 306,
+  question: " Laktátdehydrogenáza je aktívna:",
+  answer: [" A,C,"," pozostava zo 4 podjednotiek"],
+  options: [" v erytrocytoch za aeróbnych aj anaeróbnych podmienok"," vo svaloch pri dostatku kyslíka"," vo svaloch hlavne za anaeróbnych podmienok"," vo forme diméru"]
+},
+{
+  numb: 307,
+  question: " Správna kombinácia : zlúčenina - typ makroergickej väzby je:",
+  answer: [" A?,B,C (podla mna medzi fosfatmi v UDPG je ta vazba makroergicka)"],
+  options: [" UDP-glukóza - difosfátová"," cAMP - fosfodiesterová"," glukóza-6-fosfát - fosfoesterová"," GTP – guanidínfosfátová"]
+},
+{
+  numb: 308,
+  question: " Proces glukoneogenézy:",
+  answer: [" A,C,D,"],
+  options: [" využíva aminokyseliny"," využíva VKK"," využíva glycerol"," prebieha v pečeni"]
+},
+{
+  numb: 309,
+  question: " Príslušnými hormónmi sú súčasne stimulované:",
+  answer: [" C,D,"],
+  options: [" glykolýza a glukoneogenéza"," glykogenolýza a syntéza glykogénu"," štiepenie glykogénu a štiepenie triacylglycerolov"," syntéza VKK a glykolýza"]
+},
+{
+  numb: 310,
+  question: " Glukóza-1-fosfát je medziprodukt:",
+  answer: [" B,D,"],
+  options: [" oxidácie VKK"," glykogenolýzy"," glykolýzy"," syntézy glykogénu"]
+},
+{
+  numb: 311,
+  question: " Acetyl CoA:",
+  answer: [" B,C,D,"],
+  options: [" vzniká v aeróbnej glykolýze"," vzniká ako medziprodukt v metabolizme cukrov"," vzniká ako medziprodukt v metabolizme tukov"," môže byť ďalej oxidovaný na CO2 a H2O"]
+},
+{
+  numb: 312,
+  question: " Za anaeróbnych podmienok:",
+  answer: [" A,D"],
+  options: [" sa zastavujú reakcie citrátového cyklu"," neprebieha glykolýza"," sa získava energia oxidačnou fosforyláciou"," sa získava energia substrátovou fosforyláciou"]
+},
+{
+  numb: 313,
+  question: " Oxidáciou glukózy sa získava:",
+  answer: [" A,B"],
+  options: [" ATP oxidačnou fosforyláciou"," ATP substrátovou fosforyláciou"," 129 molov ATP/1 mol glukózy"," ATP len v mitochondriách"]
+},
+{
+  numb: 314,
+  question: " Laktát:",
+  answer: [" C,"," nevyužíva sa vo svaloch, ale vytvara"," -vyuziva sa v myokarde"],
+  options: [" je oxokyselina"," je kyselina hydroxymaslová"," je tvorený viac za anaeróbnych podmienok"," sa využíva vo svaloch"]
+},
+{
+  numb: 315,
+  question: " Štiepenie glykogénu:",
+  answer: [" A,B,D,"],
+  options: [" v pečeni aktivuje glukagón"," vedie takmer k vyčerpaniu jeho zásob v pečeni za 16 až 24 hodín"," je aktivované inzulínom"," v pečeni je zvýšené pri hypoglykémii"]
+},
+{
+  numb: 316,
+  question: " Glukóza:",
+  answer: [" A,B,"],
+  options: [" sa vstrebáva z GIT a venou portae sa dostáva do pečene"," sa pri vysokých koncentráciach využíva na tvorbu tukov"," je v bunkách zdrojom energie, pri jej úplnej oxidácii sa získa 12 ATP z jednej glukózy"," sa v bunkách pečene a obličiek môže tvoriť z uhlíkov VKK"]
+},
+{
+  numb: 317,
+  question: " O glykogéne v pečeni môžeme povedať:",
+  answer: [" B,C,"],
+  options: [" po príjme potravy tvorí 1 až 2% hmotnosti pečene"," po príjme potravy sa v pečeni nachádza 80 až 100g glykogénu"," vzniká po aktivácii jeho syntézy inzulínom"," tvorí sa glukoneogenézou"]
+},
+{
+  numb: 318,
+  question: " Počas dlhodobého hladovania sú zdrojom energie:",
+  answer: [" A,C"],
+  options: [" vo svale VKK"," vo svale glukóza"," v mozgu ketolátky a glukóza"," v erytrocytoch VKK a glukóza"]
+},
+{
+  numb: 319,
+  question: " Kyselina mliečna je látka, ktorá:",
+  answer: [" A,C,D,"],
+  options: [" vzniká ako koncový produkt glykolýzy za anaeróbnych podmienok"," vzniká ako koncový produkt vo všetkých bunkách organizmu"," vzniká účinkom laktátdehydrogenázy"," za anaeróbnych podmienok vzniká pri regenerácii NAD+ laktátdehydrogenázou"]
+},
+{
+  numb: 320,
+  question: " Laktátdehydrogenáza je aktívna:",
+  answer: [" A,B,"],
+  options: [" v erytrocytoch za aeróbnych aj anaeróbnych podmienok"," vo svaloch hlavne za anaeróbnych podmienok a katalyzuje tu tvorbu laktátu"," v pečeni hlavne za anaeróbnych podmienok a katalyzuje tu tvorbu laktátu"," vo forme diméru"]
+},
+{
+  numb: 321,
+  question: " Ktoré z uvedených zlúčenín sú tvorené počas degradácie glykogénu:",
+  answer: [" A,B,"],
+  options: [" glukóza-1-fosfát"," voľná glukóza"," UDP-glukóza"," UMP + glukóza-6-fosfát"]
+},
+{
+  numb: 322,
+  question: " Pre degradáciu glykogénu v pečeni je potrebná:",
+  answer: [" A,B,C,"],
+  options: [" fosfoglukomutáza"," glukóza-6-fosfátfosfatáza"," glykogénfosforyláza"," glukokináza"]
+},
+{
+  numb: 323,
+  question: " Glukagón:",
+  answer: [" B,C,D,"],
+  options: [" sprostredkuje aktiváciu glykogénsyntázy v pečeni"," sprostredkuje aktiváciu glykogénfosforylázy v pečeni"," vyplavuje sa z alfa-buniek pankreasu pri hypoglykémii"," účinkuje po väzbe na receptor spojený s aktiváciou adenylátcyklázy"]
+},
+{
+  numb: 324,
+  question: " Reakcia, ktorou sa tvorí UDP-glukóza:",
+  answer: [" A,B,D"],
+  options: [" je katalyzovaná enzýmom UDPG-fosforyláza"," je to reakcia aktivácie glukózy pri syntéze glykogénu"," vedie k tvorbe zlúčeniny, ktorá je substrátom glykogénfosforylázy"," vedie k tvorbe zlúčeniny, ktorá je substrátom glykogénsyntázy"]
+},
+{
+  numb: 325,
+  question: " Na oxidácii glukózy na CO2 a H2O sa v organizme podieľajú mechanizmy:",
+  answer: [" A,B"],
+  options: [" spojené s odoberaním vodíkov zo substrátov"," spojené so vznikom redukovaných koenzýmov"," naväzujúce O2 na medziprodukty oxidácie glukózy"," β-oxidácia a Krebsov cyklus"]
+},
+{
+  numb: 326,
+  question: " Počas Coriho cyklu:",
+  answer: [" B,C,"],
+  options: [" dochádza k tvorbe pyruvátu vo svale a jeho uvoľneniu do krvi"," dochádza k tvorbe laktátu vo svale a jeho uvoľneniu do krvi"," sa z produktu uvoľneného zo svalu môže v pečeni vytvárať glukóza"," dochádza k priamej oxidácii glukózy v Pentózovom cykle"]
+},
+{
+  numb: 327,
+  question: " Z glykolýzy za anaerobných podmienok získame ATP:",
+  answer: [" A,"],
+  options: [" len substrátovou fosforyláciou"," substrátovou fosforyláciou v terminálnej oxidácii a oxidatívnej fosforylácii oxidáciou NADH + H+"," 36-38 molov ATP/ 1 mol glukózy"," 6-8 molov ATP/ 1 mol glukózy"]
+},
+{
+  numb: 328,
+  question: " K medziproduktom glukoneogenézy patrí:",
+  answer: [" B,C,D,"," C, D - normalne medziprodukty aj v glykolyze"],
+  options: [" acetyl-CoA"," oxalacetát"," dihydroxyacetónfosfát"," 1,3-bis-fosfoglycerát"]
+},
+{
+  numb: 329,
+  question: " Glykogénsyntáza:",
+  answer: [" B,"," aktivovana je defosforylaciou"],
+  options: [" ako substrát využíva glukózu-1-fosfát"," katalyzuje tvorbu alfa-1,4-glykozidovej väzby"," katalyzuje tvorbu alfa-1,6-glykozidovej väzby"," je aktivovaná fosforyláciou v prítomnosti inzulínu"]
+},
+{
+  numb: 330,
+  question: " Vetviaci enzým katalyzuje vznik väzby, o ktorej možno povedať:",
+  answer: [" A,C,"],
+  options: [" je to alfa-1,6-glykozidová väzba"," je to väzba, ktorá sa štiepi glykogénfosforylázou"," štiepením tejto väzby v pečeni vzniká voľná glukóza"," štiepením tejto väzby v svale vzniká glukóza-6-fosfát"]
+},
+{
+  numb: 331,
+  question: " Glykogén:",
+  answer: [" B,D,","vyčerpá sa za 16-24"],
+  options: [" zo svalov poskytuje voľnú glukózu do krvi"," jeho obsah v pečeni je 80-100g"," môže udržiavať hladinu glukózy v krvi počas 48-72 hodín"," jeho odbúravanie v pečeni je stimulované glukagónom"]
+},
+{
+  numb: 332,
+  question: " Aktivácia využitia glykogénu vo svalovej bunke je sprostredkovaná:",
+  answer: [" A,D"," glukagónom v pečeni"],
+  options: [" adrenalínom"," glukagónom"," inzulínom"," cAMP ako druhým poslom"]
+},
+{
+  numb: 333,
+  question: " Substrátovou fosforyláciou sa môže získať energia:",
+  answer: [" C,D,"," to B je nespravne lebo sa po spravnosti vola sukcinyltiokinaza?"],
+  options: [" v procese β-oxidácie vyšších karboxylových kyselín"," v reakcii katalyzovanej sukcinátkinázou"," v glykolýze"," za aeróbnych aj anaeróbnych podmienok"]
+},
+{
+  numb: 334,
+  question: " Glyceraldehyd-3-fosfát-dehydrogenáza:",
+  answer: [" A,B,C,"," makroergická väzba je na prvom uhlíku"],
+  options: [" využíva NAD+ ako koenzým"," katalyzuje vratnú reakciu"," využíva vo svojom reakčnom cykle anorganický fosfát"," katalyzuje tvorbu zlúčeniny s makroergickou väzbou na treťom uhlíku"]
+},
+{
+  numb: 335,
+  question: " Laktát v bunkách:",
+  answer: [" B,C,D,"],
+  options: [" stúpa za aeróbnych podmienok"," stúpa pri intenzívnej svalovej práci"," vzniká stále v erytrocytoch"," znižuje pH"]
+},
+{
+  numb: 336,
+  question: " Pri stanovení laktátu:",
+  answer: [" A,D (prakticke cvicenia str. 45)"," ferrifenantrolín reaguje s vodíkmi a redukuje sa"],
+  options: [" využívame aktivitu pridanej laktátdehydrogenázy"," vytvorený laktát reaguje s ferrifenantrolínom"," vytvorený pyruvát reaguje s ferrifenantrolínom"," sa elektróny z NADH + H+ prenášajú na umelý akceptor elektrónov"]
+},
+{
+  numb: 337,
+  question: " degradácii glykogénu vo svaloch možno povedať:",
+  answer: [" D?","Turecky zevraj hovoril"],
+  options: [" cez niekoľko medziproduktov vzniká ako koncový produkt voľná glukóza"," produktom je glukóza-1-fosfát"," jej aktivácia je sprostredkovaná adrenalínom, s následným uvoľnením glukózy do krvného obehu"," je aktivovaná komplexom Ca2+/kalmodulín"]
+},
+{
+  numb: 338,
+  question: " Druhý posol, ktorý sprostredkuje aktiváciu glykogénfosforylázy:",
+  answer: [" A,C,D,"," membránový enzým: adenylátcyklázy"],
+  options: [" vzniká účinkom membránového enzýmu"," vzniká účinkom cytosolového enzýmu"," je cAMP"," v pečeni sa vytvára predovšetkým v prítomnosti glukagónu"]
+},
+{
+  numb: 339,
+  question: " Inzulín:",
+  answer: [" A,C,D,"],
+  options: [" sprostredkuje aktiváciu glykogénsyntázy v pečeni"," sprostredkuje aktiváciu glykogénfosforylázy v pečeni"," vyplavuje sa z β-buniek Langerhansových ostrovčekov pankreasu pri vzostupe glykémie"," účinkuje po väzbe na receptor spojený s aktiváciou tyrozínkinázy"]
+},
+{
+  numb: 340,
+  question: " Pôsobením alfa-1,6-glukozidázy je tvorená:",
+  answer: [" C,"],
+  options: [" glukóza-1-fosfát"," glukóza-6-fosfát"," voľná glukóza"," maltóza"]
+},
+{
+  numb: 341,
+  question: " Kyselina pyrohroznová:",
+  answer: [" B,C,D,"],
+  options: [" je koncovým produktom úplnej oxidácie glukózy v erytrocytoch"," vzniká ako koncový produkt glykolýzy v bunkách CNS"," vzniká ako koncový produkt glykolýzy za aeróbnych podmienok"," je látka, ktorej vznik prebieha v cytozole"]
+},
+{
+  numb: 342,
+  question: " Aeróbna glykolýza:",
+  answer: [" B,D"],
+  options: [" vedie k vzniku 1 mol pyruvátu a 1 mol laktátu na 1 mol glukózy"," umožňuje vznik 4 ATP substrátovou fosforyláciou"," umožňuje vznik 2 ATP substrátovou fosforyláciou"," pri reoxidácii redukovaného koenzýmu vytvoreného v reakcii katalyzovanej glyceraldehyd-3-fosfátdehydrogenázou umožňuje vznik 6 mol ATP na 1 mol glukózy"]
+},
+{
+  numb: 343,
+  question: " Coriho cyklus je proces, o ktorom možno povedať:",
+  answer: [" C,D,"],
+  options: [" prebieha len v pečeni"," využíva na glukoneogenézu laktát, ktorý sa tvorí predovšetkým v tkanive CNS"," pre uskutočnenie kompletného cyklu je v pečeni potrebný enzým, ktorý hydrolyticky štiepi glukóza-6-fosfát na voľnú glukózu"," ide v ňom o využitie laktátu tvoreného glykolýzou v svale na glukoneogenézu v pečeni"]
+},
+{
+  numb: 344,
+  question: " Fruktóza-1,6-bisfosfát ovplyvňuje enzýmy glykolýzy tak, že:",
+  answer: [" D,"],
+  options: [" inhibuje fosfofruktokinázu I"," aktivuje fosfofruktokinázu II"," aktivuje reakciu glykolýzy, v ktorej sa tvorí fosfoenolpyruvát"," aktivuje pyruvátkinázu"]
+},
+{
+  numb: 345,
+  question: " tvorbe glukózy glukoneogenézou platí:",
+  answer: [" D,"],
+  options: [" je to proces, ktorý zabezpečuje tvorbu glukózy len pri dlhodobom hladovaní"," je proces tvorby glukózy z glykogénu"," je to proces, ktorý nevyžaduje špecifické enzýmy, pretože reakcie glukoneogenézy sú vratné"," je to proces, ktorý je stimulovaný glukagónom a kortizolom"]
+},
+{
+  numb: 346,
+  question: " Na regulácii hladiny glukózy v krvi sa zúčastňuje:",
+  answer: [" A,C,D,"],
+  options: [" tyroxín"," kalcitonín"," glukagón"," hormón, ktorý sa vyplavuje v strese"]
+},
+{
+  numb: 347,
+  question: " Hypoglykémia je stav, ktorý:",
+  answer: [" A,B, C"," je to overene",""],
+  options: [" môže byť dôsledkom nadmernej tvorby inzulínu"," môže byť príčinou kómy"," u pacientov s diabetes mellitus nemôže nastať"," môže byť spôsobený ťažkým poškodením funkcie pečene"]
+},
+{
+  numb: 348,
+  question: " Ktoré z tkanív ľudského organizmu je takmer plne závislé na glukóze ako zdroji energie:",
+  answer: [" A,"],
+  options: [" tkanivo CNS, ktoré počas hladovania využíva aj ketolátky"," erytrocyty, ktoré počas hladovania dokážu oxidovať aj karboxylové kyseliny"," erytrocyty, ktoré si môžu energiu získavať aj oxidáciou glukózy v pentózovom cykle"," tkanivo CNS, pretože neobsahuje mitochondrie"]
+},
+{
+  numb: 349,
+  question: " V priebehu glykolýzy za aeróbnych podmienok:",
+  answer: [" B"],
+  options: [" na aktiváciu glukózy sa spotrebujú 2 ATP"," 4 ATP sa tvoria substrátovou fosforyláciou"," ATP sa netvorí prenosom vodíkov do terminálnej oxidácie"," vzniká acetyl-CoA ako koncový produkt aeróbnej glykolýzy"]
+},
 ];
