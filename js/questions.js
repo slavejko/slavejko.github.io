@@ -1202,31 +1202,31 @@ let questions = [
 {
   numb: 201,
   question: " Gp- proteín:",
-  answer: [" je súčasťou plazmatickej membrány bunky, je v aktívnom stave, keď je na alfa-podjednotku naviazaný GTP, v aktívnom stave zvyšuje aktivitu fosfolipázy C"],
+  answer: [" je súčasťou plazmatickej membrány bunky"," je v aktívnom stave, keď je na alfa-podjednotku naviazaný GTP"," v aktívnom stave zvyšuje aktivitu fosfolipázy C"],
   options: [" je súčasťou plazmatickej membrány bunky"," je v aktívnom stave, keď je na alfa-podjednotku naviazaný GDP"," je v aktívnom stave, keď je na alfa-podjednotku naviazaný GTP"," v aktívnom stave zvyšuje aktivitu fosfolipázy C"]
 },
 {
   numb: 202,
   question: " Ca2+-závislá ATP-áza môže transportovať:",
-  answer: [" Ca2+ ióny z cytosolu do endoplazmatického retikula, Ca2+ ióny z cytosolu do extracelulárneho priestoru"],
+  answer: [" Ca2+ ióny z cytosolu do endoplazmatického retikula"," Ca2+ ióny z cytosolu do extracelulárneho priestoru"],
   options: [" Ca2+ ióny z cytosolu do endoplazmatického retikula"," Ca2+ ióny z endoplazmatického retikula do cytosolu"," Ca2+ ióny z cytosolu do extracelulárneho priestoru"," Ca2+ ióny z extracelulárneho priestoru do cytosolu"]
 },
 {
   numb: 203,
   question: " Aktívny transport je:",
-  answer: [" pohyb látok proti koncentračnému gradientu, transport Na+ iónov von z bunky"],
+  answer: [" pohyb látok proti koncentračnému gradientu"," transport Na+ iónov von z bunky"],
   options: [" pohyb látok v smere koncentračného gradientu"," pohyb látok proti koncentračnému gradientu"," transport Na+ iónov von z bunky"," transport pomocou nosiča bez potreby ATP"]
 },
 {
   numb: 204,
   question: " Sprostredkovaná difúzia:",
-  answer: [" je transport látok po koncentračnom gradiente, vyžaduje transportný proteín, je to forma pasívneho transportu"],
+  answer: [" je transport látok po koncentračnom gradiente"," vyžaduje transportný proteín"," je to forma pasívneho transportu"],
   options: [" vyžaduje dodanie energie"," je transport látok po koncentračnom gradiente"," vyžaduje transportný proteín"," je to forma pasívneho transportu"]
 },
 {
   numb: 205,
   question: " ATP je potrebné:",
-  answer: [" pre aktívny transport, pre Ca2+-závislú ATP-ázu"],
+  answer: [" pre aktívny transport"," pre Ca2+-závislú ATP-ázu"],
   options: [" pre aktívny transport"," pre sprostredkovanú difúziu"," pre difúziu"," pre Ca2+-závislú ATP-ázu"]
 },
 {
@@ -1238,7 +1238,7 @@ let questions = [
 {
   numb: 207,
   question: " Pri sprostredkovanej difúzii:",
-  answer: [" glukóza je transportovaná z krvi do buniek, látky sú transportované z miesta vyššej koncentrácie na miesto s nižšou koncentráciou, látky sú transportované pomocou nosičovej bielkoviny"],
+  answer: [" glukóza je transportovaná z krvi do buniek"," látky sú transportované z miesta vyššej koncentrácie na miesto s nižšou koncentráciou"," látky sú transportované pomocou nosičovej bielkoviny"],
   options: [" glukóza je transportovaná z krvi do buniek"," látky sú transportované z miesta vyššej koncentrácie na miesto s nižšou koncentráciou"," látky sú transportované pomocou nosičovej bielkoviny"," spotrebováva sa ATP"]
 },
 {
@@ -1250,25 +1250,25 @@ let questions = [
 {
   numb: 209,
   question: " α-podjednotka Gs-proteínu:",
-  answer: [" aktivuje adenylátcyklázu, viaže GTP v aktívnom stave, môže hydrolyzovať GTP"],
+  answer: [" aktivuje adenylátcyklázu"," viaže GTP v aktívnom stave"," môže hydrolyzovať GTP"],
   options: [" aktivuje adenylátcyklázu"," aktivuje fosfolipázu C"," viaže GTP v aktívnom stave"," môže hydrolyzovať GTP"]
 },
 {
   numb: 210,
   question: " Fosfolipáza C:",
-  answer: [" nachádza sa v membránach buniek, vytvára ako produkt diacylglycerol, vytvára ako produkt inozitoltrifosfát"],
+  answer: [" nachádza sa v membránach buniek"," vytvára ako produkt diacylglycerol"," vytvára ako produkt inozitoltrifosfát"],
   options: [" nachádza sa v membránach buniek"," vytvára ako produkt diacylglycerol"," vytvára ako produkt inozitoltrifosfát"," je aktivovaná Gs-proteínom"]
 },
 {
   numb: 211,
   question: " G-proteínoch možno povedať:",
-  answer: [" sú potrebné pre účinok proteínových hormónov, všetky obsahujú alfa-podjednotku s GTP-ázovou aktivitou"],
+  answer: [" sú potrebné pre účinok proteínových hormónov"," všetky obsahujú alfa-podjednotku s GTP-ázovou aktivitou"],
   options: [" sú potrebné pre účinok steroidných hormónov"," sú potrebné pre účinok proteínových hormónov"," nachádzajú sa v membránach endoplazmatického retikula"," všetky obsahujú alfa-podjednotku s GTP-ázovou aktivitou"]
 },
 {
   numb: 212,
   question: " cAMP:",
-  answer: [" aktivuje proteínkinázu A, jeho hladina sa znižuje pôsobením fosfodiesterázy, vzniká po pôsobení glukagónu"],
+  answer: [" aktivuje proteínkinázu A"," jeho hladina sa znižuje pôsobením fosfodiesterázy"," vzniká po pôsobení glukagónu"],
   options: [" aktivuje proteínkinázu A"," jeho hladina sa znižuje pôsobením fosfodiesterázy"," vzniká po pôsobení steroidných hormónov"," vzniká po pôsobení glukagónu"]
 },
 {
@@ -1286,7 +1286,7 @@ let questions = [
 {
   numb: 215,
   question: " Pre transport látok difúziou je potrebné:",
-  answer: [" permeabilita membrány pre danú látku, koncentračný gradient transportovanej látky"],
+  answer: [" permeabilita membrány pre danú látku"," koncentračný gradient transportovanej látky"],
   options: [" energia z ATP"," nosičový proteín"," permeabilita membrány pre danú látku"," koncentračný gradient transportovanej látky"]
 },
 {
@@ -1298,31 +1298,31 @@ let questions = [
 {
   numb: 217,
   question: " cAMP:",
-  answer: [" na jeho degradácii sa podieľa fosfodiesteráza, sprostredkuje účinok adrenalínu po väzba na β-adrenergné receptory"],
+  answer: [" na jeho degradácii sa podieľa fosfodiesteráza"," sprostredkuje účinok adrenalínu po väzba na β-adrenergné receptory"],
   options: [" vytvára sa pôsobením cytozolového enzýmu"," na jeho degradácii sa podieľa fosfodiesteráza"," aktivuje tyrozínšpecifickú proteínkinázu"," sprostredkuje účinok adrenalínu po väzba na β-adrenergné receptory"]
 },
 {
   numb: 218,
   question: " Inozitoltrifosfát ovplyvňuje metabolické procesy tým, že:",
-  answer: [" vedie k vyplaveniu Ca2+ z hladkého endoplazmatického retikula v myokarde, vedie k vyplaveniu Ca2+ z hladkého endoplazmatického retikula v hladkom svale"],
+  answer: [" vedie k vyplaveniu Ca2+ z hladkého endoplazmatického retikula v myokarde"," vedie k vyplaveniu Ca2+ z hladkého endoplazmatického retikula v hladkom svale"],
   options: [" aktivuje proteínkinázu C"," vedie k vyplaveniu Ca2+ z hladkého endoplazmatického retikula v myokarde"," vedie k vyplaveniu Ca2+ z hladkého endoplazmatického retikula v hladkom svale"," zvyšuje priepustnosť bunkovej membrány pre Na+"]
 },
 {
   numb: 219,
   question: " Ktoré z uvedených aminokyselín sa môžu fosforylovať pôsobením proteínkináz:",
-  answer: [" serín, tyrozín, treonín"],
+  answer: [" serín"," tyrozín"," treonín"],
   options: [" serín"," tyrozín"," kyslé aminokyseliny"," treonín"]
 },
 {
   numb: 220,
   question: " Steroidné hormóny:",
-  answer: [" viažu sa na cytozolové receptory, ich miesto účinku je v jadre"],
+  answer: [" viažu sa na cytozolové receptory"," ich miesto účinku je v jadre"],
   options: [" viažu sa na cytozolové receptory"," ich miesto účinku je v jadre"," vyžadujú pri svojom účinku cAMP ako druhý posol"," stimulujú štiepenie tkanivových bielkovín"]
 },
 {
   numb: 221,
   question: " Transport látok z miesta s vyššou koncentráciou na miesto s nižšou koncentráciou je možný:",
-  answer: [" jednoduchou difúziou, sprostredkovanou difúziou"],
+  answer: [" jednoduchou difúziou"," sprostredkovanou difúziou"],
   options: [" jednoduchou difúziou"," primárnym aktívnym transportom"," sprostredkovanou difúziou"," sekundárnym aktívnym transportom"]
 },
 ];
