@@ -2150,7 +2150,7 @@ let questions = [
 {
   numb: 359,
   question: " Reakcia, ktorou sa tvorí UDP- glukóza:",
-  answer: [" je katalyzovaná enzýmom UDPG-fosforyláza"," vedie k tvorbe zlúčeniny, ktorá je substrátom glykogénsyntázy"],
+  answer: [" je katalyzovaná enzýmom UDPG-fosforyláza", " je to reakcia aktivácie glukózy pri syntéze glykogénu", " vedie k tvorbe zlúčeniny, ktorá je substrátom glykogénsyntázy"],
   options: [" je katalyzovaná enzýmom UDPG-fosforyláza"," je to reakcia aktivácie glukózy pri syntéze glykogénu"," vedie k tvorbe zlúčeniny, ktorá je substrátom glykogénfosforylázy"," vedie k tvorbe zlúčeniny, ktorá je substrátom glykogénsyntázy"]
 },
 {
@@ -2378,7 +2378,7 @@ let questions = [
 {
   numb: 397,
   question: " oGTT informuje o:",
-  answer: [" časových zmenách glykémie"," pôsobení inzulínu v organizme"],
+  answer: [" časových zmenách glykémie"," pôsobení inzulínu v organizme", " hormonálnej regulácii metabolizmu glukózy"],
   options: [" časových zmenách glykémie"," pôsobení inzulínu v organizme"," hormonálnej regulácii metabolizmu glukózy"," stave β-buniek pankreasu"]
 },
 {
