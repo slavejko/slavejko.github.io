@@ -3083,4 +3083,232 @@ let questions = [
   answer: ["- Nič"],
   options: [" je nasýtená VKK"," má 17 uhlíkov vo svojom reťazci"," je esenciálna VKK"," jej β-oxidáciou sa získa 24 ATP"]
 },
+
+
+
+
+************************************
+
+
+{
+  numb: 515,
+  question: " Pre aktivitu acetyl-CoA karboxylázy platí:",
+  answer: [" fosforylovaná je neaktívna"],
+  options: [" jej substrátovým aktivátorom môže byť citrát"," je potrebná pre β-oxidáciu VKK"," jej aktivitu zvyšuje glukagón"," fosforylovaná je neaktívna"]
+},
+{
+  numb: 516,
+  question: " Syntéza VKK:",
+  answer: [" prebieha v cytoplazme"],
+  options: [" prebieha v mitochondriách"," prebieha v cytoplazme"," glukagón ju zvyšuje"," inzulín ju znižuje"]
+},
+{
+  numb: 517,
+  question: " HDL častice:",
+  answer: [" sú substrátom pre LCAT"],
+  options: [" obsahujú najviac cholesterolu zo všetkých lipoproteínov"," transportujú cholesterol z pečene do tkanív"," sú substrátom pre LCAT"," podieľajú sa na vzniku aterosklerózy"]
+},
+{
+  numb: 518,
+  question: " Apoproteín C:",
+  answer: [" jeho deficit spôsobuje zvýšenie hladiny chylomikrónov"," aktivuje lipoproteínovú lipázu"," nachádza sa vo VLDL časticiach"],
+  options: [" jeho deficit spôsobuje zvýšenie hladiny chylomikrónov"," aktivuje lipoproteínovú lipázu"," nachádza sa vo VLDL časticiach"," je aktivátorom hormónsenzitívnej lipázy"]
+},
+{
+  numb: 519,
+  question: " Pre hyperlipoproteinémiu typ IV platí:",
+  answer: [" je najčastejšie vyskytujúci sa typ v našej populácii", " v krvi výrazne stúpa hladina VLDL"],
+  options: [" je najčastejšie vyskytujúci sa typ v našej populácii"," ide o zvýšenú hladinu exogénnych TAG v krvi"," ide o dominantné zvýšenie beta frakcie na elektroforeograme"," v krvi výrazne stúpa hladina VLDL"]
+},
+{
+  numb: 520,
+  question: " Kyselina olejová:",
+  answer: ["- nič"],
+  options: [" je nasýtená VKK"," má 17 uhlíkov vo svojom reťazci"," je esenciálna VKK"," jej β-oxidáciou sa získava 24 ATP"]
+},
+{
+  numb: 521,
+  question: " Cholesterol je potrebný na syntézu:",
+  answer: [" aldosterónu"," vitamínu D"," kortizolu"],
+  options: [" aldosterónu"," lanosterolu"," vitamínu D"," kortizolu"]
+},
+{
+  numb: 522,
+  question: " K medziproduktom syntézy lipidov patrí:",
+  answer: [" kyselina fosfatidová"," sfingozín"],
+  options: [" kyselina fosfatidová"," kyselina cholová"," sfingozín"," karnitín"]
+},
+{
+  numb: 523,
+  question: " Hladina celkového cholesterolu v krvi:",
+  answer: [" je ovplyvnená vekom"," je vyššia u dospelých ako u detí"," sa stanovuje enzymaticky"],
+  options: [" je vyššia u žien ako u mužov"," je ovplyvnená vekom"," je vyššia u dospelých ako u detí"," sa stanovuje enzymaticky"]
+},
+{
+  numb: 524,
+  question: " HMG-CoA reduktáza:",
+  answer: [" je dôležitým regulačným enzýmom syntézy cholesterolu"," jej aktivita je inhibovaná cholesterolom"," je aktivovaná inzulínom"],
+  options: [" je dôležitým regulačným enzýmom syntézy cholesterolu"," fosforylovaná je aktívna"," jej aktivita je inhibovaná cholesterolom"," je aktivovaná inzulínom"]
+},
+{
+  numb: 525,
+  question: " β-oxidácia:",
+  answer: [" je cyklus zahrňujúci proces hydratácie"," jej vysoká aktivita je hlavne v srdci a kostrovom svale"],
+  options: [" je proces prebiehajúci v cytoplazme všetkých buniek"," jedným z jej produktov je malonyl-CoA"," je cyklus zahrňujúci proces hydratácie"," jej vysoká aktivita je hlavne v srdci a kostrovom svale"]
+},
+{
+  numb: 526,
+  question: " HDL-cholesterol:",
+  answer: [" je transportovaný z tkanív do pečene"," pri elektroforetickom delení sa nachádza v α-frakcii"," sa v jadre HDL častice nachádza ako ester cholesterolu"],
+  options: [" je transportovaný z tkanív do pečene"," podieľa sa na vzniku aterosklerózy"," pri elektroforetickom delení sa nachádza v α-frakcii"," sa v jadre HDL častice nachádza ako ester cholesterolu"]
+},
+{
+  numb: 527,
+  question: " Lipoproteínová lipáza je aktivovaná:",
+  answer: [" apoproteínom C"],
+  options: [" apoproteínom A"," apoproteínom C"," apoproteínom B"," apoproteínom D"]
+},
+{
+  numb: 528,
+  question: " O reverznom transporte cholesterolu platí:",
+  answer: [" podieľa sa na udržiavaní hladiny cholesterolu v bunkách"," umožňuje transport cholesterolu do pečene"],
+  options: [" podieľa sa na udržiavaní hladiny cholesterolu v bunkách"," umožňuje transport cholesterolu do pečene"," uskutočňuje ho LDL"," ide o transport cholesterolu z pečene do buniek"]
+},
+{
+  numb: 529,
+  question: " Zvýšená hladina TAG v krvi môže byť vyvolaná:",
+  answer: [" zníženou aktivitou LPL"," zvýšeným príjmom sacharidov v potrave"," zníženou funkciou štítnej žľazy"],
+  options: [" zníženou aktivitou LPL"," zvýšeným príjmom sacharidov v potrave"," zvýšenou tvorbou apoproteínu C"," zníženou funkciou štítnej žľazy"]
+},
+{
+  numb: 530,
+  question: " Pre acetyl-CoA platí:",
+  answer: [" jeho zdrojom môže byť ketogénna aminokyselina"],
+  options: [" jeho zdrojom môže byť ketogénna aminokyselina"," vzniká β-oxidáciou VKK v cytoplazme"," jeho oxidáciou v Krebsovom cykle vzniká 24 ATP"," do mitochondrie je transportovaný vo forme acylkarnitínu"]
+},
+{
+  numb: 531,
+  question: " Glycerolkináza:",
+  answer: [" jej substrátom je ATP"],
+  options: [" je potrebná pre aktiváciu VKK"," jej substrátom je ATP"," je aktívna v adipocytoch"," nachádza sa v mitochondriách"]
+},
+{
+  numb: 532,
+  question: " Cholesterol:",
+  answer: [" patrí medzi steroidné látky"," v nadbytku inhibuje HMG-CoA reduktázu"],
+  options: [" je zložený lipid"," patrí medzi steroidné látky"," esterifikovaný je stavebnou zložkou membrán"," v nadbytku inhibuje HMG-CoA reduktázu"]
+},
+{
+  numb: 533,
+  question: " Medzi funkcie lipoproteínov patrí:",
+  answer: [" HDL zabezpečuje reverzný transport cholesterolu"," aktivácia lipoproteínovej lipázy"],
+  options: [" LDL zabezpečuje reverzný transport cholesterolu"," HDL zabezpečuje reverzný transport cholesterolu"," aktivácia hormónsenzitívnej lipázy"," aktivácia lipoproteínovej lipázy"]
+},
+{
+  numb: 534,
+  question: " Ketogenéza:",
+  answer: [" prebieha najmä pri noninzulíndependentnom diabete"],
+  options: [" nemá výraznejší vplyv na acidobázickú homeostázu"," je stimulovaná hormónom aktivujúcim HSL v adipocytoch"," enzým jantarylCoA - transferáza je jej dôležitou súčasťou"," prebieha najmä pri noninzulíndependentnom diabete"]
+},
+{
+  numb: 535,
+  question: " AcetoacetylCoA:",
+  answer: [" aktivitou jantarylCoA - transferázy vzniká z kyseliny acetoctovej a sukcinylCoA"," pri syntéze ketolátok v mitochondrii sa mení na betahydroxybetametylglutarylCoA"," predstavuje substrát pre tiolázu, pričom sa tioklastickým štiepením mení na dve molekuly aktívneho acetátu"],
+  options: [" aktivitou jantarylCoA - transferázy vzniká z kyseliny acetoctovej a sukcinylCoA"," pri syntéze ketolátok v mitochondrii sa mení na betahydroxybetametylglutarylCoA"," predstavuje substrát pre tiolázu, pričom sa tioklastickým štiepením mení na dve molekuly aktívneho acetátu"," sukcinylCoA - transferáza je enzým jeho tvorby v ketogenéze"]
+},
+{
+  numb: 536,
+  question: " Kyselina β-hydroxymaslová:",
+  answer: [" jej vznik aj využitie prebieha v mitochondrii"],
+  options: [" je produktom degradácie pyrimidínových nukleotidov"," jej vznik aj využitie prebieha v mitochondrii"," jej premena na acetoacetát pri utilizácii ketolátok je energeticky nevýznamná"," sa laboratórne stanovuje spolu s acetónom"]
+},
+{
+  numb: 537,
+  question: " Chylomikróny:",
+  answer: [" transportujú cholesterol prijímaný v potrave do pečene"," TAG sa z nich uvoľňujú pomocou LPL"," sú lipoproteíny s najnižšou hustotou"],
+  options: [" transportujú cholesterol prijímaný v potrave do pečene"," ich základnou zložkou sú endogénne TAG"," TAG sa z nich uvoľňujú pomocou LPL"," sú lipoproteíny s najnižšou hustotou"]
+},
+{
+  numb: 538,
+  question: " Apoproteín A sa nenachádza v:",
+  answer: [" VLDL"," LDL"],
+  options: [" HDL"," chylomikrónoch"," VLDL"," LDL"]
+},
+{
+  numb: 539,
+  question: " Jadro lipoproteínových častíc obsahuje:",
+  answer: [" TAG"],
+  options: [" fosfolipidy"," VKK"," cholesterol"," TAG"]
+},
+{
+  numb: 540,
+  question: " Hormónsenzitívna lipáza:",
+  answer: [" je aktivovaná glukagónom"],
+  options: [" nachádza sa v hepatocytoch"," je aktívna defosforylovaná"," je aktivovaná glukagónom"," štiepi exogénne TAG"]
+},
+{
+  numb: 541,
+  question: " Medzi zložené lipidy nepatria:",
+  answer: [" cholesterol"," sfingozín"," triacylglyceroly"],
+  options: [" cholesterol"," sfingozín"," cerebrozidy"," triacylglyceroly"]
+},
+{
+  numb: 542,
+  question: " Na syntézu cholesterolu je potrebný enzým:",
+  answer: [" HMG-CoA reduktáza"],
+  options: [" Acyl-CoA dehydrogenáza"," Acetyl-CoA karboxyláza"," HMG-CoA reduktáza"," cholesterol syntáza"]
+},
+{
+  numb: 543,
+  question: " Hlavnou funkciou triacylglycerolov je, že sú:",
+  answer: [" tepelnou izoláciou"," zdrojom energie"," mechanickou ochranou pre niektoré tkanivá"],
+  options: [" stavebnou zložkou membrán"," tepelnou izoláciou"," zdrojom energie"," mechanickou ochranou pre niektoré tkanivá"]
+},
+{
+  numb: 544,
+  question: " Miestom syntézy endogénnych triacylglycerolov je najmä:",
+  answer: [" pečeň"],
+  options: [" tenké črevo"," oblička"," pankreas"," pečeň"]
+},
+{
+  numb: 545,
+  question: " Alfa-lipoproteínom zodpovedajú:",
+  answer: [" HDL"],
+  options: [" VLDL"," LDL"," HDL"," chylomikróny"]
+},
+{
+  numb: 546,
+  question: " Fyziologické hodnoty triacylglycerolov v krvnej plazme sú okolo:",
+  answer: [" 1-2 mmol/l"],
+  options: [" 3-5 mmol/l"," 1-2 mmol/l"," 0,5-3,5 μmol/l"," 0,5-2 mol/l"]
+},
+{
+  numb: 547,
+  question: " Glycerolkináza:",
+  answer: [" nachádza sa v pečeni", " potrebuje ATP ako substrát"],
+  options: [" nachádza sa v tukovom tkanive"," nachádza sa v pečeni"," je potrebná pre aktiváciu vyšších karboxylových kyselín"," potrebuje ATP ako substrát"]
+},
+{
+  numb: 548,
+  question: " Fanconiho syndróm je:",
+  answer: [" vrodená glykozúria"],
+  options: [" vrodená glykozúria"," získaná glykozúria"," diabetes mellitus"," ochorenie pankreasu"]
+},
+{
+  numb: 549,
+  question: " Hormónsenzitívna lipáza štiepi:",
+  answer: [" TAG"],
+  options: [" cholesterolestery"," chylomikróny"," VLDL"," TAG"]
+},
+{
+  numb: 550,
+  question: " Zníženie využívania acetyl-CoA pri diabete podmieňuje:",
+  answer: [" nedostatok inzulínu"," nedostatok kyseliny oxaloctovej"],
+  options: [" nedostatok inzulínu"," nedostatok kyseliny oxaloctovej"," zvýšená aktivita glukoneogenézy"," znížená hladina glukagónu"]
+},
+
+
+
+
+
 ];
