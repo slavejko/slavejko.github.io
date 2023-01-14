@@ -476,7 +476,7 @@ let questions = [
 {
   numb: 80,
   question: " Gi proteín:",
-  answer: [" skladá sa z troch podjednotiek"," je v aktívnom stave, keď je na alfa-podjednotku naviazaný na GDP"," jeho aktivácia vedie k poklesu cAMP v cytosole"],
+  answer: [" skladá sa z troch podjednotiek"," je v aktívnom stave, keď je na alfa-podjednotku naviazaný GTP"," jeho aktivácia vedie k poklesu cAMP v cytosole"],
   options: [" skladá sa z troch podjednotiek"," je v aktívnom stave, keď je na alfa-podjednotku naviazaný na GDP"," je v aktívnom stave, keď je na alfa-podjednotku naviazaný GTP"," jeho aktivácia vedie k poklesu cAMP v cytosole"]
 },
 {
@@ -944,7 +944,7 @@ let questions = [
 {
   numb: 158,
   question: " Cytozolové receptory:",
-  answer: [" uplatňujú sa pri účinku vitamínu D, sú potrebné pre sprostredkovanie účinku kortizolu, po väzbe hormónu vstupujú do jadra a regulujú expresiu génov"],
+  answer: [" uplatňujú sa pri účinku vitamínu D"," sú potrebné pre sprostredkovanie účinku kortizolu"," po väzbe hormónu vstupujú do jadra a regulujú expresiu génov"],
   options: [" aktivujú sa cAMP"," uplatňujú sa pri účinku vitamínu D"," sú potrebné pre sprostredkovanie účinku kortizolu"," po väzbe hormónu vstupujú do jadra a regulujú expresiu génov"]
 },
 {
