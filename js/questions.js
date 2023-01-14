@@ -398,7 +398,7 @@ let questions = [
 {
   numb: 67,
   question: " Kyselina fosfatidová:",
-  answer: [" obsahuje fosfoesterovú väzbu"," obsahuje karboxyesterovú väzbu"," vzniká z trojsýtneho alkoholu"],
+  answer: [" obsahuje fosfoesterovú väzbu"," vzniká z trojsýtneho alkoholu"],
   options: [" obsahuje fosfoesterovú väzbu"," vzniká z dvojsýtneho alkoholu"," obsahuje karboxyesterovú väzbu"," vzniká z trojsýtneho alkoholu"]
 },
 {
@@ -441,7 +441,7 @@ let questions = [
   numb: 74,
   question: " Hydrofóbne hormóny:",
   answer: [" ovplyvňujú bunkové procesy po vstupe do buniek"," viažu sa na intracelulárne receptory"," zvyšujú syntézu cAMP"],
-  options: [" ovplyvňujú bunkové procesy po vstupe do buniek"," viažu sa na intracelulárne receptory"," zvyšujú syntézu cAMP"," môžu meniť permeabilitu bunkových membrán pre ióny"]
+  options: [" ovplyvňujú bunkové procesy po vstupe do buniek"," viažu sa na intracelulárne receptory"," môžu meniť permeabilitu bunkových membrán pre ióny"]
 },
 {
   numb: 75,
@@ -644,7 +644,7 @@ let questions = [
 {
   numb: 108,
   question: " Ca2+ ióny:",
-  answer: [" sú transportované do cytosolu pomocou iónových kanálov"," ich koncentrácia v endoplazmatickom retikule je vyššia ako v cytosole"],
+  answer: [" sú transportované do cytosolu pomocou iónových kanálov"," sú transportované do cytosolu Ca2+-závislou ATP-ázou", " ich koncentrácia v endoplazmatickom retikule je vyššia ako v cytosole"],
   options: [" sú transportované do cytosolu Ca2+-závislou ATP-ázou"," ich koncentrácia v cytosole je vyššia ako mimo bunky"," sú transportované do cytosolu pomocou iónových kanálov"," ich koncentrácia v endoplazmatickom retikule je vyššia ako v cytosole"]
 },
 {
@@ -860,7 +860,7 @@ let questions = [
 {
   numb: 144,
   question: " Sekundárny aktívny transport vyžaduje:",
-  answer: [" koncentračný gradient iónov"," energiu z ATP"," transportné bielkoviny pre transport iónov a transportovanú látku"," transportný systém"," ktorý regeneruje gradient iónov"],
+  answer: [" koncentračný gradient iónov"," energiu z ATP"," transportné bielkoviny pre transport iónov a transportovanú látku"," transportný systém, ktorý regeneruje gradient iónov"],
   options: [" koncentračný gradient iónov"," energiu z ATP"," transportné bielkoviny pre transport iónov a transportovanú látku"," transportný systém, ktorý regeneruje gradient iónov"]
 },
 {
@@ -932,7 +932,7 @@ let questions = [
 {
   numb: 156,
   question: " Hydrofóbne látky:",
-  answer: [" ovplyvňujú bunkové procesy po ich vstupe do buniek"," viažu sa na intracelulárne receptory"," zvyšujú syntézu cAMP"],
+  answer: [" ovplyvňujú bunkové procesy po ich vstupe do buniek"," viažu sa na intracelulárne receptory"],
   options: [" ovplyvňujú bunkové procesy po ich vstupe do buniek"," viažu sa na intracelulárne receptory"," zvyšujú syntézu cAMP"," môžu meniť permeabilitu bunkových membrán pre ióny"]
 },
 {
@@ -962,7 +962,7 @@ let questions = [
 {
   numb: 161,
   question: " Hydrofóbne hormóny:",
-  answer: [" ovplyvňujú bunkové procesy po vstupe do buniek"," viažu sa na intracelulárne receptory"," zvyšujú syntézu cAMP"],
+  answer: [" ovplyvňujú bunkové procesy po vstupe do buniek"," viažu sa na intracelulárne receptory"],
   options: [" ovplyvňujú bunkové procesy po vstupe do buniek"," viažu sa na intracelulárne receptory"," zvyšujú syntézu cAMP"," môžu meniť permeabilitu bunkových membrán pre ióny"]
 },
 {
@@ -998,7 +998,7 @@ let questions = [
 {
   numb: 167,
   question: " Gi proteín:",
-  answer: [" skladá sa z troch podjednotiek"," je v aktívnom stave"," keď je na alfa-podjednotku naviazaný GTP"," jeho aktivácia vedie k poklesu cAMP v cytosole"],
+  answer: [" skladá sa z troch podjednotiek"," je v aktívnom stave, keď je na alfa-podjednotku naviazaný GTP"," jeho aktivácia vedie k poklesu cAMP v cytosole"],
   options: [" skladá sa z troch podjednotiek"," je v aktívnom stave, keď je na alfa-podjednotku naviazaný na GDP"," je v aktívnom stave, keď je na alfa-podjednotku naviazaný GTP"," jeho aktivácia vedie k poklesu cAMP v cytosole"]
 },
 {
@@ -1016,7 +1016,7 @@ let questions = [
 {
   numb: 170,
   question: " Hydrofilné hormóny môžu sprostredkovať prenos signálu do cieľovej bunky:",
-  answer: [" prostredníctvom cAMP, prostredníctvom Ca2+ iónov"],
+  answer: [" prostredníctvom cAMP"," prostredníctvom Ca2+ iónov"],
   options: [" prostredníctvom cytosolového receptoru"," prostredníctvom jadrového receptoru"," prostredníctvom cAMP"," prostredníctvom Ca2+ iónov"]
 },
 {
@@ -1166,7 +1166,7 @@ let questions = [
 {
   numb: 195,
   question: " Ca2+ ióny:",
-  answer: [" sú transportované do cytosolu pomocou iónových kanálov"," ich koncentrácia v endoplazmatickom retikule je vyššia ako v cytosole"],
+  answer: [" sú transportované do cytosolu pomocou iónových kanálov"," ich koncentrácia v endoplazmatickom retikule je vyššia ako v cytosole", " sú transportované do cytosolu pomocou iónových kanálov"],
   options: [" sú transportované do cytosolu Ca2+-závislou ATP-ázou"," ich koncentrácia v cytosole je vyššia ako mimo bunky"," sú transportované do cytosolu pomocou iónových kanálov"," ich koncentrácia v endoplazmatickom retikule je vyššia ako v cytosole"]
 },
 {
