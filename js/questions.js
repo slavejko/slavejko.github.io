@@ -1544,13 +1544,13 @@ let questions = [
 {
   numb: 258,
   question: " Glukoneogenéza je syntéza glukózy z:",
-  answer: [" karboxylových kyselín"," aminokyselín"," glycerolu"],
+  answer: [" aminokyselín"," glycerolu"],
   options: [" karboxylových kyselín"," aminokyselín"," glykogénu"," glycerolu"]
 },
 {
   numb: 259,
   question: " Počas hladovania:",
-  answer: [" z glykogénu v pečeni sa uvoľňuje glukóza do krvi"," pečeň využíva karboxylové kyseliny pre glukoneogenézu"],
+  answer: [" z glykogénu v pečeni sa uvoľňuje glukóza do krvi"],
   options: [" glykogén zo svalov je zdroj glukózy v krvi"," z glykogénu v pečeni sa uvoľňuje glukóza do krvi"," karboxylové kyseliny z tukového tkaniva sa oxidujú v erytrocytoch"," pečeň využíva karboxylové kyseliny pre glukoneogenézu"]
 },
 {
@@ -1580,7 +1580,7 @@ let questions = [
 {
   numb: 264,
   question: " Spoločným medziproduktom metabolizmu cukrov, tukov a bielkovín je:",
-  answer: [" A,","acetylCoa vzniká z pyruvátu v matrix mitochondrie","môže vznikať aj beta-oxidáciou mastných kyselín a z AMK"],
+  answer: [" zlúčenina vstupujúca do Krebsovho cyklu"],
   options: [" zlúčenina vstupujúca do Krebsovho cyklu"," acetyl-CoA tvorený v cytosole a následne transportovaný do mitochondrií"," CO2 a H2O"," za anaeróbnych podmienok laktát"]
 },
 {
@@ -1652,7 +1652,7 @@ let questions = [
 {
   numb: 276,
   question: " Reakcia glykolýzy, v ktorej dochádza k štiepeniu fosforylovanej hexózy:",
-  answer: [" je katalyzovaná enzýmom, ktorý patrí medzi lyázy"," vedie k vzniku glyceraldehyd-3-fosfátu, ktorý sa ďalej metabolizuje v glykolýze"],
+  answer: [" je katalyzovaná enzýmom, ktorý patrí medzi lyázy"," vedie k vzniku glyceraldehyd-3-fosfátu, ktorý sa ďalej metabolizuje v glykolýze"," reakcia je inhibovaná ATP"],
   options: [" je katalyzovaná enzýmom, ktorý patrí medzi lyázy"," syntetizuje dve fosforylované aldotriózy"," vedie k vzniku glyceraldehyd-3-fosfátu, ktorý sa ďalej metabolizuje v glykolýze"," reakcia je inhibovaná ATP"]
 },
 {
