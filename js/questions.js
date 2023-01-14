@@ -2723,4 +2723,364 @@ let questions = [
   answer: [" katalyzuje premenu intermediátu vzniknutého z betahydroxybetametylglutarylCoA po odštiepenie aktívneho acetylu", " patrí medzi oxidoredukčné enzýmy"],
   options: [" katalyzuje premenu intermediátu vzniknutého z betahydroxybetametylglutarylCoA po odštiepenie aktívneho acetylu"," je aktivita dependentná na koenzýme obsahujúcom izoaloxazínovú štruktúru"," má aktivitu enzýmu LD 1,2"," patrí medzi oxidoredukčné enzýmy"]
 },
+{
+  numb: 455,
+  question: " V systéme tvorby ketolátok:",
+  answer: [" sa acetyl-CoA-karboxyláza fosforyluje na neaktívnu formu"," dochádza v tukovom tkanive ku zvýšenému štiepeniu TAG"],
+  options: [" znížená hladina glukagónu aktivuje lipolýzu"," je aktivita karnitínacyltransferázy inhibovaná zníženou hladinou malonyl-CoA"," sa acetyl-CoA-karboxyláza fosforyluje na neaktívnu formu"," dochádza v tukovom tkanive ku zvýšenému štiepeniu TAG"]
+},
+{
+  numb: 456,
+  question: " Aktivovaná karboxylová kyselina sa do mitochondrie prenáša:",
+  answer: [" využitím karnitínacyltransferázy I na vonkajšej strane vnútornej mitochondriovej membrány"],
+  options: [" aktívnym transportom"," využitím karnitínacyltransferázy I na vonkajšej strane vnútornej mitochondriovej membrány"," využitím karnitínacyltransferázy II na vnútornej strane vnútornej mitochondriovej membrány"," pomocou CoA"]
+},
+{
+  numb: 457,
+  question: " Pri oxidácii kyseliny palmitovej v procese β-oxidácie:",
+  answer: [" cyklus β-oxidácie prebehne 7 krát"," sa vytvára 7 NADH+H+, 7 FADH2 a 8 acetyl-CoA"," sa na celkovom energetickom zisku podieľa aj substrátová fosforylácia"],
+  options: [" cyklus β-oxidácie prebehne 7 krát"," sa vytvára 7 NADH+H+, 7 FADH2 a 8 acetyl-CoA"," oxidáciou vytvoreného acetyl-CoA v Krebsovom cykle vzniká 88 ATP"," sa na celkovom energetickom zisku podieľa aj substrátová fosforylácia"]
+},
+{
+  numb: 458,
+  question: " ATP citrátlyáza a citrátsyntáza sú enzýmy, ktoré:",
+  answer: [" sú súčasťou transportu acetyl-CoA z mitochondrie do cytosolu"],
+  options: [" zúčastňujú sa oxidácie VKK"," sú súčasťou transportu acetyl-CoA z mitochondrie do cytosolu"," sú aktivované inzulínom"," sú inhibované ATP"]
+},
+{
+  numb: 459,
+  question: " Ktoré bunky ľudského organizmu syntetizujú a skladujú triacylglyceroly:",
+  answer: [" pečeňové bunky"," bunky tukového tkaniva"," enterocyty"],
+  options: [" všetky bez výnimky"," pečeňové bunky"," bunky tukového tkaniva"," enterocyty"]
+},
+{
+  numb: 460,
+  question: " Ketogenéza:",
+  answer: [" prebieha najmä pri noninzulíndependentnom diabete"],
+  options: [" nemá výraznejší vplyv na acidobázickú homeostázu"," je stimulovaná hormónom aktivujúcim HSL v adipocytoch"," enzým jantarylCoA - transferáza je jej dôležitou súčasťou"," prebieha najmä pri noninzulíndependentnom diabete"]
+},
+{
+  numb: 461,
+  question: " AcetoacetylCoA:",
+  answer: [" aktivitou jantarylCoA - transferázy vzniká z kyseliny acetoctovej a sukcinyl CoA"," pri syntéze ketolátok v mitochondrii sa mení na betahydroxybetametylglutarylCoA"," predstavuje substrát pre tiolázu, pričom sa tioklastickým štiepením mení na dve molekuly aktívneho acetátu"],
+  options: [" aktivitou jantarylCoA - transferázy vzniká z kyseliny acetoctovej a sukcinyl CoA"," pri syntéze ketolátok v mitochondrii sa mení na betahydroxybetametylglutarylCoA"," predstavuje substrát pre tiolázu, pričom sa tioklastickým štiepením mení na dve molekuly aktívneho acetátu"," sukcinylCoA - transferáza je enzým jeho tvorby v ketogenéze"]
+},
+{
+  numb: 462,
+  question: " Kyselina β-hydroxymaslová:",
+  answer: [" jej vznik aj využitie prebieha v mitochondrii"],
+  options: [" je produktom degradácie pyrimidínových nukleotidov"," jej vznik aj využitie prebieha v mitochondrii"," jej premena na acetoacetát pri utilizácii ketolátok je energeticky nevýznamná"," sa laboratórne stanovuje spolu s acetónom"]
+},
+{
+  numb: 463,
+  question: " Počas dlhodobého hladovania dochádza v sére k zmenám:",
+  answer: [" stúpa glukagón"," KK sa zvyšujú aktiváciou hormónsenzitívnej lipázy"],
+  options: [" stúpa glukagón"," klesajú ketolátky"," KK sa zvyšujú aktiváciou hormónsenzitívnej lipázy"," glykémia vo fyziologických hodnotách"]
+},
+{
+  numb: 464,
+  question: " Pri nedostatku glukózy nemôžu využívať KK ako zdroj energie:",
+  answer: [" erytrocyty"," tkanivo CNS"],
+  options: [" erytrocyty"," tkanivo CNS"," pečeň"," sval"]
+},
+{
+  numb: 465,
+  question: " Hormóny, ktoré môžu zvýšiť glykémiu sú:",
+  answer: [" adrenalín"," kortizol"," glukagón"],
+  options: [" parathormón"," adrenalín"," kortizol"," glukagón"]
+},
+{
+  numb: 466,
+  question: " Grafické vyjadrenie zmien glykémie po podaní glukózy označujeme ako:",
+  answer: [" glykemická krivka"],
+  options: [" glykemický profil"," glykémia"," glykemická krivka"," glukózotolerančný test"]
+},
+{
+  numb: 467,
+  question: " Hydroxybutyrátdehydrogenáza je enzým:",
+  answer: [" katalyzuje enzým. redukciu kyseliny acetoctovej na β-hydroxybutyrát"," má ako koenzým NAD"],
+  options: [" tvorí acetón z kyseliny acetoctovej"," oxiduje acetoacetát na kyselinu β-hydroxymaslovú"," katalyzuje enzým. redukciu kyseliny acetoctovej na β-hydroxybutyrát"," má ako koenzým NAD"]
+},
+{
+  numb: 468,
+  question: " Po aktiváciu KK vstupuje do β-oxidácie:",
+  answer: [" acylCoA"],
+  options: [" acyladenylát"," aminoacyladenylát"," aminoacyl"," acylCoA"]
+},
+{
+  numb: 469,
+  question: " Lipoproteíny sa môžu deliť:",
+  answer: [" elektroforézou podľa pohyblivosti v elektrickom poli"," na základe veľkosti náboja, ktorý je závislý k bielkovinovej zložke častice"],
+  options: [" ultracentrifugáciou podľa veľkosti častíc"," gélovou filtráciou podľa hustoty"," elektroforézou podľa pohyblivosti v elektrickom poli"," na základe veľkosti náboja, ktorý je závislý k bielkovinovej zložke častice"]
+},
+{
+  numb: 470,
+  question: " Zvýšená hladina LDL v sére:",
+  answer: [" je často spojená so zvýšeným rizikom aterosklerózy"," môže byť spôsobená geneticky podmieneným defektom LDL receptorov"," nad 4,2 mmol/l je vysoko riziková"],
+  options: [" sa prejaví vzostupom alfa-frakcie pri elektroforéze"," je často spojená so zvýšeným rizikom aterosklerózy"," môže byť spôsobená geneticky podmieneným defektom LDL receptorov"," nad 4,2 mmol/l je vysoko riziková"]
+},
+{
+  numb: 471,
+  question: " Zvýšená hladina voľného cholesterolu v bunkách:",
+  answer: [" ovplyvní syntézu LDL receptorov"," ovplyvní aktivitu HMG-CoA-reduktázy"," ovplyvní aktivitu enzýmu, ktorý esterifikuje cholesterol"],
+  options: [" ovplyvní syntézu LDL receptorov"," ovplyvní aktivitu HMG-CoA-reduktázy"," ovplyvní aktivitu enzýmu, ktorý esterifikuje cholesterol"," ovplyvní aktivitu hormón senzitívnej lipázy"]
+},
+{
+  numb: 472,
+  question: " Štruktúra lipoproteínových častíc:",
+  answer: [" voľný cholesterol sa nachádza v obale"," hydrofóbne zložky sa nachádzajú v jadre častice"," bielkoviny svojim hydrofilným charakterom umožňujú transport lipidov v..."],
+  options: [" voľný cholesterol sa nachádza v obale"," hydrofóbne zložky sa nachádzajú v jadre častice"," triacylglyceroly sú povrchové častice"," bielkoviny svojim hydrofilným charakterom umožňujú transport lipidov v..."]
+},
+{
+  numb: 473,
+  question: " Lipoproteínová lipáza:",
+  answer: [" jej aktivátorom je apoproteín C"],
+  options: [" zúčastňuje sa lipolýzy v adipocytoch"," v defosforylovanom stave je neaktívna"," štiepi TAG v glykoproteínoch"," jej aktivátorom je apoproteín C"]
+},
+{
+  numb: 474,
+  question: " Chylomikróny:",
+  answer: [" v ich metabolizme vznikajú povrchové a jadrové remnanty"," nie sú metabolizované u pacientov s hyperlipoproteinémiou typu I"," transportujú v krvi exogénne TAG"],
+  options: [" sa syntetizujú v hepatocytoch"," v ich metabolizme vznikajú povrchové a jadrové remnanty"," nie sú metabolizované u pacientov s hyperlipoproteinémiou typu I"," transportujú v krvi exogénne TAG"]
+},
+{
+  numb: 475,
+  question: " Pri hyperlipoproteinémií typu I:",
+  answer: [" je zvýšená hladina TAG v sére"],
+  options: [" je najvyššie riziko aterosklerózy"," je zvýšená hladina TAG v sére"," sérum je skalené"," je zvýšená endogénna syntéza TAG"]
+},
+{
+  numb: 476,
+  question: " O poruchách metabolizmu lipoproteínov platí:",
+  answer: [" pri ich zisťovaní sa vyšetrujú: hladiny TAG a cholesterolu v sére, vzhľad..."," znížená až chýbajúca frakcia beta- lipoproteínov sa označuje abetalipoproteinémia"],
+  options: [" kvantitatívne zmeny sa označujú dyslipoproteinémie"," primárne hyperlipoproteinémie sú najčastejšie podmienené stravou"," pri ich zisťovaní sa vyšetrujú: hladiny TAG a cholesterolu v sére, vzhľad..."," znížená až chýbajúca frakcia beta- lipoproteínov sa označuje abetalipoproteinémia"]
+},
+{
+  numb: 477,
+  question: " Voľný cholesterol:",
+  answer: [" je v bunkách syntetizovaný z acetyl-CoA v cytosole a hladkom ER"," môže byť z tela vylúčený žlčou po premene na soli žlčových kyslín"],
+  options: [" je v bunkách syntetizovaný z acetyl-CoA v cytosole a hladkom ER"," je zlúčenina, ktorá sa v lipoproteínových časticiach nachádza v jadre"," môže byť z tela vylúčený žlčou po premene na soli žlčových kyslín"," je hlavnou lipidovou zložkou LDL častice"]
+},
+{
+  numb: 478,
+  question: " LDL lipoproteínové častice:",
+  answer: [" obsahujú ako dôležitý apoproteín apoB100"],
+  options: [" sú syntetizované hlavne v hepatocytoch"," transportujú v krvi endogénne TAG"," obsahujú ako dôležitý apoproteín apoB100"," ich obsah štiepi lipoproteínová lipáza"]
+},
+{
+  numb: 479,
+  question: " Lecitín- cholesterol-acyltransferáza:",
+  answer: [" využíva ako substrát karboxylovú kyselinu z fosfatidylcholínu"],
+  options: [" je enzým umožňujúci transport cholesterolu z pečene do periférnych tkanív, čím sa podieľa na antiaterogénnom efekte HDL"," katalyzuje tvorbu glykozidovej väzby medzi -OH skupinou cholesterolu a COOH skupinou väčšinou nenasýtenej vyššej karboxylovej kyseliny"," využíva ako substrát karboxylovú kyselinu z fosfatidylcholínu"," je enzým syntetizovaný v krvnej plazme"]
+},
+{
+  numb: 480,
+  question: " LDL receptory:",
+  answer: [" v prípade potreby cholesterolu v bunkách periférnych tkanív sú zvyčajne po prijatí častice do bunky recyklované späť do membrány"," ich množstvo tvorené v bunkách je regulované hladinou voľného cholesterolu v bunke"," zabezpečujú transport cholesterolu do periférnych tkanív"],
+  options: [" v prípade potreby cholesterolu v bunkách periférnych tkanív sú zvyčajne po prijatí častice do bunky recyklované späť do membrány"," rozpoznávajú lipoproteínové častice na základe funkčného apoproteínu apoCII"," ich množstvo tvorené v bunkách je regulované hladinou voľného cholesterolu v bunke"," zabezpečujú transport cholesterolu do periférnych tkanív"]
+},
+{
+  numb: 481,
+  question: " Sekundárne hyperlipoproteinémie:",
+  answer: [" sprevádzajú iné základné ochorenia"," sú častým sprievodným znakom pri diabetes mellitus"],
+  options: [" väčšinou sú podmienené genetickým defektom v metabolizme lipidov"," sprevádzajú iné základné ochorenia"," sú častým sprievodným znakom pri diabetes mellitus"," sa podľa Fredericksonovej diferenciálnej diagnostiky rozdeľujú na typy I, IIa,IIb,III,IV"]
+},
+{
+  numb: 482,
+  question: " Hyperlipoproteinémia typu IV:",
+  answer: [" je často sa vyskytujúcou hyperlipoproteinémiou v našej populácii"," je porucha spojená s hypertriacylglycerolémiou"],
+  options: [" je často sa vyskytujúcou hyperlipoproteinémiou v našej populácii"," je porucha spojená s hypertriacylglycerolémiou"," je sekundárna porucha metabolizmu lipidov spojená so zvýšenou hladinou exogénnych TAG v sére"," je spojená s nálezom zvýšenej beta-frakcie na elektroforeograme"]
+},
+{
+  numb: 483,
+  question: " Hladina celkového cholesterolu v krvnej plazme:",
+  answer: [" je pre dospelú populáciu 3,8-5,2 mmol/l"," u detí je nižšia ako u dospelých"," nie je ovplyvnená pohlavím"],
+  options: [" nie je dôležitá pri podozrení na poruchu v metabolizme lipoproteínov"," je pre dospelú populáciu 3,8-5,2 mmol/l"," u detí je nižšia ako u dospelých"," nie je ovplyvnená pohlavím"]
+},
+{
+  numb: 484,
+  question: " Lipoproteíny, ktoré majú najnižšiu hustotu:",
+  answer: [" do obehu sa dostávajú exocytozóu"," sú metabolizované lipoproteínovou lipázou"],
+  options: [" sa tvoria v hepatocytoch"," transportujú v krvi cholesterol"," do obehu sa dostávajú exocytozóu"," sú metabolizované lipoproteínovou lipázou"]
+},
+{
+  numb: 485,
+  question: " HDL častice:",
+  answer: [" ich najviac zastúpenou lipidovou zložkou sú fosfolipidy"," je dostatočná hladina v krvi znižuje riziko aterosklerózy"," sú zodpovedné za transport cholesterolu z periférnych tkanív do pečene"],
+  options: [" ich najviac zastúpenou lipidovou zložkou sú fosfolipidy"," ich súčasťou je lipoproteínová lipáza potrebná pre ich metabolizmus"," je dostatočná hladina v krvi znižuje riziko aterosklerózy"," sú zodpovedné za transport cholesterolu z periférnych tkanív do pečene"]
+},
+{
+  numb: 486,
+  question: " Pri stanovení celkového cholesterolu v sére:",
+  answer: [" cholesterol oxidáza katalyzuje reakciu oxidácie cholesterolu uvoľneného z cholesterolesterov"," oxidáciou cholesterolu vzniká peroxid vodíka"],
+  options: [" cholesterol oxidáza katalyzuje reakciu oxidácie cholesterolu uvoľneného z cholesterolesterov"," oxidáciou cholesterolu vzniká peroxid vodíka"," treba pri interpretácii zohľadniť aj pohlavie"," ak je hodnota do 5,2 mmol/l hovoríme o hypercholesterolémii"]
+},
+{
+  numb: 487,
+  question: " Najvyšší obsah fosfolipidov je v:",
+  answer: [" nascentných HDL"],
+  options: [" LDL"," v chylomikrónoch"," nascentných HDL"," IDL"]
+},
+{
+  numb: 488,
+  question: " Hladina TAG v sére je:",
+  answer: [" potrebná vyšetriť pri podozrení na poruchu metabolizmu lipoproteínov"," závislá od veku a pohlavia"],
+  options: [" potrebná vyšetriť pri podozrení na poruchu metabolizmu lipoproteínov"," závislá od veku a pohlavia"," približne 1-3 mmol/l"," pri hyperlipoproteinémií typu IIa výrazne zvýšená"]
+},
+{
+  numb: 489,
+  question: " Chylomikróny:",
+  answer: [" sú secernované do lymfatického obehu"," obsahujú ako bielkovinovú zložku aj apoB48"," ich degradáciou vznikajú remnanty"],
+  options: [" sú secernované do lymfatického obehu"," obsahujú ako bielkovinovú zložku aj apoB48"," na ich metabolizovaní sa podieľa hormónsenzitívna lipáza"," ich degradáciou vznikajú remnanty"]
+},
+{
+  numb: 490,
+  question: " LDL častice:",
+  answer: [" tvoria sa v krvných kapilárach"," nie sú metabolizované lipoproteínovou lipázou, kedže už neobsahujú vo svojom jadre..."],
+  options: [" tvoria sa v krvných kapilárach"," nie sú metabolizované lipoproteínovou lipázou, kedže už neobsahujú vo svojom jadre..."," sú zodpovedné za reverzný transport cholesterolu"," ich hlavnou zložkou sú endogénne TAG"]
+},
+{
+  numb: 491,
+  question: " O endogénnej syntéze cholesterolu platí:",
+  answer: [" ako zdroj uhlíkov pre steránový kruh sa využíva acetyl-CoA", " na subcelulárnej úrovni je lokalizovaná v cytosole a hER"],
+  options: [" ako zdroj uhlíkov pre steránový kruh sa využíva acetyl-CoA"," vyžaduje ako špecifický zdroj energie"," hlavným regulačným enzýmom je HMG-CoA-syntáza"," na subcelulárnej úrovni je lokalizovaná v cytosole a hER"]
+},
+{
+  numb: 492,
+  question: " Hyperlipoproteinémie:",
+  answer: [" môžu byť podľa príčiny vzniku primárne alebo sekundárne"," primárneho typu sú podmienené genetickým defektom"],
+  options: [" môžu byť podľa príčiny vzniku primárne alebo sekundárne"," primárneho typu sú podmienené genetickým defektom"," sú sprevádzané znížením jednej alebo viacerých lipoproteínových frakcií v sére"," typu IV patria medzi najmenej časté"]
+},
+{
+  numb: 493,
+  question: " Medzi hlavné apoproteíny patrí:",
+  answer: [" apoproteín B"," apoproteín A"],
+  options: [" apoproteín C"," apoproteín B"," apoproteín A"," apoproteín D"]
+},
+{
+  numb: 494,
+  question: " VLDL sa syntetizujú:",
+  answer: [" v pečeni"],
+  options: [" v tukovom tkanive"," v pečeni"," v tenkom čreve"," platí všetko uvedené"]
+},
+{
+  numb: 495,
+  question: " Obsah fosfolipidov je najvyšší v lipoproteínovej častici:",
+  answer: [" HDL"],
+  options: [" chylomikrón"," VLDL"," HDL"," LDL"]
+},
+{
+  numb: 496,
+  question: " Medzi jednoduché lipidy nepatrí:",
+  answer: [" fosfolipidy"," cerebrozidy"],
+  options: [" cholesterol"," TAG"," fosfolipidy"," cerebrozidy"]
+},
+{
+  numb: 497,
+  question: " Syntéza VKK:",
+  answer: [" je aktivovaná inzulínom"," miestom jej regulácie je aktivita acetyl-CoA-karboxylázy"," začína naviazaním acetyl-CoA a malonyl-CoA na syntázu VKK"],
+  options: [" vyžaduje pri oxido-redukčných reakciách koenzým NAD+/NADH2"," je aktivovaná inzulínom"," miestom jej regulácie je aktivita acetyl-CoA-karboxylázy"," začína naviazaním acetyl-CoA a malonyl-CoA na syntázu VKK"]
+},
+{
+  numb: 498,
+  question: " Triacylglyceroly:",
+  answer: [" syntetizujú sa v adipocytoch, hepatocytoch a tenkom čreve", " exogénne sa transportujú v chylomikrónoch"],
+  options: [" patria medzi polárne tuky"," syntetizujú sa v adipocytoch, hepatocytoch a tenkom čreve"," degradujú sa účinkom inzulínu"," exogénne sa transportujú v chylomikrónoch"]
+},
+{
+  numb: 499,
+  question: " HMG-CoA reduktáza:",
+  answer: [" je lokalizovaná v endoplazmatickom retikule"," jej aktívna forma je defosforylovaná"," je inhibovaná glukagónom"],
+  options: [" je enzým zúčastňujúci sa tvorby ketolátok"," je lokalizovaná v endoplazmatickom retikule"," jej aktívna forma je defosforylovaná"," je inhibovaná glukagónom"]
+},
+{
+  numb: 500,
+  question: " Z cholesterolu sa syntetizuje:",
+  answer: [" progesterón"," kyseliny cholová"," cholekalciferol"],
+  options: [" progesterón"," kyseliny cholová"," lanosterol"," cholekalciferol"]
+},
+{
+  numb: 501,
+  question: " Apoproteín B-100 sa nachádza v lipoproteínoch:",
+  answer: [" VLDL"," LDL"],
+  options: [" HDL"," chylomikrón"," VLDL"," LDL"]
+},
+{
+  numb: 502,
+  question: " LDL častice:",
+  answer: ["- nic","- syntetizujú sa v kapilárach","- cholesterol k bunkám","- obs apo B100"],
+  options: [" syntetizujú sa v extrahepatálnych tkanivách"," sú častice s veľmi nízkou hustotou"," sú zodpovedné za reverzný transport cholesterolu"," obsahujú vo svojej štruktúre apoproteín A"]
+},
+{
+  numb: 503,
+  question: " Elektroforeticky je možné stanoviť:",
+  answer: [" VLDL"," HDL"," chylomikróny"," LDL"],
+  options: [" VLDL"," HDL"," chylomikróny"," LDL"]
+},
+{
+  numb: 504,
+  question: " Pre hormónsenzitívnu lipázu platí:",
+  answer: [" hydrolyticky štiepi endogénne TAG"," fosforylovaná je aktívna"],
+  options: [" nachádza sa v hepatocytoch"," hydrolyticky štiepi endogénne TAG"," je aktivovaná inzulínom"," fosforylovaná je aktívna"]
+},
+{
+  numb: 505,
+  question: " β-oxidácia:",
+  answer: [" prebieha v mitochondriách"],
+  options: [" prebieha v mitochondriách"," prebieha v cytoplazme"," glukagón ju znižuje"," inzulín ju zvyšuje"]
+},
+{
+  numb: 506,
+  question: " HMG-CoA reduktáza:",
+  answer: [" fosforylovaná je neaktívna"," defosforylovaná je aktívna"],
+  options: [" je inhibovaná inzulínom"," fosforylovaná je neaktívna"," defosforylovaná je aktívna"," je aktivovaná glukagónom"]
+},
+{
+  numb: 507,
+  question: " Pre cholesterol platí:",
+  answer: [" patrí medzi jednoduché lipidy"," je polárny"," esterifikovaný sa nachádza v lipoproteínoch"," je potrebný pre syntézu vitamínu D"],
+  options: [" patrí medzi jednoduché lipidy"," je polárny"," esterifikovaný sa nachádza v lipoproteínoch"," je potrebný pre syntézu vitamínu D"]
+},
+{
+  numb: 508,
+  question: " Medzi zložené lipidy patria:",
+  answer: [" fosfolipidy"],
+  options: [" cholesterol"," triacylglycerol"," fosfolipidy"," sfingozín"]
+},
+{
+  numb: 509,
+  question: " Na aktiváciu lipoproteínovej lipázy je potrebný:",
+  answer: [" apoproteín C"],
+  options: [" apoproteín B"," apoproteín E"," apoproteín C"," apoproteín A"]
+},
+{
+  numb: 510,
+  question: " Základnou zložkou VLDL sú:",
+  answer: [" endogénne TAG"],
+  options: [" fosfolipidy"," exogénny a endogénny cholesterol"," endogénne TAG"," exogénne TAG"]
+},
+{
+  numb: 511,
+  question: " Pri elektroforetickom delení lipoproteínov sa v beta-frakcii nachádzajú:",
+  answer: [" LDL"],
+  options: [" VLDL"," LDL"," chylomikróny"," HDL"]
+},
+{
+  numb: 512,
+  question: " Hladina celkového cholesterolu v krvi:",
+  answer: [" je ovplyvnená vekom"," je vyššia u dospelých ako u detí"," sa stanovuje enzymaticky"],
+  options: [" je vyššia u žien ako mužov"," je ovplyvnená vekom"," je vyššia u dospelých ako u detí"," sa stanovuje enzymaticky"]
+},
+{
+  numb: 513,
+  question: " Medzi jednoduché lipidy patrí:",
+  answer: [" kyselina palmitová"," cholesterol"],
+  options: [" kyselina palmitová"," kyselina fosfatidová"," cholesterol"," inozitolfosfatidy"]
+},
+{
+  numb: 514,
+  question: " Kyselina olejová:",
+  answer: ["- Nič"],
+  options: [" je nasýtená VKK"," má 17 uhlíkov vo svojom reťazci"," je esenciálna VKK"," jej β-oxidáciou sa získa 24 ATP"]
+},
 ];
