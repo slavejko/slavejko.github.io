@@ -3083,13 +3083,6 @@ let questions = [
   answer: ["- Nič"],
   options: [" je nasýtená VKK"," má 17 uhlíkov vo svojom reťazci"," je esenciálna VKK"," jej β-oxidáciou sa získa 24 ATP"]
 },
-
-
-
-
-************************************
-
-
 {
   numb: 515,
   question: " Pre aktivitu acetyl-CoA karboxylázy platí:",
@@ -3306,9 +3299,4 @@ let questions = [
   answer: [" nedostatok inzulínu"," nedostatok kyseliny oxaloctovej"],
   options: [" nedostatok inzulínu"," nedostatok kyseliny oxaloctovej"," zvýšená aktivita glukoneogenézy"," znížená hladina glukagónu"]
 },
-
-
-
-
-
 ];
