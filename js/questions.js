@@ -1448,7 +1448,7 @@ let questions = [
 {
   numb: 242,
   question: " Hydrofóbne látky:",
-  answer: [" ovplyvňujú bunkové procesy po ich vstupe do buniek"," viažu sa na intracelulárne receptory"," môžu meniť permeabilitu bunkových membrán pre ióny"],
+  answer: [" ovplyvňujú bunkové procesy po ich vstupe do buniek"," viažu sa na intracelulárne receptory"],
   options: [" ovplyvňujú bunkové procesy po ich vstupe do buniek"," viažu sa na intracelulárne receptory"," zvyšujú syntézu cAMP"," môžu meniť permeabilitu bunkových membrán pre ióny"]
 },
 {
