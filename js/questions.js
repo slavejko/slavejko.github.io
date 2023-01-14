@@ -1070,7 +1070,7 @@ let questions = [
 {
   numb: 179,
   question: " ATP je potrebné:",
-  answer: [" pre primárne aktívny transport, pre Ca2+-závislú ATP-ázu"],
+  answer: [" pre primárne aktívny transport"," pre Ca2+-závislú ATP-ázu"],
   options: [" pre primárne aktívny transport"," pre priebeh sprostredkovanej difúzie"," pre priebeh jednoduchej difúzie"," pre Ca2+-závislú ATP-ázu"]
 },
 {
