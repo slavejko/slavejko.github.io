@@ -9,6 +9,9 @@
 
 body{
     background: #e5ece5;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url("snow_land.jpg")
 }
 
 ::selection{
