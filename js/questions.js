@@ -2630,7 +2630,7 @@ let questions = [
 {
   numb: 439,
   question: " JantarylCoA-transferáza:",
-  answer: ["nic"],
+  answer: [" katalyzuje premenu acetoacetátu na acetoacetylCoA v extrahepatálnych tkanivách"],
   options: [" sa zúčastňuje tvorby jantarylCoA z metylmalonylCoA"," patrí medzi dôležité aktivity ketogenézy v pečeni"," katalyzuje premenu acetoacetátu na acetoacetylCoA v extrahepatálnych tkanivách"," v reakčnom mechanizme KC premieňa sukcinylCoA na sukcinát"]
 },
 {
