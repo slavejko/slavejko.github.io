@@ -2720,7 +2720,7 @@ let questions = [
 {
   numb: 454,
   question: " Enzým hydroxybutyrátdehydrogenáza:",
-  answer: [" katalyzuje premenu intermediátu vzniknutého z betahydroxybetametylglutarylCoA po odštiepenie aktívneho acetylu", " patrí medzi oxidoredukčné enzýmy"],
+  answer: [" patrí medzi oxidoredukčné enzýmy"],
   options: [" katalyzuje premenu intermediátu vzniknutého z betahydroxybetametylglutarylCoA po odštiepenie aktívneho acetylu"," je aktivita dependentná na koenzýme obsahujúcom izoaloxazínovú štruktúru"," má aktivitu enzýmu LD 1,2"," patrí medzi oxidoredukčné enzýmy"]
 },
 {
