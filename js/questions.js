@@ -2474,8 +2474,8 @@ let questions = [
 {
   numb: 413,
   question: " karnitínacyltransferáze I platí:",
-  answer: [" nachádza sa na vonkajšej strane vnútornej mitochondriovej membrány"," ako substráty využíva acyl-CoA a karnitín"," katalyzuje prenos zvyšku karboxylovej kyseliny na COOH skupinu karnitínu"," jej inhibícia malonyl-CoA je dôležitá pre reguláciu oxidácie karboxylových kyselín"],
-  options: [" nachádza sa na vonkajšej strane vnútornej mitochondriovej membrány"," ako substráty využíva acyl-CoA a karnitín"," jej inhibícia malonyl-CoA je dôležitá pre reguláciu oxidácie karboxylových kyselín"]
+  answer: [" nachádza sa na vonkajšej strane vnútornej mitochondriovej membrány"," ako substráty využíva acyl-CoA a karnitín"," jej inhibícia malonyl-CoA je dôležitá pre reguláciu oxidácie karboxylových kyselín"],
+  options: [" nachádza sa na vonkajšej strane vnútornej mitochondriovej membrány"," ako substráty využíva acyl-CoA a karnitín"," katalyzuje prenos zvyšku karboxylovej kyseliny na COOH skupinu karnitínu"," jej inhibícia malonyl-CoA je dôležitá pre reguláciu oxidácie karboxylových kyselín"]
 },
 {
   numb: 414,
