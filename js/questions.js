@@ -2570,7 +2570,7 @@ let questions = [
 {
   numb: 429,
   question: " K metabolickým možnostiam utilizácie acetylCoA patria:",
-  answer: [" vznik cholínergného mediátora za katalýzy transferázy"," biosyntéza cholesterolu"],
+  answer: [" syntéza látok ketónovej povahy v mitochondriách pečene"," vznik cholínergného mediátora za katalýzy transferázy"," biosyntéza cholesterolu"],
   options: [" syntéza látok ketónovej povahy v mitochondriách pečene"," biosyntéza hlavného mediátora sympatika"," vznik cholínergného mediátora za katalýzy transferázy"," biosyntéza cholesterolu"]
 },
 {
