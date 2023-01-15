@@ -2750,7 +2750,7 @@ let questions = [
 {
   numb: 459,
   question: " Ktoré bunky ľudského organizmu syntetizujú a skladujú triacylglyceroly:",
-  answer: [" pečeňové bunky"," enterocyty"],
+  answer: [" všetky bez výnimky"," pečeňové bunky"," bunky tukového tkaniva"," enterocyty"],
   options: [" všetky bez výnimky"," pečeňové bunky"," bunky tukového tkaniva"," enterocyty"]
 },
 {
