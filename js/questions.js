@@ -2510,7 +2510,7 @@ let questions = [
 {
   numb: 419,
   question: " Glukóza-6-P-fosfatáza:",
-  answer: [" je enzým prítomný len v pečeni"," je enzým potrebný pre glukoneogenézu"," je enzým, ktorý sa zúčastňuje degradácie glykogénu v pečeni"],
+  answer: [" je enzým prítomný len v pečeni"," je enzým, ktorý sa zúčastňuje degradácie glykogénu v pečeni"],
   options: [" je enzým prítomný len v pečeni"," je enzým potrebný pre glukoneogenézu"," je enzým, ktorý sa zúčastňuje degradácie glykogénu v pečeni"," katalyzuje vznik voľnej glukózy a ATP"]
 },
 {
