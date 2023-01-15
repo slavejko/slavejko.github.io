@@ -1142,7 +1142,7 @@ let questions = [
 {
   numb: 191,
   question: " Ktoré aminokyseliny v proteínoch je možné fosforylovať pôsobením proteokináz:",
-  answer: [" tyrozín, tyrozín"],
+  answer: [" tyrozín"," tyrozín"],
   options: [" lyzín"," tyrozín"," prolín"," treonín"]
 },
 {
