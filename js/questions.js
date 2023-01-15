@@ -2522,7 +2522,7 @@ let questions = [
 {
   numb: 421,
   question: " Diabetes mellitus:",
-  answer: [" je podmienený absolútnym alebo relatívnym nedostatkom inzulínu", " je sprevádzaný respiračnou acidózou"," môže byť sprevádzaný polyúriou"],
+  answer: [" je podmienený absolútnym alebo relatívnym nedostatkom inzulínu"," môže byť sprevádzaný polyúriou"],
   options: [" je podmienený absolútnym alebo relatívnym nedostatkom inzulínu"," je každé zvýšenie glykémie nad 6 mmol/l"," je sprevádzaný respiračnou acidózou"," môže byť sprevádzaný polyúriou"]
 },
 {
