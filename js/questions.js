@@ -2606,7 +2606,7 @@ let questions = [
 {
   numb: 435,
   question: " Úplná oxidácia kyseliny stearovej umožní:",
-  answer: [" celkove vznik 146 ATP"," vznik 9 ATP substrátovou fosforyláciou pri oxidácii acetyl-CoA v Krebsovom cykle"],
+  answer: [" celkove vznik 146 ATP"," vznik 9 ATP substrátovou fosforyláciou pri oxidácii acetyl-CoA v Krebsovom cykle", " vznik 40 ATP pri oxidácii redukovaných koenzýmov tvorených v β-oxidácii"],
   options: [" celkove vznik 146 ATP"," vznik 40 ATP pri oxidácii redukovaných koenzýmov tvorených v β-oxidácii"," vznik 9 ATP substrátovou fosforyláciou pri oxidácii acetyl-CoA v Krebsovom cykle"," vznik menej ATP než oxidácia kyseliny myristovej"]
 },
 {
@@ -2750,7 +2750,7 @@ let questions = [
 {
   numb: 459,
   question: " Ktoré bunky ľudského organizmu syntetizujú a skladujú triacylglyceroly:",
-  answer: [" pečeňové bunky"," bunky tukového tkaniva"," enterocyty"],
+  answer: [" pečeňové bunky"," enterocyty"],
   options: [" všetky bez výnimky"," pečeňové bunky"," bunky tukového tkaniva"," enterocyty"]
 },
 {
