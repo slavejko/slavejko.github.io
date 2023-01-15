@@ -2114,7 +2114,7 @@ let questions = [
 {
   numb: 353,
   question: " Aby sa bielkoviny mohli zapojiť do procesu glukoneogenézy:",
-  answer: [" sú potrebné proteinázy v kostrovom svale"," sú potrebné transaminázy v bunkách EHT na premenu aminokyselín"," sú potrebné reakcie, ktorými sa aminokyseliny v pečeni premieňajú na oxokyseliny"],
+  answer: [" sú potrebné proteinázy v kostrovom svale"," sú potrebné reakcie, ktorými sa aminokyseliny v pečeni premieňajú na oxokyseliny"],
   options: [" sú potrebné proteinázy v kostrovom svale"," sú potrebné transaminázy v bunkách EHT na premenu aminokyselín"," sú potrebné reakcie, ktorými sa aminokyseliny v pečeni premieňajú na oxokyseliny"," štiepia sa hlavne bielkoviny vnútorných orgánov ako je napr. myokard, oblička, pečeň"]
 },
 {
