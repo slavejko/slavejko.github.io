@@ -2120,7 +2120,7 @@ let questions = [
 {
   numb: 354,
   question: " Ochorenie diabetes mellitus:",
-  answer: [" môže byť sprevádzané polyúriou"," môže viesť k metabolickej acidóze"," je vždy sprevádzané glykozúriou"],
+  answer: [" môže byť sprevádzané polyúriou"," môže viesť k metabolickej acidóze"],
   options: [" sa prejavuje zníženou koncentráciou glukózy v krvi"," môže byť sprevádzané polyúriou"," môže viesť k metabolickej acidóze"," je vždy sprevádzané glykozúriou"]
 },
 {
