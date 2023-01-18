@@ -2018,7 +2018,7 @@ let questions = [
 {
   numb: 337,
   question: " degradácii glykogénu vo svaloch možno povedať:",
-  answer: ["nic"],
+  answer: [" je aktivovaná komplexom Ca2+/kalmodulín"],
   options: [" cez niekoľko medziproduktov vzniká ako koncový produkt voľná glukóza"," produktom je glukóza-1-fosfát"," jej aktivácia je sprostredkovaná adrenalínom, s následným uvoľnením glukózy do krvného obehu"," je aktivovaná komplexom Ca2+/kalmodulín"]
 },
 {
