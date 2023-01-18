@@ -2756,7 +2756,7 @@ let questions = [
 {
   numb: 460,
   question: " Ketogenéza:",
-  answer: [" prebieha najmä pri noninzulíndependentnom diabete"],
+  answer: [" prebieha najmä pri noninzulíndependentnom diabete", " je stimulovaná hormónom aktivujúcim HSL v adipocytoch"],
   options: [" nemá výraznejší vplyv na acidobázickú homeostázu"," je stimulovaná hormónom aktivujúcim HSL v adipocytoch"," enzým jantarylCoA - transferáza je jej dôležitou súčasťou"," prebieha najmä pri noninzulíndependentnom diabete"]
 },
 {
