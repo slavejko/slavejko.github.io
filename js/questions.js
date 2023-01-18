@@ -2228,7 +2228,7 @@ let questions = [
 {
   numb: 372,
   question: " Aktivácia karboxylových kyselín pred ich vstupom do β-oxidácie prebieha:",
-  answer: [" za prítomnosti ATP a HS-CoA"],
+  answer: [" za prítomnosti ATP a HS-CoA"," na vonkajšej mitochondriálnej membráne a v endoplazmatickom retikule"," pri tvorbe enzým-acyladenylátového medziproduktu"," platí všetko uvedené"],
   options: [" za prítomnosti ATP a HS-CoA"," na vonkajšej mitochondriálnej membráne a v endoplazmatickom retikule"," pri tvorbe enzým-acyladenylátového medziproduktu"," platí všetko uvedené"]
 },
 {
