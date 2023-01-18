@@ -3299,4 +3299,856 @@ let questions = [
   answer: [" nedostatok inzulínu"," nedostatok kyseliny oxaloctovej"],
   options: [" nedostatok inzulínu"," nedostatok kyseliny oxaloctovej"," zvýšená aktivita glukoneogenézy"," znížená hladina glukagónu"]
 },
+{
+  numb: 551,
+  question: " Nedostatok inzulínu spôsobuje:",
+  answer: [" zvýšenie aktivity lipolýzy"," zvýšenie aktivity beta-oxidácie vyšších karboxylových kyselín"],
+  options: [" zvýšenie aktivity Krebsovho cyklu"," zvýšenie aktivity pentózového cyklu"," zvýšenie aktivity lipolýzy"," zvýšenie aktivity beta-oxidácie vyšších karboxylových kyselín"]
+},
+{
+  numb: 552,
+  question: " Cholesterol:",
+  answer: [" východzou látkou pre jeho syntézu je acetyl-CoA"," sa nachádza vo forme esterov v jadre lipoproteínových častíc"," jeho odbúraním vznikajú žlčové kyseliny"," jeho hladina v plazme je asi 3-5 mmol.l-1"],
+  options: [" východzou látkou pre jeho syntézu je acetyl-CoA"," sa nachádza vo forme esterov v jadre lipoproteínových častíc"," jeho odbúraním vznikajú žlčové kyseliny"," jeho hladina v plazme je asi 3-5 mmol.l-1"]
+},
+{
+  numb: 553,
+  question: " Na energetickom zisku z oxidácie karboxylových kyselín sa podieľa:",
+  answer: [" oxidácia acetyl-CoA v citrátovom cykle"," oxidácia redukovaného NAD v dýchacom reťazci"," beta-oxidácia karboxylových kyselín"],
+  options: [" oxidácia acetyl-CoA v citrátovom cykle"," oxidácia redukovaného NAD v dýchacom reťazci"," beta-oxidácia karboxylových kyselín"," proces katalyzovaný pyruvátdehydrogenázovým komplexom"]
+},
+{
+  numb: 554,
+  question: " Acyl-CoA syntáza:",
+  answer: [" je enzým oxidácie karboxylových kyselín"," sa využíva pri aktivácii karboxylových kyselín"," zúčastňuje sa premeny karboxylovej kyseliny na acyl-CoA"],
+  options: [" je enzým oxidácie karboxylových kyselín"," sa využíva pri aktivácii karboxylových kyselín"," zúčastňuje sa premeny karboxylovej kyseliny na acyl-CoA"," je enzým syntézy VKK"]
+},
+{
+  numb: 555,
+  question: " Hladiny TAG v sére:",
+  answer: [" je potrebné vyšetriť pri podozrení na poruchu v metabolizme lipoproteínov"," sa stanovujú po štandardnej príprave pacienta"],
+  options: [" sú približne 1-3 mmol.l-1"," je potrebné vyšetriť pri podozrení na poruchu v metabolizme lipoproteínov"," sa stanovujú po štandardnej príprave pacienta"," sú pri hyperlipoproteinémii II.a zvýšené"]
+},
+{
+  numb: 556,
+  question: " Pri ťažkom funkčnom defekte obličiek:",
+  answer: [" je hodnota klírens kreatinínu 30 ml/min", " hodnota klírens klesá"],
+  options: [" je hodnota klírens kreatinínu 120 ml/24 hodín"," je hodnota klírens kreatinínu 30 ml/min"," hodnota klírens stúpa"," hodnota klírens klesá"]
+},
+{
+  numb: 557,
+  question: " Pomer koncentrácie močoviny v sére ku koncentrácii kreatinínu v sére nás informuje o:",
+  answer: [" katabolizme bielkovín"],
+  options: [" degradácii purínových nukleotidov"," príčinách oligúrie"," katabolizme bielkovín"," všetkom uvedenom"]
+},
+{
+  numb: 558,
+  question: " Donorom metylovej skupiny pri syntéze kreatínu je:",
+  answer: [" S-adenozylmetionín"],
+  options: [" metionín"," cysteín"," S-adenozylmetionín"," metylovaný guanidínacetát"]
+},
+{
+  numb: 559,
+  question: " Fyziologická hladina močoviny v moči je:",
+  answer: [" 320-568 mmol/24 hodín"],
+  options: [" 2,5-8,4 mmol/l"," 2,5-8,4 mmol/24h"," 120-386 mmol/24 hodín"," 320-568 mmol/24 hodín"]
+},
+{
+  numb: 560,
+  question: " Aktivácia karboxylovej kyseliny pred vstupom do beta-oxidácie:",
+  answer: [" vyžaduje prítomnosť látky s fosfoanhydridovou makroergickou väzbou"," je spojená s tvorbou enzým-aminoacyladenylátového medziproduktu"," vzniká pri nej látka s tioesterovou makroergickou väzbou"," je premena karboxylovej kyseliny na acyl-CoA"],
+  options: [" vyžaduje prítomnosť látky s fosfoanhydridovou makroergickou väzbou"," je spojená s tvorbou enzým-aminoacyladenylátového medziproduktu"," vzniká pri nej látka s tioesterovou makroergickou väzbou"," je premena karboxylovej kyseliny na acyl-CoA"]
+},
+{
+  numb: 561,
+  question: " Protektívny efekt pri rozvoji aterosklerózy je spojený s:",
+  answer: [" účinkom enzýmu lecitín - cholesterol acyltransferázy"," esterifikáciou cholesterolu"," transportom cholesterolu časticami HDL do pečene"],
+  options: [" účinkom enzýmu lecitín - cholesterol acyltransferázy"," antisklerotickým efektom LDL častíc"," esterifikáciou cholesterolu"," transportom cholesterolu časticami HDL do pečene"]
+},
+{
+  numb: 562,
+  question: " Syntéza karboxylových kyselín:",
+  answer: [" prebieha v adipocytoch tukového tkaniva"," ako substráty využíva acetyl-CoA a malonyl-CoA"," fosforyláciou acetyl-CoA karboxylázy je znížená pri hladovaní"],
+  options: [" prebieha v adipocytoch tukového tkaniva"," ako substráty využíva acetyl-CoA a malonyl-CoA"," fosforyláciou acetyl-CoA karboxylázy je znížená pri hladovaní"," je lokalizovaná v mitochondriách"]
+},
+{
+  numb: 563,
+  question: " Sekundárne hyperlipoproteinémie:",
+  answer: [" sprevádzajú iné základné ochorenia"," často sa objavujú pri diabete"],
+  options: [" sú podmienené genetickým defektom v metabolizme lipidov"," sprevádzajú iné základné ochorenia"," sa pri obezite nevyskytujú"," často sa objavujú pri diabete"]
+},
+{
+  numb: 564,
+  question: " Klírens udáva:",
+  answer: [" rýchlosť, s akou sa určité množstvo plazmy úplne zbaví určitej látky"," množstvo plazmy, ktorá sa za časovú jednotku v obličkách očistí od sledovanej látky"],
+  options: [" rýchlosť, s akou sa určité množstvo plazmy úplne zbaví určitej látky"," množstvo plazmy, ktorá sa za časovú jednotku v obličkách očistí od sledovanej látky"," množstvo odpadových produktov, ktorých sa plazma zbaví"," množstvo produkovaného definitívneho moča za 24 hodín"]
+},
+{
+  numb: 565,
+  question: " Fyziologická hodnota klírens kreatinínu je:",
+  answer: [" 2 ml/s"],
+  options: [" 125 ml/min"," 2 ml/s"," 2 ml/min"," pri ochoreniach obličiek zvýšená"]
+},
+{
+  numb: 566,
+  question: " Na vylučovaní endogénneho kreatinínu sa podieľa:",
+  answer: [" glomerulárna filtrácia"],
+  options: [" tubulárna resorpcia"," glomerulárna filtrácia"," tubulárna exkrécia"," všetky uvedené mechanizmy"]
+},
+{
+  numb: 567,
+  question: " Guanidínacetát je látká, ktorá:",
+  answer: [" sa metyluje v pečeni prostredníctvom S-adenozylmetionínu"," vzniká za katalýzy arginínglycíntransamidinázy"],
+  options: [" vzniká z arginínu a ornitínu v obličke"," sa metyluje v pečeni prostredníctvom S-adenozylmetionínu"," vzniká za katalýzy arginínglycíntransamidinázy"," sa transportuje z pečene krvou do obličky"]
+},
+{
+  numb: 568,
+  question: " O lipidoch prítomných v potrave možno povedať, že:",
+  answer: [" tvoria asi 40% denného energetického príjmu"," v procese trávenia dochádza k ich premene na lipoproteíny"],
+  options: [" tvoria asi 40% denného energetického príjmu"," v procese trávenia dochádza k ich premene na lipoproteíny"," majú energeticky nižšiu hodnotu v porovnaní s cukrami"," ich trávenie prebieha hlavne v žalúdku"]
+},
+{
+  numb: 569,
+  question: " Lipoproteinová lipáza:",
+  answer: [" má úlohu pre využitie karboxylových kyselín v resyntéze TAG v adipocytoch"," sa nachádza na endoteli kapilár"," štiepi chylomikróny transportujúce exogénne TAG"],
+  options: [" má úlohu pre využitie karboxylových kyselín v resyntéze TAG v adipocytoch"," sa nachádza na endoteli kapilár"," štiepi chylomikróny transportujúce exogénne TAG"," je prítomná v adipocytoch"]
+},
+{
+  numb: 570,
+  question: " Prenos cholesterolu z periférnych tkanív do pečene:",
+  answer: [" označujeme ako reverzný transport cholesterolu", " súvisí s antisklerotickým efektom HDL"],
+  options: [" označujeme ako reverzný transport cholesterolu"," zabezpečujú LDL častice"," sa uskutočňuje pomocou VLDL častíc"," súvisí s antisklerotickým efektom HDL"]
+},
+{
+  numb: 571,
+  question: " Lipoproteíny sa môžu deliť:",
+  answer: [" ultracentrifugáciou", " elektroforézou podľa pohyblivosti v elektrickom poli"],
+  options: [" ultracentrifugáciou"," gélovou filtráciou podľa hustoty"," elektroforézou podľa pohyblivosti v elektrickom poli"," všetkými uvedenými metódami"]
+},
+{
+  numb: 572,
+  question: " Primárny moč:",
+  answer: [" obsahuje nízkomolekulové zložky krvnej plazmy"],
+  options: [" obsahuje nízkomolekulové zložky krvnej plazmy"," obsahuje vysokomolekulové látky"," neobsahuje kreatinín"," obsahuje kreatínfosfát"]
+},
+{
+  numb: 573,
+  question: " Len glomerulárnou filtráciou sa do moča vylučuje:",
+  answer: [" endogénny kreatinín"," inulín"],
+  options: [" glukóza"," endogénny kreatinín"," inulín"," metylovaný guanidínacetát"]
+},
+{
+  numb: 574,
+  question: " Fyziologická funkcia obličiek v organizme zabezpečuje:",
+  answer: [" udržiavanie stability vnútorného prostredia"," reguláciu množstva a vzájomného pomeru iónov"," udržiavanie stáleho pH v organizme"," vylučovanie odpadových látok z metabolizmu buniek"],
+  options: [" udržiavanie stability vnútorného prostredia"," reguláciu množstva a vzájomného pomeru iónov"," udržiavanie stáleho pH v organizme"," vylučovanie odpadových látok z metabolizmu buniek"]
+},
+{
+  numb: 575,
+  question: " Pre výpočet percenta spätnej tubulárnej resorpcie treba poznať:",
+  answer: ["- A,C, (prakticke cvika str. 123)"],
+  options: [" diurézu"," hladinu močoviny v sére"," množstvo glomerulárneho filtrátu za 24 hodín"," hladinu močoviny v moči"]
+},
+{
+  numb: 576,
+  question: " Hormónsenzitívna lipáza:",
+  answer: [" štiepi TAG adipocytov tukového tkaniva"],
+  options: [" je aktívna v defosforylovanom stave"," štiepi TAG adipocytov tukového tkaniva"," hydrolyzuje TAG chylomikrónov"," aktivuje sa mechanizmami sprostredkovanými zvýšenou hladinou inzulínu"]
+},
+{
+  numb: 577,
+  question: " Apoproteíny:",
+  answer: [" majú úlohu pri transporte lipoproteínových častíc"," A resp. B sú považované za hlavné apoproteíny"," sú dôležité pri aktivácii niektorých enzýmov metabolizmu lipoproteínov"," majú význam pri väzbe lipoproteínov na špecifické receptory"],
+  options: [" majú úlohu pri transporte lipoproteínových častíc"," A resp. B sú považované za hlavné apoproteíny"," sú dôležité pri aktivácii niektorých enzýmov metabolizmu lipoproteínov"," majú význam pri väzbe lipoproteínov na špecifické receptory"]
+},
+{
+  numb: 578,
+  question: " Beta-oxidácia karboxylových kyselín:",
+  answer: [" vyžaduje jej premenu na acyl-CoA"," prebieha v mitochondriách"],
+  options: [" môže prebiehať len za anaeróbnych podmienok"," vyžaduje jej premenu na acyl-CoA"," prebieha v mitochondriách"," z hľadiska energetického zisku je pre bunku nevýznamná"]
+},
+{
+  numb: 579,
+  question: " Reverzný transport cholesterolu je:",
+  answer: [" prenos esterifikovaného cholesterolu do pečene"," transport produktu reakcie katalyzovanej s LCAT"],
+  options: [" zabezpečovaný LDL časticami"," zodpovedný za antisklerotický efekt VLDL"," prenos esterifikovaného cholesterolu do pečene"," transport produktu reakcie katalyzovanej s LCAT"]
+},
+{
+  numb: 580,
+  question: " Glomerulárnou filtráciou v obličke:",
+  answer: [" sa tvorí primárny moč"," vzniká filtrát obsahujúci nízkomolekulové zložky plazmy"," sa tvorí glomerulárny filtrát"," vo fyziologických podmienkach sa nedostávajú bielkoviny do moča"],
+  options: [" sa tvorí primárny moč"," vzniká filtrát obsahujúci nízkomolekulové zložky plazmy"," sa tvorí glomerulárny filtrát"," vo fyziologických podmienkach sa nedostávajú bielkoviny do moča"]
+},
+{
+  numb: 581,
+  question: " Hladina kreatinínu v sére je:",
+  answer: [" 50-110 μmol/l"],
+  options: [" 0-110 μmol/l"," 50-110 mmol/l"," 50-110 μmol/l"," iná"]
+},
+{
+  numb: 582,
+  question: " Kreatínfosfát je látka, ktorá:",
+  answer: [" sa využíva pri zabezpečovaní energetických potrieb bunky", " participuje pri regenerácii ATP v podmienkach nedostatku kyslíka"],
+  options: [" sa využíva pri zabezpečovaní energetických potrieb bunky"," v tkanivách sa tvorí za účasti GDP"," sa syntetizuje v tenkom čreve"," participuje pri regenerácii ATP v podmienkach nedostatku kyslíka"]
+},
+{
+  numb: 583,
+  question: " Fyziologická koncentrácia močoviny v sére je:",
+  answer: [" 2,5-8,4 mmol/l", " závisí od intenzity degradácie aminokyselín"],
+  options: [" 2,5-8,4 mmol/l"," 2,5-8,4 μmol/l"," závislá od aktivity urátoxidázy"," závisí od intenzity degradácie aminokyselín"]
+},
+{
+  numb: 584,
+  question: " Hyperlipoproteinémie:",
+  answer: [" môžu byť podľa príčin vzniku primárne alebo sekundárne"," sú sprevádzané zvýšením niektorých lipoproteínových frakcií séra"," sú závažným rizikovým faktorom vzniku aterosklerózy"],
+  options: [" môžu byť podľa príčin vzniku primárne alebo sekundárne"," sú sprevádzané zvýšením niektorých lipoproteínových frakcií séra"," sú závažným rizikovým faktorom vzniku aterosklerózy"," sekundárneho typu sú podmienené genetickým defektom"]
+},
+{
+  numb: 585,
+  question: " Pri úplnej oxidácii karboxylových kyselín sa energia získava:",
+  answer: [" pomocou beta-oxidácie, terminálnej oxidácie a oxidačnej fosforylácie"," oxidáciou redukovaných koenzýmov"],
+  options: [" pri aktivácii karboxylovej kyseliny"," pomocou beta-oxidácie, terminálnej oxidácie a oxidačnej fosforylácie"," oxidáciou redukovaných koenzýmov"," počas premeny karboxylovej kyseliny na acyl-CoA"]
+},
+{
+  numb: 586,
+  question: " Regulácie vnútrobunkovej hladiny voľného cholesterolu sa zúčastňuje:",
+  answer: [" syntéza LDL receptorov"," HMG-CoA reduktáza"," enzým zabezpečujúci esterifikáciu cholesterolu"],
+  options: [" syntéza LDL receptorov"," HMG-CoA reduktáza"," enzým zabezpečujúci esterifikáciu cholesterolu"," priamo hormónsenzitívna lipáza"]
+},
+{
+  numb: 587,
+  question: " Lipoproteíny s najnižšou hustotou:",
+  answer: [" sa tvoria v enterocytoch tenkého čreva"," transportujú exogénne TAG"],
+  options: [" sa tvoria v enterocytoch tenkého čreva"," do obehu sa dostávajú endocytózou"," transportujú exogénne TAG"," ich syntéza prebieha v adipocytoch"]
+},
+{
+  numb: 588,
+  question: " Z guanidínacetátu sa kreatín tvorí:",
+  answer: [" najmä v pečeni"," metylačnou reakciou prostredníctvom S-adenozylmetionínu"," za vzniku homocysteínu"],
+  options: [" najmä v pečeni"," najmä v obličke"," metylačnou reakciou prostredníctvom S-adenozylmetionínu"," za vzniku homocysteínu"]
+},
+{
+  numb: 589,
+  question: " Medzi základné pochody v metabolizme dusíka v organizme patria:",
+  answer: [" uvoľňovanie amoniaku v deaminačných reakciách aminokyselín"," fixácia uvoľneného amoniaku"," transport vo forme glutamínu do pečene"," tvorba močoviny a jej vylučovanie močom"],
+  options: [" uvoľňovanie amoniaku v deaminačných reakciách aminokyselín"," fixácia uvoľneného amoniaku"," transport vo forme glutamínu do pečene"," tvorba močoviny a jej vylučovanie močom"]
+},
+{
+  numb: 590,
+  question: " Klírens kreatinínu je parameter, ktorý:",
+  answer: [" poukazuje na funkčný stav obličiek", " má fyziologickú hladinu 2 ml/s"," má výpovednú hodnotu o kvalite glomerulárnej filtrácie"],
+  options: [" poukazuje na funkčný stav obličiek"," s vekom jeho hodnota stúpa"," má fyziologickú hladinu 2 ml/s"," má výpovednú hodnotu o kvalite glomerulárnej filtrácie"]
+},
+{
+  numb: 591,
+  question: " Odpad kreatinínu močom:",
+  answer: [" je 7-20 mmol/24h"," klesá pri zníženej filtračnej schopnosti obličiek"],
+  options: [" je 7-20 μmol/24h"," je 50-110 mmol/24h"," je 7-20 mmol/24h"," klesá pri zníženej filtračnej schopnosti obličiek"]
+},
+{
+  numb: 592,
+  question: " Regulácia hladiny intracelulárneho cholesterolu:",
+  answer: [" súvisí so syntézou LDL receptorov"," závisí od aktivity HMG-CoA reduktázy", " je ovplyvňovaná aj aktivitou acyl-CoA cholesterolacyltransferázy"],
+  options: [" súvisí so syntézou LDL receptorov"," závisí od aktivity HMG-CoA reduktázy"," vyžaduje zvýšenú syntézu HDL receptorov"," je ovplyvňovaná aj aktivitou acyl-CoA cholesterolacyltransferázy"]
+},
+{
+  numb: 593,
+  question: " Beta-oxidácia karboxylových kyselín:",
+  answer: [" je proces štiepenia acyl-CoA v mitochondriách", " využíva aktivovanú karboxylovú kyselinu"],
+  options: [" je proces štiepenia acyl-CoA v mitochondriách"," sa znižuje počas hladovania"," je z aspektu ketogenézy bezvýznamná"," využíva aktivovanú karboxylovú kyselinu"]
+},
+{
+  numb: 594,
+  question: " Chylomikróny sú lipoproteínové častice, o ktorých platí:",
+  answer: [" sú syntetizované v enterocytoch tenkého čreva"," ich transport do lymfy sa uskutočňuje exocytózou"],
+  options: [" sú syntetizované v enterocytoch tenkého čreva"," ich transport do lymfy sa uskutočňuje exocytózou"," transportujú endogénne lipidy"," štiepi ich hormónsenzitívna lipáza"]
+},
+{
+  numb: 595,
+  question: " Neutrálne tuky:",
+  answer: [" sú zásobnou látkou v organizme"," sú dôležité z hľadiska zisku energie pre organizmus"," majú aj funkciu tepelného izolátora"],
+  options: [" sú zásobnou látkou v organizme"," sú dôležité z hľadiska zisku energie pre organizmus"," sú najvýznamnejšou stavebnou zložkou membrán buniek"," majú aj funkciu tepelného izolátora"]
+},
+{
+  numb: 596,
+  question: " Z metabolických dráh je v obličke lokalizovaná:",
+  answer: [" syntéza guanidínacetátu"],
+  options: [" syntéza guanidínacetátu"," fosforylácia metylovaného guanidínacetátu"," metylácia guanidínacetátu"," fosforylácia kreatínu"]
+},
+{
+  numb: 597,
+  question: " Pri posudzovaní príčin oligúrie možno využiť:",
+  answer: [" pomer močoviny v moči k močovine v sére"],
+  options: [" pomer kyseliny močovej v sére ku kyseline močovej v moči"," pomer močoviny v sére k močovine v moči"," pomer močoviny v moči k močovine v sére"," nič z uvedeného"]
+},
+{
+  numb: 598,
+  question: " Množstvo kreatinínu vylúčeného močom sa zvyšuje pri:",
+  answer: [" hladovaní"," horúčkovitých ochoreniach"," zvýšenej svalovej práci"],
+  options: [" hladovaní"," horúčkovitých ochoreniach"," zvýšenej svalovej práci"," zníženej glomerulárnej filtrácii"]
+},
+{
+  numb: 599,
+  question: " Kreatínfosfát:",
+  answer: [" je látka, ktorá sa tvorí aktivitou kreatínkinázy"],
+  options: [" je látka, ktorá sa tvorí aktivitou kreatínkinázy"," obsahuje vo svojej molekule karboxyfosfátovú makroergickú väzbu"," vzniká v obličke"," pri jeho tvorbe dochádza k regenerácii ATP"]
+},
+{
+  numb: 600,
+  question: " V štruktúre lipoproteínových častíc:",
+  answer: [" hydrofóbne zložky sa nachádzajú vo vnútri"," fosfolipidy sú v povrchových častiach"," esterifikovaný cholesterol je v jadre"],
+  options: [" TAG sú umiestnené na povrchu"," hydrofóbne zložky sa nachádzajú vo vnútri"," fosfolipidy sú v povrchových častiach"," esterifikovaný cholesterol je v jadre"]
+},
+{
+  numb: 601,
+  question: " Hormónsenzitívna lipáza:",
+  answer: [" sa zúčastňuje lipolýzy v tukovom tkanive"," v defosforylovanom stave je neaktívna"," aktivuje sa glukagónom"],
+  options: [" sa zúčastňuje lipolýzy v tukovom tkanive"," v defosforylovanom stave je neaktívna"," štiepi aj lipidy lipoproteínov"," aktivuje sa glukagónom"]
+},
+{
+  numb: 602,
+  question: " Lipoproteíny s veľmi nízkou hustotou:",
+  answer: [" sa syntetizujú v pečeni", " transportujú endogénne TAG"],
+  options: [" sa syntetizujú v pečeni"," tvoria sa v tenkom čreve"," transportujú endogénne TAG"," môžu sa meniť na HDL častice"]
+},
+{
+  numb: 603,
+  question: " Apoproteín B je:",
+  answer: [" nevyhnutný pre väzbu LDL častíc na receptory"],
+  options: [" potrebný pre aktiváciu hormónsenzitívnej lipázy"," nutný na viazanie HDL častíc na receptory"," aktivátorom enzýmu LCAT"," nevyhnutný pre väzbu LDL častíc na receptory"]
+},
+{
+  numb: 604,
+  question: " Obličky vytvoria za jednu minútu približne:",
+  answer: [" 120 ml glomerulárneho filtrátu"," 120 ml primárneho moča"],
+  options: [" 120 ml glomerulárneho filtrátu"," 120 ml definitívneho moča"," 120 ml primárneho moča"," neplatí ani jedna z uvedených možností"]
+},
+{
+  numb: 605,
+  question: " Hodnota glomerulárnej filtrácie udaná v ml/s:",
+  answer: ["- nič (prakticke cvika, 129, tabulka 12.2)"],
+  options: [" 1,3-2,8 informuje o renálnej insuficiencii"," 0,33-0,67 informuje o ľahko zníženej funkcii obličiek"," 1,0-1,34 informuje o ťažkej funkčnej poruche obličiek"," pod 0,33 informuje o stredne ťažkej poruche obličiek"]
+},
+{
+  numb: 606,
+  question: " Spätná tubulárna resorpcia:",
+  answer: [" sa počíta pomocou rozdielu hodnôt glomerulárnej filtrácie za 24 hodín a diurézy"," vyjadruje sa v percentách", " má hodnotu 99,3-99,5%"],
+  options: [" sa počíta pomocou rozdielu hodnôt glomerulárnej filtrácie za 24 hodín a diurézy"," vyjadruje sa v percentách"," má hodnotu 99,3-99,5%"," má hodnotu 90-95%"]
+},
+{
+  numb: 607,
+  question: " Na sledovanie filtračnej funkcie obličky môžeme využiť kreatinín, lebo:",
+  answer: [" sa vylučuje len glomerulárnou filtráciou"," v tubuloch sa spätne neresorbuje"],
+  options: [" jeho syntéza prebieha len v obličke"," sa vylučuje len glomerulárnou filtráciou"," v tubuloch sa spätne neresorbuje"," v tubuloch sa vylučuje"]
+},
+{
+  numb: 608,
+  question: " Biosyntéza karboxylových kyselín:",
+  answer: [" môže prebiehať v tukovom tkanive"," jej regulačnú reakciu katalyzuje acetyl-CoA karboxyláza"," vyžaduje viaceré enzýmové systémy"],
+  options: [" je subcelulárne lokalizovaná v mitochondriách"," môže prebiehať v tukovom tkanive"," jej regulačnú reakciu katalyzuje acetyl-CoA karboxyláza"," vyžaduje viaceré enzýmové systémy"]
+},
+{
+  numb: 609,
+  question: " Väzba LDL na receptor:",
+  answer: [" je zabezpečovaná prítomnosťou apo B"],
+  options: [" umožňuje ju hociktorý z apoproteínov"," je zabezpečovaná prítomnosťou apo B"," je dôležitá z hľadiska transportu TAG do pečene"," je podmienená aktiváciou enzýmu LCAT"]
+},
+{
+  numb: 610,
+  question: " Triacylglyceroly v tukovom tkanive:",
+  answer: [" na ich degradácii sa zúčastňuje hormónsenzitívna lipáza"," ich syntéza sa znižuje pri nedostatku inzulínu"],
+  options: [" sú hydrolyzované pankreatickou lipázou"," štiepi ich lipoproteínová lipáza"," na ich degradácii sa zúčastňuje hormónsenzitívna lipáza"," ich syntéza sa znižuje pri nedostatku inzulínu"]
+},
+{
+  numb: 611,
+  question: " Enzým LCAT:",
+  answer: [" je syntetizovaný v pečeni", " esterifikuje cholesterol prostredníctvom lecitínu"],
+  options: [" je syntetizovaný v pečeni"," reguluje endogénnu tvorbu cholesterolu"," ako substrát využíva cholín"," esterifikuje cholesterol prostredníctvom lecitínu"]
+},
+{
+  numb: 612,
+  question: " Za 24 hodín sa v obličke vytvorí:",
+  answer: [" 180 l glomerulárneho filtrátu"],
+  options: [" 1500 ml glomerulárneho filtrátu"," 120 ml primárneho moču"," 180 l glomerulárneho filtrátu"," 120 ml definitívneho moču"]
+},
+{
+  numb: 613,
+  question: " Detoxikácia amoniaku na močovinu je zachovaná ešte pri:",
+  answer: [" 25% funkčnej kapacity pečene"],
+  options: [" 25% funkčnej kapacity pečene"," 75% funkčnej kapacity pečene"," 50% funkčnej kapacity pečene"," 100% funkčnej kapacity pečene"]
+},
+{
+  numb: 614,
+  question: " Jaffeho reakcia:",
+  answer: [" je reakcia kreatinínu s kyselinou pikrovou v alkalickom prostredí"],
+  options: [" sa využíva pri stanovení močoviny"," je reakcia kyseliny močovej s kyselinou pikrovou"," je reakcia kreatinínu s kyselinou pikrovou v alkalickom prostredí"," sa využíva pri stanoveniach amoniaku v sére aj v moči"]
+},
+{
+  numb: 615,
+  question: " O obličkách môžeme povedať, že:",
+  answer: [" môžu syntetizovať glukózu"," sa zúčastňujú regulácie acidobázickej rovnováhy"],
+  options: [" syntetizujú bielkoviny krvnej plazmy"," môžu syntetizovať glukózu"," sa zúčastňujú regulácie acidobázickej rovnováhy"," obsahujú asi pol milióna nefrónov"]
+},
+{
+  numb: 616,
+  question: " Dekarboxylácia serínu:",
+  answer: [" vedie k tvorbe látky potrebnej pre syntézu fosfolipidov"," vyžaduje ako koenzým pyridoxalfosfát"," prebieha mechanizmom Schiffovej bázy"],
+  options: [" vedie k tvorbe látky potrebnej pre syntézu fosfolipidov"," vyžaduje ako koenzým pyridoxalfosfát"," prebieha mechanizmom Schiffovej bázy"," vyžaduje ATP ako zdroj energie"]
+},
+{
+  numb: 617,
+  question: " Ktoré zlúčeniny sú tvorené pôsobením alanínaminotransferázy:",
+  answer: [" alanín a 2-oxoglutarát"],
+  options: [" pyruvát a glutamín"," alanín a glutamát"," oxalacetát a glutamát"," alanín a 2-oxoglutarát"]
+},
+{
+  numb: 618,
+  question: " Glutamátdehydrogenáza je enzým, ktorý:",
+  answer: [" môže katalyzovať syntézu glutamátu"," je enzýmom 2. kroku nepriamej deaminácie aminokyselín"," katalyzuje oxidačnú deamináciu glutamátu za uvoľnenia amoniaku"],
+  options: [" môže katalyzovať syntézu glutamátu"," má koenzým pyridoxalfosfát"," je enzýmom 2. kroku nepriamej deaminácie aminokyselín"," katalyzuje oxidačnú deamináciu glutamátu za uvoľnenia amoniaku"]
+},
+{
+  numb: 619,
+  question: " Aminotransferázy:",
+  answer: [" vyžadujú pyridoxalfosfát ako koenzým"," sú enzýmy 1. kroku nepriamej deaminácie aminokyselín"," nepatria medzi funkčné enzýmy plazmy"],
+  options: [" sú významné pre syntézu esenciálnych aminokyselín"," vyžadujú pyridoxalfosfát ako koenzým"," sú enzýmy 1. kroku nepriamej deaminácie aminokyselín"," nepatria medzi funkčné enzýmy plazmy"]
+},
+{
+  numb: 620,
+  question: " Fyziologická hodnota klírens kreatinínu je:",
+  answer: [" 120ml/min"," 2ml/s"],
+  options: [" 2ml/min"," 120ml/s"," 120ml/min"," 2ml/s"]
+},
+{
+  numb: 621,
+  question: " Guanidínacetát je látka, ktorá:",
+  answer: [" transportuje sa z obličky do pečene"],
+  options: [" sa metyluje v obličkách prostredníctvom S-adenozylmetionínu"," vzniká z arginínu a glycínu v pečeni"," transportuje sa z obličky do pečene"," vzniká z arginínu a ornitínu v obličke"]
+},
+{
+  numb: 622,
+  question: " V obličke sú lokalizované metabolické dráhy:",
+  answer: [" aktivácia vitamínu D"," syntéza guanidínacetátu"],
+  options: [" syntéza kreatínu z guanidínacetátu"," aktivácia vitamínu D"," fosforylácia kreatínu enzýmom kreatínkináza"," syntéza guanidínacetátu"]
+},
+{
+  numb: 623,
+  question: " Zvýšené množstvo kreatinínu vylúčeného do moču je:",
+  answer: [" pri zvýšenej svalovej námahe"," pri hladovaní"],
+  options: [" pri zníženej glomerulárnej filtrácii"," pri zvýšenej svalovej námahe"," pri ťažkej funkčnej poruche obličiek"," pri hladovaní"]
+},
+{
+  numb: 624,
+  question: " Priama deaminácia aminokyselín:",
+  answer: [" vyžaduje koenzým FMN"," je katalyzovaná oxidázami aminokyselín"],
+  options: [" vyžaduje koenzým FMN"," vedie k tvorbe ATP"," je katalyzovaná oxidázami aminokyselín"," vodíky sa prenášajú na koenzým NAD a z neho priamo na kyslík"]
+},
+{
+  numb: 625,
+  question: " Glutamátdehydrogenáza:",
+  answer: [" katalyzuje oxidačnú deamináciu glutamátu za uvoľnenia amoniaku"," je enzýmom 2. kroku nepriamej deaminácie aminokyselín"," má koenzým NAD"],
+  options: [" katalyzuje oxidačnú deamináciu glutamátu za uvoľnenia amoniaku"," má koenzým pyridoxalfosfát"," je enzýmom 2. kroku nepriamej deaminácie aminokyselín"," má koenzým NAD"]
+},
+{
+  numb: 626,
+  question: " Dekarboxylácia serínu:",
+  answer: [" vedie k tvorbe látky potrebnej pre syntézu fosfolipidov"," prebieha mechanizmom Schiffovej bázy"," vedie k tvorbe etanolamínu" ],
+  options: [" vedie k tvorbe látky potrebnej pre syntézu fosfolipidov"," je reakcia, ktorá nevyžaduje koenzým"," prebieha mechanizmom Schiffovej bázy"," vedie k tvorbe etanolamínu"]
+},
+{
+  numb: 627,
+  question: " Fyziologická hladina kreatinínu v krvi je:",
+  answer: [" 50 - 110 μmol/l"],
+  options: [" zvýšená pri hladovaní"," 50 - 110 μmol/l"," znížená pri ochorení obličiek"," 7 - 20 mmol/l"]
+},
+{
+  numb: 628,
+  question: " Guanidín-acetát metyltransferáza:",
+  answer: [" zabezpečuje tvorbu kreatínu v pečeni"],
+  options: [" je enzým potrebný pre tvorbu guanidínacetátu v obličke"," zabezpečuje tvorbu kreatínu v pečeni"," ako substráty využíva arginín a glycín"," zabezpečuje metyláciu guanidínacetátu v obličke"]
+},
+{
+  numb: 629,
+  question: " O obličkách môžeme povedať, že:",
+  answer: [" sa zúčastňujú na regulácii acidobázickej rovnováhy"," sú miestom aktivácie vitamínu D", " môžu syntetizovať glukózu počas hladovania"],
+  options: [" sa zúčastňujú na regulácii acidobázickej rovnováhy"," sú miestom aktivácie vitamínu D"," sú miestom syntézy bielkovín krvnej plazmy počas hladovania"," môžu syntetizovať glukózu počas hladovania"]
+},
+{
+  numb: 630,
+  question: " Klírens kreatinínu:",
+  answer: [" je ukazovateľom glomerulárnej filtrácie"," závisí od svalovej hmoty a veku"],
+  options: [" je ukazovateľom glomerulárnej filtrácie"," má fyziologickú hodnotu 120 ml/s"," pri ťažkej funkčnej poruche môže byť nižší ako 20 ml/min"," závisí od svalovej hmoty a veku"]
+},
+{
+  numb: 631,
+  question: " Ktoré enzýmy a koenzýmy sú potrebné pre nepriamu deamináciu aminokyselín:",
+  answer: [" transamináza a pyridoxalfosfát"," glutamátdehydrogenáza a NAD"],
+  options: [" transamináza a NAD"," glutamátdehydrogenáza a NAD"," dekarboxyláza a pyridoxalfosfát"," transamináza a pyridoxalfosfát"]
+},
+{
+  numb: 632,
+  question: " Glutamín:",
+  answer: [" transportuje amoniak do pečene a obličky"," vzniká v reakcii katalyzovanej glutamínsyntázou"," v pečeni je štiepený glutaminázou"],
+  options: [" jeho tvorbu katalyzuje glutamináza"," transportuje amoniak do pečene a obličky"," vzniká v reakcii katalyzovanej glutamínsyntázou"," v pečeni je štiepený glutaminázou"]
+},
+{
+  numb: 633,
+  question: " Dekarboxylácia glutamátu:",
+  answer: [" vyžaduje pyridoxalfosfát ako koenzým"," vedie k tvorbe kyseliny gama-aminomaslovej"],
+  options: [" vyžaduje pyridoxalfosfát ako koenzým"," vedie k tvorbe kyseliny gama-aminomaslovej"," je katalyzovaná glutamátdehydrogenázou"," je potrebná k syntéze etanolamínu"]
+},
+{
+  numb: 634,
+  question: " Pri transaminačných reakciách:",
+  answer: [" 2-oxoglutarát je akceptorom NH2- skupiny"," je potrebný pyridoxalfosfát ako koenzým"," dochádza k deaminácii glutamátu"],
+  options: [" 2-oxoglutarát je akceptorom NH2- skupiny"," enzým alanínaminotransferáza vyžaduje koenzým NAD"," je potrebný pyridoxalfosfát ako koenzým"," dochádza k deaminácii glutamátu"]
+},
+{
+  numb: 635,
+  question: " Kreatínfosfát je látka, ktorá:",
+  answer: [" je potrebná pre regeneráciu ATP počas práce svalu"," vyžaduje pre svoju tvorbu ATP"," obsahuje guanidínfosfátovú makroergickú väzbu"],
+  options: [" je potrebná pre regeneráciu ATP počas práce svalu"," vyžaduje pre svoju tvorbu ATP"," obsahuje guanidínfosfátovú makroergickú väzbu"," sa vylučuje obličkami"]
+},
+{
+  numb: 636,
+  question: " V obličke sú lokalizované metabolické dráhy:",
+  answer: [" syntéza guanidínacetátu"],
+  options: [" syntéza kreatínu z guanidínacetátu"," metylácia guanidínacetátu za účasti S-adenozylmetionínu"," fosforylácia kreatínu enzýmom kreatínkináza"," syntéza guanidínacetátu"]
+},
+{
+  numb: 637,
+  question: " Klírens kreatinínu:",
+  answer: [" udáva množstvo vytvoreného glomerulárneho filtrátu za 24 hodín"," je znížený pri ochoreniach obličiek"," závisí od veku a váhy"],
+  options: [" udáva množstvo vytvoreného glomerulárneho filtrátu za 24 hodín"," má fyziologickú hodnotu 120 ml/s"," je znížený pri ochoreniach obličiek"," závisí od veku a váhy"]
+},
+{
+  numb: 638,
+  question: " Glutamínsyntáza je enzým, ktorý:",
+  answer: [" vyžaduje ATP pre tvorbu glutamínu"," je potrebný pre detoxikáciu amoniaku"],
+  options: [" môže katalyzovať syntézu glutamátu"," vyžaduje ATP pre tvorbu glutamínu"," katalyzuje uvoľňovanie amoniaku z glutamínu"," je potrebný pre detoxikáciu amoniaku"]
+},
+{
+  numb: 639,
+  question: " Ktoré z uvedených zlúčenín sú potrebné pre nepriamu deamináciu:",
+  answer: [" pyridoxalfosfát"," 2-oxoglutarát"," glutamát"," koenzým NAD"],
+  options: [" pyridoxalfosfát"," 2-oxoglutarát"," glutamát"," koenzým NAD"]
+},
+{
+  numb: 640,
+  question: " Alanínaminotransferáza:",
+  answer: [" využíva pyridoxalfosfát ako koenzým"," je enzým typický pre pečeňové tkanivo"," utilizuje pyruvát a glutamát ako substráty"],
+  options: [" využíva pyridoxalfosfát ako koenzým"," je enzým typický pre pečeňové tkanivo"," utilizuje pyruvát a glutamát ako substráty"," vytvára alanín v extrahepatálnych tkanivách"]
+},
+{
+  numb: 641,
+  question: " Priama deaminácia aminokyselín:",
+  answer: [" vedie k tvorbe H2O2 účinkom oxidáz aminokyselín"," vyžaduje FMN ako koenzým"],
+  options: [" využíva koenzým NAD na deamináciu glutamátu"," umožňuje vznik ATP účinkom oxidáz aminokyselín"," vedie k tvorbe H2O2 účinkom oxidáz aminokyselín"," vyžaduje FMN ako koenzým"]
+},
+{
+  numb: 642,
+  question: " Klírens kreatinínu je parameter, ktorý:",
+  answer: [" s vekom jeho hodnota klesá"," je ukazovateľom glomerulárnej filtrácie"," závisí od veku a pohlavia"," vyžaduje vyšetrenie hladiny kreatinínu v sére a v moči"],
+  options: [" s vekom jeho hodnota klesá"," je ukazovateľom glomerulárnej filtrácie"," závisí od veku a pohlavia"," vyžaduje vyšetrenie hladiny kreatinínu v sére a v moči"]
+},
+{
+  numb: 643,
+  question: " Znížené množstvo kreatinínu vylúčeného do moču je:",
+  answer: [" pri ťažkej funkčnej poruche obličiek"," pri zníženej glomerulárnej filtrácii"],
+  options: [" pri hladovaní"," pri zvýšenej svalovej námahe"," pri ťažkej funkčnej poruche obličiek"," pri zníženej glomerulárnej filtrácii"]
+},
+{
+  numb: 644,
+  question: " Z guanidínacetátu sa kreatín tvorí:",
+  answer: [" metyláciou prostredníctvom S-adenozylmetionínu"],
+  options: [" metylačnou reakciou v obličke"," za vzniku homocysteínu a ornitínu"," metyláciou prostredníctvom S-adenozylmetionínu"," v pečeni z arginínu a glycínu"]
+},
+{
+  numb: 645,
+  question: " Fyziologická funkcia obličiek zabezpečuje:",
+  answer: [" tvorbu renínu"," reguláciu množstva a vzájomného pomeru iónov"," významnú úlohu v regulácii krvného tlaku"],
+  options: [" tvorbu renínu"," reguláciu množstva a vzájomného pomeru iónov"," syntézu bielkovín krvnej plazmy počas hladovania"," významnú úlohu v regulácii krvného tlaku"]
+},
+{
+  numb: 646,
+  question: " Oxidačná deaminácia glutamátu:",
+  answer: [" je druhý stupeň nepriamej deaminácie aminokyselín"," vedie k tvorbe 2-oxoglutarátu"," vedie k tvorbe ATP"],
+  options: [" vyžaduje koenzým NADH"," je druhý stupeň nepriamej deaminácie aminokyselín"," vedie k tvorbe 2-oxoglutarátu"," vedie k tvorbe ATP"]
+},
+{
+  numb: 647,
+  question: " Alanínaminotransferáza je enzým, ktorý:",
+  answer: [" sa zúčastňuje tvorby látky potrebnej pre glukoneogenézu", " je potrebný pre syntézu neesenciálnych aminokyselín"," využíva 2-oxoglutarát a alanín ako substráty"],
+  options: [" sa zúčastňuje tvorby látky potrebnej pre glukoneogenézu"," využíva pyruvát a 2-oxoglutarát ako substráty"," je potrebný pre syntézu neesenciálnych aminokyselín"," využíva 2-oxoglutarát a alanín ako substráty"]
+},
+{
+  numb: 648,
+  question: " Pyridoxalfosfát je koenzýmom:",
+  answer: [" alanínaminotransferázy"," glutamátdekarboxylázy"],
+  options: [" glutamátdehydrogenázy"," alanínaminotransferázy"," glutamátdekarboxylázy"," glutamínsyntetázy"]
+},
+{
+  numb: 649,
+  question: " Glutamín:",
+  answer: [" transportuje amoniak do pečene"," jeho tvorba je katalyzovaná glutamínsyntázou"," je netoxická transportná forma amoniaku"],
+  options: [" vyžaduje pre svoju tvorbu enzým glutaminázu a ATP"," transportuje amoniak do pečene"," jeho tvorba je katalyzovaná glutamínsyntázou"," je netoxická transportná forma amoniaku"]
+},
+{
+  numb: 650,
+  question: " Primárny moč:",
+  answer: [" obsahuje nízkomolekulové látky krvnej plazmy"," obsahuje kreatinín"],
+  options: [" obsahuje nízkomolekulové látky krvnej plazmy"," obsahuje kreatinín"," obsahuje vysokomolekulové látky krvnej plazmy"," neobsahuje kreatinín"]
+},
+{
+  numb: 651,
+  question: " Medzi základné pochody v metabolizme dusíka v organizme patria:",
+  answer: [" fixácia uvoľneného amoniaku"," transport amoniaku vo forme glutamínu do pečene"," uvoľňovanie amoniaku v transaminačných reakciách"," tvorba močoviny a jej vylučovanie močom"],
+  options: [" fixácia uvoľneného amoniaku"," transport amoniaku vo forme glutamínu do pečene"," uvoľňovanie amoniaku v transaminačných reakciách"," tvorba močoviny a jej vylučovanie močom"]
+},
+{
+  numb: 652,
+  question: " Odpad kreatinínu močom:",
+  answer: [" klesá pri ťažkej funkčnej poruche obličiek"," je 7-20 mmol/24 hodín"],
+  options: [" klesá pri ťažkej funkčnej poruche obličiek"," je 7-20 mmol/24 hodín"," zvyšuje sa pri zníženej filtračnej schopnosti obličiek"," je 7-20 μmol/l"]
+},
+{
+  numb: 653,
+  question: " Arginínglycíntransamidináza je:",
+  answer: [" zabezpečuje tvorbu guanidínacetátu v obličke"],
+  options: [" enzým potrebný pre tvorbu arginínu"," zabezpečuje tvorbu metylovaného guanidínacetátu v pečeni"," ako substráty využíva arginín a ornitín"," zabezpečuje tvorbu guanidínacetátu v obličke"]
+},
+{
+  numb: 654,
+  question: " Alanínaminotransferáza je enzým, ktorý:",
+  answer: [" ako substráty využíva alanín a 2-oxoglutarát"," sa zúčastňuje tvorby látky potrebnej pre glukoneogenézu"," je potrebný pre syntézu neesenciálnych aminokyselín"],
+  options: [" je súčasťou malátaspartátového člnku"," ako substráty využíva alanín a 2-oxoglutarát"," sa zúčastňuje tvorby látky potrebnej pre glukoneogenézu"," je potrebný pre syntézu neesenciálnych aminokyselín"]
+},
+{
+  numb: 655,
+  question: " Ktoré zlúčeniny sú tvorené pôsobením aspartátaminotransferázy:",
+  answer: [" oxalacetát a glutamát"," aspartát a 2-oxoglutarát"],
+  options: [" oxalacetát a glutamín"," alanín a glutamát"," oxalacetát a glutamát"," aspartát a 2-oxoglutarát"]
+},
+{
+  numb: 656,
+  question: " Pyridoxalfosfát je koenzýmom, ktorý je potrebný pre:",
+  answer: [" pre tvorbu etanolamínu"," reakcie katalyzované alanínaminotransferázou"," tvorbu neesenciálnych aminokyselín"],
+  options: [" reakcie katalyzované glutamátdehydrogenázou"," pre tvorbu etanolamínu"," reakcie katalyzované alanínaminotransferázou"," tvorbu neesenciálnych aminokyselín"]
+},
+{
+  numb: 657,
+  question: " Kreatínfosfát:",
+  answer: [" obsahuje guanidínfosfátovú makroergickú väzbu"," využíva sa na regeneráciu ATP pri svalovej práci"],
+  options: [" obsahuje guanidínfosfátovú makroergickú väzbu"," vzniká enzýmom kreatínkináza pri svalovej práci"," pri jeho tvorbe dochádza k regenerácii ATP"," využíva sa na regeneráciu ATP pri svalovej práci"]
+},
+{
+  numb: 658,
+  question: " Pri ťažkom funkčnom defekte obličiek:",
+  answer: [" hodnota klírens kreatinínu je vyššia ako 20 ml/min"," hodnota klírens kreatinínu je znížená"," môžu byť hodnoty klírens kreatinínu nižšie ako 40 ml/min"],
+  options: [" môže hodnota klírens kreatinínu stúpať"," hodnota klírens kreatinínu je vyššia ako 20 ml/min"," hodnota klírens kreatinínu je znížená"," môžu byť hodnoty klírens kreatinínu nižšie ako 40 ml/min"]
+},
+{
+  numb: 659,
+  question: " Guanidín-acetát metyltransferáza:",
+  answer: [" zabezpečuje tvorbu kreatínu v pečeni"],
+  options: [" je enzým lokalizovaný v obličke"," zabezpečuje tvorbu kreatínu v pečeni"," ako substráty využíva arginín a glycín"," zabezpečuje metyláciu guanidínacetátu v obličke"]
+},
+{
+  numb: 660,
+  question: " Klírens kreatinínu:",
+  answer: [" udáva množstvo vytvoreného glomerulárneho filtrátu za 24 hodín"," je znížený pri ochoreniach obličiek"],
+  options: [" udáva množstvo vytvoreného glomerulárneho filtrátu za 24 hodín"," má fyziologickú hodnotu 120 ml/s"," je znížený pri ochoreniach obličiek"," má fyziologickú hodnotu 2 ml/min"]
+},
+{
+  numb: 661,
+  question: " Aspartátaminotransferáza je enzým, ktorý:",
+  answer: [" sa zúčastňuje tvorby látky potrebnej pre glukoneogenézu", " je súčasťou malát-aspartátového člnku"," využíva 2-oxoglutarát a aspartát ako substráty"],
+  options: [" sa zúčastňuje tvorby látky potrebnej pre glukoneogenézu"," využíva aspartát a glutamát ako substráty"," je súčasťou malát-aspartátového člnku"," využíva 2-oxoglutarát a aspartát ako substráty"]
+},
+{
+  numb: 662,
+  question: " Biogénne amíny vznikajú:",
+  answer: [" dekarboxyláciou glutamátu"],
+  options: [" dehydratáciou aminokyselín"," dekarboxyláciou glutamátu"," dehydrogenáciou enzýmom glutamátdehydrogenáza"," transamináciou aminokyselín"]
+},
+{
+  numb: 663,
+  question: " V obličke sú lokalizované metabolické dráhy:",
+  answer: [" syntéza guanidínacetátu z arginínu a glycínu"],
+  options: [" syntéza kreatínu z guanidínacetátu"," metylácia guanidínacetátu za účasti S-adenozylmetionínu"," tvorba kreatínfosfátu enzýmom kreatínkináza"," syntéza guanidínacetátu z arginínu a glycínu"]
+},
+{
+  numb: 664,
+  question: " Glutamín:",
+  answer: [" v pečeni je hydrolyzovaný glutaminázou", " je amid kyseliny glutámovej"],
+  options: [" je amid kyseliny glutámovej"," transportuje amoniak z pečene do extrahepatálnych tkanív"," vzniká väzbou amoniaku na kyselinu glutárovú"," v pečeni je hydrolyzovaný glutaminázou"]
+},
+{
+  numb: 665,
+  question: " Pre transamináciu aminokyselín je potrebný vitamín:",
+  answer: [" vitamín B1"," vitamín B6"],
+  options: [" riboflavín"," vitamín B1"," vitamín B6"," pyridoxín"]
+},
+{
+  numb: 666,
+  question: " Guanidínacetát je látka, ktorá:",
+  answer: [" sa transportuje z obličky do pečene"],
+  options: [" sa transportuje z obličky do pečene"," vzniká z arginínu a glycínu v pečeni"," vzniká z arginínu a ornitínu v obličke"," sa metyluje v obličkách prostredníctvom S-adenozylmetionínu"]
+},
+{
+  numb: 667,
+  question: " Pri ťažkom funkčnom defekte obličiek:",
+  answer: [" hodnota klírens kreatinínu je znížená" , " môžu byť hodnoty klírens kreatinínu nižšie ako 40 ml/min"],
+  options: [" hodnota klírens kreatinínu je znížená"," môžu byť hodnoty klírens kreatinínu nižšie ako 20 ml/min"," hodnota klírens kreatinínu je zvýšená"," môžu byť hodnoty klírens kreatinínu nižšie ako 40 ml/min"]
+},
+{
+  numb: 668,
+  question: " Glutamín:",
+  answer: [" v pečeni je štiepený glutaminázou"," jeho tvorba je katalyzovaná glutamínsyntetázou"," je to netoxická transportná forma amoniaku v organizme"],
+  options: [" v pečeni je štiepený glutaminázou"," vyžaduje pre svoju tvorbu enzým glutaminázu a ATP"," jeho tvorba je katalyzovaná glutamínsyntetázou"," je to netoxická transportná forma amoniaku v organizme"]
+},
+{
+  numb: 669,
+  question: " Aspartátaminotransferáza je enzým, ktorý:",
+  answer: [" je súčasťou malát-aspartátového člnku"," využíva 2-oxoglutarát a aspartát ako substráty"," sa zúčastňuje tvorby látky potrebnej pre glukoneogenézu"],
+  options: [" je súčasťou malát-aspartátového člnku"," využíva 2-oxoglutarát a aspartát ako substráty"," sa zúčastňuje tvorby látky potrebnej pre glukoneogenézu"," patrí medzi funkčné enzýmy plazmy"]
+},
+{
+  numb: 670,
+  question: " Pyridoxalfosfát je koenzýmom:",
+  answer: [" aspartátaminotransferázy"," alanínaminotransferázy"," glutamátdekarboxylázy"],
+  options: [" aspartátaminotransferázy"," alanínaminotransferázy"," glutamátdekarboxylázy"," glutamínsyntetázy"]
+},
+{
+  numb: 671,
+  question: " Dekarboxylácia aspartátu:",
+  answer: [" vedie k tvorbe látky potrebnej pre syntézu koenzýmu A"," prebieha mechanizmom Schiffovej bázy"," vedie k tvorbe beta-alanínu"],
+  options: [" vedie k tvorbe látky potrebnej pre syntézu koenzýmu A"," je reakcia, ktorá vyžaduje koenzým NAD"," prebieha mechanizmom Schiffovej bázy"," vedie k tvorbe beta-alanínu"]
+},
+{
+  numb: 672,
+  question: " Pre výpočet percenta spätnej tubulárnej resorpcie potrebujeme:",
+  answer: [" diurézu pacienta", " množstvo vytvoreného glomerulárneho filtrátu za 24 hodín"],
+  options: [" hladinu kreatinínu v sére a v moči"," diurézu pacienta"," klírens kreatinínu"," množstvo vytvoreného glomerulárneho filtrátu za 24 hodín"]
+},
+{
+  numb: 673,
+  question: " Kreatínfosfát:",
+  answer: [" patrí medzi makroergické zlúčeniny", " je potrebný pre regeneráciu ATP pri práci svalu"],
+  options: [" patrí medzi makroergické zlúčeniny"," jeho tvorba vyžaduje kreatinín a ATP"," vzniká aktivitou kreatínkinázy v pracujúcom svale"," je potrebný pre regeneráciu ATP pri práci svalu"]
+},
+{
+  numb: 674,
+  question: " Arginínglycíntransamidináza je enzým, ktorý:",
+  answer: [" zabezpečuje tvorbu guanidínacetátu v obličke"],
+  options: [" je potrebný pre tvorbu metylovaného guanidínacetátu"," zabezpečuje tvorbu guanidínacetátu v pečeni"," ako substráty využíva arginín a ornitín"," zabezpečuje tvorbu guanidínacetátu v obličke"]
+},
+{
+  numb: 675,
+  question: " Prvá reakcia potrebná pre zapojenie glukogénnych aminokyselín do glukoneogenézy je:",
+  answer: [" transaminačná, vyžadujúca ako koenzým pyridoxalfosfát", " reakcia spojená s oxidačnou deamináciou kyseliny glutámovej" ],
+  options: [" transaminačná, vyžadujúca ako koenzým tiamindifosfát"," transaminačná, vyžadujúca ako koenzým pyridoxalfosfát"," reakcia, v ktorej akceptorom aminoskupiny je kyselina acetoctová"," reakcia spojená s oxidačnou deamináciou kyseliny glutámovej"]
+},
+{
+  numb: 676,
+  question: " Aminokyselina s piatimi uhlíkmi, ktorá vzniká transamináciou väčšiny aminokyselín:",
+  answer: [" je kyselina glutámová"],
+  options: [" je dikarboxylová bázická aminokyselina"," je neutrálna aminokyselina"," je kyselina glutámová"," je aminokyselina, ktorá sa môže oxidačne deaminovať glutamátdehydrogenázou s koenzýmom FAD"]
+},
+{
+  numb: 677,
+  question: " Pre reakciu oxidačnej deaminácie glutamátu je potrebné:",
+  answer: [" enzým, ktorého koenzýmom je NAD resp. NADP"," glutamátdehydrogenáza"],
+  options: [" enzým, ktorého koenzýmom je FAD"," enzým, ktorého koenzýmom je NAD resp. NADP"," glutamátdehydrogenáza"," nedostatok kyslíka"]
+},
+{
+  numb: 678,
+  question: " Amoniak je transportovaný z tkanív do pečene prostredníctvom:",
+  answer: [" látky, ktorá ma v molekule amidovú väzbu a je transportnou netoxickou formou amoniaku"," glutamínu"],
+  options: [" močoviny"," kyseliny močovej"," látky, ktorá ma v molekule amidovú väzbu a je transportnou netoxickou formou amoniaku"," glutamínu"]
+},
+{
+  numb: 679,
+  question: " Hlavné miesto tvorby močoviny:",
+  answer: [" je pečeň"],
+  options: [" je oblička"," je pečeň"," tvorí sa v každej bunke"," je pečeň so subcelulárnou lokalizáciou výlučne v cytoplazme"]
+},
+{
+  numb: 680,
+  question: " Argininosukcinátsyntáza:",
+  answer: [" lokalizovaná je v cytoplazme periportálneho hepatocytu"],
+  options: [" patrí medzi enzýmy Krebsovho cyklu"," je lokalizovaná v cytoplazme každej živočíšnej bunky"," lokalizovaná je v cytoplazme periportálneho hepatocytu"," katalyzuje reakciu, ktorá vyžaduje energiu vo forme GTP"]
+},
+{
+  numb: 681,
+  question: " Močovina:",
+  answer: [" môže byť štiepená ureázou, ktorú produkujú mikroorganizmy črevnej flóry"," do zažívacieho traktu sa môže dostať aj potravou"," nemá náboj, ľahko difunduje cez membrány preto sa dobre vylučuje obličkou"],
+  options: [" môže byť štiepená urátoxidázou v hrubom čreve"," môže byť štiepená ureázou, ktorú produkujú mikroorganizmy črevnej flóry"," do zažívacieho traktu sa môže dostať aj potravou"," nemá náboj, ľahko difunduje cez membrány preto sa dobre vylučuje obličkou"]
+},
+{
+  numb: 682,
+  question: " Koncentrácia močoviny v sére:",
+  answer: [" je 2,5 až 8,4 mmol/l"," stúpa pri anabolických procesoch po vyplavení kortizolu"],
+  options: [" je 1,5 až 5 mmol/l"," je 2,5 až 8,4 mmol/l"," stúpa pri anabolických procesoch po vyplavení kortizolu"," klesá po vyplavení inzulínu"]
+},
+{
+  numb: 683,
+  question: " Substrátom pre glukoneogenézu môže byť 2-oxokyselina s tromi uhlíkami, ktorá vzniká:",
+  answer: [" transamináciou alanínu", " z cysteínu cysteindesulfhydrázou"],
+  options: [" transamináciou alanínu"," priamou deamináciou alanínu"," priamou deamináciou cysteínu, kde koenzýmom je tiamindifosfát"," z cysteínu cysteindesulfhydrázou"]
+},
+{
+  numb: 684,
+  question: " Aminokyselina s piatimi uhlíkmi, ktorá vzniká transamináciou väčšiny aminokyselín:",
+  answer: [" je aminokyselina, ktorá sa môže oxidačne deaminovať glutamátdehydrogenázou s koenzýmom NAD"," je aminokyselina, ktorá je súčasťou glutatiónu"," je aminokyselina, ktorá sa oxidačne deaminuje v mitochondriách"," je ústredná monoaminodikarboxylová aminokyselina v metabolizme aminokyselín"],
+  options: [" je aminokyselina, ktorá sa môže oxidačne deaminovať glutamátdehydrogenázou s koenzýmom NAD"," je aminokyselina, ktorá je súčasťou glutatiónu"," je aminokyselina, ktorá sa oxidačne deaminuje v mitochondriách"," je ústredná monoaminodikarboxylová aminokyselina v metabolizme aminokyselín"]
+},
+{
+  numb: 685,
+  question: " Pre reakciu oxidačnej deaminácie glutamátu je potrebné:",
+  answer: ["- nic"],
+  options: [" dostatočný prísun substrátov napr. NADPH+H+"," glutamát, ktorý vzniká transamináciou oxalacetátu"," NAD+, O2, cytosólová glutamátdehydrogenáza"," vyplavenie inzulínu"]
+},
+{
+  numb: 686,
+  question: " Amoniak je transportovaný z tkanív do pečene prostredníctvom:",
+  answer: [" amidu kyseliny glutámovej"," látky vznikajúcej enzýmom glutamínsyntázou vyžadujúcou ATP"],
+  options: [" amidu kyseliny glutámovej"," látky vznikajúcej enzýmom glutamínsyntázou vyžadujúcou ATP"," látky, ktorá je potrebná na neutralizáciu moča"," látky, pre syntézu ktorej je potrebná energia vo forme GTP"]
+},
+{
+  numb: 687,
+  question: " Hlavné miesto tvorby močoviny:",
+  answer: [" je pečeň so subcelulárnou lokalizáciou syntézy karbamoylfosfátu v mitochondrii"," sú periportálne hepatocyty"],
+  options: [" je pečeň so subcelulárnou lokalizáciou syntézy karbamoylfosfátu v cytoplazme"," je pečeň so subcelulárnou lokalizáciou syntézy karbamoylfosfátu v mitochondrii"," sú periportálne hepatocyty"," sú perivenózne hepatocyty"]
+},
+{
+  numb: 688,
+  question: " Argininosukcinátlyáza:",
+  answer: [" je enzým lokalizovaný v cytoplazme hepatocytu"," katalyzuje reakciu tvorby arginínu a fumarátu"],
+  options: [" je enzým lokalizovaný v cytoplazme hepatocytu"," je lyáza, ktorá katalyzuje reakciu tvorby fumarátu a citrulínu"," katalyzuje tvorbu fumarátu a močoviny"," katalyzuje reakciu tvorby arginínu a fumarátu"]
+},
+{
+  numb: 689,
+  question: " Genetické poruchy enzýmov cyklu tvorby močoviny:",
+  answer: [" môžu viesť ku vzostupu amoniaku rádove až nad 10-3 mol/l"," prejavujú sa už u novorodencov a detí"],
+  options: [" môžu viesť ku vzostupu koncentrácie amoniaku až na 10-6 mol/l, ktorá je pre organizmus toxická"," môžu viesť ku vzostupu amoniaku rádove až nad 10-3 mol/l"," prejavujú sa až v staršom veku najmä v dôsledku acidózy"," prejavujú sa už u novorodencov a detí"]
+},
+{
+  numb: 690,
+  question: " Koncentrácia močoviny v sére:",
+  answer: [" závisí hlavne od potreby detoxikovať amoniak"," závisí od množstva uvoľneného amoniaku"," závisí od funkčnej spôsobilosti obličky"],
+  options: [" závisí hlavne od potreby detoxikovať amoniak"," závisí od množstva uvoľneného amoniaku"," zvyšuje sa pri anabolických procesoch"," závisí od funkčnej spôsobilosti obličky"]
+},
+{
+  numb: 691,
+  question: " Univerzálnym akceptorom aminoskupiny z väčšiny aminokyselín môže byť:",
+  answer: [" kyselina 2-oxoglutárová"],
+  options: [" kyselina acetoctová"," kyselina oxaloctová"," kyselina 2-oxoglutárová"," oxokyselina, ktorá vzniká v metabolizme ketolátok"]
+},
+{
+  numb: 692,
+  question: " Pre tvorbu glutamátu redukčnou amináciou sú potrebné:",
+  answer: [" 2-oxoglutarát, NADH+H+, (NADPH+H+), NH3"],
+  options: [" 2-oxoglutarát, pyridoxal-5-fosfát, NH3"," 2-oxoglutarát, NAD"," 2-oxoglutarát, NADH+H+, (NADPH+H+), NH3"," 2-oxoglutarát, NADH+H+, NH3, glutamátdehydrogenáza"]
+},
 ];
