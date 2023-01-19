@@ -458,7 +458,7 @@ function optionSelected2(){
     }else if(correcAns2.length == 2){
         mmult = 2;
     }else if(correcAns2.length == 3){
-        mmult = 1.34;
+        mmult = 1;
     }else if(correcAns2.length == 0){
         userScore += 4;
     }
