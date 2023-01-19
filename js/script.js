@@ -78,8 +78,9 @@ function retUnq(answer){
 }
   
 var otazky_poradie = [];
-var my_lower_range = 0;
-var my_upper_range = 50;
+var my_lower_range = -1;
+var my_upper_range = -1;
+var my_range_q = -1;
 
 // for (let index = my_lower_range; index < my_upper_range; index++) {
 //     otazky_poradie.push(index);
@@ -96,12 +97,16 @@ start_btn.onclick = ()=>{
     if(number_ranges.length > 0 && number_ranges.length < 3){
         if(number_ranges[1] < number_ranges[0]){
             console.log("zle rozmedzie");
-        }
-    
-        if(number_ranges[0] >= 0){
+            my_lower_range = 0;
+            my_upper_range = questions.length;
+            alert("Zle rozmedzie -> " + number_ranges[0] + " - " + number_ranges[1] + " ... Budu ukazane vsetky otazky");
+        }else if(number_ranges[0] >= 0){
             my_lower_range = number_ranges[0];
             my_upper_range = number_ranges[1];
         }
+    }else{
+        my_lower_range = 0;
+        my_upper_range = questions.length;
     }
 
     for (let index = my_lower_range; index < my_upper_range; index++) {
@@ -110,7 +115,7 @@ start_btn.onclick = ()=>{
     
     shuffle(otazky_poradie);
 
-
+    my_range_q = number_ranges[1] - number_ranges[0];
 
     // info_box.classList.add("activeInfo"); //show info box
     quiz_box.classList.add("activeQuiz");
@@ -175,14 +180,21 @@ const bottom_ques_counter = document.querySelector("footer .total_que");
 
 // if Next Que button clicked
 next_btn.onclick = ()=>{
-    if(que_count < questions.length - 1){ //if question count is less than total question length
+
+    if(que_count < my_range_q - 1){ //if question count is less than total question length
         que_count++; //increment the que_count value
         que_numb++; //increment the que_numb value
         showQuetions(otazky_poradie[que_count]); //calling showQestions function
         queCounter(que_numb); //passing que_numb value to queCounter
         clearInterval(counter); //clear counter
         clearInterval(counterLine); //clear counterLine
-    }else{
+    }
+    // else if(que_count == 2){
+    //     clearInterval(counter); //clear counter
+    //     clearInterval(counterLine); //clear counterLine
+    //     showResult();
+    // }
+    else{
         clearInterval(counter); //clear counter
         clearInterval(counterLine); //clear counterLine
         showResult(); //calling showResult function
@@ -306,6 +318,8 @@ function optionSelected3(){
         for(xop=0; xop < correcAns.length; xop++){
             if(userAns == correcAns[xop]){ //if user selected option is equal to array's correct answer
                 userScore += 1; //upgrading score value with 1
+                console.log("CORRECT");
+                console.log(userScore);
                 answer.classList.add("correct"); //adding green color to correct selected option
                 answer.insertAdjacentHTML("beforeend", tickIconTag); //adding tick icon to correct selected option
                 // console.log("Correct Answer");
@@ -399,17 +413,20 @@ function showResult(){
     quiz_box.classList.remove("activeQuiz"); //hide quiz box
     result_box.classList.add("activeResult"); //show result box
     const scoreText = result_box.querySelector(".score_text");
-    if (userScore > 3){ // if user scored more than 3
+
+    console.log(userScore);
+
+    if (userScore > (my_range_q * 4 * 0.8)){ // if user scored more than 3
         //creating a new span tag and passing the user score number and total question number
-        let scoreTag = '<span>and congrats! 🎉, You got <p>'+ userScore +'</p> out of <p>'+ questions.length +'</p></span>';
+        let scoreTag = '<span>Gratulujem Sikulka! ❤🎉, Mas <p>'+ userScore +'</p> bodov z <p>'+ (my_range_q * 4) +'</p></span>';
         scoreText.innerHTML = scoreTag;  //adding new span tag inside score_Text
     }
-    else if(userScore > 1){ // if user scored more than 1
-        let scoreTag = '<span>and nice 😎, You got <p>'+ userScore +'</p> out of <p>'+ questions.length +'</p></span>';
+    else if(userScore >  (my_range_q * 4 * 0.5)){ // if user scored more than 1
+        let scoreTag = '<span>krasne moje 💕 ale treba este trosku popracovat.. Mas <p>'+ userScore +'</p> z <p>'+ (my_range_q * 4) +'</p></span>';
         scoreText.innerHTML = scoreTag;
     }
     else{ // if user scored less than 1
-        let scoreTag = '<span>and sorry 😐, You got only <p>'+ userScore +'</p> out of <p>'+ questions.length +'</p></span>';
+        let scoreTag = '<span>No treba este zamakat 💋... Mas <p>'+ userScore +'</p> z <p>'+ (my_range_q * 4) +'</p></span>';
         scoreText.innerHTML = scoreTag;
     }
 }
@@ -434,6 +451,18 @@ function optionSelected2(){
         zvolene_odpoveed_vsetky.push(b);
     }
 
+    let mmult = 1;
+
+    if(correcAns2.length == 1){
+        mmult = 4;
+    }else if(correcAns2.length == 2){
+        mmult = 2;
+    }else if(correcAns2.length == 3){
+        mmult = 1.34;
+    }else if(correcAns2.length == 0){
+        userScore += 4;
+    }
+
     for(xop=0; xop < correcAns2.length; xop++){
         let otazka_vyber = correcAns2[xop];
         // console.log(otazka_vyber);
@@ -449,10 +478,11 @@ function optionSelected2(){
         }
     }
 
-
     for(l = 0; l< zvolene_odpoveed_vsetky.length; l++){
+
         if(zvolene_odpoveed_vsetky[l][1] == true){
             zvolene_odpoveed_vsetky[l][0].classList.add("correct");
+            userScore += (1*mmult);
             // zvolene_odpoveed_vsetky[l][0].classList.add("correct");
             zvolene_odpoveed_vsetky[l][0].insertAdjacentHTML("beforeend", tickIconTag);
         }else{
@@ -461,7 +491,6 @@ function optionSelected2(){
             // console.log("Wrong Answer");
         } 
     }   
-
 
     // for(xi = 0; xi < vyber.length; xi++){
     //     console.log("Idem tolkoto krat - vyber length = " + vyber.length);

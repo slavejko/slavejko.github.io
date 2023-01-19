@@ -3176,7 +3176,7 @@ let questions = [
 {
   numb: 530,
   question: " Pre acetyl-CoA platí:",
-  answer: [" jeho zdrojom môže byť ketogénna aminokyselina"],
+  answer: [" jeho zdrojom môže byť ketogénna aminokyselina", " do mitochondrie je transportovaný vo forme acylkarnitínu"],
   options: [" jeho zdrojom môže byť ketogénna aminokyselina"," vzniká β-oxidáciou VKK v cytoplazme"," jeho oxidáciou v Krebsovom cykle vzniká 24 ATP"," do mitochondrie je transportovaný vo forme acylkarnitínu"]
 },
 {
@@ -3200,7 +3200,7 @@ let questions = [
 {
   numb: 534,
   question: " Ketogenéza:",
-  answer: [" prebieha najmä pri noninzulíndependentnom diabete"],
+  answer: [" je stimulovaná hormónom aktivujúcim HSL v adipocytoch"," prebieha najmä pri noninzulíndependentnom diabete"],
   options: [" nemá výraznejší vplyv na acidobázickú homeostázu"," je stimulovaná hormónom aktivujúcim HSL v adipocytoch"," enzým jantarylCoA - transferáza je jej dôležitou súčasťou"," prebieha najmä pri noninzulíndependentnom diabete"]
 },
 {
