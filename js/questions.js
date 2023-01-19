@@ -3038,7 +3038,7 @@ let questions = [
 {
   numb: 507,
   question: " Pre cholesterol platí:",
-  answer: [" patrí medzi jednoduché lipidy"," je polárny"," esterifikovaný sa nachádza v lipoproteínoch"," je potrebný pre syntézu vitamínu D"],
+  answer: [" patrí medzi jednoduché lipidy"," esterifikovaný sa nachádza v lipoproteínoch"," je potrebný pre syntézu vitamínu D"],
   options: [" patrí medzi jednoduché lipidy"," je polárny"," esterifikovaný sa nachádza v lipoproteínoch"," je potrebný pre syntézu vitamínu D"]
 },
 {
