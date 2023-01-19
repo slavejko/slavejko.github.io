@@ -440,7 +440,7 @@ let questions = [
 {
   numb: 74,
   question: " Hydrofóbne hormóny:",
-  answer: [" ovplyvňujú bunkové procesy po vstupe do buniek"," viažu sa na intracelulárne receptory"," zvyšujú syntézu cAMP"],
+  answer: [" ovplyvňujú bunkové procesy po vstupe do buniek"," viažu sa na intracelulárne receptory"],
   options: [" ovplyvňujú bunkové procesy po vstupe do buniek"," viažu sa na intracelulárne receptory"," môžu meniť permeabilitu bunkových membrán pre ióny", " zvyšujú syntézu cAMP"]
 },
 {
