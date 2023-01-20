@@ -3356,7 +3356,7 @@ let questions = [
 {
   numb: 560,
   question: " Aktivácia karboxylovej kyseliny pred vstupom do beta-oxidácie:",
-  answer: [" vyžaduje prítomnosť látky s fosfoanhydridovou makroergickou väzbou"," je spojená s tvorbou enzým-aminoacyladenylátového medziproduktu"," vzniká pri nej látka s tioesterovou makroergickou väzbou"," je premena karboxylovej kyseliny na acyl-CoA"],
+  answer: [" je spojená s tvorbou enzým-aminoacyladenylátového medziproduktu"," vzniká pri nej látka s tioesterovou makroergickou väzbou"," je premena karboxylovej kyseliny na acyl-CoA"],
   options: [" vyžaduje prítomnosť látky s fosfoanhydridovou makroergickou väzbou"," je spojená s tvorbou enzým-aminoacyladenylátového medziproduktu"," vzniká pri nej látka s tioesterovou makroergickou väzbou"," je premena karboxylovej kyseliny na acyl-CoA"]
 },
 {
