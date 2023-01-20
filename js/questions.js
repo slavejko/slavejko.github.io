@@ -3008,7 +3008,7 @@ let questions = [
 {
   numb: 502,
   question: " LDL častice:",
-  answer: ["- nic","- syntetizujú sa v kapilárach","- cholesterol k bunkám","- obs apo B100"],
+  answer: [" syntetizujú sa v extrahepatálnych tkanivách"],
   options: [" syntetizujú sa v extrahepatálnych tkanivách"," sú častice s veľmi nízkou hustotou"," sú zodpovedné za reverzný transport cholesterolu"," obsahujú vo svojej štruktúre apoproteín A"]
 },
 {
