@@ -2210,7 +2210,7 @@ let questions = [
 {
   numb: 369,
   question: " Ketogenéza:",
-  answer: [" prebieha aj vo fyziologických podmienkach"],
+  answer: [" prebieha aj vo fyziologických podmienkach", " je lokalizovaná v pečeni"],
   options: [" je proces utilizácie ketolátok"," prebieha len v patologických podmienkach"," prebieha aj vo fyziologických podmienkach"," je lokalizovaná v pečeni"]
 },
 {
@@ -3446,7 +3446,7 @@ let questions = [
 {
   numb: 575,
   question: " Pre výpočet percenta spätnej tubulárnej resorpcie treba poznať:",
-  answer: ["- A,C, (prakticke cvika str. 123)"],
+  answer: [" diurézu", " množstvo glomerulárneho filtrátu za 24 hodín"],
   options: [" diurézu"," hladinu močoviny v sére"," množstvo glomerulárneho filtrátu za 24 hodín"," hladinu močoviny v moči"]
 },
 {
