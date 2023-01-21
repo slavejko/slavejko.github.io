@@ -3830,7 +3830,7 @@ let questions = [
 {
   numb: 639,
   question: " Ktoré z uvedených zlúčenín sú potrebné pre nepriamu deamináciu:",
-  answer: [" pyridoxalfosfát"," 2-oxoglutarát"," glutamát"," koenzým NAD"],
+  answer: [" pyridoxalfosfát"," 2-oxoglutarát"],
   options: [" pyridoxalfosfát"," 2-oxoglutarát"," glutamát"," koenzým NAD"]
 },
 {
