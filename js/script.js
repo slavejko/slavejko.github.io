@@ -115,7 +115,7 @@ start_btn.onclick = ()=>{
     
     shuffle(otazky_poradie);
 
-    my_range_q = number_ranges[1] - number_ranges[0];
+    my_range_q = my_upper_range - my_lower_range;
 
     // info_box.classList.add("activeInfo"); //show info box
     quiz_box.classList.add("activeQuiz");
