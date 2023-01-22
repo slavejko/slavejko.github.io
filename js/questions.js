@@ -4148,7 +4148,7 @@ let questions = [
 {
   numb: 692,
   question: " Pre tvorbu glutamátu redukčnou amináciou sú potrebné:",
-  answer: [" 2-oxoglutarát, NADH+H+, (NADPH+H+), NH3"],
+  answer: [" 2-oxoglutarát, NADH+H+, NH3, glutamátdehydrogenáza"],
   options: [" 2-oxoglutarát, pyridoxal-5-fosfát, NH3"," 2-oxoglutarát, NAD"," 2-oxoglutarát, NADH+H+, (NADPH+H+), NH3"," 2-oxoglutarát, NADH+H+, NH3, glutamátdehydrogenáza"]
 },
 {
