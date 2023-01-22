@@ -4151,4 +4151,226 @@ let questions = [
   answer: [" 2-oxoglutarát, NADH+H+, (NADPH+H+), NH3"],
   options: [" 2-oxoglutarát, pyridoxal-5-fosfát, NH3"," 2-oxoglutarát, NAD"," 2-oxoglutarát, NADH+H+, (NADPH+H+), NH3"," 2-oxoglutarát, NADH+H+, NH3, glutamátdehydrogenáza"]
 },
+{
+  numb: 693,
+  question: " Nepriama deaminácia aminokyselín vyžaduje:",
+  answer: [" koenzým pyridoxal-5-fosfát (v prvej fáze)"," koenzým NAD+ (v druhej fáze)"," špecifickú transaminázu"],
+  options: [" koenzým pyridoxal-5-fosfát (v prvej fáze)"," koenzým NAD+ (v druhej fáze)"," špecifickú transaminázu"," kyselinu acetoctovú"]
+},
+{
+  numb: 694,
+  question: " V procese tvorby močoviny:",
+  answer: [" využíva sa približne 95 % aminodusíka uvoľneného pri deaminačných reakciách"," zúčastňuje sa 6 aminokyselín"],
+  options: [" využíva sa približne 95 % aminodusíka uvoľneného pri degradácii pyrimidínových báz"," využíva sa približne 50 % aminodusíka uvoľneného pri deaminačných reakciách"," využíva sa približne 95 % aminodusíka uvoľneného pri deaminačných reakciách"," zúčastňuje sa 6 aminokyselín"]
+},
+{
+  numb: 695,
+  question: " Ornitíntranskarbamyláza:",
+  answer: [" je enzým lokalizovaný v mitochondrii periportálneho hepatocytu"," katalyzuje vznik jedného substrátu pre reakciu, ktorú katalyzuje argininosukcinátsyntáza"," katalyzuje tvorbu citrulínu z ornitínu a karbamoylfosfátu v mitochondriách hepatocytov"],
+  options: [" je enzým lokalizovaný v mitochondrii periportálneho hepatocytu"," katalyzuje tvorbu arginínu z ornitínu a karbamoylfosfátu"," katalyzuje vznik jedného substrátu pre reakciu, ktorú katalyzuje argininosukcinátsyntáza"," katalyzuje tvorbu citrulínu z ornitínu a karbamoylfosfátu v mitochondriách hepatocytov"]
+},
+{
+  numb: 696,
+  question: " O aktivite enzýmov cyklu tvorby močoviny môžeme povedať:",
+  answer: [" v pečeni je najvyššia"],
+  options: [" najnižšia je v pečeni"," v pečeni je najvyššia"," v obličke je nízka aktivita najmä argininosukcinátsyntázy"," v mozgu je nízka aktivita najmä ornitíntranskarbamoylázy"]
+},
+{
+  numb: 697,
+  question: " Močovina sa v krvi zvyšuje:",
+  answer: [," pri krvácaní do zažívacieho traktu"," pri dlhodobom hladovaní"],
+  options: [" v období rastu"," pri krvácaní do zažívacieho traktu"," pri vysokých dávkach rastového hormónu"," pri dlhodobom hladovaní"]
+},
+{
+  numb: 698,
+  question: " Alanínaminotransferáza (ALT):",
+  answer: [" lokalizovaná je hlavne v cytoplazme bunky"," dôležitá je pre syntézu neutrálnej aminokyseliny, ktorá sprostredkuje transport amoniaku v krvi"," ako oxokyselinu využíva 2-oxopropiónovú kyselinu vytvorenú v aeróbnej glykolýze"],
+  options: [" je bunkový enzým, vyžadujúci ako koenzým tiamindifosfát"," lokalizovaná je hlavne v cytoplazme bunky"," dôležitá je pre syntézu neutrálnej aminokyseliny, ktorá sprostredkuje transport amoniaku v krvi"," ako oxokyselinu využíva 2-oxopropiónovú kyselinu vytvorenú v aeróbnej glykolýze"]
+},
+{
+  numb: 699,
+  question: " Pri nepriamej deaminácii aminokyselín:",
+  answer: [" aminoskupina sa sústreďuje do spoločného medziproduktu, ktorým je kyselina glutámová"," koenzýmom glutamátdehydrogenázy je NAD resp. NADP"],
+  options: [" v prvej časti reakcie, aminoskupina sa prenáša na oxokyselinu za vzniku amidu"," aminoskupina sa sústreďuje do spoločného medziproduktu, ktorým je kyselina asparágová"," aminoskupina sa sústreďuje do spoločného medziproduktu, ktorým je kyselina glutámová"," koenzýmom glutamátdehydrogenázy je NAD resp. NADP"]
+},
+{
+  numb: 700,
+  question: " Transaminázy, ktoré majú v klinike diagnostický význam sú:",
+  answer: [" enzýmy, ktorých aktivity v krvi stúpajú pri poškodení buniek"," aktivita ALT, ktorá stúpa hlavne pri poškodení pečene"," aktivita AST, ktorá stúpa hlavne pri poškodení myokardu"],
+  options: [" enzýmy, ktorých aktivity v krvi stúpajú pri poškodení buniek"," aktivita ALT, ktorá stúpa hlavne pri poškodení pečene"," aktivita AST, ktorá stúpa hlavne pri poškodení myokardu"," enzýmy, ktoré majú koenzým tiamindifosfát"]
+},
+{
+  numb: 701,
+  question: " Koenzýmom enzýmu, ktorý oxidačne deaminuje kyselinu glutámovú je:",
+  answer: [" koenzým, ktorý pri redukcii priberá dva elektróny a 1 H+", " dinukleotid, ktorého aktívna zložka je derivát kyseliny nikotínovej"],
+  options: [" koenzým, ktorý pri redukcii priberá dva elektróny a 1 H+"," mononukleotid s pyrimidínovou bázou"," mononukleotid, ktorého vitamínová zložka je vit. B5"," dinukleotid, ktorého aktívna zložka je derivát kyseliny nikotínovej"]
+},
+{
+  numb: 702,
+  question: " Koenzýmom dekarboxyláz aminokyselín je:",
+  answer: [" pyridoxín"," aktívna forma vitamínu B6"],
+  options: [" tiamindifosfát"," pyridoxín"," aktívna forma vitamínu B5"," aktívna forma vitamínu B6"]
+},
+{
+  numb: 703,
+  question: " Aminokyselina, ktorá je donorom jednej aminoskupiny v močovine:",
+  answer: [" po transaminácii s 2-oxoglutarátom, môže sa zapojiť do Krebsovho cyklu"," je aminokyselina, ktorá tvorí väčšiu časť uhlíkovej kostry pyrimidínového jadra"," je kyselina aminojantárová"],
+  options: [" po transaminácii za prítomnosti alanínaminotransferázy slúži ako substrát pre glukoneogenézu"," po transaminácii s 2-oxoglutarátom, môže sa zapojiť do Krebsovho cyklu"," je aminokyselina, ktorá tvorí väčšiu časť uhlíkovej kostry pyrimidínového jadra"," je kyselina aminojantárová"]
+},
+{
+  numb: 704,
+  question: " Močovina:",
+  answer: ["- nič"],
+  options: [" vzniká v cyklickom metabolickom procese, ktorý vedie k tvorbe energie"," enzýmy, ktoré sa zúčastňujú jej syntézy sú konštitučné"," jej syntéza si vyžaduje 2 ATP a 1 GTP"," pri poškodení obličky, vylučuje sa vo zvýšenej miere močom"]
+},
+{
+  numb: 705,
+  question: " Amoniak je toxický:",
+  answer: [" tým, že môže vyväzovať protóny, zvyšuje pH prostredia"," lebo sa viaže na 2-oxoglutarát redukčnou amináciou a tým odčerpáva dôležitý energetický substrát pre Krebsov cyklus"],
+  options: [" tým, že môže vyväzovať protóny, zvyšuje pH prostredia"," lebo pri vysokých koncentráciách sa viaže na oxalacetát, ktorý je dôležitý medziprodukt Krebsovho cyklu"," lebo sa viaže na 2-oxoglutarát redukčnou amináciou a tým odčerpáva dôležitý energetický substrát pre Krebsov cyklus"," pri koncentrácii rádovo 10-3 mmol/l"]
+},
+{
+  numb: 706,
+  question: " Amoniak:",
+  answer: [" v krvi je transportovaný prostredníctvom glutamínu resp. alanínu"," zažívací trakt je jeho dôležitým zdrojom"," v hrubom čreve vzniká z močoviny ureázou"],
+  options: [" v krvi je transportovaný prostredníctvom glutamínu resp. alanínu"," zažívací trakt je jeho dôležitým zdrojom"," v hrubom čreve vzniká z močoviny ureázou"," v zažívacom trakte sa ho vytvorí približne 23 molov za deň"]
+},
+{
+  numb: 707,
+  question: " Kyselina glutámová:",
+  answer: [" je oxidačnou deamináciou premenená na 2-oxoglutarát pomocou glutamátdehydrogenázy", " môže vzniknúť redukčnou amináciou jedného z medziproduktov Krebsovho cyklu"],
+  options: [" oxidačnou deamináciou s koenzýmom FAD vzniká oxoglutarát, ktorý sa môže zapojiť do glukoneogenézy"," je oxidačnou deamináciou premenená na 2-oxoglutarát pomocou glutamátdehydrogenázy"," oxidačnou deamináciou poskytuje NH3, oxalacetát a NADH+H+"," môže vzniknúť redukčnou amináciou jedného z medziproduktov Krebsovho cyklu"]
+},
+{
+  numb: 708,
+  question: " Glutamátdehydrogenáza:",
+  answer: [" redukovaná forma jej koenzýmu poskytuje v dýchacom reťazci 3 ATP"," katalyzuje vratnú reakciu lokalizovanú v mitochondriách"],
+  options: [" lokalizovaná je v cytoplazme bunky"," katalyzuje nevratnú reakciu deaminácie glutamátu"," redukovaná forma jej koenzýmu poskytuje v dýchacom reťazci 3 ATP"," katalyzuje vratnú reakciu lokalizovanú v mitochondriách"]
+},
+{
+  numb: 709,
+  question: " Pri nepriamej deaminácii sa aminoskupiny aminokyselín naviažu na spoločný medziprodukt:",
+  answer: [" v jednom z medziproduktov Krebsovho cyklu", " v kyseline 2-oxoglutárovej"],
+  options: [" v kyseline pyrohroznovej"," v jednom z medziproduktov Krebsovho cyklu"," v kyseline acetoctovej"," v kyseline 2-oxoglutárovej"]
+},
+{
+  numb: 710,
+  question: " Močovina (NH2)2CO:",
+  answer: [" v krvnom riečisku je dobre transportovateľná"," je dobre rozpustná vo vode a ľahko prechádza membránami"," je zlúčenina, ktorá obsahuje 40% dusíka"],
+  options: [" v krvnom riečisku je dobre transportovateľná"," je dobre rozpustná vo vode a ľahko prechádza membránami"," je zlúčenina, ktorá obsahuje 40% dusíka"," syntetizuje sa v pečeni a obličke"]
+},
+{
+  numb: 711,
+  question: " Pre syntézu močoviny sú potrebné substráty:",
+  answer: [" NH4+ , HCO3-"," kyselina asparágová, NH3+, HCO3-"," NH4+ , HCO3- , kyselina asparágová, H2O, 3 ATP"],
+  options: [" NH4+ , HCO3-"," kyselina asparágová, NH3+, HCO3-"," NH4+ , HCO3- , kyselina jantárová, H2O, 3 ATP"," NH4+ , HCO3- , kyselina asparágová, H2O, 3 ATP"]
+},
+{
+  numb: 712,
+  question: " Argináza:",
+  answer: [" lokalizovaná je v cytoplazme hepatocytu"," hydrolyticky štiepi arginín na ornitín a močovinu v cytoplazme hepatocytu"],
+  options: [" hydrolyticky štiepi argininosukcinát na arginín a močovinu"," patrí do kompletnej výbavy enzýmov cyklu tvorby močoviny v obličke"," lokalizovaná je v cytoplazme hepatocytu"," hydrolyticky štiepi arginín na ornitín a močovinu v cytoplazme hepatocytu"]
+},
+{
+  numb: 713,
+  question: " Amoniak:",
+  answer: [" využíva sa čiastočne na syntézu neesenciálnych aminokyselín prostredníctvom glutamátu"," pre organizmus je toxický v koncentrácii rádove 10-3 mol/l"," u ureotelných organizmov fixuje sa do močoviny, prostredníctvom ktorej sa vylúči u človeka 25 až 35 g"],
+  options: [" využíva sa čiastočne na syntézu neesenciálnych aminokyselín prostredníctvom glutamátu"," väčšia časť sa vylučuje z organizmu prostredníctvom kyseliny močovej"," pre organizmus je toxický v koncentrácii rádove 10-3 mol/l"," u ureotelných organizmov fixuje sa do močoviny, prostredníctvom ktorej sa vylúči u človeka 25 až 35 g"]
+},
+{
+  numb: 714,
+  question: " Stanovenie koncentrácie močoviny v sére a v moči:",
+  answer: [" informuje nás o príčinách oligúrie"],
+  options: [" môže nás informovať len o funkcii obličky"," môže nás informovať len o miere katabolizmu bielkovín"," je dvakrát citlivejšie pre posúdenie poškodenia obličky ako stanovenie kreatinínu"," informuje nás o príčinách oligúrie"]
+},
+{
+  numb: 715,
+  question: " Oxidázy aminokyselín:",
+  answer: [" majú koenzým FAD resp. FMN"," pri oxidačnej deaminácii vzniká H2O2 a príslušná oxokyselina"],
+  options: [" majú koenzým pyridoxal-5-fosfát"," oxidačne deaminujú všetky L-aminokyseliny"," majú koenzým FAD resp. FMN"," pri oxidačnej deaminácii vzniká H2O2 a príslušná oxokyselina"]
+},
+{
+  numb: 716,
+  question: " Glutamátdehydrogenáza:",
+  answer: [" katalyzuje reakciu, rovnováhu ktorej ovplyvňuje koncentrácia substrátov a produktov"," pre syntézu neesenciálnych aminokyselín je dôležitá redukčná aminácia oxoglutarátu"," pri vysokej koncentrácii NAD+, ADP, reakcia katalyzovaná týmto enzýmom prebieha v smere tvorby oxoglutarátu a NH3"],
+  options: [" katalyzuje reakciu, rovnováhu ktorej ovplyvňuje koncentrácia substrátov a produktov"," pri vysokej koncentrácii NADH, reakcia prebieha v smere tvorby oxoglutarátu"," pre syntézu neesenciálnych aminokyselín je dôležitá redukčná aminácia oxoglutarátu"," pri vysokej koncentrácii NAD+, ADP, reakcia katalyzovaná týmto enzýmom prebieha v smere tvorby oxoglutarátu a NH3"]
+},
+{
+  numb: 717,
+  question: " Pri nepriamej deaminácii sa aminoskupiny aminokyselín naviažu na spoločný medziprodukt:",
+  answer: [" v dikarboxylovej 2-oxokyseline s piatimi uhlíkmi", " v 2-oxokyseline, ktorá oxidačnou dekarboxyláciou poskytuje sukcinyl-CoA"],
+  options: [" v dikarboxylovej 2-oxokyseline s piatimi uhlíkmi"," v medziprodukte metabolizmu VKK"," v 2-oxokyseline, ktorá vzniká v aeróbnej glykolýze"," v 2-oxokyseline, ktorá oxidačnou dekarboxyláciou poskytuje sukcinyl-CoA"]
+},
+{
+  numb: 718,
+  question: " Koenzýmom dekarboxyláz aminokyselín je:",
+  answer: [" pyridoxal-5-P, ktorý vzniká v reakcii enzýmom pyridoxalkinázou"," koenzým, ktorý je aj koenzýmom cysteíndesulfhydrázy"," koenzým, ktorý je spoločný pre AST, ALT, treonínaldolázu a dekarboxylázy aminokyselín"],
+  options: [" pyridoxal-5-P, ktorý vzniká v reakcii enzýmom pyridoxalkinázou"," koenzým, ktorý je aj koenzýmom cysteíndesulfhydrázy"," molekula, ktorá obsahuje pyrimidínové jadro"," koenzým, ktorý je spoločný pre AST, ALT, treonínaldolázu a dekarboxylázy aminokyselín"]
+},
+{
+  numb: 719,
+  question: " Pre syntézu močoviny sú potrebné substráty:",
+  answer: [" NH4+ uvoľnený len glutaminázou"," voľný amoniak a aminodusík z kyseliny asparágovej"],
+  options: [" NH4+ uvoľnený len glutamátdehydrogenázou"," NH4+ uvoľnený len glutaminázou"," voľný amoniak a aminodusík z kyseliny asparágovej"," NH4 , HCO3- , kyselina asparágová, H2O, 2 ATP, 1 GTP"]
+},
+{
+  numb: 720,
+  question: " Amoniak:",
+  answer: [" tvorí sa deamináciou aminokyselín, deamináciou nukleotidov a nukleozidov", " viazaný môže byť na kyselinu glutámovú za vzniku glutamínu v reakcii vyžadujúcej ATP"],
+  options: [" tvorí sa deamináciou aminokyselín, deamináciou nukleotidov a nukleozidov"," detoxikovaný je väzbou na alanín za vzniku amidu"," s 2-oxoglutarátom tvorí amid kyseliny glutámovej enzýmom glutaminázou"," viazaný môže byť na kyselinu glutámovú za vzniku glutamínu v reakcii vyžadujúcej ATP"]
+},
+{
+  numb: 721,
+  question: " Močovina:",
+  answer: [" na jej tvorbu postačuje približne 25% funkčnej kapacity pečene"," za deň sa jej vylúči približne 30g, čo zodpovedá 14 gramom dusíka"],
+  options: [" na jej tvorbu postačuje približne 25% funkčnej kapacity pečene"," za deň sa jej vylúči približne 30g, čo zodpovedá 14 gramom dusíka"," vylučuje sa len glomerulárnou filtráciou"," na jej tvorbu postačuje približne 25% funkčnej kapacity obličky"]
+},
+{
+  numb: 722,
+  question: " Stanovenie koncentrácie močoviny v sére a v moči:",
+  answer: [" informuje nás o miere katabolizmu bielkovín a funkcií obličky"," zvýšené vylučovanie močom je spojené so zvýšeným katabolizmom bielkovín"," zvýšená hladina v sére, znížené vylučovanie svedčí o poškodení obličiek"],
+  options: [" informuje nás o miere katabolizmu bielkovín a funkcií obličky"," zvýšené vylučovanie močom je spojené so zvýšeným katabolizmom bielkovín"," zvýšená hladina v sére, znížené vylučovanie svedčí o poškodení obličiek"," slúži ako najvýznamnejší parameter pre posúdenie glomerulárnej filtrácie a spätnej tubulárnej sekrécie"]
+},
+{
+  numb: 723,
+  question: " Oxidázy aminokyselín:",
+  answer: [" patria medzi aeróbne dehydrogenázy"," katalyzujú hlavne oxidačnú deamináciu D-aminokyselín"," lokalizované sú hlavne v peroxizómoch hepatocytov"],
+  options: [" patria medzi aeróbne dehydrogenázy"," katalyzujú hlavne oxidačnú deamináciu D-aminokyselín"," lokalizované sú hlavne v mitochondriách pečene"," lokalizované sú hlavne v peroxizómoch hepatocytov"]
+},
+{
+  numb: 724,
+  question: " Transaminázy, ktoré majú v klinike diagnostický význam, sú:",
+  answer: [" aspartátaminotransferáza (AST) lokalizovaná v cytoplazme"," alanínaminotransferáza (ALT) lokalizovaná v mitochondriách"],
+  options: [" glutamátdehydrogenáza lokalizovaná v cytoplazme"," aspartátaminotransferáza (AST) lokalizovaná v cytoplazme"," alanínaminotransferáza (ALT) lokalizovaná v mitochondriách"," enzýmy krvnej plazmy"]
+},
+{
+  numb: 725,
+  question: " Koenzýmom enzýmu, ktorý oxidačne deaminuje kyselinu glutámovú je:",
+  answer: [" NAD"],
+  options: [" NAD"," NADPH+H+, ktorý po reoxidácii v dýchacom reťazci poskytuje 3 ATP"," koenzým, ktorého redukovaná forma po reoxidácii v dýchacom reťazci poskytuje 2 ATP"," FAD, FMN"]
+},
+{
+  numb: 726,
+  question: " Močovina (NH2)2CO:",
+  answer: [" u ureotelných organizmov je koncový produkt degradácie amoniaku"," je výborným klinickým parametrom pre sledovanie funkčnej spôsobilosti obličky"],
+  options: [" je u človeka koncový produkt degradácie purínových nukleotidov"," u ureotelných organizmov je koncový produkt degradácie amoniaku"," vylučuje sa len glomerulárnou filtráciou"," je výborným klinickým parametrom pre sledovanie funkčnej spôsobilosti obličky"]
+},
+{
+  numb: 727,
+  question: " Aminokyselina, ktorá je donorom jednej aminoskupiny v močovine:",
+  answer: [" vzniká transamináciou kyseliny oxaloctovej, kde donorom aminoskupiny je kyselina glutámová"],
+  options: [" vzniká redukčnou amináciou kyseliny oxaloctovej"," vzniká transamináciou kyseliny pyrohroznovej"," vzniká transamináciou kyseliny oxaloctovej, kde donorom aminoskupiny je kyselina glutámová"," patrí medzi neutrálne aminokyseliny"]
+},
+{
+  numb: 728,
+  question: " Amoniak:",
+  answer: [" toxický je v koncentrácii 10-3 mol/l"," v obličke uvoľnený glutaminázou slúži na reguláciu acidobázickej rovnováhy"," u ureotelných živočíchov sa vylučuje prostredníctvom močoviny"],
+  options: [" transportovaný je prostredníctvom glutamínu do pečene cca 5 % a do obličky 95 %"," toxický je v koncentrácii 10-3 mol/l"," v obličke uvoľnený glutaminázou slúži na reguláciu acidobázickej rovnováhy"," u ureotelných živočíchov sa vylučuje prostredníctvom močoviny"]
+},
+{
+  numb: 729,
+  question: " Genetické poruchy enzýmov cyklu tvorby močoviny:",
+  answer: [" úplna strata ich aktivity nie je zlučiteľná so životom"," ich čiastočná strata aktivity sa prejavuje vracaním, poruchami rastu, kŕčami, zastavením duševného vývoja"],
+  options: [" súvisia s poklesom amoniaku"," vedú ku vzostupom amoniaku v krvi"," úplna strata ich aktivity nie je zlučiteľná so životom"," ich čiastočná strata aktivity sa prejavuje vracaním, poruchami rastu, kŕčami, zastavením duševného vývoja"]
+},
 ];
