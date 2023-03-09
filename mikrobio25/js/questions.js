@@ -161,10 +161,4 @@ let questions = [
       answer: [" protozoálnych parazitóz"," vnútrobunkovo umiestnených baktérií"," morúl pri ehrlichióze"," anaplaziem v granulocytoch"," retikulárnych teliesok chlamýdií"],
       options: [" puzdra"," protozoálnych parazitóz"," chitínovej bunkovej steny húb"," špirálovitých baktérií"," acidorezistentných baktérií"," vnútrobunkovo umiestnených baktérií"," morúl pri ehrlichióze"," peptidoglykánu baktérií"," anaplaziem v granulocytoch"," retikulárnych teliesok chlamýdií"],
    },
-   {
-      numb: 27,
-      question: "Vo forme diplokokov alebo retiazok sú obvykle usporiadané",
-      answer: [" Neisseria gonorrhoeae"," Streptobacillus moniliformis"," Streptococcus pneumoniae"," Neisseria meningitidis"," Streptococcus agalactiae"],
-      options: [" Neisseria gonorrhoeae"," Clostridium tetani"," Streptobacillus moniliformis"," Lactobacillus spp."," Streptococcus pneumoniae"," Mycobacterium tuberculosis"," Treponema pallidum"," Neisseria meningitidis"," Streptococcus agalactiae"," Staphylococcus aureus"],
-   },
 ];
