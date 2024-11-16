@@ -50,14 +50,14 @@ let questions = [
  {
     numb: 8,
     question: "Karcinoembryonálny antigén (CEA)",
-    answer: ["je onkofetálny antigén","býva zvýšený pri adenokarcinóme prsníka", "jeho hladina sa zvysuje pri crohnovej chorobe"],
-    options: ["je onkofetálny antigén","je onkoplacentárny antigén","býva zvýšený pri adenokarcinóme prsníka","býva zvýšený pri nádoroch z plochého dlaždicového epitelu", "jeho hladina sa zvysuje pri crohnovej chorobe"],
+    answer: ["je onkofetálny antigén","býva zvýšený pri adenokarcinóme prsníka"],
+    options: ["je onkofetálny antigén","je onkoplacentárny antigén","býva zvýšený pri adenokarcinóme prsníka","býva zvýšený pri nádoroch z plochého dlaždicového epitelu"],
  },
  {
     numb: 9,
     question: "Alfa-fetoproteín",
-    answer: ["fyziologickly je produkovaný bunkami fetálnej pečene","fyziologicky je produkovaný bunkami žltkového vaku", "fyziologicky býva zvýšený v sére gravidných žien", "pouziva sa ako skriningove vysetrenie v prenatalnej diagnostike"],
-    options: ["fyziologickly je produkovaný bunkami fetálnej pečene","fyziologicky je produkovaný bunkami žltkového vaku","v plodovej vode sa používa na posúdenie zrelosti pľúc plodu", "fyziologicky býva zvýšený v sére gravidných žien", "pouziva sa ako skriningove vysetrenie v prenatalnej diagnostike"],
+    answer: ["fyziologickly je produkovaný bunkami fetálnej pečene","fyziologicky je produkovaný bunkami žltkového vaku", "fyziologicky býva zvýšený v sére gravidných žien"],
+    options: ["fyziologickly je produkovaný bunkami fetálnej pečene","fyziologicky je produkovaný bunkami žltkového vaku","v plodovej vode sa používa na posúdenie zrelosti pľúc plodu", "fyziologicky býva zvýšený v sére gravidných žien"],
  },
  {
     numb: 10,
@@ -98,8 +98,8 @@ let questions = [
  {
     numb: 16,
     question: "Hladiny hCG bývajú zvýšené pri",
-    answer: ["choriokarcinóme","mola hydatidosa","aj pri niektorých netrofoblastových nádoroch", "Downovom syndrome"],
-    options: ["choriokarcinóme","mola hydatidosa","aj pri niektorých netrofoblastových nádoroch","len pri nádoroch z trofoblastu", "Downovom syndrome" ],
+    answer: ["choriokarcinóme","mola hydatidosa","aj pri niektorých netrofoblastových nádoroch"],
+    options: ["choriokarcinóme","mola hydatidosa","aj pri niektorých netrofoblastových nádoroch","len pri nádoroch z trofoblastu" ],
  },
  {
     numb: 17,
@@ -110,8 +110,8 @@ let questions = [
  {
     numb: 18,
     question: "O hCG môžeme povedať",
-    answer: ["vyšetrujeme ho v rámci skríningu u gravidných žien", "nezvysuje sa pri teratomoch vajecnikov"],
-    options: ["býva zvýšený pri pravých seminómoch","býva zvýšený pri nádoroch semenníkov obsahujúcich štruktúry žltkového vaku","vyšetrujeme ho v rámci skríningu u gravidných žien"," býva zvýšený u plodov s anencefaliou", "nezvysuje sa pri teratomoch vajecnikov" ],
+    answer: ["vyšetrujeme ho v rámci skríningu u gravidných žien"],
+    options: ["býva zvýšený pri pravých seminómoch","býva zvýšený pri nádoroch semenníkov obsahujúcich štruktúry žltkového vaku","vyšetrujeme ho v rámci skríningu u gravidných žien"," býva zvýšený u plodov s anencefaliou" ],
  },
  {
     numb: 19,
