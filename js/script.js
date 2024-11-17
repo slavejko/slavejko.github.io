@@ -170,7 +170,7 @@ function showQuetions(index){
 
     var mojShuf = shuffle(xa);
 
-    let question_tag = '<span>'+ questions[index].numb + ". " + questions[index].question +'</span>';
+    let question_tag = '<span>' + questions[index].question +'</span>';
     let option_tag = '<div class="option"><span>'+ questions[index].options[mojShuf[0]] +'</span></div>'
     + '<div class="option"><span>'+ questions[index].options[mojShuf[1]] +'</span></div>'
     + '<div class="option"><span>'+ questions[index].options[mojShuf[2]] +'</span></div>'
