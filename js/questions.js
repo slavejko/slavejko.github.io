@@ -13,13 +13,13 @@ let questions = [
  },
  {
     numb: 2,
-    question: "Karcinoembryonálny antogén (CEA)",
+    question: "Karcinoembryonálny antigén (CEA)",
     answer: ["býva zvýšený u fajčiarov", "môže byť zvýšený pri divertikulitíde čreva","hodnoty do 10 µg/l nemusia znamenať prítomnosť nádoru"],
     options: ["používa sa aj v prenatálnej diagnostike", "býva zvýšený u fajčiarov", "môže byť zvýšený pri divertikulitíde čreva","hodnoty do 10 µg/l nemusia znamenať prítomnosť nádoru"],
  },
  {
     numb: 3,
-    question: ".Karcinoembryonálny antogén (CEA)",
+    question: "Karcinoembryonálny antigén (CEA)",
     answer: ["môže mať prognostický význam pri kolorektálnom karcinóme","fyziologicky je produkovaný bunkami GIT-u vo fetálnom období"],
     options: ["hodnoty do 10 µg/l sú podozrivé z prítomnosti metastáz","môže mať prognostický význam pri kolorektálnom karcinóme","fyziologicky je produkovaný bunkami GIT-u vo fetálnom období","je to látka hormonálnej povahy "],
  },
@@ -31,7 +31,7 @@ let questions = [
  },
  {
     numb: 5,
-    question: "Karcinoembryonálny antogén (CEA)",
+    question: "Karcinoembryonálny antigén (CEA)",
     answer: ["môže byť zvýšený u pacientov s cirhózou pečene"],
     options: ["býva zvýšený pri nádoroch pľúc z dlaždicového epitelu","môže byť zvýšený u pacientov s cirhózou pečene","používa sa ako marker pri cervikálnom karcinóme","používa sa pri seróznom type cystadenokarcinómu vaječníkov", ],
  },
@@ -139,7 +139,7 @@ let questions = [
  },
  {
     numb: 23,
-    question: ".O nádoroch pľúc možno povedať",
+    question: "O nádoroch pľúc možno povedať",
     answer: [],
     options: ["malobunkový karcinóm je častejší ako nemalobunkový karcinóm", "markerom typickým pre malobunkový karcinóm pľuc je SCC", "nádor z viacvrstvového dlaždicového epitelu má zvýšené hladiny NSE"," pre nádory pľúc je charakteristické zvýšenie CA 15-3" ],
  },
@@ -247,7 +247,7 @@ let questions = [
  },
  {
     numb: 35,
-    question: ".Beta-2-mikroglobulín býva zvýšený v sére pacientov s",
+    question: "Beta-2-mikroglobulín býva zvýšený v sére pacientov s",
     answer: ["hematologickými malignitami",
        "chronickou lymfatickou leukémiou"],
     options: ["hematologickými malignitami",
@@ -268,7 +268,7 @@ let questions = [
  },
  {
     numb: 37,
-    question: ".Onkomarker CA 15-3 je vyšetrením 1.voľby u pacientov s",
+    question: "Onkomarker CA 15-3 je vyšetrením 1.voľby u pacientov s",
     answer: [
       "karcinómom prsníka"],
     options: ["karcinómom hrubého čreva",
@@ -491,6 +491,7 @@ let questions = [
     question: "O laktátdehydrogenáze platí",
     answer: [
       "pre ochorenie pečene je typické zvýšenie aktivity LD5",
+      "pre myopatie je charakteristické zvýšenie aktivity LD5",
       "pri malígnych ochoreniach sa zvyšuje hlavne aktivita LD3 - LD5"],
     options: [ "pre ochorenie myokardu je typické zvýšenie aktivity LD2",
        "pre ochorenie pečene je typické zvýšenie aktivity LD5",
