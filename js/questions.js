@@ -876,112 +876,113 @@ let questions = [
   {
    numb: 103,
    question: " Pre izoenzýmy CK platí",
-   answer: [],
+   answer: [" podiel CK-MM v kostrovom svale je okolo 97% celkovej aktivity CK", " aktivita CK-BB sa zvyšuje pri infarkte tenkého creva", " izoenzýmy CK sú diméry"],
    options: [
   " podiel CK-MM v kostrovom svale je okolo 97% celkovej aktivity CK", " aktivita CK-BB sa zvyšuje pri infarkte myokardu", " aktivita CK-BB sa zvyšuje pri infarkte tenkého creva", " izoenzýmy CK sú diméry"]
   },
   {
    numb: 104,
    question: " Aktivita amylázy v sére môže byt zvýšená",
-   answer: [],
+   answer: [" pri parotitíde", " pri renálnej insuficiencii", " pri ochoreniach pankreasu"],
    options: [
   " pri parotitíde", " pri renálnej insuficiencii", " pri ochoreniach pankreasu", " pri ochoreniach pecene"]
   },
   {
    numb: 105,
    question: " Aktivita amylázy v sére môže byt zvýšená",
-   answer: [],
+   answer: [" pri ochoreniach slinných žliaz", " pri perforácii žaludocného vredu"],
    options: [
   " pri ochoreniach slinných žliaz", " pri hepatitíde", " pri hemolýze", " pri perforácii žaludocného vredu"]
   },
   {
    numb: 106,
    question: " Aktivita amylázy v moci býva",
-   answer: [],
+   answer: [" zvýšená pri akútnej pankreatitíde"],
    options: [
   " zvýšená pri akútnej pankreatitíde", " znížená pri akútnej pankreatitíde", " zvýšená pri renálnej insuficiencii", " zvýšená pri makroamylazémii"]
   },
   {
    numb: 107,
    question: " Aktivita amylázy v moci býva",
-   answer: [],
+   answer: [" znížená pri makroamylazémii", " zvýšená pri parotitíde"],
    options: [
   " znížená pri makroamylazémii", " zvýšená pri parotitíde", " znížená pri parotitíde", " znížená pri akútnych brušných príhodách"]
   },
   {
    numb: 108,
    question: " Lipáza",
-   answer: [],
+   answer: [" používa sa pri diferenciálnej diagnostike zvýšených aktivít amylázy"],
    options: [
   " používa sa pri diferenciálnej diagnostike zvýšených aktivít amylázy", " býva zvýšená pri renálnej insuficiencii", " býva zvýšená pri poruchách resorpcie v jejune", " býva znížená pri hepatobiliárnych ochoreniach"]
   },
   {
    numb: 109,
    question: " Lipáza",
-   answer: [],
+   answer: [ " je citlivejší ukazovatel poškodenia pankreasu ako amyláza"," býva zvýšená pri akútnej pankreatitíde"],
    options: [
   " je citlivejší ukazovatel poškodenia pankreasu ako amyláza", " je vyšetrením 1.volby pri podozrení na akútnu pankreatitídu", " býva zvýšená pri makroamylazémii", " býva zvýšená pri akútnej pankreatitíde"]
   },
   {
    numb: 110,
    question: " Glutamátdehydrogenáza",
-   answer: [],
+   answer: [" je mitochondriový enzým"," používa sa u pacientov s ochoreniami pecene"],
    options: [
   " je mitochondriový enzým", " býva zvýšená pri ochoreniach slinných žliaz", " používa sa u pacientov s ochoreniami svalu", " používa sa u pacientov s ochoreniami pecene"]
   },
   {
    numb: 111,
    question: "Glutamátdehydrogenáza",
-   answer: [],
+   answer: [" býva zvýšená pri pravostrannom zlyhaní srdca"],
    options: [
   " používa sa u pacientov s ochoreniami obliciek", " nachádza sa v cytosole", " je viazaná na membrány buniek", " býva zvýšená pri pravostrannom zlyhaní srdca"]
   },
   {
    numb: 112,
    question: "O glutamátdehydrogenáze platí",
-   answer: [],
+   answer: [" cím je pomer AST+AST/glutamátdehydrogenáza nižší, tým je poškodenie tažšie"],
    options: [
   " jej vyšetrenie sa používa v kardiologii", " zvyšuje sa aj u lahších poškodení pecene", " jej aktivita sa pri cirhóze pecene znižuje", " cím je pomer AST+AST/glutamátdehydrogenáza nižší, tým je poškodenie tažšie"]
   },
   {
    numb: 113,
    question: " Pri ochoreniach myokardu má význam vyšetrovat aktivity",
-   answer: [],
+   answer: [" CK-MB", " kreatínkinázy"],
    options: [
   " CK-BB", " CK-MB", " cholínesterázy", " kreatínkinázy"]
   },
   {
    numb: 114,
    question: " Pri ochoreniach myokardu má význam vyšetrovat aktivity",
-   answer: [],
+   answer: [" AST"],
    options: [
   " AST", " ALT", " CK-MM", " amylázy"]
   },
   {
    numb: 115,
    question: " Pri ochoreniach pecene má význam vyšetrovat",
-   answer: [],
+   answer: [" AST"],
    options: [
   " AST", " ACP", " CK-BB", " LD-1"]
   },
   {
    numb: 116,
    question: " Pri ochoreniach pecene má význam vyšetrovat",
-   answer: [],
+   answer: [
+      " LD-5", " ALT", " GMD", " ALP"],
    options: [
   " LD-5", " ALT", " GMD", " ALP"]
   },
   {
    numb: 117,
    question: " Aktivita cholínesterázy môže byt znížená u pacientov s",
-   answer: [],
+   answer: [" abnormálnou variantov CHE", " chronickou hepatitídou"],
    options: [
   " steatózou pecene", " abnormálnou variantov CHE", " chronickou hepatitídou", " hyperlipoproteinémiou"]
   },
   {
    numb: 118,
    question: " Aktivita cholínesterázy môže byt znížená u pacientov s",
-   answer: [],
+   answer: [" otravou organofosfátmi", " cirhozou pecene"],
    options: [
   " otravou organofosfátmi", " otravou CO", " cirhozou pecene", " zápalom pankreasu"]
   },
@@ -995,161 +996,161 @@ let questions = [
   {
    numb: 120,
    question: " Pri ochoreniach pecene sa používa vyšetrenie pomeru",
-   answer: [],
+   answer: [" AST/ALT", " ALT+AST/GMD"],
    options: [
   " CK-MB/AST", " AST/ALT", " ALT/AST", " ALT+AST/GMD"]
   },
   {
    numb: 121,
    question: " Medzi funkcie plazmatických bielkovín patrí",
-   answer: [],
+   answer: [" hemokoagulácia", " udržiavanie osmotického tlaku krvi"],
    options: [
   " transport hydrofilných látok", " hemokoagulácia", " udržiavanie osmotického tlaku krvi", " zdroj esenciálnych mastných kyselín"]
   },
   {
    numb: 122,
    question: " Medzi funkcie plazmatických bielkovín patrí",
-   answer: [],
+   answer: [" transport tažkých kovov", " transport steroidných hormónov", " transport volných mastných kyselín"],
    options: [
   " transport tažkých kovov", " transport steroidných hormónov", " transport hypofyzárnych hormónov", " transport volných mastných kyselín"]
   },
   {
    numb: 123,
    question: " Syntéza plazmatických bielkovín",
-   answer: [],
+   answer: [" je znížená pri hladovaní", " prebieha hlavne v hepatocytoch", " cast plazmatických bielkovín sa syntetizuje extrahepatálne", " závisí od nutricného stavu organizmu"],
    options: [
   " je znížená pri hladovaní", " prebieha hlavne v hepatocytoch", " cast plazmatických bielkovín sa syntetizuje extrahepatálne", " závisí od nutricného stavu organizmu"]
   },
   {
    numb: 124,
    question: " Syntéza plazmatických bielkovín",
-   answer: [],
+   answer: [" môže byt regulovaná aj niektorými cytokínmi", " ovplyvnuje plazmatickú hladinu celkových bielkovín"],
    options: [
   " je zvýšená pri tažkých hepatopatiach", " nesúvisí s nutricným stavom organizmu", " môže byt regulovaná aj niektorými cytokínmi", " ovplyvnuje plazmatickú hladinu celkových bielkovín"]
   },
   {
    numb: 125,
    question: " Sérová hladina plazmatických bielkovín môže byt ovplyvnená",
-   answer: [],
+   answer: [" stratami bielkovín do mocu", " stratami bielkovín do lumenu creva", " poškodením hepatocytov toxickými látkami", " funkciou pecene"],
    options: [
   " stratami bielkovín do mocu", " stratami bielkovín do lumenu creva", " poškodením hepatocytov toxickými látkami", " funkciou pecene"]
   },
   {
    numb: 126,
    question: " Sérová hladina plazmatických bielkovín môže byt ovplyvnená",
-   answer: [],
+   answer: [" nutricným stavom organizmu", " poctom plazmocytov", " prívodom bielkovín v potrave", " hladinou prozápalových cytokínov"],
    options: [
   " nutricným stavom organizmu", " poctom plazmocytov", " prívodom bielkovín v potrave", " hladinou prozápalových cytokínov"]
   },
   {
    numb: 127,
    question: " Dysproteinémia",
-   answer: [],
+   answer: [" môže sa týkat zmeny hladiny viacerých plazmatických bielkovín"],
    options: [
   " je spojená so zvýšením celkovej hladiny bielkovín", " je spojená so znížením hladiny celkových bielkovín", " môže sa týkat zmeny hladiny viacerých plazmatických bielkovín", " na jej dôkaz nám stací vyšetrit hladinu celkových bielkovín v sére"]
   },
   {
    numb: 128,
    question: " Dysproteinémia",
-   answer: [],
+   answer: [" možno je dokázat vyšetrením hladiny celkových bielkovín a albumínu", " nemusí byt spojená so zmenou hladiny celkových bielkovín"],
    options: [
   " dá sa dokázat len elektroforézou bielkovín", " možno je dokázat vyšetrením hladiny celkových bielkovín a albumínu", " nemusí byt spojená so zmenou hladiny celkových bielkovín", " nedá sa dokázat vyšetrením celkových bielkovín a albumínu"]
   },
   {
    numb: 129,
    question: " Nepravá hypoproteinémia",
-   answer: [],
+   answer: [ " fyziologicky ju pozorujeme v priebehu gravidity", " býva spôsobená zvýšením objemu vody v kardiovaskulárnom riecisku", " môže byt spôsobená podaním viacerých infúzií fyziologického roztoku"],
    options: [
   " môže byt spôsobená dehydratáciou", " fyziologicky ju pozorujeme v priebehu gravidity", " býva spôsobená zvýšením objemu vody v kardiovaskulárnom riecisku", " môže byt spôsobená podaním viacerých infúzií fyziologického roztoku"]
   },
   {
    numb: 130,
    question: " Nepravá hypoproteinémia",
-   answer: [],
+   answer: [" môže byt spôsobená podaním viacerých infúzií roztoku glukózy", " celkové množstvo bielkovín v plazme ostáva nezmenené"],
    options: [
   " môže byt spôsobená podaním viacerých infúzií roztoku glukózy", " je spojená so znížením celkového množstva bielkovín v plazme", " je spojená so zvýšením celkového množstva bielkovín v plazme", " celkové množstvo bielkovín v plazme ostáva nezmenené"]
   },
   {
    numb: 131,
    question: " Pravá hyperproteinémia",
-   answer: [],
+   answer: [" hematokrit sa pri nej obvykle nemení"],
    options: [
   " býva spôsobená zvýšenou syntézou albumínu", " spôsobuje ju dehydratácia", " býva sprevádzaná zvýšením hematokritu", " hematokrit sa pri nej obvykle nemení"]
   },
   {
    numb: 132,
    question: " Pravá hyperproteinémia",
-   answer: [],
+   answer: [" môže byt u pacientov s mnohopocetným myelómom", " najcastejšie ju spôsobuje zvýšená syntéza imunoglobulínov",  " môže byt spôsobená polyklonálnou hypergamaglobulinémiou"],
    options: [
   " môže byt u pacientov s mnohopocetným myelómom", " najcastejšie ju spôsobuje zvýšená syntéza imunoglobulínov", " spôsobuje ju dostatocný prívod bielkovín v potrave", " môže byt spôsobená polyklonálnou hypergamaglobulinémiou"]
   },
   {
    numb: 133,
    question: " Pravá hypoproteinémia",
-   answer: [],
+   answer: [" je sprevádzaná znížením celkového množstva bielkovín v plazme",  " môže byt spôsobená tažkou proteinúriou", ],
    options: [
   " je sprevádzaná znížením celkového množstva bielkovín v plazme", " môže byt spôsobená podaním viacerých infúzií fyziologického roztoku", " môže byt spôsobená tažkou proteinúriou", " býva sprevádzaná znížením hematokritu"]
   },
   {
    numb: 134,
    question: " Pravá hypoproteinémia",
-   answer: [],
+   answer: [" dochádza pri nej ku poklesu koncentrácie celkových bielkovín", " môže byt spôsobená poškodením pecene"],
    options: [
   " môže byt spôsobená polyklonálnou hypergamaglobulinémiou", " nedochádza pri nej ku zmene celkového množstva bielkovín v plazme", " dochádza pri nej ku poklesu koncentrácie celkových bielkovín", " môže byt spôsobená poškodením pecene"]
   },
   {
    numb: 135,
    question: " Nepravá hyperproteinémia",
-   answer: [],
+   answer: [" býva sprevádzaná zvýšením hematokritu"],
    options: [
   " je sprevádzaná zvýšením celkového množstva bielkovín v plazme", " je sprevádzaná znížením hematokritu", " býva sprevádzaná zvýšením hematokritu", " býva spôsobená zmenou nutricného stavu organizmu"]
   },
   {
    numb: 136,
    question: " Nepravá hyperproteinémia",
-   answer: [],
+   answer: [" býva podmienená dehydratáciou"],
    options: [
   " býva spôsobená zvýšenou syntézou albumínu", " býva pri hladovaní", " býva podmienená tažkou proteinúriou", " býva podmienená dehydratáciou"]
   },
   {
    numb: 137,
    question: " Celkové bielkoviny séra",
-   answer: [],
+   answer: [" ich koncentrácia sa pohybuje okolo 60-80 g/l", " ich koncentrácia sa môže znížit u pacientov s nefrotickým syndrómom"," ich koncentrácia závisí od nutricného stavu organizmu"],
    options: [
   " ich koncentrácia sa pohybuje okolo 60-80 g/l", " ich koncentrácia sa môže znížit u pacientov s nefrotickým syndrómom", " ich koncentrácia sa môže zvýšit po opakovaných infúziach glukózy a fyziologického roztoku", " ich koncentrácia závisí od nutricného stavu organizmu"]
   },
   {
    numb: 138,
    question: " Celkové bielkoviny séra",
-   answer: [],
+   answer: [ " ich koncentrácia sa môže zvýšit u pacientov s polyúriou"],
    options: [
   " ich koncentrácia sa môže zvýšit pri väcšej proteinúrii", " ich zvýšená koncentrácia je sprevádzaná edémami", " ich koncentrácia sa pohybuje okolo 35-50 g/l", " ich koncentrácia sa môže zvýšit u pacientov s polyúriou"]
   },
   {
    numb: 139,
    question: " Albumín",
-   answer: [],
+   answer: [" jeho podiel na celkovom množstve bielkovín v sére predstavuje nieco vyše polovice",  " jeho hladina sa znižuje pri chronických ochoreniach pecene"],
    options: [
   " jeho podiel na celkovom množstve bielkovín v sére predstavuje asi jednu tretinu", " jeho podiel na celkovom množstve bielkovín v sére predstavuje nieco vyše polovice", " jeho hladina pri hladovaní stúpa", " jeho hladina sa znižuje pri chronických ochoreniach pecene"]
   },
   {
    numb: 140,
    question: " Albumín",
-   answer: [],
+   answer: [" pokles jeho hladiny sa prejaví vznikom edémov"],
    options: [
   " jeho hladina sa zvyšuje pri nefrotickom syndróme", " pokles jeho hladiny sa prejaví vznikom edémov", " pokles jeho hladiny sa prejaví poklesom hematokritu", " pokles jeho hladiny sa prejaví hyperbilirubinémiou"]
   },
   {
    numb: 141,
    question: " Albumín",
-   answer: [],
+   answer: [" pri elektroforéze sa pohybuje smerom ku anóde", " syntetizuje sa výlucne v peceni"],
    options: [
   " pri elektroforéze sa pohybuje smerom ku anóde", " syntetizuje sa výlucne v peceni", " syntetizuje sa v peceni a v bunkách retikuloendoteliálneho systému", " pokles jeho hladiny sa prejaví zvýšením hladiny lipidov v sére"]
   },
   {
    numb: 142,
    question: " Albumín",
-   answer: [],
+   answer: [" je dôležitý pre udržiavanie onkotického tlaku plazmy"],
    options: [
   " pri elektroforéze sa pohybuje smerom ku katóde", " pri elektroforéze sa pohybuje medzi alfa- a beta-globulínmi", " jeho zvýšenie býva najcastejšou prícinou pravej hyperproteinémie", " je dôležitý pre udržiavanie onkotického tlaku plazmy"]
   },
@@ -1163,28 +1164,28 @@ let questions = [
   {
    numb: 144,
    question: " Vo frakcii alfa-1-globulínov nachádzame",
-   answer: [],
+   answer: [" alfa-kyslý glykoproteín",  " proteíny akútnej fázy", " alfa-antitrypsín"],
    options: [
   " alfa-kyslý glykoproteín", " C-reaktívny proteín", " proteíny akútnej fázy", " alfa-antitrypsín"]
   },
   {
    numb: 145,
    question: " Vo frakcii beta-globulínov nachádzame",
-   answer: [],
+   answer: [" transferín"],
    options: [
   " ceruloplazmín", " transferín", " haptoglobín", " prealbumín"]
   },
   {
    numb: 146,
    question: " Vo frakcii beta-globulínov nachádzame",
-   answer: [],
+   answer: [" cast IgA", " C-reaktívny proteín"],
    options: [
   " IgG", " cast IgA", " C-reaktívny proteín", " makroglobulín"]
   },
   {
    numb: 147,
    question: " Polyklonálna hypergamaglobulinémia sy vyskytuje u pacientov",
-   answer: [],
+   answer: [" s chronickými hepatopatiami",  " s cirhózou pecene"],
    options: [
   " s nefrotickým syndrómom", " s chronickými hepatopatiami", " s mnohopocetným myelómom", " s cirhózou pecene"]
   },
@@ -1198,21 +1199,21 @@ let questions = [
   {
    numb: 149,
    question: "U pacienta s chronickou hepatopatiou je na elektroforeograme charakteristické",
-   answer: [],
+   answer: [" polyklonálna hypergamaglobulinémia"," znížený albumín"],
    options: [
   " chýbajúce alfa-globulíny", " polyklonálna hypergamaglobulinémia", " znížené beta-globulíny", " znížený albumín"]
   },
   {
    numb: 150,
    question: "U pacienta s chronickou hepatopatiou je na elektroforeograme charakteristické",
-   answer: [],
+   answer: [" zvýšené gama-globulíny"],
    options: [
   " zvýšený albumín", " znížené alfa-globulíny", " zvýšené gama-globulíny", " monoklonálna hypergamaglobulinémia"]
   },
   {
    numb: 151,
    question: " Pre akútnu vírusovú hepatitídu je pri elfo bielkovín charakteristické",
-   answer: [],
+   answer: [" zníženie albumínu", " zvýšenie alfa-1-globulínov", " zvýšenie alfa-2-globulínov"],
    options: [
   " zníženie albumínu", " zvýšenie alfa-1-globulínov", " zvýšenie alfa-2-globulínov", " zníženie alfa-2-globulínov"]
   },
@@ -1226,77 +1227,77 @@ let questions = [
   {
    numb: 153,
    question: " Pri nefrotickom syndróme vidíme na elektroforeograme",
-   answer: [],
+   answer: [" zvýšenie alfa-2-globulínov"],
    options: [
   " zníženie alfa-1-globulínov", " zvýšenie alfa-1-globulínov", " zvýšenie alfa-2-globulínov", " zníženie alfa-2-globulínov"]
   },
   {
    numb: 154,
    question: " Pri nefrotickom syndróme vidíme na elektroforeograme",
-   answer: [],
+   answer: [" zníženie albumínu"],
    options: [
   " zníženie albumínu", " zvýšenie albumínu", " zvýšenie gama-globulínov", " zníženie beta-globulínov"]
   },
   {
    numb: 155,
    question: "U onkologického pacienta môžeme na elektroforeograme bielkovín séra vidiet",
-   answer: [],
+   answer: [" zvýšenie alfa-1-globulínov"],
    options: [
   " zvýšenie imunoglobulínov", " zvýšenie albumínu", " zníženie alfa-1-globulínov", " zvýšenie alfa-1-globulínov"]
   },
   {
    numb: 156,
    question: "U onkologického pacienta môžeme na elektroforeograme bielkovín séra vidiet",
-   answer: [],
+   answer: [" zníženie albumínu",  " zvýšenie alfa-2-globulínov"],
    options: [
   " polyklonálnu hypergamaglobulinémiu", " zníženie albumínu", " zníženie alfa-2-globulínov", " zvýšenie alfa-2-globulínov"]
   },
   {
    numb: 157,
    question: " Ako monoklonálny proteín sa objavuje",
-   answer: [],
+   answer: [" niektorý z imunoglobulínov", " volné lahké retazce imunoglobulínov", " volné lahké retazce kappa"],
    options: [
   " najcastejšie albumín", " niektorý z imunoglobulínov", " volné lahké retazce imunoglobulínov", " volné lahké retazce kappa"]
   },
   {
    numb: 158,
    question: " Ako monoklonálny proteín sa objavuje",
-   answer: [],
+   answer: [" volné lahké retazce typu lambda", " najcastejšie imunoglobulín G"],
    options: [
   " volné lahké retazce typu lambda", " najcastejšie imunoglobulín E", " najcastejšie imunoglobulín G", " albumín"]
   },
   {
    numb: 159,
    question: " Prítomnost monoklonálneho proteínu (paraproteínu) sa môže prejavit",
-   answer: [],
+   answer: [" peniažkovatením erytrocytov",  " zvýšenou viskozitou plazmy"],
    options: [
   " zvýšením koncentrácie albumínu", " peniažkovatením erytrocytov", " zníženou viskozitou plazmy", " zvýšenou viskozitou plazmy"]
   },
   {
    numb: 160,
    question: " Prítomnost monoklonálneho proteínu (paraproteínu) sa môže prejavit",
-   answer: [],
+   answer: [ " krvácavostou", " pyroglobulinémiou", " nefropatiou"],
    options: [
   " krvácavostou", " pyroglobulinémiou", " infarktom myokardu", " nefropatiou"]
   },
   {
    numb: 161,
    question: " Paraproteín v sére je obligatórne prítomný pri",
-   answer: [],
+   answer: [" mnohopocetnom myelóme"],
    options: [
   " chronických hepatopatiach", " akútnej porfýrii", " mnohopocetnom myelóme", " imunodeficientnom syndróme"]
   },
   {
    numb: 162,
    question: " Paraproteín v sére je obligatórne prítomný pri",
-   answer: [],
+   answer: [" Waldenstromovej makroglobulinémii", " chorobe tažkých retazcov"],
    options: [
   " kolagenóze", " Waldenstromovej makroglobulinémii", " chorobe tažkých retazcov", " autoimúnnych ochoreniach"]
   },
   {
    numb: 163,
    question: " Medzi kritéria pre stanovenie diagnózy mnohopocetného myelómu patrí",
-   answer: [],
+   answer: [" rtg nález osteolytických lézií"],
    options: [
   " rtg nález osteolytických lézií", " zvýšená hladina alfa-2-makroglobulínu", " viac ako 5% plazmocytov v kostnej dreni", " viac ako 10% plazmocytov v kostnej dreni"]
   },
