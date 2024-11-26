@@ -1304,70 +1304,70 @@ let questions = [
   {
    numb: 164,
    question: " Medzi kritéria pre stanovenie diagnózy mnohopocetného myelómu patrí",
-   answer: [],
+   answer: [" nález M-gradientu pri elektroforéze plazmatických bielkovín"],
    options: [
   " nález M-gradientu pri elektroforéze plazmatických bielkovín", " zníženie klírensu kreatinínu", " zvýšená hladina CRP", " viac ako 15% eosinofilov v kostnej dreni + bunkové atypie"]
   },
   {
    numb: 165,
    question: " Medzi laboratórne vyšetrenia používané pri diagnostike mnohopocetného myelómu patrí",
-   answer: [],
+   answer: [" imunofixácia", " kvantifikácia paraproteínu", " imunoelektroforéza"],
    options: [
   " vyšetrenie aktivity ALT", " imunofixácia", " kvantifikácia paraproteínu", " imunoelektroforéza"]
   },
   {
    numb: 166,
    question: " Medzi laboratórne vyšetrenia používané pri diagnostike mnohopocetného myelómu patrí",
-   answer: [],
+   answer: [" kvantifikácia ostatných \"normálnych\" imunoglobulínov"],
    options: [
   " stanovenie proteínov akútnej fázy", " kvantifikácia ostatných \"normálnych\" imunoglobulínov", " stanovenie alfa-2-mikroglobulínu", " stanovenie CA 15-3"]
   },
   {
    numb: 167,
    question: " Pre diagnózu benígnej paraproteinémie musí pacient splnat nasledujúce podmienky",
-   answer: [],
+   answer: [" M-gradient menej ako 20 g/l", " množstvo paraproteínu stabilné aspon 5 rokov", " menej ako 10% plazmocytov a bez atypií"],
    options: [
   " M-gradient menej ako 20 g/l", " množstvo paraproteínu stabilné aspon 5 rokov", " M-gradient menej ako 50 g/l", " menej ako 10% plazmocytov a bez atypií"]
   },
   {
    numb: 168,
    question: " Pre diagnózu benígnej paraproteinémie musí pacient splnat nasledujúce podmienky",
-   answer: [],
+   answer: [" neprítomná anémia a renálna insuficiencia", " normálna koncentrácia nepatologických imunoglobulínov", " beta-2-mikroglobulín v norme"],
    options: [
   " menej ako 20% plazmocytov a bez atypií", " neprítomná anémia a renálna insuficiencia", " normálna koncentrácia nepatologických imunoglobulínov", " beta-2-mikroglobulín v norme"]
   },
   {
    numb: 169,
    question: " Bence-Jonesov proteín",
-   answer: [],
+   answer: [" je tvorený volnými lahkými retazcami imunoglobulínov",  " býva prítomný u pacientov s mnohopocetným myelómom"],
    options: [
   " je tvorený volnými lahkými retazcami imunoglobulínov", " býva prítomný u pacientov s benígnou paraproteinémiou", " býva prítomný u pacientov s mnohopocetným myelómom", " je tvorený volnými tažkými retazcami imunoglobulínov"]
   },
   {
    numb: 170,
    question: " Bence-Jonesov proteín",
-   answer: [],
+   answer: [" môžeme ho zistit elektroforézou bielkovín mocu", " pri 100 C sa rozpúšta"],
    options: [
-  " pri 60oC sa rozpúšta", " môžeme ho zistit elektroforézou bielkovín séra", " môžeme ho zistit elektroforézou bielkovín mocu", " pri 100oC sa rozpúšta"]
+  " pri 60 C sa rozpúšta", " môžeme ho zistit elektroforézou bielkovín séra", " môžeme ho zistit elektroforézou bielkovín mocu", " pri 100 C sa rozpúšta"]
   },
   {
    numb: 171,
    question: "C-reaktívny proteín",
-   answer: [],
+   answer: [" syntetizuje sa v peceni",  " patrí do skupiny proteínov akútnej fázy"],
    options: [
   " syntetizuje sa v peceni", " syntetizuje sa v makrofágoch", " patrí do skupiny proteínov akútnej fázy", " jeho hladina sa zvyšuje najmä pri vírusových infekciach"]
   },
   {
    numb: 172,
    question: "C-reaktívny proteín",
-   answer: [],
+   answer: [" vyšetrujeme pre vcasnú diagnostiku hnisavých pooperacných komplikácií", " býva zvýšený v sére pacientov s bakteriálnymi infekciami", " býva zvýšený v sére pacientov s reumatickými ochoreniami", " býva zvýšený v sére pacientov s nádorovými ochoreniami"],
    options: [
   " vyšetrujeme pre vcasnú diagnostiku hnisavých pooperacných komplikácií", " býva zvýšený v sére pacientov s bakteriálnymi infekciami", " býva zvýšený v sére pacientov s reumatickými ochoreniami", " býva zvýšený v sére pacientov s nádorovými ochoreniami"]
   },
   {
    numb: 173,
    question: "C-reaktívny proteín",
-   answer: [],
+   answer: [" pri zápaloch sa zvyšuje asi 6-9 hodín po zaciatku zápalu", " je súcastou frakcie beta-globulínov"],
    options: [
   " pri zápaloch sa zvyšuje asi 24 hodín po zaciatku zápalu", " pri zápaloch sa zvyšuje asi 6-9 hodín po zaciatku zápalu", " pri zápaloch sa zvyšuje asi 1-3 hodiny po zaciatku zápalu", " je súcastou frakcie beta-globulínov"]
   },
@@ -1381,63 +1381,63 @@ let questions = [
   {
    numb: 175,
    question: " Medzi obligatórne monoklonálne hypergamaglobulinémie nepatrí",
-   answer: [],
+   answer: [" autoimúnna hepatitída",  " imunodeficiencia IgA"],
    options: [
   " mnohopocetný myelóm", " autoimúnna hepatitída", " Waldenstromova makroglobulinémia", " imunodeficiencia IgA"]
   },
   {
    numb: 176,
    question: " Medzi laboratórne nálezy pri mnohopocetnom myelóme patrí",
-   answer: [],
+   answer: [" zvýšenie rýchlosti sedimentácie erytrocytov", " zvýšenie hladiny C-reaktívneho proteínu v sére", " prítomnost paraproteínu v sére"],
    options: [
   " znížený pocet plazmocytov v kostnej dreni", " zvýšenie rýchlosti sedimentácie erytrocytov", " zvýšenie hladiny C-reaktívneho proteínu v sére", " prítomnost paraproteínu v sére"]
   },
   {
    numb: 177,
    question: " Pre urcenie štádia ochorenia a zhodnotenia prognózy u pacientov s mnohopocetným myelómom",
-   answer: [],
+   answer: [" koncentráciu paraproteínu", " koncentráciu beta-2-mikroglobulínu"],
    options: [
   " koncentráciu paraproteínu", " koncentráciu AFP", " koncentráciu beta-2-mikroglobulínu", " koncentráciu alfa-2-makroglobulínu"]
   },
   {
    numb: 178,
    question: " Hladinu glykémie zvyšuje",
-   answer: [],
+   answer: [" glukagon"],
    options: [
   " parathormón", " kalcitonín", " glukagon", " inzulín"]
   },
   {
    numb: 179,
    question: " Hladinu glykémie zvyšuje",
-   answer: [],
+   answer: [" kortizol", " rastový hormón"],
    options: [
   " kortizol", " aldosteron", " rastový hormón", " luteinizacný hormón"]
   },
   {
    numb: 180,
    question: " Diabetes mellitus I.typu",
-   answer: [],
+   answer: [ " môže byt dôsledkom autoimúnneho procesu"],
    options: [
   " vzniká u gravidných žien", " vyskytuje sa len u detí", " je charakterizovaný relatívnym nedostatkom inzulínu", " môže byt dôsledkom autoimúnneho procesu"]
   },
   {
    numb: 181,
    question: " Diabetes mellitus I.typu",
-   answer: [],
+   answer: [" dá sa liecit len inzulínom", " casto sa môže komplikovat vznikom ketoacidózy", " je charakterizovaný absolútnym nedostatkom inzulínu"],
    options: [
   " dá sa liecit len dietou", " dá sa liecit len inzulínom", " casto sa môže komplikovat vznikom ketoacidózy", " je charakterizovaný absolútnym nedostatkom inzulínu"]
   },
   {
    numb: 182,
    question: " Orálny glukózový tolerancný test",
-   answer: [],
+   answer: [" je test na diagnostiku diabetes mellitus", " robí sa u pacienta nalacno"],
    options: [
   " je test na diagnostiku diabetes mellitus", " je test na monitorovanie priebehu diabetu", " je test na odhalenie komplikácií diabetu", " robí sa u pacienta nalacno"]
   },
   {
    numb: 183,
    question: " Orálny glukózový tolerancný test",
-   answer: [],
+   answer: [" používa sa aj u gravidných žien"],
    options: [
   " robí sa bez ohladu na to ci pacient jedol alebo nie", " robí sa na spresnenie glykemického profilu", " u diabetikov II.typu býva casto negatívny", " používa sa aj u gravidných žien"]
   },
@@ -1451,7 +1451,7 @@ let questions = [
   {
    numb: 185,
    question: " Orálny glukózový tolerancný test",
-   answer: [],
+   answer: [" pacientovi podávame 75 g glukózy", " detom podávame 1,75 g glukózy na kg telesnej hmotnosti"],
    options: [
   " pacientovi podávame 50 g glukózy", " pacientovi podávame 75 g glukózy", " detom podávame 1,75 g glukózy na kg telesnej hmotnosti", " gravidným ženám podávame 50 g glukózy"]
   },
@@ -1465,98 +1465,98 @@ let questions = [
   {
    numb: 187,
    question: " Pri vyhodnotení oGTT",
-   answer: [],
+   answer: [" rozhodujúca je glykémia po 2.hodine", " za normálnych okolností by po 2 hodinách mala byt glykémia na východiskových hodnotách",  " glykémia po 2 hodinách vyššia ako 11 mmol/l svedcí pre diabetes"],
    options: [
   " rozhodujúca je glykémia po 2.hodine", " za normálnych okolností by po 2 hodinách mala byt glykémia na východiskových hodnotách", " glykémia po 2 hodinách vyššia ako 8 mmol/l svedcí pre diabetes", " glykémia po 2 hodinách vyššia ako 11 mmol/l svedcí pre diabetes"]
   },
   {
    numb: 188,
    question: " Pozitívny nález glykozúrie",
-   answer: [],
+   answer: [" môže byt renálneho pôvodu"," nemusí byt spojený s diabetom"],
    options: [
   " môže byt renálneho pôvodu", " slúži na diagnózu diabetu", " je vždy prítomný pri diabete", " nemusí byt spojený s diabetom"]
   },
   {
    numb: 189,
    question: " Pozitívny nález glykozúrie",
-   answer: [],
+   answer: [" môže byt u žien v priebehu gravidity", " je dôsledkom prekrocenia kapacity tubulárnych buniek pre glukózu", " môže byt spôsobený zvýšením glomerulárnej filtrácie"],
    options: [
   " môže byt u žien v priebehu gravidity", " svedcí pre diabetes mellitus I.typu", " je dôsledkom prekrocenia kapacity tubulárnych buniek pre glukózu", " môže byt spôsobený zvýšením glomerulárnej filtrácie"]
   },
   {
    numb: 190,
    question: " Glykozúriu vyšetrujeme",
-   answer: [],
+   answer: [" v rámci preventívnej prehliadky pacienta", " v rámci pravidelnej kontroly diabetika", " pomocou diagnostického papierika"],
    options: [
   " v rámci preventívnej prehliadky pacienta", " v rámci pravidelnej kontroly diabetika", " pomocou diagnostického papierika", " len skumavkovými metódami"]
   },
   {
    numb: 191,
    question: " Glykozúriu vyšetrujeme",
-   answer: [],
+   answer: [" môžeme ju vyšetrit pomocou Fehlingovej reakcie"],
    options: [
   " môžeme ju vyšetrit pomocou Fehlingovej reakcie", " len na lacno", " po fyzickej zátaži pacienta", " len u diabetikov I.typu"]
   },
   {
    numb: 192,
    question: " Vyšetrenie glykemického profilu",
-   answer: [],
+   answer: [" používa sa na monitorovanie pacienta s diabetom", " vyšetruje sa obvykle z kapilárnej krvi"],
    options: [
   " používa sa na monitorovanie pacienta s diabetom", " vyšetruje sa obvykle z kapilárnej krvi", " vyšetruje sa obvykle z venóznej krvi", " používa sa na diagnostiku diabetu"]
   },
   {
    numb: 193,
    question: " Vyšetrenie glykemického profilu",
-   answer: [],
+   answer: [" sa robí na základe 9 odberov krvi pocas 24 hodín", " hodnotí správne nastavenie diabetika na liecbu"],
    options: [
   " sa robí na základe 9 odberov krvi pocas 24 hodín", " hodnotí správne nastavenie diabetika na liecbu", " vyšetruje sa obvykle z arteriálnej krvi", " sa robí na základe 3 odberov krvi pocas 24 hodín"]
   },
   {
    numb: 194,
    question: " Intravenózny glukózový zátažový test sa robí",
-   answer: [],
+   answer: [" u ludí s malabsorpcným syndrómom"],
    options: [
   " u gravidných žien", " u ludí s malabsorpcným syndrómom", " u pacientov s diabetom II.typu", " u detí do 10 rokov"]
   },
   {
    numb: 195,
    question: " Intravenózny glukózový zátažový test sa robí",
-   answer: [],
+   answer: [" u ludí s poruchami resorpcie v tenkom creve",  " zriedkavejšie ako oGTT"],
    options: [
   " u ludí s poruchami resorpcie v tenkom creve", " u obéznych pacientov", " zriedkavejšie ako oGTT", " na dôkaz gestacného diabetu"]
   },
   {
    numb: 196,
    question: " Vyšetrenie mikroalbuminúrie sa robí",
-   answer: [],
+   answer: [" na vcasný záchyt diabetickej nefropatie"],
    options: [
   " na vcasný záchyt diabetickej nefropatie", " na vcasný záchyt hyperosmolárnej kómy", " u pacientov so zvýšenou hladinou kreatinínu v sére", " u pacientov so zníženým klírensom kreatinínu"]
   },
   {
    numb: 197,
    question: " Vyšetrenie mikroalbuminúrie sa robí",
-   answer: [],
+   answer: [" u pacientov s negatívnym výsledkom vyšetrenia proteinúrie"],
    options: [
   " na vcasný záchyt diabetickej ketoacidózy", " u pacientov s negatívnym výsledkom vyšetrenia proteinúrie", " u pacientov s pozitívnym výsledkom vyšetrenia proteinúrie", " u pacientov s pozitívnym nálezom bielkoviny v moci diagnostickým papierikom"]
   },
   {
    numb: 198,
    question: "O mikroalbuminúrii možno povedat",
-   answer: [],
+   answer: [" je jeden z testov na monitorovanie priebehu diabetu", " je odpad albumínu mocom v rozsahu 30-299 mg za 24 hodín"],
    options: [
   " je jeden z testov na monitorovanie priebehu diabetu", " je odpad albumínu mocom v rozsahu 30-299 mg za 24 hodín", " je odpad albumínu viac ako 20 mg za 24 hodín", " je odpad albumínu viac ako 500 mg za 24 hodín"]
   },
   {
    numb: 199,
    question: "O mikroalbuminúrii možno povedat",
-   answer: [],
+   answer: [" používa sa na vcasné odhalenie diabetickej nefropatie"],
    options: [
   " je vyšetrenie, ktoré sa robí u detí na dôkaz diabetu", " je test na diagnostiku diabetu", " je viac ako 250 mg albumínu za 24 hodín", " používa sa na vcasné odhalenie diabetickej nefropatie"]
   },
   {
    numb: 200,
    question: "V rámci pravidelného monitorovania pacienta s diabetom vyšetrujeme",
-   answer: [],
+   answer: [ " glykozúriu", " glykémiu"],
    options: [
   " glykozúriu", " oGTT", " glykémiu", " intravenózny glukózový zátažový test"]
   },
