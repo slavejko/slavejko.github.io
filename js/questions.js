@@ -352,7 +352,7 @@ let questions = [
     numb: 45,
     question: "Pri nádoroch cervixu maternice sa využíva vyšetrenie",
     answer: [
-      "SCC-antigén"],
+      "CA125", "SCC-antigén"],
     options: [ "CA125",
        "CA19-9",
        "SCC-antigén",
@@ -1563,224 +1563,224 @@ let questions = [
   {
    numb: 201,
    question: "V rámci pravidelného monitorovania pacienta s diabetom vyšetrujeme",
-   answer: [],
+   answer: [" glykemický profil",  " hladinu triacylglycerolov v sére"],
    options: [
   " glykemický profil", " hladinu CA 125", " hladinu triacylglycerolov v sére", " hladinu C-peptidu"]
   },
   {
    numb: 202,
    question: " Vyšetrenie C-peptidu",
-   answer: [],
+   answer: [" vykazuje vyššie hladiny ako inzulín", " nie je skreslené podávaním inzulínu pacientovi"],
    options: [
   " vykazuje vyššie hladiny ako inzulín", " vykazuje nižšie hladiny ako inzulín", " je skreslené podávaním inzulínu pacientovi", " nie je skreslené podávaním inzulínu pacientovi"]
   },
   {
    numb: 203,
    question: " Vyšetrenie C-peptidu",
-   answer: [],
+   answer: [" hodnotí endogénnu sekréciu inzulínu"],
    options: [
   " slúži na dôkaz diabetu", " hodnotí endogénnu sekréciu glukagónu", " hodnotí endogénnu sekréciu inzulínu", " sa používa na stanovenie gestacného diabetu"]
   },
   {
    numb: 204,
    question: " Medzi autoprotilátky, ktoré sú pozitívne u pacienta s diabetom patria",
-   answer: [],
+   answer: [" protilátky proti glutamátdekarboxyláze"],
    options: [
   " protilátky proti peroxidáze", " protilátky proti glutamátdekarboxyláze", " protilátky proti hladkému svalu", " protilátky proti mitochondriam"]
   },
   {
    numb: 205,
    question: " Medzi autoprotilátky, ktoré sú pozitívne u pacienta s diabetom patria",
-   answer: [],
+   answer: [" protilátky proti Langerhansovým ostrovcekom"],
    options: [
   " protilátky proti solubilnému antigénu pecene", " protilátky proti glukóze", " protilátky proti Langerhansovým ostrovcekom", " protilátky proti tyreoglobulínu"]
   },
   {
    numb: 206,
    question: "U pacientov s diabetom býva obvykle zvýšená sérová hladina",
-   answer: [],
+   answer: [" kyseliny mocovej", " triacylglycerolov"],
    options: [
   " mocoviny", " kyseliny mocovej", " triacylglycerolov", " albumínu"]
   },
   {
    numb: 207,
    question: "U pacientov s diabetom býva obvykle zvýšená sérová hladina",
-   answer: [],
+   answer: [ " glukózy"],
    options: [
   " glukózy", " C-peptidu", " ALT", " bilirubínu"]
   },
   {
    numb: 208,
    question: " Hyperglykémia býva u pacientov",
-   answer: [],
+   answer: [" akromegaliou", " s diabetes mellitus I.typu"],
    options: [
   " akromegaliou", " Addisonovou chorobou", " s diabetes mellitus I.typu", " inzulinómom"]
   },
   {
    numb: 209,
    question: " Hyperglykémia býva u pacientov",
-   answer: [],
+   answer: [" feochromocytómom",  " glukagonómom", " Cushingovou chorobou"],
    options: [
   " feochromocytómom", " malabsorpcným sydrómom", " glukagonómom", " Cushingovou chorobou"]
   },
   {
    numb: 210,
    question: " Hypoglykémia",
-   answer: [],
+   answer: [" poškodzuje hlavne mozog", " býva u pacientov s Addisonovou chorobou"],
    options: [
   " je hladina glykémie nižšia ako 3 mmol/l", " poškodzuje hlavne mozog", " býva u pacientov s Addisonovou chorobou", " býva u pacientov s Cushingovou chorobou"]
   },
   {
    numb: 211,
    question: " Hypoglykémia",
-   answer: [],
+   answer: [" môže byt spôsobená cirhózou pecene", " je hladina glykémie nižšia ako 2,2 mmol/l"],
    options: [
   " môže byt spôsobená cirhózou pecene", " je hladina glykémie nižšia ako 2,2 mmol/l", " je súcastou syndrómu porušenej tolerancie glukózy", " poškodzuje hlavne pecen"]
   },
   {
    numb: 212,
    question: " Glykovaný hemoglobín",
-   answer: [],
+   answer: [ " vzniká v dôsledku neenzýmového naviazania glukózy na globín"],
    options: [
   " vzniká v dôsledku enzýmového naviazania glukózy na globín", " vzniká v dôsledku neenzýmového naviazania glukózy na globín", " vzniká v dôsledku neenzýmového naviazania glukózy na hem", " používa sa na diagnostiku diabetu"]
   },
   {
    numb: 213,
    question: " Glykovaný hemoglobín",
-   answer: [],
+   answer: [" používa sa na monitorovanie pacienta s diabetom", " mení sa priamo úmerne ku hladine glykémie"],
    options: [
   " používa sa na monitorovanie pacienta s diabetom", " mení sa nepriamo úmerne ku hladine glykémie", " mení sa priamo úmerne ku hladine glykémie", " vyšetruje sa len u detí"]
   },
   {
    numb: 214,
    question: " Pre vyšetrenie glykovaného hemoglobínu platí",
-   answer: [],
+   answer: [ " u diabetika I.typu sa doporucuje vyšetrit 4x rocne", " u diabetika Ii.typu na diete sa doporucuje vyšetrit 1x rocne"],
    options: [
   " u diabetika I.typu sa vyšetruje 1x rocne", " u diabetika I.typu sa doporucuje vyšetrit 4x rocne", " u diabetika Ii.typu na diete sa doporucuje vyšetrit 1x rocne", " u diabetika II.typu na diete sa doporucuje vyšetrit 4x rocne"]
   },
   {
    numb: 215,
    question: " Pre vyšetrenie glykovaného hemoglobínu platí",
-   answer: [],
+   answer: [" u diabetika II.typu lieceného inzulínom sa doporucuje vyšetrit 4x rocne"," referencné hodnoty sú 2,8-4,0%"],
    options: [
   " u diabetika II.typu lieceného inzulínom sa doporucuje vyšetrit 4x rocne", " referencné hodnoty sú 1-2%", " referencné hodnoty sú 2,8-4,0%", " referencné hodnoty sú 3,3-5,6%"]
   },
   {
    numb: 216,
    question: " Medzi komplikácie castejšie u pacientov s diabetom I.typu ako II.typu patrí",
-   answer: [],
+   answer: [" mikroangiopatia",  " retinopatia"],
    options: [
   " mikroangiopatia", " makroangiopatia", " retinopatia", " gangrény na dolných koncatinách"]
   },
   {
    numb: 217,
    question: " Medzi komplikácie castejšie u pacientov s diabetom I.typu ako II.typu patrí",
-   answer: [],
+   answer: [" nefropatia", " ketoacidotická kóma",  " neuropatia"],
    options: [
   " nefropatia", " ketoacidotická kóma", " hyperosmolárna kóma", " neuropatia"]
   },
   {
    numb: 218,
    question: " Gestacný diabetes",
-   answer: [],
+   answer: [ " je komplikáciou gravidity", " po skoncení gravidity sa stav normalizuje"],
    options: [
   " je komplikáciou gravidity", " vzniká v dôsledku zvýšenej hladiny estrogénov", " po skoncení gravidity sa stav normalizuje", " možno ho odhalit vyšetrením protilátok proti glutamátdekarboxyláze"]
   },
   {
    numb: 219,
    question: " oGTT sa robí",
-   answer: [],
+   answer: [" u každej gravidnej ženy v II.trimestri gravidity"],
    options: [
   " u každej gravidnej ženy v II.trimestri gravidity", " len v prípade gestacného diabetu", " len u žien z rizikových skupín (riziko vzniku diabetu)", " len u žien s vysokou hodnotou BMI"]
   },
   {
    numb: 220,
    question: " Glykácia hemoglobínu je",
-   answer: [],
+   answer: [" nevratný proces", " proces prebiehajúci aj v krvi zdravého cloveka"],
    options: [
   " enzýmovo katalyzovaný proces", " nevratný proces", " naviazanie glukózy na hem", " proces prebiehajúci aj v krvi zdravého cloveka"]
   },
   {
    numb: 221,
    question: " Koncentrácia glykovaného hemoglobínu v krvi môže byt ovplyvnená",
-   answer: [],
+   answer: [" hemoglobinopatiami", " výškou glykémie", " zvýšenou hemolýzou"],
    options: [
   " hemoglobinopatiami", " výškou glykémie", " hladinou albumínu", " zvýšenou hemolýzou"]
   },
   {
    numb: 222,
    question: "C-peptid",
-   answer: [],
+   answer: [" má vyššiu hladinu v sére ako inzulín",  " vzniká z proinzulínu"],
    options: [
   " tvorí sa v alfa-bunkách Langerhansových ostrovcekov pankreasu", " má vyššiu hladinu v sére ako inzulín", " má rovnakú hladinu v sére ako inzulín", " vzniká z proinzulínu"]
   },
   {
    numb: 223,
    question: " Vyšetrenie hladiny C-peptidu možno použit na",
-   answer: [],
+   answer: [" hodnotenie reziduálnej sekrécie inzulínu", " na diferenciálnu diagnostiku hypoglykémií"],
    options: [
   " hodnotenie reziduálnej sekrécie inzulínu", " diagnostiku diabetes mellitus", " na diferenciálnu diagnostiku hypoglykémií", " monitorovanie priebehu gestacného diabetu"]
   },
   {
    numb: 224,
    question: " Medzi hranicné poruchy regulácie glykémie patrí",
-   answer: [],
+   answer: [" hranicná glykémia nalacno", " porušená glukózová tolerancia"],
    options: [
   " gestacný diabetes", " MODY diabetes", " hranicná glykémia nalacno", " porušená glukózová tolerancia"]
   },
   {
    numb: 225,
    question: " Hyperglykémia býva prítomná u pacientov s",
-   answer: [],
+   answer: [" akromegaliou", " feochromocytómom", " Cushingovým syndrómom"],
    options: [
   " akromegaliou", " Addisonovou chorobou", " feochromocytómom", " Cushingovým syndrómom"]
   },
   {
    numb: 226,
    question: " Sekrécia žaludocnej kyseliny (HCl) býva zvýšená u pacientov",
-   answer: [],
+   answer: [" s vredovou chorobou dvanástnika", " s Zollinger-Ellisonovým syndrómom"],
    options: [
   " s vredovou chorobou dvanástnika", " s karcinómom žalúdka", " s atrofickou gastritídou", " s Zollinger-Ellisonovým syndrómom"]
   },
   {
    numb: 227,
    question: " Sekrécia žaludocnej kyseliny (HCl) býva zvýšená u pacientov",
-   answer: [],
+   answer: [" s gastrinómom",  " s nadprodukciou gastrínu"],
    options: [
   " s pernicióznou anémiou", " s gastrinómom", " s insuficienciou pankreasu", " s nadprodukciou gastrínu"]
   },
   {
    numb: 228,
    question: " Pre diagnózu zníženej funkcie parietálnych buniek je rozhodujúce vyšetrenie",
-   answer: [],
+   answer: [" MAO"],
    options: [
   " BAO", " MAO", " gastrínový stimulacný test", " hladina gastrínu v sére"]
   },
   {
    numb: 229,
    question: " Pre diagnózu zníženej funkcie parietálnych buniek je rozhodujúce vyšetrenie",
-   answer: [],
+   answer: [" pentagastrínový test",  " sekrécie HCl po stimulácii pentagastrínom"],
    options: [
   " pentagastrínový test", " rýchly urázový test", " sekrécie HCl po stimulácii pentagastrínom", " sekrécie HCl po stimulácii sekretínom"]
   },
   {
    numb: 230,
    question: " Medzi neinvazívne testy pri vyšetrení pacienta s podozrením na infekciu H.pylori patrí",
-   answer: [],
+   answer: [" vyšetrenie protilátok v sére"],
    options: [
   " rýchly ureázový test", " vyšetrenie protilátok v sére", " vyšetrenie protilátok v stolici", " histologické vyšetrenie"]
   },
   {
    numb: 231,
    question: " Medzi neinvazívne testy pri vyšetrení pacienta s podozrením na infekciu H.pylori patrí",
-   answer: [],
+   answer: [" vyšetrenie antigénu H.pylori v stolici", " dychový test"],
    options: [
   " kultivácia H.pylori", " vyšetrenie antigénu H.pylori v stolici", " dychový test", " vyšetrenie gastrínového stimulacného testu"]
   },
   {
    numb: 232,
    question: " Vyšetrenie gastrínu sa robí",
-   answer: [],
+   answer: [" v sére", " na diagnózu Zollinger-Ellisonoveho syndrómu"],
    options: [
   " v sére", " na diagnózu žaludocného vredu", " na diagnózu Zollinger-Ellisonoveho syndrómu", " na diagnózu karcinómu žalúdka"]
   },
@@ -1794,70 +1794,70 @@ let questions = [
   {
    numb: 234,
    question: " Pri dychových testoch hodnotíme vo vydýchanom vzduchu",
-   answer: [],
+   answer: [" obsah vodíka", " obsah 14CO2"],
    options: [
   " obsah vodíka", " množstvo CO2", " spotrebovaný kyslík", " obsah 14CO2"]
   },
   {
    numb: 235,
    question: " Pri dychových testoch hodnotíme vo vydýchanom vzduchu",
-   answer: [],
+   answer: [" obsah 13CO2"],
    options: [
   " obsah vyšších uhlovodíkov", " obsah 13CO2", " pomer O2/CO2", " obsah dusíka"]
   },
   {
    numb: 236,
    question: " Dychvé testy sa používajú pri",
-   answer: [],
+   answer: [" diagnostike malabsorpcného syndrómu", " diagnostike deficitu laktázy", " diagnostike infekcie H.pylori"],
    options: [
   " hodnotení funkcie endokrinného pankreasu", " diagnostike malabsorpcného syndrómu", " diagnostike deficitu laktázy", " diagnostike infekcie H.pylori"]
   },
   {
    numb: 237,
    question: " Dychvé testy sa používajú pri",
-   answer: [],
+   answer: [" hodnotení funkcie exokrinného pankreasu", " hodnotení funkcie pecene"],
    options: [
   " hodnotení funkcie exokrinného pankreasu", " hodnotení funkcie pecene", " hodnotení funkcie žalúdka", " diagnostike chronickej hepatitídy"]
   },
   {
    numb: 238,
    question: " Medzi invazívne vyšetrenia pri infekcii H.pylori patrí",
-   answer: [],
+   answer: [" histologické vyšetrenie", " kultivacné vyšetrenie"],
    options: [
   " vyšetrenie antigénu H.pylori v stolici", " histologické vyšetrenie", " kultivacné vyšetrenie", " vyšetrenie titra protilátok"]
   },
   {
    numb: 239,
    question: " Medzi invazívne vyšetrenia pri infekcii H.pylori patrí",
-   answer: [],
+   answer: [" rýchly ureázový test",  " PCR vyšetrenie"],
    options: [
   " rýchly ureázový test", " ureázový dychový test", " PCR vyšetrenie", " pentagastrínový test"]
   },
   {
    numb: 240,
    question: " Medzi nepriame funkcné testy exokrinného pankreasu patrí",
-   answer: [],
+   answer: [" NBT-PABA test"],
    options: [
   " NBT-PABA test", " gastrínový stimulacný test", " elastáza v stolici", " chymotrypsín v stolici"]
   },
   {
    numb: 241,
    question: " Medzi nepriame funkcné testy exokrinného pankreasu patrí",
-   answer: [],
+   answer: [" odpad tuku v stolici", " fluoresceín-dilaurátový test"],
    options: [
   " odpad tuku v stolici", " sekretín-ceruleínový test", " Schillingov test", " fluoresceín-dilaurátový test"]
   },
   {
    numb: 242,
    question: " Medzi priame funkcné testy exokrinného pankreasu patrí",
-   answer: [],
+   answer: [" chymotrypsín v stolici"],
    options: [
   " NBT-PABA test", " chymotrypsín v stolici", " aktivita lipázy v sére", " gastrínový stimulacný test"]
   },
   {
    numb: 243,
    question: " Medzi priame funkcné testy exokrinného pankreasu patrí",
-   answer: [],
+   answer: [" elastáza v stolici", " sekretín-ceruleínový test"],
    options: [
   " elastáza v stolici", " fluoresceín-dilaurátový test", " sekretín-ceruleínový test", " aktivita amylázy v sére"]
   },
@@ -1871,91 +1871,91 @@ let questions = [
   {
    numb: 245,
    question: " Pri sekretín-ceruleínovom teste vyšetrujeme aktivitu",
-   answer: [],
+   answer: [ " trypsínu v pankreatickej štave", " amylázy v pankreatickej štave"],
    options: [
   " trypsínu v pankreatickej štave", " amylázy v pankreatickej štave", " amylázy v moci", " chymotrypsínu v stolici"]
   },
   {
    numb: 246,
    question: " Pri fluoresceín-dilaurátovom teste",
-   answer: [],
+   answer: [" odpad fluoresceínu v moci"],
    options: [
   " hodnotíme koncentráciu laurátu v moci", " hodnotíme koncentráciu fluoresceínu v sére", " odpad fluoresceínu v moci", " cím je množstvo fluoresceínu v moci vyššie, tým je funkcia pankreasu horšia"]
   },
   {
    numb: 247,
    question: " Pri fluoresceín-dilaurátovom teste",
-   answer: [],
+   answer: [" cím je množstvo fluoresceínu v moci vyššie tým je funkcia pankreasu lepšia", " cí je množstvo fluoresceínu v moci nižšie, tým je funkcia pankreasu horšia"],
    options: [
   " hodnotíme koncentráciu laurátu v sére", " cím je množstvo fluoresceínu v moci vyššie tým je funkcia pankreasu lepšia", " cí je množstvo fluoresceínu v moci nižšie, tým je funkcia pankreasu horšia", " cím je množstvo laurátu v moci vyššie, tým je funkcia pankreasu horšia"]
   },
   {
    numb: 248,
    question: " Pri NBT-PABA teste",
-   answer: [],
+   answer: [" vyšetrujeme odpad kyseliny p-aminobenzoovej v moci",  " pacient musí pred vyšetrením vynechat substitucnú liecbu pankreatickými enzýmami", " pacient musí vynechat v jedle potraviny konzervované kyselinou benzoovou"],
    options: [
   " vyšetrujeme odpad kyseliny p-aminobenzoovej v moci", " vyšetrujeme elastázu v stolici", " pacient musí pred vyšetrením vynechat substitucnú liecbu pankreatickými enzýmami", " pacient musí vynechat v jedle potraviny konzervované kyselinou benzoovou"]
   },
   {
    numb: 249,
    question: " Pri NBT-PABA teste",
-   answer: [],
+   answer: [" pacient dostáva \"pokusné\" ranajky"],
    options: [
   " vyšetrujeme množstvo tyrozínu v moci", " vyšetrujeme odpad kyseliny malonovej v moci", " pacient dostáva \"pokusné\" ranajky", " nestimulujeme sekréciu pankreatickej štavy"]
   },
   {
    numb: 250,
    question: " Vyšetrenie tuku v stolici",
-   answer: [],
+   answer: [" fyziologicky je v stolici do 7 g tuku/24 hodín",  " tuk v stolici je zvýšený pri poruchách sekrécie žlcových kyselín"],
    options: [
   " fyziologicky je v stolici do 70 g tuku/24 hodín", " fyziologicky je v stolici do 7 g tuku/24 hodín", " tuk v stolici je znížený pri poruchách funkcie pankreasu", " tuk v stolici je zvýšený pri poruchách sekrécie žlcových kyselín"]
   },
   {
    numb: 251,
    question: " Vyšetrenie tuku v stolici",
-   answer: [],
+   answer: [" tuk v stolici je zvýšený pri poruchách exokrinného pankreasu", " tuk v stolici je zvýšený pri malabsorpcnom syndróme"],
    options: [
   " tuk v stolici je znížený pri malabsorpcnom syndróme", " tuk v stolici je zvýšený pri poruchách exokrinného pankreasu", " tuk v stolici je znížený pri poruchách endokrinného pankreasu", " tuk v stolici je zvýšený pri malabsorpcnom syndróme"]
   },
   {
    numb: 252,
    question: " Pri vyšetrení exokrinnej casti pankreasu dychovými testami sa používa ako substrát",
-   answer: [],
+   answer: [" 13C-škrob", " 13C-vajcový bielok"],
    options: [
   " 13C-škrob", " 13C-urea", " 13C-fluoresceín", " 13C-vajcový bielok"]
   },
   {
    numb: 253,
    question: " Pri vyšetrení exokrinnej casti pankreasu dychovými testami sa používa ako substrát",
-   answer: [],
+   answer: [" 13C-estery cholesterolu", " 13C zmiešané triacylglyceroly"],
    options: [
   " 13C-aminopyrín", " 13C-elastáza", " 13C-estery cholesterolu", " 13C zmiešané triacylglyceroly"]
   },
   {
    numb: 254,
    question: "O xylózovom teste možno povedat",
-   answer: [],
+   answer: [" používa sa na hodnotenie funkcie tenkého creva"],
    options: [
   " používa sa na hodnotenie funkcie pankreasu", " používa sa na hodnotenie funkcie tenkého creva", " používa sa na hodnotenie funkcie hrubého creva", " používa sa na hodnotenie funkcie pecene"]
   },
   {
    numb: 255,
    question: " Xylózový test",
-   answer: [],
+   answer: [" používa sa pri dif.dg. zvýšeného množstva tuku v stolici", " pacient dostáva xylózu per os"],
    options: [
   " používa sa pri dif.dg. zvýšeného množstva tuku v stolici", " pacient dostáva xylózu per os", " pacient dostáva xylózu intravenózne", " používa sa pri dif.dg. zníženého množstva tuku v stolici"]
   },
   {
    numb: 256,
    question: " Test s podaním vitamínu B12 sa používa",
-   answer: [],
+   answer: [" na zhodnotenie funkcie distálnej casti tenkého creva",  " na zhodnotenie funkcie ilea"],
    options: [
   " na zhodnotenie funkcie proximálnej casti tenkého creva", " na zhodnotenie funkcie distálnej casti tenkého creva", " na zhodnotenie funkcie jejuna", " na zhodnotenie funkcie ilea"]
   },
   {
    numb: 257,
    question: " Test s podaním vitamínu B12 sa používa",
-   answer: [],
+   answer: [" na zhodnotenie sekrécie vnútorného faktoru", " na zhodnotenie funkcie parietálnych buniek žalúdka", " pri diagnostike pernicióznej anémie"],
    options: [
   " na zhodnotenie sekrécie vnútorného faktoru", " na zhodnotenie funkcie parietálnych buniek žalúdka", " pri diagnostike pernicióznej anémie", " na posúdenie funkcie hlavných buniek sliznice žalúdka"]
   },
