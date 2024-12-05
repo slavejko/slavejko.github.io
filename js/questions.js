@@ -1962,301 +1962,303 @@ let questions = [
   {
    numb: 258,
    question: " Pri vyšetrovaní resorpcnej funkcie tenkého creva sa používa",
-   answer: [],
+   answer: [" xylózový test", " test s vitamínom A", " test s beta-karoténom", " laktózový test"],
    options: [
   " xylózový test", " test s vitamínom A", " test s beta-karoténom", " laktózový test"]
   },
   {
    numb: 259,
    question: " Pri vyšetrovaní resorpcnej funkcie tenkého creva sa používa",
-   answer: [],
+   answer: [" test s vitamínom B12"],
    options: [
   " orálny glukózový zátažový test", " intravenózny glukózový zátažový test", " test s vitamínom B12", " gastrínový stimulacný test"]
   },
   {
    numb: 260,
    question: " Pri diagnostike celiakie sa používa vyšetrenie",
-   answer: [],
+   answer: [" protilátky proti gliadinu"],
    options: [
   " glutamátdehydrogenázy", " transglutaminázy", " anti-peroxizomálne protilátky", " protilátky proti gliadinu"]
   },
   {
    numb: 261,
    question: " Na diagnostiku celiakie sa používa vyšetrenie",
-   answer: [],
+   answer: [" protilátky proti transglutamináze", " protilátky proti endomysiu"],
    options: [
   " protilátky proti hladkému svalu", " antinukleárne protilátky", " protilátky proti transglutamináze", " protilátky proti endomysiu"]
   },
   {
    numb: 262,
    question: " Vyberte správne odpovede",
-   answer: [],
+   answer: [" dychový test so znacenými triacylglycerolmi sa používa na dg. porúch pankreasu"],
    options: [
   " dychový test s laktulózou sa používa na dg. laktázovej deficiencie", " dychový test so znacenými triacylglycerolmi sa používa na dg. porúch pankreasu", " dychový test so znacenou ureou sa používa na dg. porúch tenkého creva", " dychový test s glukózou sa používa na dg. porúch endokrinného pankreasu"]
   },
   {
    numb: 263,
    question: " Vyberte správne odpovede",
-   answer: [],
+   answer: [" dychový test so znaceným škrobom sa používa na dg. chronickej pankreatitídy", " dychový test s glukózou sa používa na dg. kolonizácie tenkého creva baktériami"],
    options: [
   " dychový test so znaceným škrobom sa používa na dg. chronickej pankreatitídy", " dychový test s glukózou sa používa na dg. kolonizácie tenkého creva baktériami", " dychový test s laktulózou sa používa na dg. chorôb pankreasu", " dychový test s glukózou sa používa na dg. porúch funkcie pankreasu"]
   },
   {
    numb: 264,
    question: " Ku fekálnym zápalovým markerom zaradujeme",
-   answer: [],
+   answer: [" kalprotektín"],
    options: [
   " kalprotektín", " CRP", " elastáza", " chymotrypsín"]
   },
   {
    numb: 265,
    question: " Ku fekálnym zápalovým markerom zaradujeme",
-   answer: [],
+   answer: [" laktoferín"],
    options: [
   " fluoresceín", " transglutamináza", " laktoferín", " ceruleín"]
   },
   {
    numb: 266,
    question: " Vyšetrenie stolice na okultné krvácanie je indikované",
-   answer: [],
+   answer: [" pri podozrení na divertikulózu", " ako skríning kolorektálneho karcinómu"],
    options: [
   " pri podozrení na divertikulózu", " ako skríning kolorektálneho karcinómu", " pri diagnostike žalúdkového vredu", " pri diagnostike insuficiencie pankreasu"]
   },
   {
    numb: 267,
    question: " Vyšetrenie stolice na okultné krvácanie je indikované",
-   answer: [],
+   answer: [" pri diferenciálnej diagnostike anémií",  " pri podozrení na polypózu hrubého creva"],
    options: [
   " pri diagnostike celiakie", " pri diferenciálnej diagnostike anémií", " pri diagnostike malabsorpcného syndrómu", " pri podozrení na polypózu hrubého creva"]
   },
   {
    numb: 268,
    question: " Na vyšetrenie okultného krvácania v stolici",
-   answer: [],
+   answer: [" využívame peroxidázovú aktivitu hemu", " využívame imunochemické stanovenie hemoglobínu"],
    options: [
   " využívame peroxidázovú aktivitu stolice", " využívame peroxidázovú aktivitu hemu", " využívame imunochemické stanovenie hemoglobínu", " využívame mikroskopický dôkaz erytrocytov"]
   },
   {
    numb: 269,
    question: " Pri vyšetrení okultného krvácania v stolici",
-   answer: [],
+   answer: [" peroxidázovou metódou musí pacient vynechat v potrave mäso", " peroxidázovou metódou musí pacient vynechat v potrave vitamín"],
    options: [
   " imunochemickou metódou musí pacient vynechat v potrave mäso", " peroxidázovou metódou musí pacient vynechat v potrave mäso", " imunochemickou metódou sa používa peroxid vodíka", " peroxidázovou metódou musí pacient vynechat v potrave vitamín"]
   },
   {
    numb: 270,
    question: " Substitucnú terapiu pankreatickými enzýmami musíme vynechat pri",
-   answer: [],
+   answer: [" fluoresceín-dilaurátovom teste", " NBT-PABA teste"],
    options: [
   " xylózovom teste", " teste s beta-karoténom", " fluoresceín-dilaurátovom teste", " NBT-PABA teste"]
   },
   {
    numb: 271,
    question: " Substitucnú terapiu pankreatickými enzýmami musíme vynechat pri",
-   answer: [],
+   answer: [" vyšetrení chymotrypsínu v stolici"],
    options: [
   " vyšetrení elastázy-1 v stolici", " laktózom tolerancnom teste", " teste s vitamínom A", " vyšetrení chymotrypsínu v stolici"]
   },
   {
    numb: 272,
    question: " Pri vyšetrení stolice na okultné krvácanie nešpecifickým testom pacient musí vynechat",
-   answer: [],
+   answer: [" konzumáciu preparátov železa"],
    options: [
   " konzumáciu preparátov železa", " horcicu", " preparáty pankreatických enzýmov", " bielkoviny"]
   },
   {
    numb: 273,
    question: " Pri vyšetrení stolice na okultné krvácanie nešpecifickým testom pacient musí vynechat",
-   answer: [],
+   answer: [" preparáty vitamínu C", " konzumáciu zeleniny obsahujúcej peroxidázu", " mäso"],
    options: [
   " preparáty vitamínu C", " preparáty vitamínu B12", " konzumáciu zeleniny obsahujúcej peroxidázu", " mäso"]
   },
   {
    numb: 274,
    question: " Medzi invazívne testy patrí",
-   answer: [],
+   answer: [" pentagastrínový stimulacný test",  " sekretín-ceruleínový test"],
    options: [
   " pentagastrínový stimulacný test", " elastáza v stolici", " sekretín-ceruleínový test", " NBT-PABA test"]
   },
   {
    numb: 275,
    question: " Medzi invazívne testy patrí",
-   answer: [],
+   answer: [" rýchly ureázový test"],
    options: [
   " rýchly ureázový test", " test na okultné krvácanie v stolici", " gastrínový stimulacný test", " test s vitamínom A"]
   },
   {
    numb: 276,
    question: "O vyšetrení okultného krvácania imunochemickou metódou možno povedat",
-   answer: [],
+   answer: [" pacient nemusí pred vyšetrením dodržiavat dietu", " môžeme vyšetrit Hb v stolici aj kvantitatívne"],
    options: [
   " pacient nemusí pred vyšetrením dodržiavat dietu", " môžeme vyšetrit Hb v stolici aj kvantitatívne", " používa sa na plošný skríning asymptomatických jedincov", " využíva reakciu protilátky s hemom"]
   },
   {
    numb: 277,
    question: "O vyšetrení okultného krvácania v stolici peroxidázovým testom možno povedat",
-   answer: [],
+   answer: [" pacient musí pred vyšetrením vynechat v potrave mäso", 
+      " používa sa na skríning asymptomatických jedincov", 
+      " ako substrát pre peroxidázovú reakciu používa guajakovú živicu"],
    options: [
   " pacient musí pred vyšetrením vynechat v potrave mäso", " pacient musí pred vyšetrením vynechat v potrave tuky", " používa sa na skríning asymptomatických jedincov", " ako substrát pre peroxidázovú reakciu používa guajakovú živicu"]
   },
   {
    numb: 278,
    question: " Imunochemické testy na vyšetrenie okultného krvácania v stolici",
-   answer: [],
+   answer: [" sú citlivejšie ako guajakové testy", " eliminujú pozitivitu pri krvácaní z horných castí GIT-u", " umožnujú zvýšit pocet cielených kolonoskopií"],
    options: [
   " sú citlivejšie ako guajakové testy", " eliminujú pozitivitu pri krvácaní z horných castí GIT-u", " využívajú pseudoperoxidázovú aktivitu hemu", " umožnujú zvýšit pocet cielených kolonoskopií"]
   },
   {
    numb: 279,
    question: " Laktulózový - H2 - dychový test",
-   answer: [],
+   answer: [" používa sa na dôkaz H2 produkujúcej bakteriálnej flóry"],
    options: [
   " slúži na potvrdenie deficitu laktázy", " slúži na posúdenie biotransformacnej funkcie pecene", " používa sa na potvrdenie intolerancie laktózy", " používa sa na dôkaz H2 produkujúcej bakteriálnej flóry"]
   },
   {
    numb: 280,
    question: " Vyšetrenie aktivity chymotrypsínu v stolici je",
-   answer: [],
+   answer: [ " priame funkcné vyšetrenie pankreasu"," neinvazívne vyšetrenie"],
    options: [
   " priame funkcné vyšetrenie pankreasu", " nepriame funkcné vyšetrenie pankreasu", " ovplyvnené zložením prijímanej potravy", " neinvazívne vyšetrenie"]
   },
   {
    numb: 281,
    question: " Ak má pacient pozitívny nález tuku v stolici a pozitívny výsledok xylózového testu, ide najpravdepodobnejšie o",
-   answer: [],
+   answer: [" poruchu resorpcie z tenkého creva"],
    options: [
   " poruchu funkcie pecene", " poruchu funkcie pankreasu", " poruchu sekrécie žlce", " poruchu resorpcie z tenkého creva"]
   },
   {
    numb: 282,
    question: " Vyšetrenie elastázy-1 v stolici sa používa pri chorobách",
-   answer: [],
+   answer: [" pankreasu"],
    options: [
   " žalúdka", " pankreasu", " tenkého creva", " hrubého creva"]
   },
   {
    numb: 283,
    question: " Medzi enzýmy, ktorých aktivita sa mení pri ochoreniach pecene patrí",
-   answer: [],
+   answer: [" ALT", " AST"],
    options: [
   " amyláza", " ALT", " AST", " lipáza"]
   },
   {
    numb: 284,
    question: " Medzi enzýmy, ktorých aktivita sa mení pri ochoreniach pecene patrí",
-   answer: [],
+   answer: [" laktátdehydrogenáza", " gama-glutamyltransferáza", " cholínesteráza"],
    options: [
   " laktátdehydrogenáza", " gama-glutamyltransferáza", " kyslá fosfatáza", " cholínesteráza"]
   },
   {
    numb: 285,
    question: " Poškodenie a nekrózu hepatocytu signalizuje zvýšenie aktivity",
-   answer: [],
+   answer: [" glutamátdehydrogenázy"],
    options: [
   " lipázy", " amylázy", " cholínesterázy", " glutamátdehydrogenázy"]
   },
   {
    numb: 286,
    question: " Poškodenie a nekrózu hepatocytu signalizuje zvýšenie aktivity",
-   answer: [],
+   answer: [" laktátdehydrogenázy", " ALT", " AST"],
    options: [
   " alkalickej fosfatázy", " laktátdehydrogenázy", " ALT", " AST"]
   },
   {
    numb: 287,
    question: " So závažnostou poškodenia hepatocytov",
-   answer: [],
+   answer: [ " zvyšuje sa aktivita AST"],
    options: [
   " zvyšuje sa aktivita AST", " znižuje sa aktivita ALT", " zvyšuje sa aktivita cholínesterázy", " znižuje sa pomer AST/ALT"]
   },
   {
    numb: 288,
    question: " So závažnostou poškodenia hepatocytov",
-   answer: [],
+   answer: [" znižuje sa aktivita cholínesterázy", " zvyšuje sa aktivita glutamátdehydrogenázy", " zvyšuje sa pomer AST/ALT"],
    options: [
   " zvyšuje sa pomer AST+ALT/GDH", " znižuje sa aktivita cholínesterázy", " zvyšuje sa aktivita glutamátdehydrogenázy", " zvyšuje sa pomer AST/ALT"]
   },
   {
    numb: 289,
    question: " Poškodenie pecene je sprevádzané zvyšením aktivity",
-   answer: [],
+   answer: [" celkovej laktátdehydrogenázy",  " izoenzýmu LD-5"],
    options: [
   " celkovej laktátdehydrogenázy", " izoenzýmu LD-1", " izoenzýmu LD-2", " izoenzýmu LD-5"]
   },
   {
    numb: 290,
    question: " Poškodenie pecene je sprevádzané zvyšením aktivity",
-   answer: [],
+   answer: [" AST"],
    options: [
   " AST", " izoenzýmu CK-BB", " kreatínkinázy", " cholínesterázy"]
   },
   {
    numb: 291,
    question: " Ku ukazovatelom proteosyntetickej funkcie pecene patrí",
-   answer: [],
+   answer: [" albumín"],
    options: [
   " albumín", " imunoglobulín G", " imunoglobulín A", " haptoglobín"]
   },
   {
    numb: 292,
    question: " Ku ukazovatelom proteosyntetickej funkcie pecene patrí",
-   answer: [],
+   answer: [" prealbumín", " cholínesteráza"],
    options: [
   " prealbumín", " cholínesteráza", " CRP", " lahké retazce Ig"]
   },
   {
    numb: 293,
    question: " Pri poškodení pecene",
-   answer: [],
+   answer: [" klesá aktivita cholínesterázy"],
    options: [
   " stúpa sérová koncentrácia prealbumínu", " stúpa aktivita cholínesterázy", " stúpa hladina apoproteínu A", " klesá aktivita cholínesterázy"]
   },
   {
    numb: 294,
    question: " Pri poškodení pecene",
-   answer: [],
+   answer: [" klesá aktivita cholínesterázy"," klesá sérová koncentrácia albumínu"],
    options: [
   " klesá sérová koncentrácia albumínu", " stúpa sérová hladina transferínu", " skracuje sa protrombínový cas", " klesá aktivita cholínesterázy"]
   },
   {
    numb: 295,
    question: " Na posúdenie metabolickej funkcie pecene sa používa vyšetrenie",
-   answer: [],
+   answer: [ " albumínu v sére"],
    options: [
   " albumínu v sére", " imunoglobulínu G v sére", " amylázy v moci", " pomeru esterifikovaný/volný cholesterol"]
   },
   {
    numb: 296,
    question: " Na posúdenie metabolickej funkcie pecene sa používa vyšetrenie",
-   answer: [],
+   answer: [" galaktózový test"],
    options: [
   " galaktózový test", " NBT-PABA testu", " imunoglobulínu E v sére", " elastázy-1 v stolici"]
   },
   {
    numb: 297,
    question: " Pri galaktózovom zátažovom teste",
-   answer: [],
+   answer: [" hodnotíme úbytok koncentrácie galaktózy v sére", " hodnotíme odpad galaktózy do mocu"],
    options: [
   " hodnotíme úbytok koncentrácie galaktózy v sére", " hodnotíme odpad galaktózy do mocu", " vypocítavame exkrecnú kapacitu pre laktózu", " hodnotíme odpad glukózy do mocu"]
   },
   {
    numb: 298,
    question: " Pri galaktózovom zátažovom teste",
-   answer: [],
+   answer: [ " podávame pacientovi galaktózu intravenózne"],
    options: [
   " podávame pacientovi galaktózu intravenózne", " hodnotíme vzostup glykémie", " hodnotíme nárast hladiny laktózy", " podávame pacientovi laktózu per os"]
   },
   {
    numb: 299,
    question: " Ku biotransformacným funkcným vyšetrenia pecene patrí",
-   answer: [],
+   answer: [" antipyrínový test", " teofylínový tst"],
    options: [
   " antipyrínový test", " teofylínový tst", " NBT-PABA test", " fluoresceín dilaurátový test"]
   },
   {
    numb: 300,
    question: " Ku biotransformacným funkcným vyšetrenia pecene patrí",
-   answer: [],
+   answer: [" MEGX-test"],
    options: [
   " pentagastrínocvý test", " MEGX-test", " sekretín-ceruleínový tets", " vyšetrenie frakcnej exkrécie aminodusíka"]
   },
