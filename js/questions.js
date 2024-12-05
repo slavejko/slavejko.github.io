@@ -168,7 +168,7 @@ let questions = [
  {
     numb: 27,
     question: "SCC-antigén je",
-    answer: ["zvýšený pri nádoroch pažeráka","zvýšený pri adenokarcinóme cervixu "],
+    answer: ["zvýšený pri nádoroch pažeráka"],
     options: ["zvýšený pri nádoroch pažeráka",
       " produkovaný bunkami fetálneho GIT-u",
        "zvýšený pri hematologických malignitách",
