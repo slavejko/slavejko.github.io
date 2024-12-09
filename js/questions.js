@@ -2265,21 +2265,21 @@ let questions = [
   {
    numb: 301,
    question: " Lidokaín sa pacientovi podáva pri",
-   answer: [],
+   answer: [" MEGX-teste"],
    options: [
   " MEGX-teste", " sekretín-ceruleínovom teste", " kofeínovom teste", " antipyrínovom teste"]
   },
   {
    numb: 302,
    question: " Lidokaín sa pacientovi podáva pri",
-   answer: [],
+   answer: [" posúdení biotransformacnej funkcie pecene"],
    options: [
   " teofylínovom teste", " fluoresceínovom teste", " NBT-PABA teste", " posúdení biotransformacnej funkcie pecene"]
   },
   {
    numb: 303,
    question: " Medzi testy hodnotiace exkrecnú funkciu pecene patrí",
-   answer: [],
+   answer: [" test s indocyanínovou zelenou", " bromsulfoftaleínový test"],
    options: [
   " test s indocyanínovou zelenou", " antipyrínový test", " bromsulfoftaleínový test", " teofylínový test"]
   },
@@ -2293,28 +2293,28 @@ let questions = [
   {
    numb: 305,
    question: " Medzi ukazovatele cholestázy patrí",
-   answer: [],
+   answer: [" GMT"],
    options: [
   " AST", " ALT", " GMT", " CK-BB"]
   },
   {
    numb: 306,
    question: " Medzi ukazovatele cholestázy patrí",
-   answer: [],
+   answer: [ " alkalická fosfatáza"],
    options: [
   " CK-MM", " alkalická fosfatáza", " kyslá fosfatáza", " cholínesteráza"]
   },
   {
    numb: 307,
    question: " Medzi ukazovatele cholestázy patrí",
-   answer: [],
+   answer: [" zvýšenie aktivity GMT",  " zvýšenie aktiviy ALP"],
    options: [
   " zvýšenie aktivity laktátdehydrgenázy", " zvýšenie aktivity GMT", " zníženie aktivity GMT", " zvýšenie aktiviy ALP"]
   },
   {
    numb: 308,
    question: " Medzi ukazovatele cholestázy patrí",
-   answer: [],
+   answer: [" zvýšenie aktivity 5-nukleotidázy"],
    options: [
   "zníženie aktivity ALP" , " zvýšenie aktivity cholínesterázy", " zvýšenie aktivity 5-nukleotidázy", " predlženie protrombínového casu", ]
   },
@@ -2328,84 +2328,84 @@ let questions = [
   {
    numb: 310,
    question: " Prítomnost antimitochondriálnych protilátok je charakteristická pre",
-   answer: [],
+   answer: [" primárnu biliárnu cirhózu"],
    options: [
   " primárnu biliárnu cirhózu", " nealkoholovú steatohepatitídu", " cirhózu pecene", " hepatocelulárny karcinóm"]
   },
   {
    numb: 311,
    question: "U pacientov s primárnou biliárnou cirhózou nachádzame",
-   answer: [],
+   answer: [" zvýšenie hladiny celkových žlcových kyselín", " zvýšenú hladinu bilirubínu"],
    options: [
   " výrazné zvýšenie IgA", " zvýšenie hladiny celkových žlcových kyselín", " zvýšenú hladinu bilirubínu", " protilátky proti mikrozómom"]
   },
   {
    numb: 312,
    question: "U pacientov s primárnou biliárnou cirhózou nachádzame",
-   answer: [],
+   answer: [" výrazné zvýšenie IgM", " antimitochondriové protilátky"],
    options: [
   " výrazné zvýšenie IgM", " protilátky proti solubilnému antigénu pecene", " antimitochondriové protilátky", " výrazné zvýšenie IgG"]
   },
   {
    numb: 313,
    question: " Pravidelnej konzumácii alkoholu nasvedcuje",
-   answer: [],
+   answer: [" zvýšená hladina bezsacharidového transferínu"],
    options: [
   " znížená hladina bezsacharidového transferínu", " zvýšená hladina bezsacharidového transferínu", " znížená hladina alfa-1-antitrypsínu", " znížená aktivita cholínesterázy"]
   },
   {
    numb: 314,
    question: " Pravidelnej konzumácii alkoholu nasvedcuje",
-   answer: [],
+   answer: [" zvýšená aktivita GMT"],
    options: [
   " zvýšená aktivita GMT", " zvýšená aktivita ALP", " znížená aktivita GMT", " znížená hladina ceruloplazmínu"]
   },
   {
    numb: 315,
    question: " Vyšetrenie alfa-fetoproteínu v hepatologii môžeme použit",
-   answer: [],
+   answer: [" pri skríningu hepatocelulárneho karcinómu"],
    options: [
   " pri diagnóze hepatómu pecene", " pri diagnóze cholangiocelulárneho karcinómu", " pri skríningu hepatocelulárneho karcinómu", " na potvrdenie konzumácie alkoholu"]
   },
   {
    numb: 316,
    question: " Vyšetrenie alfa-fetoproteínu v hepatologii môžeme použit",
-   answer: [],
+   answer: [" pri diagnóze hepatocelulárneho karcinómu pecene", " pri dif.dg. medzi metastázou do pecene a hepatocelulárnym karcinómom"],
    options: [
   " pri diagnóze primárnej biliárnej cirhózy", " pri diagnóze hepatocelulárneho karcinómu pecene", " pri dif.dg. medzi metastázou do pecene a hepatocelulárnym karcinómom", " na sledovanie posttransplantacného obdobia"]
   },
   {
    numb: 317,
    question: " Pri vyšetrovaní etiologie juvenilnej cirhózy nám môže pomôct vyšetrenie",
-   answer: [],
+   answer: [" ceruloplazmínu"],
    options: [
   " GMT", " ceruloplazmínu", " AST", " haptoglobínu"]
   },
   {
    numb: 318,
    question: " Pri vyšetrovaní etiologie juvenilnej cirhózy nám môže pomôct vyšetrenie",
-   answer: [],
+   answer: [" alfa-1-antitrypsínu"],
    options: [
   " albumínu", " transferínu", " alfa-fetoproteínu", " alfa-1-antitrypsínu"]
   },
   {
    numb: 319,
    question: " Vyberte správne dvojice: protilátka - chorobná jednotka",
-   answer: [],
+   answer: [" protilátky proti mikrozómom - autoimúnna hepatitída 2",  " protilátky proti solubilnému antigénu pecene - autoimúnna hepatitída 3"],
    options: [
   " protilátky proti mikrozómom - autoimúnna hepatitída 2", " protilátky proti mitochondriam - autoimúnna hepatitída 1", " protilátky proti solubilnému antigénu pecene - autoimúnna hepatitída 3", " protilátky proti mikrozómom - prim.sklerozujúca cholangitída"]
   },
   {
    numb: 320,
    question: " Vyberte správne dvojice: protilátka - chorobná jednotka",
-   answer: [],
+   answer: [" protilátky proti mitochondriam - prim.biliárna cirhóza", " antinukleárne protilátky - autoimúnna hepatitída 1"],
    options: [
   " protilátky proti mitochondriam - prim.biliárna cirhóza", " antinukleárne protilátky - autoimúnna hepatitída 1", " protilátky proti mikrozómom - primárna biliárna cirhóza", " protilátky proti solubilnému antigénu pecene - prim.sklerozujúca cholangitída"]
   },
   {
    numb: 321,
    question: " Pri diagnostike Gilbertovho syndrómu používame vyšetrenie",
-   answer: [],
+   answer: [" test s kyselinou nikotínovou", " test s protrahovaným hladovaním"],
    options: [
   " ceruloplazmínu", " test s kyselinou nikotínovou", " test s lidokaínom", " test s protrahovaným hladovaním"]
   },
@@ -2419,56 +2419,56 @@ let questions = [
   {
    numb: 323,
    question: " Pri výpocte Child-Pughovho skóre u pacientov s hepatopatiou je potrebný výsledok vyšetrenia",
-   answer: [],
+   answer: [" bilirubínu"],
    options: [
   " AST", " ALT", " bilirubínu", " alfa-fetoproteínu"]
   },
   {
    numb: 324,
    question: " Pri výpocte Child-Pughovho skóre u pacientov s hepatopatiou je potrebný výsledok vyšetrenia",
-   answer: [],
+   answer: [ " albumínu"," tromboplastínového casu"],
    options: [
   " albumínu", " tromboplastínového casu", " ceruloplazmínu", " cholínesterázy"]
   },
   {
    numb: 325,
    question: " Pri vyšetrení aktivity fibrogenézy v peceni využívame vyšetrenie",
-   answer: [],
+   answer: [" hydroxyprolínu v moci"],
    options: [
   " albumínu", " hydroxyprolínu v moci", " alfa-fetoproteínu", " alfa-1-antitrypsínu"]
   },
   {
    numb: 326,
    question: " Pri vyšetrení aktivity fibrogenézy v peceni využívame vyšetrenie",
-   answer: [],
+   answer: [" kyseliny hyaluronovej",  " N-koncového peptidu prokolagénu III"],
    options: [
   " kyseliny hyaluronovej", " kyseliny nikotínovej", " N-koncového peptidu prokolagénu III", " bezsacharidového transferínu"]
   },
   {
    numb: 327,
    question: " Vyberte správne dvojice: chorobná jednotka - laboratórne vyšetrenie",
-   answer: [],
+   answer: [" primárna biliárna cirhóza - IgM", " konzumácia alkoholu - bezsacharidový transferín"],
    options: [
   " primárna biliárna cirhóza - IgM", " konzumácia alkoholu - bezsacharidový transferín", " fibrogenéza - bezsacharidový transferín", " podozrenie na hepatopatiu - ceruloplazmín"]
   },
   {
    numb: 328,
    question: " Vyberte správne dvojice: chorobná jednotka - laboratórne vyšetrenie",
-   answer: [],
+   answer: [" konzumácia alkoholu - GMT", " fibrogenéza v peceni - kyselina hyaluronová"],
    options: [
   " Gilbertov syndróm - transferín", " primárny hepatocelilárny karcinóm - CEA", " konzumácia alkoholu - GMT", " fibrogenéza v peceni - kyselina hyaluronová"]
   },
   {
    numb: 329,
    question: " Vyberte správne dvojice: chorobná jednotka - laboratórne vyšetrenie",
-   answer: [],
+   answer: [" Gilbertov syndróm - test s kyselinou nikotínovou"],
    options: [
   " benigné nádory pecene - alfa-fetoproteín", " konzumácia alkoholu - ALP", " Gilbertov syndróm - test s kyselinou nikotínovou", " cholestáza - N-koncový peptid prokolagénu III"]
   },
   {
    numb: 330,
    question: " Vyberte správne dvojice: chorobná jednotka - laboratórne vyšetrenie",
-   answer: [],
+   answer: [ " Wilsonova choroba - ceruloplazmín", " cholestáza - GMT"],
    options: [
   " Wilsonova choroba - ceruloplazmín", " cholestáza - GMT", " fibrogenéza v peceni - celkové žlcové kyseliny v sére", " primárna biliárna cirhóza - protilátky proti mikrozómom"]
   },
@@ -2482,140 +2482,140 @@ let questions = [
   {
    numb: 332,
    question: " Pri akútnej hepatitíde typu A nachádzame",
-   answer: [],
+   answer: [" zvýšenú aktivitu ALT", " pozitívne anti-HAV protilátky",  " zníženú hladinu albumínu"],
    options: [
   " zvýšenú aktivitu ALT", " pozitívne anti-HAV protilátky", " zníženú hladinu celkových žlcových kyselín", " zníženú hladinu albumínu"]
   },
   {
    numb: 333,
    question: " Medzi fyzikálne vyšetrenie mocu nepatrí",
-   answer: [],
+   answer: [" prítomnost bielkoviny v moci"],
    options: [
   " objem za 24 hodín", " prítomnost bielkoviny v moci", " meranie hustoty", " zhodnotenie farby"]
   },
   {
    numb: 334,
    question: " Medzi fyzikálne vyšetrenie mocu nepatrí",
-   answer: [],
+   answer: [" dôkaz ketonurie", " dôkaz glykozúrie"],
    options: [
   " vyhodnotenie pH", " dôkaz ketonurie", " dôkaz glykozúrie", " zhodnotenie zápachu"]
   },
   {
    numb: 335,
    question: " Pre orientacné vyšetrenie proteinúrie diagnostickým papierikom platí",
-   answer: [],
+   answer: [" býva pozitívne pri koncentrácii bielkovín nad 200 mg/l"],
    options: [
   " falošne pozitívny výsledok môže spôsobit kyslý moc", " býva pozitívne pri koncentrácii bielkovín nad 100 mg/l", " býva pozitívne pri koncentrácii bielkovín nad 200 mg/l", " vyhodnocujeme v závislosti na obsahu glukózy v moci"]
   },
   {
    numb: 336,
    question: " Pre orientacné vyšetrenie proteinúrie diagnostickým papierikom platí",
-   answer: [],
+   answer: [" býva negatívne pri mikroalbuminúrii", " falošne pozitívny výsledok môže spôsobit alkalický moc", " vyhodnocujeme v závislosti od pH mocu"],
    options: [
   " býva falošne pozitívne pri bilirubinúrii", " býva negatívne pri mikroalbuminúrii", " falošne pozitívny výsledok môže spôsobit alkalický moc", " vyhodnocujeme v závislosti od pH mocu"]
   },
   {
    numb: 337,
    question: " Vyšetrenie krvi v moci diagnostickým papierikom",
-   answer: [],
+   answer: [" je nešpecifické vyšetrenie", " falošne pozitívny výsledok môže spôsobit proteinúria", " býva pozitívne pri zvýšení koncentrácie myoglobínu v krvi"],
    options: [
   " je špecifické vyšetrenie", " je nešpecifické vyšetrenie", " falošne pozitívny výsledok môže spôsobit proteinúria", " býva pozitívne pri zvýšení koncentrácie myoglobínu v krvi"]
   },
   {
    numb: 338,
    question: " Vyšetrenie krvi v moci diagnostickým papierikom",
-   answer: [],
+   answer: [" býva pozitívne pri intravaskulárnej hemolýze", " býva pozitívne pri poškodení kostrového svalstva"],
    options: [
   " býva pozitívne pri intravaskulárnej hemolýze", " býva pozitívne pri urobilinogenúrii", " býva pozitívne pri poškodení kostrového svalstva", " je založené na peroxidázovej aktivite globínu"]
   },
   {
    numb: 339,
    question: " Pozitívny nález krvi v moci diagnostickým papierikom a negatívny výsledok vyšetrenia",
-   answer: [],
+   answer: [" poškodením kostrového svalu"],
    options: [
   "renálnou hematúriou", " postrenálnou hematúriou", " poškodením kostrového svalu"," glomerulárnou hematúriou"]
   },
   {
    numb: 340,
    question: " Pozitívny nález krvi v moci diagnostickým papierikom a negatívny výsledok vyšetrenia",
-   answer: [],
+   answer: [" intravaskulárnou hemolýzou", " hemoglobínúriou"],
    options: [
   " intravaskulárnou hemolýzou", " hemoglobínúriou", " zvýšenou hladinou haptoglobínu v sére", " prerenálnou proteinúriou"]
   },
   {
    numb: 341,
    question: " Pri vyšetrení žlcových farbív v moci je správne",
-   answer: [],
+   answer: [" pozitívny bilirubín a negatívny urobilinogén - obštrukcný ikterus"],
    options: [
   " pozitívny bilirubín a negatívny urobilinogén - Gilbertov syndróm", " pozitívny bilirubín a negatívny urobilinogén - hemolytický ikterus", " pozitívny bilirubín a negatívny urobilinogén - obštrukcný ikterus", " negatívny bilirubín a pozitívny urobilinogén - hepatálny ikterus"]
   },
   {
    numb: 342,
    question: " Pri vyšetrení žlcových farbív v moci je správne",
-   answer: [],
+   answer: [" negatívny bilirubín a pozitívny urobilinogén - intravaskulárna hemolýza"],
    options: [
   " negatívny bilirubín a pozitívny urobilinogén - Gilbertov syndróm", " negatívny bilirubín a pozitívny urobilinogén - intravaskulárna hemolýza", " negatívny bilirubín a negatívny urobilinogén - hemolytický ikterus", " negatívny bilirubín a negatívny urobilinogén - hepatálny ikterus"]
   },
   {
    numb: 343,
    question: " Prerenálnu proteinúriu môže spôsobit",
-   answer: [],
+   answer: [" poškodenie kostrového svalstva"],
    options: [
   " poškodenie kostrového svalstva", " poškodenie tubulárnych buniek", " poškodenie glomerulárnej membrány", " zápal mocového mechúra"]
   },
   {
    numb: 344,
    question: " Prerenálnu proteinúriu môže spôsobit",
-   answer: [],
+   answer: [" myelóm", " prítomnost lahkých retazcov imunoglobulínov v sére", " prítomnost Bence-Jonesovho proteínu", " zvýšenie sérovej koncentrácie bielkoviny s m.h. nižšou ako 40000"],
    options: [
   " myelóm", " prítomnost lahkých retazcov imunoglobulínov v sére", " prítomnost Bence-Jonesovho proteínu", " zvýšenie sérovej koncentrácie bielkoviny s m.h. nižšou ako 40000"]
   },
   {
    numb: 345,
    question: " Renálnu proteinúriu môže spôsobit",
-   answer: [],
+   answer: [" poškodenie glomerulárnej membrány", " poškodenie tubulárnych buniek"],
    options: [
   " prítomnost Bence-Jonesovho proteínu", " intravaskulárna hemolýza", " poškodenie glomerulárnej membrány", " poškodenie tubulárnych buniek"]
   },
   {
    numb: 346,
    question: " Renálnu proteinúriu môže spôsobit",
-   answer: [],
+   answer: [" akútna glomerulonefritída", " toxické poškodenie obliciek",  " diabetická nefropatia"],
    options: [
   " akútna glomerulonefritída", " toxické poškodenie obliciek", " poškodenie kostrového svalu", " diabetická nefropatia"]
   },
   {
    numb: 347,
    question: " Pre glomerulárnu proteinúriu platí",
-   answer: [],
+   answer: [" býva dôsledkom poškodenia glomerulárnej membrány", " býva obvykle viac ako 1 g/l", " v moci nachádzame zvýšené množstvo albumínu"],
    options: [
   " býva dôsledkom poškodenia glomerulárnej membrány", " býva obvykle menej ako 1 g/l", " býva obvykle viac ako 1 g/l", " v moci nachádzame zvýšené množstvo albumínu"]
   },
   {
    numb: 348,
    question: " Pre glomerulárnu proteinúriu platí",
-   answer: [],
+   answer: [" v moci bývajú prítomné imunoglobulíny",  " v moci býva zvýšený transferín"],
    options: [
   " v moci bývajú prítomné imunoglobulíny", " v moci sú zvýšené hlavne beta-mikroglobulín a alfa-1-mikroglobulín", " v moci býva zvýšený transferín", " v moci sú prítomné hlavne bielkoviny s m.h. menej ako 60000"]
   },
   {
    numb: 349,
    question: " Pre tubulárnu proteinúriu platí",
-   answer: [],
+   answer: [" býva u pacientov s poškodeným tubulárnym aparátom",  " bývajú zvýšené bielkoviny s m.h. nižšou ako 60000"],
    options: [
   " býva pri poškodení glomerulov zápalovým procesom", " býva u pacientov s poškodeným tubulárnym aparátom", " bývajú zvýšené bielkoviny s m.h. vyššou ako 60000", " bývajú zvýšené bielkoviny s m.h. nižšou ako 60000"]
   },
   {
    numb: 350,
    question: " Pre tubulárnu proteinúriu platí",
-   answer: [],
+   answer: [" býva zvýšený hlavne alfa-1-mikroglobulín"],
    options: [
   " býva u pacientov s akútnou glomerulonefritídou", " býva u pacientov s diabetickou nefropatiou", " najvýraznejšie sa zvyšuje množstvo albumínu v moci", " býva zvýšený hlavne alfa-1-mikroglobulín"]
   },
   {
    numb: 351,
    question: " Klasifikácia proteinúrie sa robí",
-   answer: [],
+   answer: [" na základe velkosti molekúl bielkovín v moci", " vyšetrením elektroforézy bielkovín mocu na polyakrylamidovom géli s laurylsulfátom sodným"],
    options: [
   " na základe velkosti molekúl bielkovín v moci", " vyšetrením elektroforézy bielkovín mocu na agaróze", " vyšetrením elektroforézy bielkovín mocu na acetátovej fólii", " vyšetrením elektroforézy bielkovín mocu na polyakrylamidovom géli s laurylsulfátom sodným"]
   },
