@@ -3217,91 +3217,91 @@ let questions = [
   {
    numb: 437,
    question: " Referencné hodnoty",
-   answer: [" vypocítame ako x ± 2SD"],
+   answer: [" vypocítame ako x ± 2SD", " môžu byt rozlicné pre rôzne pohlavia", " môžu byt odlišné pre rôzne vekové skupiny"],
    options: [
   " vypocítame ako x ± 2SD", " vypocítame ako x ± 3SD", " môžu byt rozlicné pre rôzne pohlavia", " môžu byt odlišné pre rôzne vekové skupiny"]
   },
   {
    numb: 438,
    question: " Ako protizrážlivé cinidlo sa používa",
-   answer: [],
+   answer: [" heparín"," pri stanovení glukózy fluorid sodný"],
    options: [
   " heparín", " pri enzýmových vyšetrenia oxalát sodný", " pri stanovení glukózy fluorid sodný", " pri stanovení glukózy citrát sodný"]
   },
   {
    numb: 439,
    question: " Ako protizrážlivé cinidlo sa používa",
-   answer: [],
+   answer: [" pri hemokoagulacných vyšetreniach citrát",  " pri krvnom obraze EDTA"],
    options: [
   " pri hemokoagulacných vyšetreniach heparín", " pri hemokoagulacných vyšetreniach citrát", " pri krvnom obraze citrát sodný", " pri krvnom obraze EDTA"]
   },
   {
    numb: 440,
    question: " Co sa týka zložiek potravy, môže byt skreslený výsledok vyšetrenia",
-   answer: [],
+   answer: [" glykémie príjmom potravy", " kreatinínu v sére konzumáciou mäsa"],
    options: [
   " glykémie príjmom potravy", " kreatinínu v sére konzumáciou tukov", " kreatinínu v sére konzumáciou mäsa", " draslíka v sére konzumáciou banánov"]
   },
   {
    numb: 441,
    question: " Co sa týka zložiek potravy, môže byt skreslený výsledok vyšetrenia",
-   answer: [],
+   answer: [" krvi v stolici konzumáciou mäsa"],
    options: [
   " krvi v moci konzumáciou mäsa", " krvi v stolici konzumáciou mäsa", " kreatinínu v sére konzumáciou tukov", " sodíka v sére konzumáciou tukov"]
   },
   {
    numb: 442,
    question: " Medzi vekom ovplyvnitelné laboratórne parametre patrí",
-   answer: [],
+   answer: [" cholesterol", " kreatinín"],
    options: [
   " cholesterol", " sodík", " kreatinín", " draslík"]
   },
   {
    numb: 443,
    question: " Medzi vekom ovplyvnitelné laboratórne parametre patrí",
-   answer: [],
+   answer: [" alkalická fosfatáza"],
    options: [
   " alkalická fosfatáza", " gama-glutamyltransferáza"," albumín", " ALT"]
   },
   {
    numb: 444,
    question: " Ktoré výroky o laboratórnych ukazovateloch sú správne",
-   answer: [],
+   answer: [" hladina železa je vyššia u mužov ako u žien",  " hladiny ceruloplazmínu sú vyššie u žien ako u mužov"],
    options: [
   " hladina železa je u žien vyššia ako u nužov", " hladina železa je vyššia u mužov ako u žien", " hladiny ceruloplazmínu sú vyššie u mužov ako u žien", " hladiny ceruloplazmínu sú vyššie u žien ako u mužov"]
   },
   {
    numb: 445,
    question: " Ktoré výroky o laboratórnych ukazovateloch sú správne",
-   answer: [],
+   answer: [" hladina kreatinínu je vyššia u mužov ako u žien",  " aktivity CK v sére sú vyššie u mužov ako u žien"],
    options: [
   " hladina kreatinínu je vyššia u mužov ako u žien", " hladina kreatinínu je vyššia u žien ako u mužov", " aktivity CK v sére sú vyššie u žien ako u mužov", " aktivity CK v sére sú vyššie u mužov ako u žien"]
   },
   {
    numb: 446,
    question: " Vyberte správnu kombináciu laboratórneho parametra a ochorenia štítnej žlazy",
-   answer: [],
+   answer: [" kalcitonín - medulárny karcinóm štítnej žlazy", " protilátky proti tyreoperoxidáze - autoimúnna tyreoiditída",  " protilátky proti TSH receptoru - Basedowova - Gravesova choroba"],
    options: [
   " kalcitonín - medulárny karcinóm štítnej žlazy", " protilátky proti tyreoperoxidáze - autoimúnna tyreoiditída", " protilátky proti TSH receptoru - autoimúnna tyreoiditída", " protilátky proti TSH receptoru - Basedowova - Gravesova choroba"]
   },
   {
    numb: 447,
    question: " Vyberte správnu kombináciu laboratórneho parametra a ochorenia štítnej žlazy",
-   answer: [],
+   answer: [" tyreoglobulín - karcinóm štítnej žlazy"],
    options: [
   " tyreoglobulín - karcinóm štítnej žlazy", " tyreoglobulín - medulárny karcinóm štítnej žlazy", " tyreoglobulín - Basedowova-Gravesova choroba", " kalcitonín - Basedowova-Gravesova choroba"]
   },
   {
    numb: 448,
    question: "U pacienta bola zistená zvýšená hodnota TSH a zvýšená hodnota fT4. Môže íst o",
-   answer: [],
+   answer: [" adenóm hypofýzy"],
    options: [
   " Gravesovu-Basedowovu chorobu", " adenóm hypofýzy", " primárnu hypertyreózu", " primárnu hypotyreózu"]
   },
   {
    numb: 449,
    question: "U pacienta bola zistená zvýšená hodnota TSH a zvýšená hodnota fT4. Môže íst o",
-   answer: [],
+   answer: [" sekundárnu hypertyreózu"],
    options: [
   " sekundárnu hypertyreózu", " T3-tyreotoxikózu", " medulárny karcinóm štítnej žlazy", " adenóm štítnej žlazy"]
   },
@@ -3315,84 +3315,84 @@ let questions = [
   {
    numb: 451,
    question: "U pacienta sme zistili zvýšenú hodnotu fT4 a normálnu hodnotu TSH. Môže íst o",
-   answer: [],
+   answer: [" primárnu hypertyreózu"],
    options: [
   " T2-tyreotoxikózu", " adenóm hypofýzy", " sekundárnu hypertyreózu", " primárnu hypertyreózu"]
   },
   {
    numb: 452,
    question: "O vyšetrení tyroxínu v sére možno povedat",
-   answer: [],
+   answer: [ " hladina celkového tyroxínu býva zvýšená v gravidite", " je potrebné pre diagnózu sekundárnej hypertyreózy", " je potrebné pre diagnózu sekundárnej hypotyreózy", " hladina celkového tyroxínu sa zvyšuje pri terapii estrogénmi"],
    options: [
   " hladina celkového tyroxínu býva zvýšená v gravidite", " je potrebné pre diagnózu sekundárnej hypertyreózy", " je potrebné pre diagnózu sekundárnej hypotyreózy", " hladina celkového tyroxínu sa zvyšuje pri terapii estrogénmi"]
   },
   {
    numb: 453,
    question: "O vyšetrení tyroxínu v sére možno povedat",
-   answer: [],
+   answer: [" hladinu celkového tyroxínu ovplyvnuje koncentrácia TBG", " vyšetrenie hladiny fT4 je spolahlivejšie ako hladina celkového tyroxínu"],
    options: [
   " hladinu celkového tyroxínu ovplyvnuje koncentrácia TBG", " vyšetrenie hladiny fT4 je spolahlivejšie ako hladina celkového tyroxínu", " je základné skríningové vyšetrenie pri podozrení na poruchu funkcie štítnej žlazy", " hladina fT4 je menej spolahlivý ukazovatel ako hladina celkového T4"]
   },
   {
    numb: 454,
    question: "U pacientov s Graves-Basedowovou chorobou zistujeme",
-   answer: [],
+   answer: [ " skoro vždy prítomné protilátky proti TSH-receptoru", " zvýšenú hladinu celkového tyroxínu", " zvýšenú hladinu volného tyroxínu"],
    options: [
   " skoro vždy prítomné protilátky proti TSH-receptoru", " zvýšenú hladinu celkového tyroxínu", " skoro vždy prítomné protilátky proti TPO", " zvýšenú hladinu volného tyroxínu"]
   },
   {
    numb: 455,
    question: "U pacientov s Graves-Basedowovou chorobou zistujeme",
-   answer: [],
+   answer: [" zvýšenú hladinu T3"],
    options: [
   " zvýšenú hladinu T3", " zníženú hladinu fT4", " zvýšenú hladinu TSH", " zníženú hladinu T3"]
   },
   {
    numb: 456,
    question: "U pacientov s adenómom štítnej žlazy obvykle zistujeme",
-   answer: [],
+   answer: [" znížené hodnoty TSH"],
    options: [
   " znížené hodnoty TSH", " zvýšené hodnoty TSH", " pozitívne protilátky proti TSH-receptoru", " pozitívne protilátky proti TPO"]
   },
   {
    numb: 457,
    question: "U pacientov s adenómom štítnej žlazy obvykle zistujeme",
-   answer: [],
+   answer: [" zvýšenú hladinu fT4", " zvýšenú hladinu celkového tyroxínu"],
    options: [
   " zvýšenú hladinu fT4", " zvýšenú hladinu celkového tyroxínu", " zníženú hladinu celkového tyroxínu", " zníženú hladinu T3"]
   },
   {
    numb: 458,
    question: "U pacientov s T3-hypertyreózou zistujeme",
-   answer: [],
+   answer: [" normálne hodnoty T4"],
    options: [
   " zvýšený tyreoglobulín", " normálne hodnoty T4", " zvýšené hodnoty TSH", " zvýšené hodnoty fT4"]
   },
   {
    numb: 459,
    question: "U pacientov s T3-hypertyreózou zistujeme",
-   answer: [],
+   answer: [" znížené hodnoty TSH", " zvýšené hodnoty T3"],
    options: [
   " zvýšené hodnoty celkového T4", " znížené hodnoty TSH", " zvýšené hodnoty T3", " znížené hodnoty T3"]
   },
   {
    numb: 460,
    question: "U pacienta s Hashimotovou chronickou thyreoiditídou obvykle nachádzame",
-   answer: [],
+   answer: [" zvýšené TSH", " znížené T4", " znížené fT4"],
    options: [
   " znížené TSH", " zvýšené TSH", " znížené T4", " znížené fT4"]
   },
   {
    numb: 461,
    question: "U pacienta s Hashimotovou chronickou thyreoiditídou obvykle nachádzame",
-   answer: [],
+   answer: [" znížené T3", " pozitívne protilátky proti TPO", " pozitívne protilátky proti Tg"],
    options: [
   " znížené T3", " pozitívne protilátky proti TPO", " pozitívne protilátky proti Tg", " pozitívne protilátky proti TSH-receptorom"]
   },
   {
    numb: 462,
    question: "U pacientov so subklinickou hypertyreózou obvykle zistujeme",
-   answer: [],
+   answer: [" normálne hladiny celkového T4", " normálne hladiny fT4", " znížené hodnoty TSH"],
    options: [
   " normálne hladiny celkového T4", " normálne hladiny fT4", " znížené hodnoty TSH", " zvýšené hladiny celkového T4"]
   },
