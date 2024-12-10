@@ -2622,35 +2622,35 @@ let questions = [
   {
    numb: 352,
    question: " Klasifikácia proteinúrie sa robí",
-   answer: [],
+   answer: [" vyšetrením koncentrácie viacerých bielkovín s rôznou molekulovou hmotnostou"],
    options: [
   " vyšetrením elektroforézy bielkovín mocu na polyakrylamidovom géle s agarózou", " vyšetrením koncentrácie viacerých bielkovín s rôznou molekulovou hmotnostou", " ultracentrifugáciou", " pomocou enzymimunoassaye"]
   },
   {
    numb: 353,
    question: " Vyberte správne výsledky klasifikácie proteinúrie",
-   answer: [],
+   answer: [" zvýšený albumín, negatívny IgG a mikroglobulín - glomerulárna selektívna proteinúria", " zvýšený albumín, zvýšený IgG, negat mikroglobulín - glomerulárna neselektívna proteinúria", " zvýšený albumín, zvýšený IgG aj mikroglobulín - zmiešaná proteinúria"],
    options: [
   " zvýšený alfa-mikroglobulín a albumín - tubulárna proteinúria", " zvýšený albumín, negatívny IgG a mikroglobulín - glomerulárna selektívna proteinúria", " zvýšený albumín, zvýšený IgG, negat mikroglobulín - glomerulárna neselektívna proteinúria", " zvýšený albumín, zvýšený IgG aj mikroglobulín - zmiešaná proteinúria"]
   },
   {
    numb: 354,
    question: " Vyberte správne výsledky klasifikácie proteinúrie",
-   answer: [],
+   answer: [" zvýšený mikroglobulín a albumín - zmiešaná tubulárna a glomerulárna selektívna proteinúria", " zvýšený albumín, IgG a mikroglobulín - glomerulárna neselektívna + tubulárna proteinúria"],
    options: [
   " zvýšený mikroglobulín a albumín - glomerulárna selektívna", " zvýšený mikroglobulín a albumín - zmiešaná tubulárna a glomerulárna selektívna proteinúria", " zvýšený albumín, negatívny IgG a mikroglobulín - tubulárna proteinúria", " zvýšený albumín, IgG a mikroglobulín - glomerulárna neselektívna + tubulárna proteinúria"]
   },
   {
    numb: 355,
    question: " Pri vyšetrení mocového sedimentu hodnotíme hlavne",
-   answer: [],
+   answer: [" erytrocyty", " leukocyty"],
    options: [
   " erytrocyty", " leukocyty", " tubulárne bunky", " ploché epitélie"]
   },
   {
    numb: 356,
    question: " Pri vyšetrení mocového sedimentu hodnotíme hlavne",
-   answer: [],
+   answer: [" degenerované tubulárne bunky", " valce", " kryštály"],
    options: [
   " degenerované tubulárne bunky", " valce", " kryštály", " bielkoviny"]
   },
@@ -2664,245 +2664,245 @@ let questions = [
   {
    numb: 358,
    question: " Nefrotický syndróm je charakterizovaný",
-   answer: [],
+   answer: [" proteinúriou viac ako 5 g/l", " nálezom lipidových valcov"],
    options: [
   " nálezom leukocytových valcov", " nálezom fosfátových kryštálov", " proteinúriou viac ako 5 g/l", " nálezom lipidových valcov"]
   },
   {
    numb: 359,
    question: " Pre poškodenie tubulárnych buniek je charakteristické",
-   answer: [],
+   answer: [" tubulárna proteinúria",  " granulované valce"],
    options: [
   " tubulárna proteinúria", " zmiešaná proteinúria", " leukocytové valce", " granulované valce"]
   },
   {
    numb: 360,
    question: " Pre poškodenie tubulárnych buniek je charakteristické",
-   answer: [],
+   answer: [" proteinúria obvykle menšia ako 1 g/l"],
    options: [
   " proteinúria obvykle menšia ako 1 g/l", " proteinúria obvykle vyššia ako 1 g/l", " erytrocytové valce", " hyalinné valce"]
   },
   {
    numb: 361,
    question: " Hyalinné valce v moci",
-   answer: [],
+   answer: [ " môžu byt u pacienta s proteinúriou",  " bývajú u pacientov s horúckou"],
    options: [
   " môžu byt u pacienta s proteinúriou", " bývajú hlavnou zložkou sedimentu u pacientov so zápalom v mocových cestách", " sú charakteristické pre pyelonefritídu", " bývajú u pacientov s horúckou"]
   },
   {
    numb: 362,
    question: " Hyalinné valce v moci",
-   answer: [],
+   answer: [ " sú tvorené Tamm-Horsfallovým glykoproteínom", " môžu byt aj u zdravého cloveka"],
    options: [
   " bývajú u pacientov glomerulárnou hematúriou", " sú charakteristické pre cystitídu", " sú tvorené Tamm-Horsfallovým glykoproteínom", " môžu byt aj u zdravého cloveka"]
   },
   {
    numb: 363,
    question: " Pre renálnu erytrocytúriu je charakteristické",
-   answer: [],
+   answer: [" dysmorfné erytrocyty v sedimente"," erytrocytové valce", " zvýšenie erytrocytov v mocovom sedimente"],
    options: [
   " eumorfné erytrocyty v sedimente", " dysmorfné erytrocyty v sedimente"," erytrocytové valce", " zvýšenie erytrocytov v mocovom sedimente"]
   },
   {
    numb: 364,
    question: " Pre renálnu erytrocytúriu je charakteristické",
-   answer: [],
+   answer: [" pozitívny nález krvi diagnostickým papierikom"],
    options: [
   " pozitívny nález krvi diagnostickým papierikom", " epitelové valce", " granulované valce", " proteino-erytrocytová disoaciácia"]
   },
   {
    numb: 365,
    question: " Proteino-erytrocytová disociácia býva",
-   answer: [],
+   answer: [" prítomná pri postrenálnej erytrocytúrii"],
    options: [
   " prítomná pri prerenálnej proteinúrii", " prítomná pri glomerulovej erytrocytúrii", " prítomná pri postrenálnej erytrocytúrii", " sprevádzaná erytrocytovými valcami"]
   },
   {
    numb: 366,
    question: " Proteino-erytrocytová disociácia býva",
-   answer: [],
+   answer: [ " nebýva sprevádzaná erytrocytovými valcami",  " obvykle sprevádzaná prítomnostou eumorfných erytrocytov"],
    options: [
   " nebýva sprevádzaná erytrocytovými valcami", " pri glomerulonefritíde", " sprevádzaná leukocytovými valcami", " obvykle sprevádzaná prítomnostou eumorfných erytrocytov"]
   },
   {
    numb: 367,
    question: " Pre hodnotenie glomerulárnej filtrácie môžeme použit vyšetrenie sérovej hladiny",
-   answer: [],
+   answer: [" kreatinínu"],
    options: [
   " albumínu", " imunoglobulínu G", " kreatinínu", " mocoviny"]
   },
   {
    numb: 368,
    question: " Pre hodnotenie glomerulárnej filtrácie môžeme použit vyšetrenie sérovej hladiny",
-   answer: [],
+   answer: [" cystatínu C"],
    options: [
   " cystatínu C", " alfa-mikroglobulínu", " beta-2-mikroglobulínu", " kyseliny para-aminobenzoovej"]
   },
   {
    numb: 369,
    question: " Cystatin C",
-   answer: [],
+   answer: [" je bielkovina", " používa sa na hodnotenie glomerulárnej filtrácie", " jeho koncentrácia nezávisí na pohlaví"],
    options: [
   " je bielkovina", " používa sa na hodnotenie glomerulárnej filtrácie", " používa sa na hodnotenie tubulárnych funkcií", " jeho koncentrácia nezávisí na pohlaví"]
   },
   {
    numb: 370,
    question: " Pri výpocte klírensu kreatinínu podla Cockrofta potrebujeme",
-   answer: [],
+   answer: [" vek pacienta", " pohlavie pacienta"],
    options: [
   " vek pacienta", " hladinu kreatinínu v moci", " pohlavie pacienta", " výšku pacienta"]
   },
   {
    numb: 371,
    question: " Pri výpocte klírensu kreatinínu podla Cockrofta potrebujeme",
-   answer: [],
+   answer: [" hmotnost pacienta", " koncentráciu kreatinínu v sére", " pohlavie"],
    options: [
   " hmotnost pacienta", " velkost diurézy", " koncentráciu kreatinínu v sére", " pohlavie"]
   },
   {
    numb: 372,
    question: " Výpocet klírens kreatinínu podla Schwarza",
-   answer: [],
+   answer: [" používa sa u detí",  " vyžaduje výšku dietata"],
    options: [
   " používa sa u starších ludí", " používa sa u detí", " vyžaduje hmotnost dietata", " vyžaduje výšku dietata"]
   },
   {
    numb: 373,
    question: " Pri vysokých hladinách kreatinínu v sére",
-   answer: [],
+   answer: [" môže byt hodnota klírensu lepšia ako skutocná glomerulová filtrácia",  " dochádza k tubulárnej sekrécii kreatinínu", " je výhodnejšie použit výpocet klírensu kreatinínu podla Cockrofta"],
    options: [
   " môže byt hodnota klírensu lepšia ako skutocná glomerulová filtrácia", " môže byt hodnota klírensu horšia ako skutocná glomerulová filtrácia", " dochádza k tubulárnej sekrécii kreatinínu", " je výhodnejšie použit výpocet klírensu kreatinínu podla Cockrofta"]
   },
   {
    numb: 374,
    question: " Frakcná exkrécia urcitej látky vyjadruje",
-   answer: [],
+   answer: [" podiel látky vylúcenej do definitívneho mocu z celkového množstva prefiltrovanej látky", " možno vyjadrit v percentách", " je vlastne porovnanie klírensu kreatinínu a klírensu danej látky", " vyjadruje tubulárnu sekréciu"],
    options: [
   " podiel látky vylúcenej do definitívneho mocu z celkového množstva prefiltrovanej látky", " možno vyjadrit v percentách", " je vlastne porovnanie klírensu kreatinínu a klírensu danej látky", " vyjadruje tubulárnu sekréciu"]
   },
   {
    numb: 375,
    question: " Pre výpocet frakcnej exkrécie urcitej látky potrebujeme pre výpocet",
-   answer: [],
+   answer: [" koncentráciu danej látky v moci", " koncentráciu kreatinínu v sére",  " koncentráciu danej látky v sére"],
    options: [
   " koncentráciu danej látky v moci", " koncentráciu kreatinínu v sére", " diurézu za 24 hodín", " koncentráciu danej látky v sére"]
   },
   {
    numb: 376,
    question: " Medzi markery novotvorby kosti patrí",
-   answer: [],
+   answer: [" alkalická fosfatáza",  " osteokacín"],
    options: [
   " alkalická fosfatáza", " kyslá fosfatáza", " osteokacín", " hydroxyprolín"]
   },
   {
    numb: 377,
    question: " Medzi markery novotvorby kosti patrí",
-   answer: [],
+   answer: [" N-koncový peptid prokolagénu I"],
    options: [
   " N-koncový peptid prokolagénu I", " kyselina hyaluronová", " pyridinolín", " deoxypyridinolín"]
   },
   {
    numb: 378,
    question: " Medzi markery degradácie kostí patria",
-   answer: [],
+   answer: [" kyslá fosfatáza", " hydroxyprolín"],
    options: [
   " alkalická fosfatáza", " kyslá fosfatáza", " osteokacín", " hydroxyprolín"]
   },
   {
    numb: 379,
    question: " Medzi markery degradácie kostí patria",
-   answer: [],
+   answer: [" pyridinolín", " deoxypyridinolín"],
    options: [
   " N-koncový peptid prokolagénu I.", " kyselina hyaluronová", " pyridinolín", " deoxypyridinolín"]
   },
   {
    numb: 380,
    question: " Pri hyperparatyreóze nachádzame",
-   answer: [],
+   answer: [" zvýšenú ALP v sére",  " zvýšený odpad fosfátov v moci"],
    options: [
   " zvýšenú ALP v sére", " zvýšenú amylázu v moci", " zvýšený odpad fosfátov v moci", " zníženú hladinu vápnika v sére"]
   },
   {
    numb: 381,
    question: " Pri hyperparatyreóze nachádzame",
-   answer: [],
+   answer: [" znížené vylucovanie vápnika do mocu", " zníženú hladinu fosfátu v sére"],
    options: [
   " znížené vylucovanie vápnika do mocu", " zvýšený fosfát v sére", " zníženú alkalickú fosfatázu v sére", " zníženú hladinu fosfátu v sére"]
   },
   {
    numb: 382,
    question: " Ku zvýšeniu aktivity alkalickej fosfatázy v sére dochádza u pacientov",
-   answer: [],
+   answer: [" s Pagetovou chorobou", " s hyperpoaratyreózou",  " s ostaeogénnym sarkómom"],
    options: [
   " s Pagetovou chorobou", " s hyperpoaratyreózou", " s hypoparatyreózou", " s ostaeogénnym sarkómom"]
   },
   {
    numb: 383,
    question: " Zvýšená aktivita alkalickej fosfatázy v sére je u pacientov",
-   answer: [],
+   answer: [" s postmenopauzálnou osteoporózou", " v období hojenia kosti"],
    options: [
   " s postmenopauzálnou osteoporózou", " so senilnou osteoporózou", " so zvýšenou aktivitou osteoklastov", " v období hojenia kosti"]
   },
   {
    numb: 384,
    question: "O osteokalcíne možno povedat",
-   answer: [],
+   answer: [" je hlavný nekolagénový proteín kosti", " je marker novotvorby kosti",  " je zvýšený v sére u detí"],
    options: [
   " je hlavný nekolagénový proteín kosti", " je marker novotvorby kosti", " je marker aktivity osteoklastov", " je zvýšený v sére u detí"]
   },
   {
    numb: 385,
    question: "O osteokalcíne možno povedat",
-   answer: [],
+   answer: [" je zvýšený v sére pri osteogénnom sarkóme"],
    options: [
   " je inhibítorom alkalickej fsfatázy", " je podjednotka kolagénu", " je zložený najmä z hydroxyprolínu", " je zvýšený v sére pri osteogénnom sarkóme"]
   },
   {
    numb: 386,
    question: "O pyridinolíne a deoxypyridinolíne možno povedat",
-   answer: [],
+   answer: [" sú markery degradácie kostnej hmoty", " deoxypyridinolín je špecifickejší pre kost ako pyridinolín"],
    options: [
   " sú markery degradácie kostnej hmoty", " sú markery novotvorby kostnej hmoty", " pyridinolín je špecifickejší pre kost ako deoxypyridinolín", " deoxypyridinolín je špecifickejší pre kost ako pyridinolín"]
   },
   {
    numb: 387,
    question: "O pyridinolíne a deoxypyridinolíne možno povedat",
-   answer: [],
+   answer: [" na ich tvorbe sa podiela lyzín a hydroxylyzín", " vznikajú z kolagénu"],
    options: [
   " na ich tvorbe sa podiela hydroxyprolín", " na ich tvorbe sa podiela lyzín a hydroxylyzín", " vznikajú z kolagénu", " vznikajú z osteokalcínu"]
   },
   {
    numb: 388,
    question: " Pre kyslú fosfatázu platí",
-   answer: [],
+   answer: [" kostná forma je tartrát-rezistentná"," zvyšuje sa pri osteolytických nádoroch a metastázach"],
    options: [
   " kostná forma je tartrát-rezistentná", " kostná forma je tartrát-senzitívna", " zvyšuje sa pri osteogénnych nádoroch", " zvyšuje sa pri osteolytických nádoroch a metastázach"]
   },
   {
    numb: 389,
    question: " Pre kyslú fosfatázu platí",
-   answer: [],
+   answer: [" je marker osteoklastov",  " uvolnuje sa aj z erytrocytov a prostaty"],
    options: [
   " je marker osteoblastov", " je marker osteoklastov", " jej aktivita je zvýšená v puberte", " uvolnuje sa aj z erytrocytov a prostaty"]
   },
   {
    numb: 390,
    question: "O hydroxyprolíne možno povedat",
-   answer: [],
+   answer: [" vyšetruje sa v moci", " tvorí dôležitú súcast kolagénu"],
    options: [
   " vyšetruje sa v moci", " vyšetruje sa v sére", " tvorí dôležitú súcast kolagénu", " tvorí dôležitú súcast osteokalcínu"]
   },
   {
    numb: 391,
    question: "O hydroxyprolíne možno povedat",
-   answer: [],
+   answer: [" tvorí sa v osteoblastoch pri posttranslacnej hydroxylácii prolínu v prokolagéne", " používa sa ako marker osteoresorpcie",  " nepochádza len z kosti ale môže pochádzat aj z potravy"],
    options: [
   " tvorí sa v osteoblastoch pri posttranslacnej hydroxylácii prolínu v prokolagéne", " používa sa ako marker osteoresorpcie", " používa sa ako marker syntézy kosti", " nepochádza len z kosti ale môže pochádzat aj z potravy"]
   },
   {
    numb: 392,
    question: " Skoro 100%-nú špecificitu pre myokard má vyšetrenie",
-   answer: [],
+   answer: [" troponín T", " troponín I"],
    options: [
   " LD", " LD-1", " troponín T", " troponín I"]
   },
@@ -2916,63 +2916,63 @@ let questions = [
   {
    numb: 394,
    question: "Z enzýmových kardiomarkerov",
-   answer: [],
+   answer: [" pri infarkte myokardu najdlhšie pretrváva zvýšenie LD",  " pri infarkte myokardu dosahuje zvýšenie CK vrchol za 24-36 hodín"],
    options: [
   " pri infarkte myokardu sa AST normalizuje asi za 14 dní", " pri infarkte myokardu najdlhšie pretrváva zvýšenie LD", " pri infarkte myokardu najkratšie pretrváva zvýšenie LD", " pri infarkte myokardu dosahuje zvýšenie CK vrchol za 24-36 hodín"]
   },
   {
    numb: 395,
    question: "Z enzýmových kardiomarkerov",
-   answer: [],
+   answer: [" pri infarkte myokardu sa AST normalizuje asi do 5 dní", " pri infarkte myokardu sa zvýšenie CK normalizuje za 2-3 dni"],
    options: [
   " pri infarkte myokardu dosahuje zvýšenie CK vrchol za 2-3 dni", " pri infarkte myokardu sa AST normalizuje asi po 24 hodinách", " pri infarkte myokardu sa AST normalizuje asi do 5 dní", " pri infarkte myokardu sa zvýšenie CK normalizuje za 2-3 dni"]
   },
   {
    numb: 396,
    question: "O vyšetrení AST možno povedat",
-   answer: [],
+   answer: [" pomer aktivít CK/AST je vyšší v kostrovom svale ako v myokarde", " pri infarkte myokardu je pomer aktivít CK/AST v sére nižší ako 10"],
    options: [
   " pomer aktivít CK/AST je vyšší v kostrovom svale ako v myokarde", " pomer aktivít CK/AST je vyšší v myokarde ako v kostrovom svale", " pri infarkte myokardu je pomer aktivít CK/AST v sére viac ako 10", " pri infarkte myokardu je pomer aktivít CK/AST v sére nižší ako 10"]
   },
   {
    numb: 397,
    question: "O vyšetrení AST možno povedat",
-   answer: [],
+   answer: [" pri poškodení kostrového svalu je pomer aktivít CK/AST v sére vyšší ako 10", " 70% AST sa nachádza v mitochondriach"],
    options: [
   " pri poškodení kostrového svalu je pomer aktivít CK/AST v sére vyšší ako 10", " pri poškodení kostrového svalu je pomer aktivít CK/AST v sére nižší ako 10", " 70% AST sa nachádza v mitochondriach", " 70% AST sa nachádza v cytosole buniek"]
   },
   {
    numb: 398,
    question: " O AST možno povedat",
-   answer: [],
+   answer: [ " vysoké aktivity enzýmu sa nachádzajú v myokarde", " vysoké aktivity enzýmu sa nachádzajú v peceni",  " z väcšej casti sa nachádza v mitochondriach"],
    options: [
   " vysoké aktivity enzýmu sa nachádzajú v myokarde", " vysoké aktivity enzýmu sa nachádzajú v peceni", " je cytosolový enzým", " z väcšej casti sa nachádza v mitochondriach"]
   },
   {
    numb: 399,
    question: " O AST možno povedat",
-   answer: [],
+   answer: [" pri ischémii myokardu sa zvyšuje asi po 4-6 hodinách", " zvyšuje sa v sére pri akútnej hepatitíde"],
    options: [
   " pri ischémii myokardu sa zvyšuje asi po 4-6 hodinách", " pri ischémii myokardu sa zvyšuje asi po 1-2 hodinách", " zvyšuje sa v sére pri akútnej hepatitíde", " jej vyšetrenie je kardiošpecifické"]
   },
   {
    numb: 400,
    question: " Ku enzýmovým kardiomarkerom patrí",
-   answer: [],
+   answer: [" CK", " CK-MB", " AST"],
    options: [
   " myoglobín", " CK", " CK-MB", " AST"]
   },
   {
    numb: 401,
    question: " Ku enzýmovým kardiomarkerom patrí",
-   answer: [],
+   answer: [" LD-1"],
    options: [
   " ALT", " GMT", " CK-MM", " LD-1"]
   },
   {
    numb: 402,
    question: " Ku neenzýmovým kardiomarkerom patrí",
-   answer: [],
+   answer: [" myoglobín", " troponín T"],
    options: [
   " kolagén", " myoglobín", " troponín T", " troponín C"]
   },
