@@ -1220,7 +1220,7 @@ let questions = [
   {
    numb: 152,
    question: " Pre akútnu vírusovú hepatitídu je pri elfo bielkovín charakteristické",
-   answer: [],
+   answer: [" zvýšenie gama-globulínov"],
    options: [
   " zvýšenie albumínu", " zvýšenie gama-globulínov", " zníženie gama-globulínov", " zníženie alfa-1-globulínov"]
   },
@@ -1297,7 +1297,7 @@ let questions = [
   {
    numb: 163,
    question: " Medzi kritéria pre stanovenie diagnózy mnohopocetného myelómu patrí",
-   answer: [" rtg nález osteolytických lézií"],
+   answer: [" rtg nález osteolytických lézií", " viac ako 10% plazmocytov v kostnej dreni"],
    options: [
   " rtg nález osteolytických lézií", " zvýšená hladina alfa-2-makroglobulínu", " viac ako 5% plazmocytov v kostnej dreni", " viac ako 10% plazmocytov v kostnej dreni"]
   },
