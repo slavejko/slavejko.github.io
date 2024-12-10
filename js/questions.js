@@ -2979,245 +2979,245 @@ let questions = [
   {
    numb: 403,
    question: " Ku neenzýmovým kardiomarkerom patrí",
-   answer: [],
+   answer: [" troponín I", " CK-MBmass"],
    options: [
   " CK-MB", " osteokalcín", " troponín I", " CK-MBmass"]
   },
   {
    numb: 404,
    question: " Pre myoglobín platí",
-   answer: [],
+   answer: [" nachádza sa v srdcovom svale", " nachádza sa v kostrovom svale", " je velmi senzítívny marker ischémie myokardu"],
    options: [
   " nachádza sa v srdcovom svale", " nachádza sa v kostrovom svale", " je velmi senzítívny marker ischémie myokardu", " má znacnú orgánovú špedificitu"]
   },
   {
    numb: 405,
    question: " Pre myoglobín platí",
-   answer: [],
+   answer: [" nemá orgánovú špecificitu", " vylucuje sa z krvi glomerulárnou filtráciou", " pri ischémii myokardu sa normalizuje po 12-24 hodinách"],
    options: [
   " nemá orgánovú špecificitu", " vylucuje sa z krvi glomerulárnou filtráciou", " pri ischémii myokardu sa normalizuje po 12-24 hodinách", " pri nekomplikovanom infarkte myokardu sa normalizuje po 72 hodinách"]
   },
   {
    numb: 406,
    question: "O troponíne T možno povedat",
-   answer: [],
+   answer: [" je kardiošpecifický marker",  " je markerom poškodenia myokardu"],
    options: [
   " je kardiošpecifický marker", " je nešpecifický marker", " je markerom poškodenia myokardu", " je látka hormonálnej povahy"]
   },
   {
    numb: 407,
    question: "O troponíne T možno povedat",
-   answer: [],
+   answer: [" je marker koronárnej ischémie"],
    options: [
   " je marker zápalu myokardu", " je marker koronárnej ischémie", " je marker srdcového zlyhania", " je marker glomerulárnej filtrácie"]
   },
   {
    numb: 408,
    question: " Metódami suchej chémie možno vyšetrit pri lôžku pacienta",
-   answer: [],
+   answer: [" troponín I", " troponín T", " myoglobín"],
    options: [
   " LD-1", " troponín I", " troponín T", " myoglobín"]
   },
   {
    numb: 409,
    question: " Metódami suchej chémie možno vyšetrit pri lôžku pacienta",
-   answer: [],
+   answer: [" CK-MBmass",],
    options: [
   " AST", " CK-MBmass", " pomer CK/AST", " aktivitu CK-MB"]
   },
   {
    numb: 410,
    question: " Troponíny",
-   answer: [],
+   answer: [" kardiošpecifický je troponín T",  " sú charakteristické pre priecne pruhovaný sval"],
    options: [
   " kardiošpecifický je troponín T", " kardiošpecifický je troponín C", " sú charakteristické aj pre hladký sval", " sú charakteristické pre priecne pruhovaný sval"]
   },
   {
    numb: 411,
    question: " Troponíny",
-   answer: [],
+   answer: [" diagnostickú súpravu pre troponín T vyrába len jeden výrobca",  " sú najšpecifickejšie z neenzýmových kardiomarkerov", " kardiošpecifický je troponín I"],
    options: [
   " diagnostickú súpravu pre troponín T vyrába len jeden výrobca", " diagnostickú súpravu pre troponín I vyrába len jeden výrobca", " sú najšpecifickejšie z neenzýmových kardiomarkerov", " kardiošpecifický je troponín I"]
   },
   {
    numb: 412,
    question: "Z neenzýmových kardiomarkerov",
-   answer: [],
+   answer: [" najcitlivejší je myoglobín",  " najšpecifickejšie sú troponíny"],
    options: [
   " najcitlivejší je myoglobín", " najšpecifickejší je myoglobín", " najšpecifickejšie sú troponíny", " najcitlivejší je troponín I"]
   },
   {
    numb: 413,
    question: "Z neenzýmových kardiomarkerov",
-   answer: [],
+   answer: [" najmenej je špecifický myoglobín", " ako prvý sa normalizuje myoglobín"],
    options: [
   " najcitlivejší je CK-MB", " najmenej je špecifický myoglobín", " ako prvý sa normalizuje myoglobín", " ako prvý sa normalizuje troponín T"]
   },
   {
    numb: 414,
    question: " Pre myoglobín platí",
-   answer: [],
+   answer: [" je najvcasnejší marker nekrózy pri ischemickom poškodení myokardu", " je vhodný pre diagnostiku vcasného reinfarktu", " pokial po 8 hodinách nedochádza ku zvýšeniu jeho hladimy, možno takmer vylúcit akútny IM"],
    options: [
   " je najvcasnejší marker nekrózy pri ischemickom poškodení myokardu", " je vhodný pre neskorú diagnostiku akútneho IM", " je vhodný pre diagnostiku vcasného reinfarktu", " pokial po 8 hodinách nedochádza ku zvýšeniu jeho hladimy, možno takmer vylúcit akútny IM"]
   },
   {
    numb: 415,
    question: " Pre myoglobín platí",
-   answer: [],
+   answer: [ " z neenzýmových kardiomarkerov má najkratší biologický polcas",  " je vhodný pre monitorovanie trombolytickej liecby akútneho IM", " vyšetrenie myoglobínu je k dispozícii aj vo forme \"bed-side\" testu"],
    options: [
   " z neenzýmových kardiomarkerov má najkratší biologický polcas", " z neenzýmových kardiomarkerov má najdlhší biologický polcas", " je vhodný pre monitorovanie trombolytickej liecby akútneho IM", " vyšetrenie myoglobínu je k dispozícii aj vo forme \"bed-side\" testu"]
   },
   {
    numb: 416,
    question: "O kardiálnych troponínoch možno povedat",
-   answer: [],
+   answer: [" ich hladina sa pri poškodení myokardu zvyšuje u väcšiny pacientov 3-4 hod po ischémii", " ich zvýšená sérová hladina pochádza len z myokardu"],
    options: [
   " ich hladina sa pri poškodení myokardu zvyšuje u väcšiny pacientov 1-2 hod po ischémii", " ich hladina sa pri poškodení myokardu zvyšuje u väcšiny pacientov 3-4 hod po ischémii", " ich zvýšená sérová hladina pochádza len z myokardu", " ich zvýšená sérová hladina môže pochádzat aj z hladkého svalu"]
   },
   {
    numb: 417,
    question: "O kardiálnych troponínoch možno povedat",
-   answer: [],
+   answer: [" ako prvý sa normalizuje TnI", " TnI pretrváva zvýšený asi 5-10 dní"],
    options: [
   " ako prvý sa normalizuje TnT", " ako prvý sa normalizuje TnI", " TnI pretrváva zvýšený asi 5-10 dní", " TnI pretrváva zvýšený asi 2-3 týždne"]
   },
   {
    numb: 418,
    question: " Pre vcasnú diagnostiku reinfarktu myokardu je vhodný marker",
-   answer: [],
+   answer: [" co pretrváva v sére len krátko po vzniku ischémie",  " myoglobín"],
    options: [
   " s dlhým biologickým polcasom", " co pretrváva v sére len krátko po vzniku ischémie", " co pretrváva v sére dlho po vzniku ischémie", " myoglobín"]
   },
   {
    numb: 419,
    question: " Pre vcasnú diagnostiku reinfarktu myokardu je vhodný marker",
-   answer: [],
+   answer: [" s krátkym biologickým polcasom",  " CK-MBmass"],
    options: [
   " s krátkym biologickým polcasom", " troponín T", " CK-MBmass", " atriálny natriuretický peptid"]
   },
   {
    numb: 420,
    question: " Pre neenzýmové kardiomarkery platí",
-   answer: [],
+   answer: [" najdlhšie pretrváva zvýšenie TnT", " CK-MBmass sa normalizuje behom 48-72 hodín"],
    options: [
   " najdlhšie pretrváva zvýšenie TnT", " najdlhšie pretrváva zvýšenie TnI", " najdlhšie pretrváva zvýšenie CK-MBmass", " CK-MBmass sa normalizuje behom 48-72 hodín"]
   },
   {
    numb: 421,
    question: " Pre neenzýmové kardiomarkery platí",
-   answer: [],
+   answer: [" TnI sa nehodí pre neskorú diagnostiku akútneho IM",  " vyšetrenie TnT je kardiošpecifickejšie ako vyšetrenie CK-MBmass"],
    options: [
   " TnI sa nehodí pre neskorú diagnostiku akútneho IM", " TnT sa nehodí pre neskorú diagnostike akútneho IM", " vyšetrenie TnT je kardiošpecifickejšie ako vyšetrenie CK-MBmass", " vyšetrenie CK-MBmass je kardiošpecifickejšie ako vyšetrenie TnI"]
   },
   {
    numb: 422,
    question: "O CK-MBmass možno povedat",
-   answer: [],
+   answer: [" je citlivejším ukazovatelom ischemického poškodenia myokardu ako aktivita CK-MB"," pri nekróze myokardu sa zvyšuje už 3 hodiny po vzniku ischémie"],
    options: [
   " je citlivejším ukazovatelom ischemického poškodenia myokardu ako aktivita CK-MB", " je menej citlivým ukazovatelom ischemického poškodenia myokardu ako aktivita CK-MB", " pri nekróze myokardu sa zvyšuje už 1 hod po vzniku ischémie", " pri nekróze myokardu sa zvyšuje už 3 hodiny po vzniku ischémie"]
   },
   {
    numb: 423,
    question: "O CK-MBmass možno povedat",
-   answer: [],
+   answer: [" jeho hladina sa normalizuje asi za 2-3 dni", " používa sa na posúdenie úspešnosti reperfúznej terapie", " toto vyšetrenie je vhodné pre detekciu reinfarktu vo vcasnej fáze po prvom IM"],
    options: [
   " jeho hladina sa normalizuje asi za 2-3 dni", " jeho hladina sa normalizuje asi za 5-7 dní", " používa sa na posúdenie úspešnosti reperfúznej terapie", " toto vyšetrenie je vhodné pre detekciu reinfarktu vo vcasnej fáze po prvom IM"]
   },
   {
    numb: 424,
    question: " Pre myoglobín platí",
-   answer: [],
+   answer: [" pochádza z kostrového svalu aj z myokardu"," z krvi sa odstranuje glomerulárnou filtráciou"],
    options: [
   " pochádza z kostrového svalu aj z myokardu", " pochádza len z myokardu", " z krvi sa odstranuje cinnostou hepatocytov", " z krvi sa odstranuje glomerulárnou filtráciou"]
   },
   {
    numb: 425,
    question: " Pre myoglobín platí",
-   answer: [],
+   answer: [" je najcitlivejší zo všetkých kardiomarkerov"],
    options: [
   " z krvi sa odstranuje tubulárnou sekréciou", " je najcitlivejší zo všetkých kardiomarkerov", " je najšpecifickejší zo všetkých kardiomarkerov", " pri nekróze myokardu sa zvyšuje po 4-6 hodinách po vzniku ischémie"]
   },
   {
    numb: 426,
    question: " Natriuretický peptid B (BNP):",
-   answer: [],
+   answer: [" vylucuje sa zo svaloviny komôr"," pôsobí hlavne na oblicku"],
    options: [
   " vylucuje sa zo svaloviny komôr", " vylucuje sa z buniek juxtaglomerulového aparátu oblicky", " vylucuje sa z neurónov mozgu", " pôsobí hlavne na oblicku"]
   },
   {
    numb: 427,
    question: " Natriuretický peptid B (BNP):",
-   answer: [],
+   answer: [ " spôsobuje dilatáciu aferentnej rterioly glomerulu",  " spôsobuje konstrikciu eferentnej arterioly glomerulu", " zvyšuje glomerulárnu filtráciu"],
    options: [
   " spôsobuje dilatáciu aferentnej rterioly glomerulu", " sôsobuje konstrikciu aferentnej arterioly glomerulu", " spôsobuje konstrikciu eferentnej arterioly glomerulu", " zvyšuje glomerulárnu filtráciu"]
   },
   {
    numb: 428,
    question: " Natriuretický peptid B (BNP):",
-   answer: [],
+   answer: [" podnetom na jeho vylucovanie je zvýšenie napätia steny komôr srdca", " v tubuloch znižuje reabsorpciu sodíka"],
    options: [
   " podnetom na jeho vylucovanie je zvýšenie napätia steny komôr srdca", " znižuje glomerulárnu filráciu", " v tubuloch znižuje reabsorpciu sodíka", " v tubuloch zvyšuje reabsorpciu sodíka"]
   },
   {
    numb: 429,
    question: " Natriuretický peptid B (BNP):",
-   answer: [],
+   answer: [" zvyšuje vylucovanie sodíka do mocu", " jeho sérová hladina býva zvýšená pri kardiálnej insuficiencii", " je antagonistom renín-angiotenzín-aldosteronového systému"],
    options: [
   " zvyšuje vylucovanie sodíka do mocu", " jeho sérová hladina býva zvýšená pri kardiálnej insuficiencii", " jeho sérová hladina sa znižuje pri kardiálnej insuficiencii", " je antagonistom renín-angiotenzín-aldosteronového systému"]
   },
   {
    numb: 430,
    question: " Pre vyšetrenie natriuretického peptidu B platí",
-   answer: [],
+   answer: [" indikáciou pre jeho vyšetrenie je diagnóza kardiálnej insuficiencie pri akútnom dyspnoe", " indikáciou pre jeho vyšetrenie je zhodnotenie prognózy kardiálnej insuficiencie", " indikáciou pre jeho vyšetrenie je diferenciálna diagnóza dyspnoe"],
    options: [
   " indikáciou pre jeho vyšetrenie je diagnóza kardiálnej insuficiencie pri akútnom dyspnoe", " indikáciou pre jeho vyšetrenie je zhodnotenie prognózy kardiálnej insuficiencie", " indikáciou pre jeho vyšetrenie je diagnóza akútneho infarktu myokardu", " indikáciou pre jeho vyšetrenie je diferenciálna diagnóza dyspnoe"]
   },
   {
    numb: 431,
    question: " Pre vyšetrenie natriuretického peptidu B platí",
-   answer: [],
+   answer: [" hladiny BNP sú u žien vyššie ako u mužov"],
    options: [
   " hladiny BNP sú u žien vyššie ako u mužov", " hladiny BNP s vekom klesajú", " sérové hodnoty sa pri kardiálnej insuficiencii znižujú", " hladiny BNP sú u mužov vyššie ako u žien"]
   },
   {
    numb: 432,
    question: " Hemolýza vzorky môže",
-   answer: [],
+   answer: [" zvýšit hladinu draslíka v sére"],
    options: [
   " zvýšit hladinu sodíka v sére", " zvýšit hladinu draslíka v sére", " zvýšit hladinu vápnika v sére", " znížit aktivitu cholínesterázy v sére"]
   },
   {
    numb: 433,
    question: " Hemolýza vzorky môže",
-   answer: [],
+   answer: [" zvýšit aktivitu AST v sére", " zvýšit aktivitu LD v sére"],
    options: [
   " zvýšit aktivitu AST v sére", " znížit aktivitu LD v sére", " znížit aktivitu ALT v sére", " zvýšit aktivitu LD v sére"]
   },
   {
    numb: 434,
    question: " Do predanalytickej fázy laboratórneho vyšetrenia nepatrí",
-   answer: [],
+   answer: [" predanalytická úptava vzorky", " kontrola kvality analytickej metódy"],
    options: [
   " príprava pacienta", " predanalytická úptava vzorky", " kontrola kvality analytickej metódy", " transport vzorky"]
   },
   {
    numb: 435,
    question: " Do predanalytickej fázy laboratórneho vyšetrenia nepatrí",
-   answer: [],
+   answer: [" interpretácia výsledku vyšetrenie", " archivácia výsledkov"],
    options: [
   " vyplnenie žiadanky na vyšetrenie", " indikácia vyšetrenia", " interpretácia výsledku vyšetrenie", " archivácia výsledkov"]
   },
   {
    numb: 436,
    question: " Referencné hodnoty",
-   answer: [],
+   answer: [ " zahrnajú 95% zdravej populácie"],
    options: [
   " zahrnajú 66,6% zdravej populácie", " zahrnajú 95% zdravej populácie", " zahrnajú 99% zdravej populácie", " vypocítame ako x ± SD"]
   },
   {
    numb: 437,
    question: " Referencné hodnoty",
-   answer: [],
+   answer: [" vypocítame ako x ± 2SD"],
    options: [
   " vypocítame ako x ± 2SD", " vypocítame ako x ± 3SD", " môžu byt rozlicné pre rôzne pohlavia", " môžu byt odlišné pre rôzne vekové skupiny"]
   },
