@@ -3860,15 +3860,15 @@ let questions = [
   },
   {
    numb: 529,
-   question: "U pacienta s celkovým množstvom bielkovín v sére 42 g/l bol zistený nasledovný",
-   answer: [],
+   question: "U pacienta s celkovým množstvom bielkovín v sére 42 g/l bol zistený nasledovný elektroforeogram: alb- 37%, alfa-1- 6%, alfa-2- 27%, beta- 18%, gama- 12. Moze ist o:",
+   answer: [" nefrotický syndróm"],
    options: [
   " alkoholovú cirhózu pecene", " metastazujúci karcinóm žalúdka", " sepsu", " nefrotický syndróm"]
   },
   {
    numb: 530,
    question: " Ku zvýšeniu hladiny kyseliny mocovej v sére môže dôjst u pacienta s",
-   answer: [],
+   answer: [" oblickovou insuficienciou",  " po ožarovaní zhubného nádoru"],
    options: [
   " oblickovou insuficienciou", " akútnou leukémiou", " po ožarovaní zhubného nádoru", " akútnou hepatitídou"]
   },
@@ -3931,119 +3931,119 @@ let questions = [
   {
    numb: 539,
    question: " Najspolahlivejším vyšetrením pri akútnej pankreatitíde je vyšetrenie",
-   answer: [],
+   answer: [" aktivity lipázy v sére"],
    options: [
   " aktivity lipázy v sére", " aktivity lipázy v moci", " aktivity amylázy v sére", " aktivity chymotrypsínu v stolici"]
   },
   {
    numb: 540,
    question: "U pacienta bola zistená v sére aktivita CK=112 µkat/l (referencné hodnoty menej ako 1,3 µkat/l), tmavohnedý moc, v moci Ubg negat, glukóza negat, krv-silne pozitívna (homogénne sfarbený diagnostický papierik), v sedimente ery-negat, leukocyty negat. Nález zodpovedá:",
-   answer: [],
+   answer: [" rabdomyolýze"],
    options: [
   " intravaskulárnej hemolýze", " akútnej vírusovej hepatitíde", " glomerulonefritíde", " rabdomyolýze"]
   },
   {
    numb: 541,
    question: " Pri nefrotickom syndróme je charakteristická",
-   answer: [],
+   answer: [" znížený koloidne-osmotický tlak plazmy"],
    options: [
   " hypocholesterolémia", " hypotriacylglycerolémia", " znížená koncentrácia fibrinogénu", " znížený koloidne-osmotický tlak plazmy"]
   },
   {
    numb: 542,
    question: " Aký nález je charakteristický pre vzhlad séra nalacno pri hyperlipoproteinémii typu IIa",
-   answer: [],
+   answer: [" círe sérum"],
    options: [
   " círe sérum", " mliecne skalené sérum", " smotanovitá vrstva na povrchu séra", " mierne skalené sérum"]
   },
   {
    numb: 543,
    question: " Co nespôsobuje hypercholesterolémiu",
-   answer: [],
+   answer: [" abetalipoproteinémia", " zvýšená sekrécia adrenalínu"],
    options: [
   " abetalipoproteinémia", " primárna hypotyreóza", " nefrotický syndróm", " zvýšená sekrécia adrenalínu"]
   },
   {
    numb: 544,
    question: "O HDL lipoproteínoch možno povedat",
-   answer: [],
+   answer: [" zabezpecujú transport cholesterolu z periférie do pecene"],
    options: [
   " zabezpecujú transport cholesterolu z pecene na perifériu", " zabezpecujú transport cholesterolu z periférie do pecene", " zabezpecujú transport cholesterolu z tenkého creva do pecene", " poskytujú apoproteín A pre LDL"]
   },
   {
    numb: 545,
    question: "O HDL lipoproteínoch možno povedat",
-   answer: [],
+   answer: [" poskytujú apoproteín E pre VLDL",  " poskytujú apoproteín C pre chylomikróny", " poskytujú apoproteín C pre VLDL"],
    options: [
   " poskytujú apoproteín E pre VLDL", " poskytujú apoproteín C pre LDL", " poskytujú apoproteín C pre chylomikróny", " poskytujú apoproteín C pre VLDL"]
   },
   {
    numb: 546,
    question: "O HDL lipoproteínoch platí",
-   answer: [],
+   answer: [" spolupracujú s LCAT"],
    options: [
   " spolupracujú s ACAT", " spolupracujú s LCAT", " spolupracujú s lipoproteínovou lipázou", " majú najvyšší podiel cholesterolu zo všetkých lipoproteínov"]
   },
   {
    numb: 547,
    question: "O HDL lipoproteínoch platí",
-   answer: [],
+   answer: [" majú najvyšší podiel fosfolipidov zo všetkých lipoproteínov", " vstupujú do pecene cez receptory pre apoE"],
    options: [
   " majú najvyšší podiel fosfolipidov zo všetkých lipoproteínov", " majú najvyšší podiel triacylglycerolov zo všetkých lipoproteínov", " vstupujú do pecene cez receptory pre apoB", " vstupujú do pecene cez receptory pre apoE"]
   },
   {
    numb: 548,
    question: " VLDL lipoproteíny",
-   answer: [],
+   answer: [" nascentné obsahujú len apo B-100"],
    options: [
   " nascentné obsahujú len apo B-100", " nascentné obsahujú len apo B-48", " nascentné obsahujú len apo A-I", " tvoria sa v enterocytoch"]
   },
   {
    numb: 549,
    question: " VLDL lipoproteíny",
-   answer: [],
+   answer: [" tvoria sa v hepatocytoch"],
    options: [
   " tvoria sa v hepatocytoch", " nascentné obsahujú len apo C-II", " obsahujú najvyšší podiel cholesterolu", " sú katabolizované pomocou LCAT"]
   },
   {
    numb: 550,
    question: "O VLDL lipoproteínoch platí",
-   answer: [],
+   answer: [ " sú katabolizované pomocou lipoproteínovej lipázy"],
    options: [
   " sú katabolizované pomocou ACAT", " sú katabolizované pomocou LCAT", " sú katabolizované pomocou lipoproteínovej lipázy", " pre svoj katabolizmus potrebujú apo A-I"]
   },
   {
    numb: 551,
    question: "O VLDL lipoproteínoch platí",
-   answer: [],
+   answer: [" pre svoj katabolizmus potrebujú apo C", " transportujú endogénne triacylglyceroly"],
    options: [
   " pre svoj katabolizmus potrebujú apo B-100", " pre svoj katabolizmus potrebujú apo C", " transportujú endogénne triacylglyceroly", " transportujú exogénne triacylglyceroly"]
   },
   {
    numb: 552,
    question: " LDL lipoproteíny",
-   answer: [],
+   answer: [" obsahujú apo B-100"],
    options: [
   " vznikajú z HDL", " obsahujú apo B-100", " obsahujú apo B-48", " obsahujú najvyšší podiel triacylglycerolov"]
   },
   {
    numb: 553,
    question: " LDL lipoproteíny",
-   answer: [],
+   answer: [" obsahujú najvyšší podiel cholesterolu", " vznikajú z VLDL"],
    options: [
   " obsahujú najvyšší podiel cholesterolu", " majú najmenšiu molekulu zo všetkých lipoproteínov", " vznikajú z chylomikrónov", " vznikajú z VLDL"]
   },
   {
    numb: 554,
    question: "O lipoproteínoch krvnej plazmy možno povedat",
-   answer: [],
+   answer: [" chylomikróny sú rýchlejšie metabolizované ako VLDL", " apo A sa tvorí v enterocytoch", " apo A sa tvorí v hepatocytoch"],
    options: [
   " chylomikróny sú rýchlejšie metabolizované ako VLDL", " VLDL sú rýchlejšie metabolizované ako chylomikróny", " apo A sa tvorí v enterocytoch", " apo A sa tvorí v hepatocytoch"]
   },
   {
    numb: 555,
    question: "O lipoproteínoch krvnej plazmy možno povedat",
-   answer: [],
+   answer: [" vyššie mastné kyseliny s kratším retazcom sa transportujú na albumíne", " cholesterol vstupuje do makrofágov cez scavenger-receptory typu A"],
    options: [
   " vyššie mastné kyseliny s kratším retazcom sa transportujú na albumíne", " cholesterol vstupuje do makrofágov cez scavenger-receptory typu A", " cholesterol vstupuje do makrofágov cez scavenger-receptory typu B"," cholesterol vstupuje do makrofágov cez receptory pre LDL"]
   },
