@@ -1374,7 +1374,7 @@ let questions = [
   {
    numb: 174,
    question: " Medzi proteíny akútnej fázy nepatrí",
-   answer: [],
+   answer: [" transferín"],
    options: [
   " ceruloplazmín", " transferín", " alfa-1-antitrypsín", " C-reaktívny proteín"]
   },
@@ -3399,84 +3399,84 @@ let questions = [
   {
    numb: 463,
    question: "U pacientov so subklinickou hypertyreózou obvykle zistujeme",
-   answer: [],
+   answer: [" normálne hodnoty fT3"],
    options: [
   " zvýšené hodnoty TSH", " znížené hodnoty fT3", " normálne hodnoty fT3", " zvýšené hladiny T4"]
   },
   {
    numb: 464,
    question: "O vrodenej hypotyreoze možno povedat",
-   answer: [],
+   answer: [" je primárna hypotyreóza", " je spojená so zníženou hodnotou fT4"],
    options: [
   " je primárna hypotyreóza", " je spojená so zníženou hodnotou TSH", " je spojená so zvýšenou hodnotou fT4", " je spojená so zníženou hodnotou fT4"]
   },
   {
    numb: 465,
    question: " Vrodená hypotyreóza je",
-   answer: [],
+   answer: [" je spojená so zvýšenou hodnotou TSH", " porucha, ktorej skríning sa robí u novorodencov"],
    options: [
   " sekundárna hypotyreóza", " je spojená so zvýšenou hodnotou TSH", " porucha, ktorej skríning sa robí u novorodencov", " porucha ktorej skríning sa robí v puberte"]
   },
   {
    numb: 466,
    question: " Ak u pacienta nachádzam zvýšené hodnoty TSH, fT4 a fT3, svedcí to pre diagnózu",
-   answer: [],
+   answer: [ " adenóm hypofýzy"],
    options: [
   " autonómny adenóm štítnej žlazy", " Basedowova choroba", " chronické predávkovanie preparátmi hormónov štítnej žlazy", " adenóm hypofýzy"]
   },
   {
    numb: 467,
    question: " Pri sekundárnej hypotyreóze klesá sérová hladina",
-   answer: [],
+   answer: [" T3", " T4", " TSH"],
    options: [
   " T3", " cholesterolu", " T4", " TSH"]
   },
   {
    numb: 468,
    question: " Pri Basedowovej chorobe nie je",
-   answer: [],
+   answer: [" zvýšená hladina TSH"],
    options: [
   " zvýšená hladina T3", " zvýšená hladina T4", " zvýšená hladina TSH", " pozitívny nález autoprotilátok"]
   },
   {
    numb: 469,
    question: " Ktorý nález je u pacienta s Basedowovou chorobou najmenej pravdepodobný",
-   answer: [],
+   answer: [" zvýšenie TSH"],
    options: [
   " zvýšenie fT3", " zvýšenie fT4", " zvýšenie TSH", " protilátky proti TSH-receptorom"]
   },
   {
    numb: 470,
    question: " Prícinou zvýšenej hladiny hCG môže byt",
-   answer: [],
+   answer: [" nádor semenníkov", " extrauterinná gravidita", " mola hydatidosa"],
    options: [
   " nádor semenníkov", " extrauterinná gravidita", " menopauza", " mola hydatidosa"]
   },
   {
    numb: 471,
    question: " Rastový hormón (STH)",
-   answer: [],
+   answer: [" sprostredkuje svoje úcinky cez receptory pre IGF-1", " podporuje zväcšovanie svalovej hmoty", " zvyšuje lipolýzu", " sprostredkuje svoje úcinky cez receptory pre STH"],
    options: [
   " sprostredkuje svoje úcinky cez receptory pre IGF-1", " podporuje zväcšovanie svalovej hmoty", " zvyšuje lipolýzu", " sprostredkuje svoje úcinky cez receptory pre STH"]
   },
   {
    numb: 472,
    question: " Rastový hormón (STH)",
-   answer: [],
+   answer: [" zvyšuje proteosyntézu", " zvyšuje glukoneogenézu"],
    options: [
   " zvyšuje proteosyntézu", " zvyšuje glukoneogenézu", " je to glykoproteín tvorený podjednotkou alfa a beta", " znižuje glykémiu"]
   },
   {
    numb: 473,
    question: " Zvýšená sekrécia rastového hormónu spôsobuje",
-   answer: [],
+   answer: [" gigantizmus", " hyperglykémiu",  " zvýšené hladiny rastového hormónu v sére"],
    options: [
   " gigantizmus", " hyperglykémiu", " hypoglykémiu", " zvýšené hladiny rastového hormónu v sére"]
   },
   {
    numb: 474,
    question: " Zvýšená sekrécia rastového hormónu spôsobuje",
-   answer: [],
+   answer: [" zvýšené hladiny IGF-1 v sére", " akromegaliu"],
    options: [
   " zvýšené hladiny IGF-1 v sére", " akromegaliu", " nanizmus", " zníženie hladiny somatomedínov v sére"]
   },
@@ -3679,182 +3679,182 @@ let questions = [
   {
    numb: 503,
    question: "Ktoré vyšetrenie má najväcšiu výpovednú hodnotu pri podozrení na insuficienciu kôry nadoblicky",
-   answer: [],
+   answer: [" koncentrácia kortizolu v sére pred a po podaní ACTH"],
    options: [
   " pocet leukocytov v krvi", " koncentrácia sodíka v sére", " koncentrácia draslíka v sére", " koncentrácia kortizolu v sére pred a po podaní ACTH"]
   },
   {
    numb: 504,
    question: "U pacienta s Cushingovým syndrómom nachádzame v moci zvýšené hodnoty",
-   answer: [],
+   answer: [" kortizolu", " 17-hydroxysteroidov"],
    options: [
   " kortizolu", " 17-hydroxysteroidov", " androgénov", " estrogénov"]
   },
   {
    numb: 505,
    question: "U pacientov s primárnym hyperaldosteronizmom zistujeme",
-   answer: [],
+   answer: [" hypervolémiu", " hypernatriémiu", " hypokaliémiu"],
    options: [
   " hypervolémiu", " hypernatriémiu", " hypokaliémiu", " zvýšenú aktivitu renín-angiotenzínového systému"]
   },
   {
    numb: 506,
    question: "U pacientov s feochromocytómom nachádzame v moci zvýšené vylucovanie",
-   answer: [],
+   answer: [" vanilmandlovej kyseliny", " katecholamínov"],
    options: [
   " hydroxyindoloctovej kyseliny", " vanilmandlovej kyseliny", " hydroxyprolínu", " katecholamínov"]
   },
   {
    numb: 507,
    question: "Ktoré z uvedených dvojíc (lab.vyšetrenie - choroba) sú správne",
-   answer: [],
+   answer: [ " renínová aktivita v renálnej krvi - stenóza renalis", " homovanilová kyselina v moci - neuroblastóm", " kortizol v moci - Cushingov syndróm"],
    options: [
   " kyselina hydroxyindoloctová v moci - feochromocytóm", " renínová aktivita v renálnej krvi - stenóza renalis", " homovanilová kyselina v moci - neuroblastóm", " kortizol v moci - Cushingov syndróm"]
   },
   {
    numb: 508,
    question: "U pacienta bol diagnostikovaný medulárny karcinóm štítnej žlazy. Ktoré z uvedených vyšetrení použijeme na monitorovanie priebehu ochorenia",
-   answer: [],
+   answer: [" kalcitonín"],
    options: [
   " AFP", " tyreoglobulín", " CA 15-3", " kalcitonín"]
   },
   {
    numb: 509,
    question: "U 45-rocného pacienta bol zistený paroxysmálny erytém v oblasti tváre, krku a hornej casti hrudníka s bronchospazmom, hnacka a krcovité bolesti brucha a systolický šelest. Ktoré vyšetrenie by ste považovali za najdôležitejšie",
-   answer: [],
+   answer: [" kyselinu hydroxyindoloctovú v moci"],
    options: [
   " tryptofan v sére", " kyselinu hydroxyindoloctovú v moci", " kyselinu vanilmandlovú v moci", " katecholamíny v moci"]
   },
   {
    numb: 510,
    question: " Osmolalitu séra môžeme orientacne vypocítat na základe sérových hodnôt",
-   answer: [],
+   answer: [ " sodíka", " draslíka", " glykémie"],
    options: [
   " sodíka", " draslíka", " mocoviny", " glykémie"]
   },
   {
    numb: 511,
    question: " Ku zníženiu hladiny draslíka v sére môže dôjst následkom",
-   answer: [],
+   answer: [" parenterálneho podania glukózy a inzulínu"],
    options: [
   " hypoaldosteronizmu", " parenterálneho podania glukózy a inzulínu", " rabdomyolýzy", " akútnej intravaskulárnej hemolýzy"]
   },
   {
    numb: 512,
    question: " Typickou prícinou hypokaliémie je",
-   answer: [],
+   answer: [" hyperaldosteronizmus"],
    options: [
   " hyperaldosteronizmus", " akútne štádium intravaskulárnej hemolýzy", " respiracná acidóza", " Addisonova choroba"]
   },
   {
    numb: 513,
    question: " Hyperkaliémia môže najskôr vzniknút na základe",
-   answer: [],
+   answer: [ " neliecenej diabetickej ketoacidózy"],
    options: [
   " abúzu laxancií", " neliecenej diabetickej ketoacidózy", " Connovho syndrómu", " užívania tiazidových diuretík"]
   },
   {
    numb: 514,
    question: " Hypokaliémia nie je spôsobená",
-   answer: [],
+   answer: [ " neliecenou diabetickou ketoacidózou", " zvýšeným užívaním diuretík na báze antagonistov aldosteronu"],
    options: [
   " metabolickou alkalózou", " neliecenou diabetickou ketoacidózou", " zvýšeným užívaním diuretík na báze antagonistov aldosteronu", " podaním inzulínu u pacienta s diabetickou ketoacidózou"]
   },
   {
    numb: 515,
    question: " Možnou prícinou hyperkaliémie nie je",
-   answer: [],
+   answer: [" chronické zvracanie"],
    options: [
   " Addisonova choroba", " rozsiahle poškodenie svalstva (crush-syndróm)", " chronické zvracanie", " užívanie kalium-šetriacich diuretík (napr. triamteren)"]
   },
   {
    numb: 516,
    question: " Prícinou hypokaliémie môže byt",
-   answer: [],
+   answer: [" respiracná alkalóza", " tiazidové diuretiká"],
    options: [
   " Addisonova choroba", " respiracná alkalóza", " tiazidové diuretiká", " neliecená ketoacidóza"]
   },
   {
    numb: 517,
    question: " Ktorý z nasledovných proteínov sa bude pocas reakcie akútnej fázy v sére znižovat",
-   answer: [],
+   answer: [" transferín"],
    options: [
   " C-reaktívny proteín", " fibrinogén", " alfa-1-kyslý glykoproteín", " transferín"]
   },
   {
    numb: 518,
    question: " Ktorá z výpovedí o CRP platí",
-   answer: [],
+   answer: [" zvýšenie hladiny CRP poukazuje na akútnu zápalovú reakciu"],
    options: [
   " zvýšenie hladiny CRP poukazuje na akútnu zápalovú reakciu", " CRP sa vylucuje v rámci syntézy inzulínu", " vírusová infekcia spôsobuje výraznejší nárast CRP v sére ako bakteriálna infekcia", " CRP je bakteriálny exotoxín"]
   },
   {
    numb: 519,
    question: " Co neplatí pre CRP",
-   answer: [],
+   answer: [" pri diferenciálnej dg. vírusových a bakteriálnych infekcií sú hladiny CRP vyššie pri vírusových"],
    options: [
   " syntetizuje sa v peceni", " pooperacné komplikácie spôsobujú zvýšenie CRP v sére", " patrí ku vcasný a citlivým reaktanntom akútnej fázy", " pri diferenciálnej dg. vírusových a bakteriálnych infekcií sú hladiny CRP vyššie pri vírusových"]
   },
   {
    numb: 520,
    question: " Zistenie výrazného zníženia hladiny haptoglobínu v sére svedcí pre",
-   answer: [],
+   answer: [" intravaskulárnu hemolýzu"],
    options: [
   " akútnu reumatickú horúcku", " nefrotický syndróm", " intravaskulárnu hemolýzu", " deficit železa"]
   },
   {
    numb: 521,
    question: " Prícinou hypoproteinémie môže byt",
-   answer: [],
+   answer: [" exsudatívna enteropatia", " gravidita",  " znížená funkcia pecene"],
    options: [
   " exsudatívna enteropatia", " gravidita", " mnohopocetný myelóm", " znížená funkcia pecene"]
   },
   {
    numb: 522,
    question: "U pacienta s Wilsonovou chorobou zistujeme",
-   answer: [],
+   answer: [" zvýšené vylucovanie medi do mocu", " zvýšený obsah medi v peceni"],
    options: [
   " zvýšené vylucovanie medi do mocu", " zvýšený obsah medi v peceni", " zvýšenú koncentráciu medi v sére", " zvýšenú hladinu ceruloplazmínu v sére"]
   },
   {
    numb: 523,
    question: " Ktorý z uvedených orgánov, resp. tkanív má vysokú aktivitu AST",
-   answer: [],
+   answer: [" pecen", " myokard"],
    options: [
   " kostné tkanivo", " pecen", " myokard", " prostata"]
   },
   {
    numb: 524,
    question: " Ktorý z uvedených enzýmov je lokalizovaný hlavne v mitochondriach",
-   answer: [],
+   answer: [" glutamátdehydrogenáza", " AST"],
    options: [
   " glutamátdehydrogenáza", " AST", " GMT", " LDH"]
   },
   {
    numb: 525,
    question: " Co pridávame do vzorky plnej krvi aby nedošlo ku zmene hodnoty glykémie",
-   answer: [],
+   answer: [ " fluorid sodný"],
    options: [
   " kyselinu chloristú", " kalium-EDTA", " fluorid sodný", " citrát sodný"]
   },
   {
    numb: 526,
    question: " Hypoglykémiu nespôsobuje",
-   answer: [],
+   answer: [" zvýšené vylucovanie adrenalínu"],
    options: [
   " inzulín", " zvýšené vylucovanie adrenalínu", " insuficiencia kôry nadoblicky", " alkoholizmus"]
   },
   {
    numb: 527,
    question: "U pacienta boli pri elektroforéze bielkovín séra zistené nasledovné hodnoty. Alb-67%, frakcia alfa-1 - 1%, alfa-2- 7%, beta - 8%, gama - 17, celkové bielkoviny-78 g/l. Môže sa jednat o:",
-   answer: [],
+   answer: [" deficit alfa-1-antitrypsínu"],
    options: [
   " sepsu", " deficit alfa-1-antitrypsínu", " akútnu pyelonefritídu", " cirhózu pecene"]
   },
   {
    numb: 528,
    question: "U pacienta s celkovou koncentráciou bielkovín v sére 80 g/lboli pri elektroforéze zístené nasledovné hodnoty: alb-50%, alfa-1- 6,5%, alfa-2- 16,4%, beta- 10,6%, gama- 16,5%. Môže sa jednat o:",
-   answer: [],
+   answer: [" akútnu pneumóniu"],
    options: [
   " chronickú osteomyelitídu", " akútnu pneumóniu", " cirhózu pecene", " nefrotický syndróm"]
   },
