@@ -1682,7 +1682,7 @@ let questions = [
   {
    numb: 218,
    question: " Gestacný diabetes",
-   answer: [ " je komplikáciou gravidity", " po skoncení gravidity sa stav normalizuje"],
+   answer: [ " je komplikáciou gravidity", " po skoncení gravidity sa stav normalizuje",  " vzniká v dôsledku zvýšenej hladiny estrogénov"],
    options: [
   " je komplikáciou gravidity", " vzniká v dôsledku zvýšenej hladiny estrogénov", " po skoncení gravidity sa stav normalizuje", " možno ho odhalit vyšetrením protilátok proti glutamátdekarboxyláze"]
   },
@@ -1866,7 +1866,7 @@ let questions = [
    question: " Pri sekretín-ceruleínovom teste vyšetrujeme aktivitu",
    answer: [],
    options: [
-  " amylázy v sére N", " lipázy v sére N", " elastázy v stolici N", " pepsínu v pankreatickej štave N"]
+  " amylázy v sére", " lipázy v sére", " elastázy v stolici", " pepsínu v pankreatickej štave"]
   },
   {
    numb: 245,
