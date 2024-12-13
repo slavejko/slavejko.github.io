@@ -4051,21 +4051,21 @@ let questions = [
   {
    numb: 556,
    question: " Pre hyperlipoproteinémiu typu I platí",
-   answer: [],
+   answer: [ " je spojená so zvýšeným rizikom pankreatitídy"],
    options: [
   " v sére je zvýšená koncentrácia cholesterolu", " pri chladovom teste je sérum skalené", " je spojená so zvýšeným kardiovaskulárnym rizikom", " je spojená so zvýšeným rizikom pankreatitídy"]
   },
   {
    numb: 557,
    question: " Pre hyperlipoproteinémiu typu I platí",
-   answer: [],
+   answer: [" v sére je zvýšená koncentrácia triacylglycerolov", " v sére sú zvýšené chylomikróny", " nie je spojená so zvýšeným kardiovaskulárnym rizikom"],
    options: [
   " v sére je zvýšená koncentrácia triacylglycerolov", " v sére sú zvýšené chylomikróny", " nie je spojená so zvýšeným kardiovaskulárnym rizikom", " je jedna z najcastejšie sa vyskytujúcich hyperlipoproteinémií"]
   },
   {
    numb: 558,
    question: " Pre hyperlipoproteinémiu typu IIa platí",
-   answer: [],
+   answer: [" týka sa lipoproteínov s apoproteínom B", " môže byt spôsobená familiárnou hypercholesterolémiou"],
    options: [
   " môže byt u pacientov s Tangierskou chorobou", " týka sa lipoproteínov s apoproteínom A", " týka sa lipoproteínov s apoproteínom B", " môže byt spôsobená familiárnou hypercholesterolémiou"]
   },
@@ -4079,154 +4079,154 @@ let questions = [
   {
    numb: 560,
    question: " Pre hyperlipoproteinémiu typu IIb platí",
-   answer: [],
+   answer: [" u pacientov nachádzame zvýšenie koncentrácie triacylglycerolov", " u pacientov nachádzame zvýšenie koncentrácie cholesterolu"],
    options: [
   " u pacientov nachádzame zvýšenie koncentrácie triacylglycerolov", " u pacientov nachádzame zvýšenie koncentrácie cholesterolu", " u pacientov nachádzame prítomné chylomikróny v plazme", " sérum pacientov pri chladovom teste je círe"]
   },
   {
    numb: 561,
    question: " Pre hyperlipoproteinémiu typu IIb platí",
-   answer: [],
+   answer: [" sérum pacientov pri chladovom teste je skalené",  " porucha je spojená so zvýšením kardiovaskulárneho rizika"],
    options: [
   " sérum pacientov pri chladovom teste je skalené", " hladina HDL-cholesterolu je u pacientov zvýšená", " porucha je spojená so zvýšením kardiovaskulárneho rizika", " tento typ HLP nachádzame u pacientov s familiárnou hypercholesterolémiou"]
   },
   {
    numb: 562,
    question: " Pre hyperlipoproteinémiu typu III",
-   answer: [],
+   answer: [" dá sa diagnostikovat len na základe vyšetrenia elfo lipoproteínov"],
    options: [
   " dá sa diagnostikovat len na základe vyšetrenia elfo lipoproteínov", " jedná sa o poruchu syntézy apo B-100", " jedná sa o poruchu funkcie LDL-receptorov", " ide o poruchu funkcie apoE-receptorov"]
   },
   {
    numb: 563,
    question: " Pre hyperlipoproteinémiu typu III",
-   answer: [],
+   answer: [" jedná sa o poruchu syntézy apo E", " v sére pacienta sa hromadia remnanty chylomikrónov", " porucha je spojená so zvýšením kardiovaskulárneho rizika", " koncentrácia cholesterolu je v sére pacientov zvýšená"],
    options: [
   " jedná sa o poruchu syntézy apo E", " v sére pacienta sa hromadia remnanty chylomikrónov", " porucha je spojená so zvýšením kardiovaskulárneho rizika", " koncentrácia cholesterolu je v sére pacientov zvýšená"]
   },
   {
    numb: 564,
    question: " Fredericksonova fenotypická klasifikácia hyperlipoproteinémií",
-   answer: [],
+   answer: [ " nezohladnuje poruchy lipoproteínov obsahujúcich apo A"],
    options: [
   " typ III má dva podtypy", " nezohladnuje poruchy lipoproteínov obsahujúcich apo A", " nezohladnuje poruchy lipoproteínov obsahujúcich apo B", " delí hyperlipoproteinémie na 4 skupiny"]
   },
   {
    numb: 565,
    question: " Fredericksonova fenotypická klasifikácia hyperlipoproteinémií",
-   answer: [],
+   answer: [" delí hyperlipoproteinémie na 5 typov", " zohladnuje poruchy lipoproteínov obsahujúcich apo B", " jeden fenotyp môže byt podmienený viacerými chorobnými jednotkami", " jedna choroba sa môže manifestovat viacerými fenotypmi"],
    options: [
   " delí hyperlipoproteinémie na 5 typov", " zohladnuje poruchy lipoproteínov obsahujúcich apo B", " jeden fenotyp môže byt podmienený viacerými chorobnými jednotkami", " jedna choroba sa môže manifestovat viacerými fenotypmi"]
   },
   {
    numb: 566,
    question: "O lipoproteine (a) možno povedat",
-   answer: [],
+   answer: [" obsahuje apoproteín (a)", " svojou štruktúrou sa podobá plazminogénu"],
    options: [
   " obsahuje apoproteín B-48", " obsahuje apoproteín (a)", " svojou štruktúrou sa podobá fibrinogénu", " svojou štruktúrou sa podobá plazminogénu"]
   },
   {
    numb: 567,
    question: "O lipoproteine (a) možno povedat",
-   answer: [],
+   answer: [" jeho koncentrácia je podmienená autozomálne dominantne", " podporuje proliferáciu buniek hladkého svalstva cievy", " je dôležitý rizikový faktor aterosklerózy"],
    options: [
   " jeho koncentrácia je podmienená autozomálne dominantne", " podporuje proliferáciu buniek hladkého svalstva cievy", " je dôležitý rizikový faktor aterosklerózy", " nezvyšuje kardiovaskulárne riziko"]
   },
   {
    numb: 568,
    question: "O lipoproteíne (a) možno povedat",
-   answer: [],
+   answer: [" má antifibrinolytický úcinok"],
    options: [
   " jeho hladinu zvyšuje fyzická aktivita", " jeho hladinu znižuje fyzická aktivita", " jeho hladinu znižuje dieta", " má antifibrinolytický úcinok"]
   },
   {
    numb: 569,
    question: "O lipoproteíne (a) možno povedat",
-   answer: [],
+   answer: [" inhibuje tkanivový aktivátor plazminogénu", " zvyšuje riziko vzniku akútneho infarktu myokardu", " obsahuje v molekule apoproteín B-100"],
    options: [
   " inhibuje tkanivový aktivátor plazminogénu", " zvyšuje riziko vzniku akútneho infarktu myokardu", " obsahuje v molekule apoproteín B-100", " obsahuje apoproteín A viazaný na apoproteín (a)"]
   },
   {
    numb: 570,
    question: " Pre fibrinogén platí",
-   answer: [],
+   answer: [" zvyšuje riziko aterosklerózy", " zvyšuje viskozitu krvi"],
    options: [
   " zvyšuje riziko aterosklerózy", " neovplyvnuje kardiovaskulárne riziko", " zvyšuje viskozitu krvi", " má antitrombogénny úcinok"]
   },
   {
    numb: 571,
    question: " Pre fibrinogén platí",
-   answer: [],
+   answer: [" býva zvýšený pri zápaloch", " fajcenie zvyšuje koncentráciu fibrinogénu", " patrí medzi proteíny akútnej fázy"],
    options: [
   " býva zvýšený pri zápaloch", " fajcenie zvyšuje koncentráciu fibrinogénu", " hladina fibrinogénu klesá s vekom", " patrí medzi proteíny akútnej fázy"]
   },
   {
    numb: 572,
    question: "O HDL-cholesterole možno povedat",
-   answer: [],
+   answer: [" zvyšuje sa vplyvom fyzickej zátaže",  " estrogény zvyšujú jeho hladinu"],
    options: [
   " zvyšuje sa vplyvom fyzickej zátaže", " znižuje sa vplyvom fyzickej zátaže", " estrogény znižujú jeho hladinu", " estrogény zvyšujú jeho hladinu"]
   },
   {
    numb: 573,
    question: "O HDL-cholesterole možno povedat",
-   answer: [],
+   answer: [" anabolické steroidy znižujú jeho hladinu", " v sére je asociovaný s LCAT"],
    options: [
   " anabolické steroidy znižujú jeho hladinu", " nedá sa ovplyvnit dietou", " jeho hladina býva vyššia u mužov", " v sére je asociovaný s LCAT"]
   },
   {
    numb: 574,
    question: "O dysbetalipoproteinémiach platí",
-   answer: [],
+   answer: [" klinicky najzávažnejšou formou je familiárna hypercholesterolémia", "najbežnejšou formou hypercholesterolémie je polygénna hypercholesterolémia"],
    options: [
   " klinicky najzávažnejšou formou je polygénna hypercholesterolémia", " klinicky najzávažnejšou formou je familiárna hypercholesterolémia", " najbežnejšou formou hypercholesterolémie je familiárna hypercholesterolémia","najbežnejšou formou hypercholesterolémie je polygénna hypercholesterolémia"]
   },
   {
    numb: 575,
    question: "O dysbetalipoproteinémiach platí",
-   answer: [],
+   answer: [" familiárna hypercholesterolémia je spojená so znížením hladiny HDL-cholesterolu", " mutácia génu pre LDL-receptory spôsobuje familiárnu hypercholesterolémiu", " familiárna hypercholesterolémia je spojená so zvýšeným rizikom predcasnej ICHS"],
    options: [
   " familiárna hypercholesterolémia je spojená so zvýšením hladiny HDL-cholesterolu", " familiárna hypercholesterolémia je spojená so znížením hladiny HDL-cholesterolu", " mutácia génu pre LDL-receptory spôsobuje familiárnu hypercholesterolémiu", " familiárna hypercholesterolémia je spojená so zvýšeným rizikom predcasnej ICHS"]
   },
   {
    numb: 576,
    question: "Familiárna hypercholesterolémia",
-   answer: [],
+   answer: [" prejavuje sa kožnými xantómami", " prejavuje sa šlachovými xantómami", " hladina triacylglycerolov je v norme", " hladina LDL-cholesterolu je zvýšená"],
    options: [
   " prejavuje sa kožnými xantómami", " prejavuje sa šlachovými xantómami", " hladina triacylglycerolov je v norme", " hladina LDL-cholesterolu je zvýšená"]
   },
   {
    numb: 577,
    question: "O familiárnej hypercholesterolémii možno povedat",
-   answer: [],
+   answer: [ " fenotypickým prejavom je obvykle typ IIa", " hladina HDL-cholesterolu je znížená"],
    options: [
   " fenotypickým prejavom je obvykle typ IIa", " frekvencia výskytu heterozygotov je asi 1:100", " hladina HDL-cholesterolu je znížená", " hladina HDL-cholesterolu je zvýšená"]
   },
   {
    numb: 578,
    question: " Polygénová hypercholesterolémia",
-   answer: [],
+   answer: [" je bežná prícina hypercholesterolémie", " hladina LDL-cholesterolu je zvýšená"],
    options: [
   " je vzácna prícina hypercholesterolémie", " je bežná prícina hypercholesterolémie", " hladina LDL-cholesterolu je zvýšená", " hladina LDL-cholesterolu je v norme"]
   },
   {
    numb: 579,
    question: " Polygénová hypercholesterolémia",
-   answer: [],
+   answer: [" celkový cholesterol je zvýšený (5,5-8,0 mmol/l)", " HDL-cholesterol je v norme", " hladina apoproteinu B je zvýšená"],
    options: [
   " celkový cholesterol je zvýšený (5,5-8,0 mmol/l)", " HDL-cholesterol je v norme", " hladina apoproteinu B je zvýšená", " HDL-cholesterol je zvýšený"]
   },
   {
    numb: 580,
    question: " Familiárna hyperchylomikronémia",
-   answer: [],
+   answer: [" je podmienená deficitom lipoproteínovej lipázy"],
    options: [
   " je podmienená defektom LDL-receptorov", " je podmienená defektom apo-E receptorov", " je podmienená deficitom lipoproteínovej lipázy", " je podmienená deficitom apoproteínu A-I"]
   },
   {
    numb: 581,
    question: " Familiárna hyperchylomikronémia",
-   answer: [],
+   answer: [" je podmienená deficitom apoproteínu C-II", " koncentrácia triacylglycerolov v sére je zvýšená"],
    options: [
   " je podmienená deficitom apoproteínu C-II", " je najcastejšou geneticky podmienenou hyperlipoproteinémiou", " ochorenie sa manifestuje až v dospelosti", " koncentrácia triacylglycerolov v sére je zvýšená"]
   },
