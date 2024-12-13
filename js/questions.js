@@ -3869,7 +3869,7 @@ let questions = [
   {
    numb: 530,
    question: " Ku zvýšeniu hladiny kyseliny mocovej v sére môže dôjst u pacienta s",
-   answer: [" oblickovou insuficienciou",  " po ožarovaní zhubného nádoru"],
+   answer: [" oblickovou insuficienciou",  " po ožarovaní zhubného nádoru", " akútnou leukémiou"],
    options: [
   " oblickovou insuficienciou", " akútnou leukémiou", " po ožarovaní zhubného nádoru", " akútnou hepatitídou"]
   },
