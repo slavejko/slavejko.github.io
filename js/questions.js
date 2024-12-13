@@ -3483,119 +3483,120 @@ let questions = [
   {
    numb: 475,
    question: " Na stanovenie diagnózy hypersekrécie rastového hormónu",
-   answer: [],
+   answer: [" nestací samotné stanovenie hladiny STH v sére", " sa používajú supresné testy"],
    options: [
   " stací samotné stanovenie hladiny STH v sére", " nestací samotné stanovenie hladiny STH v sére", " sa používajú stimulacné testy", " sa používajú supresné testy"]
   },
   {
    numb: 476,
    question: " Na stanovenie diagnózy hypersekrécie rastového hormónu",
-   answer: [],
+   answer: [" sa používa test s glukózou", " sa používa vyšetrenie hladiny IGF-1"],
    options: [
   " sa používa test s arginínom", " sa používa test s glukózou", " sa používa vyšetrenie hladiny IGF-1", " sa používa test so sekretínom"]
   },
   {
    numb: 477,
    question: " Na stanovenie diagnózy zníženej sekrécie rastového hormónu",
-   answer: [],
+   answer: [" hladiny IGF-1 sú znížené",  " nestací samotné stanovenie STH v sére"],
    options: [
   " hladiny IGF-1 sú zvýšené", " hladiny IGF-1 sú znížené", " stací samotné stanovenie koncentrácie STH v sére", " nestací samotné stanovenie STH v sére"]
   },
   {
    numb: 478,
    question: " Na stanovenie diagnózy zníženej sekrécie rastového hormónu",
-   answer: [],
+   answer: [" používajú sa stimulacné testy", " používa sa test s inzulínom"],
    options: [
   " používajú sa stimulacné testy", " používajú sa supresné testy", " používa sa test s inzulínom", " je hladina glukózy v sére zvýšená"]
   },
   {
    numb: 479,
    question: " Na stanovenie diagnózy zníženej sekrécie rastového hormónu",
-   answer: [],
+   answer: [" používa sa test s arginínom",  " používa sa test s arginínom a somatoliberínom"],
    options: [
   " používa sa test s arginínom", " používa sa test s glukózou", " používa sa test s arginínom a somatoliberínom", " stací pozitívny výsledok jedného testu"]
   },
   {
    numb: 480,
    question: " Na stanovenie diagnózy zníženej sekrécie rastového hormónu",
-   answer: [],
+   answer: [" je potrebný pozitívny výsledok aspon dvoch testov"," je hladina somatomedínov znížená"],
    options: [
   " je potrebný pozitívny výsledok aspon dvoch testov", " je potrebný pozitívny výsledok aspon troch testov", " je hladina somatomedínov znížená", " sa používa lauryl-sulfátový test"]
   },
   {
    numb: 481,
    question: " Pre rastový hormón platí",
-   answer: [],
+   answer: [" je jednoduchý polypeptid", " vylucuje sa vo forme viacerých pulzov pocas 24 hodín"],
    options: [
   " je steroidnej povahy", " je glykoproteín", " je jednoduchý polypeptid", " vylucuje sa vo forme viacerých pulzov pocas 24 hodín"]
   },
   {
    numb: 482,
    question: " Pre rastový hormón platí",
-   answer: [],
+   answer: ["pôsobí na cielové tkanivá priamo aj sprostredkovane pomocou IGF-1", 
+      " cast úcinkov rastového hormónu sprostredkujú somatomedíny"],
    options: [
   " pôsobí nacielové tkanivá len priamo", "pôsobí na cielové tkanivá priamo aj sprostredkovane pomocou IGF-1", " iné oznacenie pre somatoliberín je somatomedín", " cast úcinkov rastového hormónu sprostredkujú somatomedíny"]
   },
   {
    numb: 483,
    question: " Vyšetrenie hladiny kortizolu v sére",
-   answer: [],
+   answer: [" je ovplyvnené hladinou väzobných proteínov v sére", " najvyššie hladiny v sére sú okolo 8,00 hod"],
    options: [
   " je ovplyvnené hladinou väzobných proteínov v sére", " nie je ovplyvnené hladinou väzobných proteínov v sére", " je presnejšie ako vyšetrenie kortizolu v moci", " najvyššie hladiny v sére sú okolo 8,00 hod"]
   },
   {
    numb: 484,
    question: " Vyšetrenie hladiny kortizolu v sére",
-   answer: [],
+   answer: [" sa robí ako vyšetrenie celkového kortizolu v sére", " vykazuje cirkadiánne kolísanie hladiny"],
    options: [
   " sa robí ako vyšetrenie celkového kortizolu v sére", " sa robí ako vyšetrenie volného kortizolu v sére", " najvyššie hodnoty v sére sú okolo polnoci", " vykazuje cirkadiánne kolísanie hladiny"]
   },
   {
    numb: 485,
    question: "O vyšetrení vylucovania kortizolu do mocu možno povedat",
-   answer: [],
+   answer: [" jeho hladina v moci je úmerná volnej frakcii kortizolu v sére", " vyžaduje vždy kompletný zber mocu za 24 hodín", " je dôležité pri diagnostike hyperfunkcie kôry nadoblicky"],
    options: [
   " jeho hladina v moci je úmerná volnej frakcii kortizolu v sére", " jeho hladina v moci nie je úmerná volnej frakcii kortizolu v sére", " vyžaduje vždy kompletný zber mocu za 24 hodín", " je dôležité pri diagnostike hyperfunkcie kôry nadoblicky"]
   },
   {
    numb: 486,
    question: "O vyšetrení vylucovania kortizolu do mocu možno povedat",
-   answer: [],
+   answer: [" vykazuje znížené hodnoty u pacientov s kongenitálnou hyperpláziou kôry nadoblicky"],
    options: [
   " je dôležité pri diagnostike hyperaldosteronizmu", " vykazuje zvýšené hodnoty u pacientov s kongenitálnou hyperpláziou kôry nadoblicky", " vykazuje znížené hodnoty u pacientov s kongenitálnou hyperpláziou kôry nadoblicky", " je dôležité pre diagnózu hypofunkcie kôry nadoblicky"]
   },
   {
    numb: 487,
    question: "O Cushingovej chorobe platí",
-   answer: [],
+   answer: [" zistujeme zvýšený kortizol v sére",  " je zvýšená hladina ACTH v sére"],
    options: [
   " zistujeme zvýšený kortizol v sére", " zistujeme znížený kortizol v sére", " je zvýšená hladina ACTH v sére", " je znížená hladina ACTH v sére"]
   },
   {
    numb: 488,
    question: "O Cushingovej chorobe platí",
-   answer: [],
+   answer: [" je spôsobená adenómom hypofýzy",  " po podaní dexametazónu dochádza ku poklesu hladiny kortizolu"],
    options: [
   " je spôsobená adenómom hypofýzy", " je spôsobená adenómom nadoblicky", " po podaní dexametazónu dochádza ku poklesu hladiny kortizolu", " po podaní dexametazonu nedochádza ku poklesu hladiny kortizolu"]
   },
   {
    numb: 489,
    question: "O Cushingovom syndróme možno povedat",
-   answer: [],
+   answer: [" je podmienený nádorom nadoblicky",  " je primárnou poruchou sekrécie kortizolu"],
    options: [
   " je podmienený nádorom nadoblicky", " je podmienený nádorom adenohypofýzy", " je primárnou poruchou sekrécie kortizolu", " je sekundárnou poruchou sekrécie kortizolu"]
   },
   {
    numb: 490,
    question: "O Cushingovom syndróme možno povedat",
-   answer: [],
+   answer: [" hladina ACTH v sére je znížená",  " podanie dexametazonu nespôsobuje zníženie hladiny kortizolu"],
    options: [
   " hladina ACTH je v sére zvýšená", " hladina ACTH v sére je znížená", " dexametazon spôsobuje zníženie hladiny kortizolu", " podanie dexametazonu nespôsobuje zníženie hladiny kortizolu"]
   },
   {
    numb: 491,
    question: " Vyšetrenie ACTH v krvi z petróznych splavov",
-   answer: [],
+   answer: [" sa používa na rozlíšenie ektopickej produkcie ACTH a adenómu hypofýzy",  " pomer ACTH v krvi splavov a laktovej krvi viac ako 3:1 svedcí o nádore hypofýzy"],
    options: [
   " sa používa na rozlíšenie ektopickej produkcie ACTH a adenómu hypofýzy", " pomer ACTH v krvi splavov a laktovej krvi viac ako 3:1 svedcí o ektopickej produkcii", " pomer ACTH v krvi splavov a laktovej krvi viac ako 3:1 svedcí o nádore hypofýzy", " pomer ACTH v krvi splavov a laktovej krvi viac ako 3:1 svedcí o hyperplázii kôry nadoblicky"]
   },
@@ -3609,35 +3610,35 @@ let questions = [
   {
    numb: 493,
    question: " Ked vyšetrujeme Synacthenový test",
-   answer: [],
+   answer: [" podáva sa syntetický analóg ACTH"],
    options: [
   " podáva sa syntetický kortikoid", " podáva sa syntetický analóg ACTH", " stúpa hladina kortizolu pri primárnej hyperplázii kôry nadoblicky", " stúpa hladina kortizolu pri nádoroch kôry nadoblicky"]
   },
   {
    numb: 494,
    question: " Ked vyšetrujeme Synacthenový test",
-   answer: [],
+   answer: [ " stúpa hladina kortizolu pri sekundárnej hyperfunkcii nadoblicky", " stúpa hladina kortizolu pri sekundárnej hypofunkcii kôry nadoblicky"],
    options: [
   " klesá hladina kortizolu pri nádoroch nadoblicky", " stúpa hladina kortizolu pri hypofunkcii kôry nadoblicky", " stúpa hladina kortizolu pri sekundárnej hyperfunkcii nadoblicky", " stúpa hladina kortizolu pri sekundárnej hypofunkcii kôry nadoblicky"]
   },
   {
    numb: 495,
    question: " Pri nádoroch kôry nadoblicky zistujeme u pacientov",
-   answer: [],
+   answer: [" zvýšený kortizol v sére",  " zvýšený kortizol v moci", " zníženú hladinu ACTH v sére"],
    options: [
   " zvýšený kortizol v sére", " znížený kortizol v moci", " zvýšený kortizol v moci", " zníženú hladinu ACTH v sére"]
   },
   {
    numb: 496,
    question: " Pri nádoroch kôry nadoblicky zistujeme u pacientov",
-   answer: [],
+   answer: [" že nedochádza ku zníženiu hladiny kortizolu po podaní dexametazónu", " chýbanie odpovede po podaní Synacthenu"],
    options: [
   " zvýšenú hladinu ACTH v sére", " zníženie hladiny kortizolu po podaní dexametazónu", " že nedochádza ku zníženiu hladiny kortizolu po podaní dexametazónu", " chýbanie odpovede po podaní Synacthenu"]
   },
   {
    numb: 497,
    question: "O vyšetrení kortizolu možno povedat",
-   answer: [],
+   answer: [" kortizol v slinách odráža volnú frakciu kortizolu v sére",  " kortizol v moci je základným vyšetrením pri podozrení na hyperkortikalizmus", " kortizol v sére je zvýšený pri Cushingovej chorobe"],
    options: [
   " kortizol v slinách odráža volnú frakciu kortizolu v sére", " kortizol v moci je nepriamo úmerný volnej frakcii kortizolu v sére", " kortizol v moci je základným vyšetrením pri podozrení na hyperkortikalizmus", " kortizol v sére je zvýšený pri Cushingovej chorobe"]
   },
@@ -3651,28 +3652,28 @@ let questions = [
   {
    numb: 499,
    question: " Pre dexametazónový test platí",
-   answer: [],
+   answer: [" patrí medzi supresívne testy", " u zdravého cloveka vyvoláva pokles sérového kortizolu minimálne o 50%", " u pacienta s karcinómom nadoblicky nevyvoláva pokles kortizolu"],
    options: [
   " patrí medzi stimulacné testy", " patrí medzi supresívne testy", " u zdravého cloveka vyvoláva pokles sérového kortizolu minimálne o 50%", " u pacienta s karcinómom nadoblicky nevyvoláva pokles kortizolu"]
   },
   {
    numb: 500,
    question: " Pre dexametazónový test platí",
-   answer: [],
+   answer: [" u pacienta s Cushingovou chorobou vyvoláva pokles kortizolu v sére"],
    options: [
   " u pacienta s Cushingovou chorobou vyvoláva pokles kortizolu v sére", " u pacienta s Cushingovým syndrómom vyvoláva pokles kortizolu v sére", " u pacientov s Cushingovým syndrómom vyvoláva vzostup kortizolu v sére", " u pacientov so sekundárnou hyperfunkciou kôry nadoblicky vyvoláva vzostup kortizolu"]
   },
   {
    numb: 501,
    question: "U pacientov s primárnou hyperfunkciou kôry nadoblicky zistujeme",
-   answer: [],
+   answer: [" vysokú koncentráciu kortizolu v sére",  " zníženú koncentráciu ACTH v sére"],
    options: [
   " vysokú koncentráciu kortizolu v sére", " zníženú koncentráciu kortizolu v slinách", " zvýšenú koncentráciu ACTH v sére", " zníženú koncentráciu ACTH v sére"]
   },
   {
    numb: 502,
    question: "U pacientov s primárnou hyperfunkciou kôry nadoblicky zistujeme",
-   answer: [],
+   answer: [ " pri dexametazónovom teste nedochádza ku poklesu kortizolu v sére", " pri Synacthenovom teste nestúpa kortizol v sére"],
    options: [
   " chýbanie cirkadiánneho kolísania sérového kortizolu", " pri dexametazónovom testedochádza ku poklesu kortizolu v sére", " pri dexametazónovom teste nedochádza ku poklesu kortizolu v sére", " pri Synacthenovom teste nestúpa kortizol v sére"]
   },
