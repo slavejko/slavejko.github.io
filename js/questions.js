@@ -3875,56 +3875,56 @@ let questions = [
   {
    numb: 531,
    question: " Hyperurikémiu alebo jej zhoršenie môže spôsobit",
-   answer: [],
+   answer: [" zvýšená konzumácia alkoholu", " chronická myeloidná leukémia", " polycytemia vera"],
    options: [
   " zvýšená konzumácia alkoholu", " chronická myeloidná leukémia", " zvýšený prísun bielkovín (napr. na mliecne bielkoviny bohatá normokalorická strava)", " polycytemia vera"]
   },
   {
    numb: 532,
    question: " Pri akútnom systémovom zápalovom ochorení dochádza ku zvýšeniu proteínov akútnej fázy.",
-   answer: [],
+   answer: [" C-reaktívny proteín"],
    options: [
   " ceruloplazmín", " fibrinogén", " haptoglobín", " C-reaktívny proteín"]
   },
   {
    numb: 533,
    question: " Do obrazu nefrotického syndrómu nepatrí",
-   answer: [],
+   answer: [" hypotriacylglycerolémia"],
    options: [
   " hypercholesterolémia", " albuminúria", " zvýšenie frakcie alfa-2-globulínov", " hypotriacylglycerolémia"]
   },
   {
    numb: 534,
    question: " Do obrazu nefrotického syndrómu nepatrí",
-   answer: [],
+   answer: [" hypocholesterolémia"],
    options: [
   " hypoproteinémia", " albuminúria", " hypocholesterolémia", " edémy"]
   },
   {
    numb: 535,
    question: " Zvýšenú aktivitu alkalickej fosfatázy zistujeme u pacienta s",
-   answer: [],
+   answer: [" primárnou biliárnou cirhózou", " Pagetovou chorobou", " primárnou sklerozujúcou cholangitídou"],
    options: [
   " primárnou biliárnou cirhózou", " infarktom tenkého creva", " Pagetovou chorobou", " primárnou sklerozujúcou cholangitídou"]
   },
   {
    numb: 536,
    question: " Ktorý z uvedených výrokov neplatí u pacienta so získaným hepatocelulárnym ikterom",
-   answer: [],
+   answer: [" prícinou môže byt masívna hemolýza"],
    options: [
   " môže dôjst ku poruche hemokoagulácie", " môže dôjst ku zvýšeniu koncentrácie konjugovaného bilirubínu v sére", " prícinou môže byt masívna hemolýza", " aktivita aminotransferáz v sére môže byt zvýšená"]
   },
   {
    numb: 537,
    question: "U 40-rocného pacienta boli zistené nasledovné hodnoty: ALT-22 µkat/l, AST-16,5 µkat/l.",
-   answer: [],
+   answer: [" akútna hepatitída"],
    options: [
   " steatóza pecene", " akútna hepatitída", " posthepatitická cirhóza pecene", " adenóm pecene"]
   },
   {
    numb: 538,
    question: " Aktivita amylázy v sére nie je zvýšená pri",
-   answer: [],
+   answer: [" mukoviscidóze"],
    options: [
   " akútnom vzplanutí chronickej pankreatitídy", " uzávere vývodu pankreasu pri nádoroch", " renálnej insuficiencii", " mukoviscidóze"]
   },
