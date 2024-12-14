@@ -2650,7 +2650,7 @@ let questions = [
   {
    numb: 356,
    question: " Pri vyšetrení mocového sedimentu hodnotíme hlavne",
-   answer: [" degenerované tubulárne bunky", " valce", " kryštály"],
+   answer: [ " valce", " kryštály"],
    options: [
   " degenerované tubulárne bunky", " valce", " kryštály", " bielkoviny"]
   },
@@ -2692,7 +2692,7 @@ let questions = [
   {
    numb: 362,
    question: " Hyalinné valce v moci",
-   answer: [ " sú tvorené Tamm-Horsfallovým glykoproteínom", " môžu byt aj u zdravého cloveka"],
+   answer: [ " bývajú u pacientov glomerulárnou hematúriou"," sú tvorené Tamm-Horsfallovým glykoproteínom", " môžu byt aj u zdravého cloveka"],
    options: [
   " bývajú u pacientov glomerulárnou hematúriou", " sú charakteristické pre cystitídu", " sú tvorené Tamm-Horsfallovým glykoproteínom", " môžu byt aj u zdravého cloveka"]
   },
@@ -3673,7 +3673,7 @@ let questions = [
   {
    numb: 502,
    question: "U pacientov s primárnou hyperfunkciou kôry nadoblicky zistujeme",
-   answer: [ " pri dexametazónovom teste nedochádza ku poklesu kortizolu v sére", " pri Synacthenovom teste nestúpa kortizol v sére"],
+   answer: [" chýbanie cirkadiánneho kolísania sérového kortizolu", " pri dexametazónovom teste nedochádza ku poklesu kortizolu v sére", " pri Synacthenovom teste nestúpa kortizol v sére"],
    options: [
   " chýbanie cirkadiánneho kolísania sérového kortizolu", " pri dexametazónovom testedochádza ku poklesu kortizolu v sére", " pri dexametazónovom teste nedochádza ku poklesu kortizolu v sére", " pri Synacthenovom teste nestúpa kortizol v sére"]
   },
@@ -4233,28 +4233,28 @@ let questions = [
   {
    numb: 582,
    question: " Homocysteín",
-   answer: [],
+   answer: [" poškodzuje endotel ciev", " skracuje životnost trombocytov"],
    options: [
   " poškodzuje endotel ciev", " skracuje životnost trombocytov", " vzniká pri katabolizme aminokyseliny cysteín", " vzniká po metylácii metionínu"]
   },
   {
    numb: 583,
    question: " Homocysteín",
-   answer: [],
+   answer: [ " na jeho regeneráciu na metionín je potrebný vitamín B12", " je nezávislý rizikový faktor aterosklerózy"],
    options: [
   " na jeho regeneráciu na metionín je potrebný vitamín B2", " na jeho regeneráciu na metionín je potrebný vitamín B12", " je nezávislý rizikový faktor aterosklerózy", " pre jeho regeneráciu na metionín je potrebný ako koenzým tiamín difosfát"]
   },
   {
    numb: 584,
    question: " Pre vyšetrenie cholesterolu v sére platí",
-   answer: [],
+   answer: [" doporucená hladina cholesterolu je 3,8 - 5,2 mmol/l", " vyšetrenie cholesterolu by sa malo realizovat aspon 1x za 5 rokov"],
    options: [
   " doporucená hladina cholesterolu je 2,9 - 5,6 mmol/l", " doporucená hladina cholesterolu je 3,8 - 5,2 mmol/l", " vyšetrenie cholesterolu by sa malo realizovat každý rok", " vyšetrenie cholesterolu by sa malo realizovat aspon 1x za 5 rokov"]
   },
   {
    numb: 585,
    question: " Pre vyšetrenie cholesterolu v sére platí",
-   answer: [],
+   answer: [" u pacientov s hypertenziou by sa mala vyšetrit koncentrácia cholesterolu 1x za rok"," skríning hypercholesterolémie by sa mal zacat už u detí", " pacienti s hypertyreózou majú zníženú koncentráciu cholesterolu v sére"],
    options: [
   " u pacientov s hypertenziou by sa mala vyšetrit koncentrácia cholesterolu 1x za rok", " u pacientov s hypertenziou by sa mala vyšetrit koncentrácia cholesterolu 1x za 2 roky", " skríning hypercholesterolémie by sa mal zacat už u detí", " pacienti s hypertyreózou majú zníženú koncentráciu cholesterolu v sére"]
   },
