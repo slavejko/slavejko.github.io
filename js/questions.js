@@ -3645,7 +3645,7 @@ let questions = [
   {
    numb: 498,
    question: "O vyšetrení kortizolu možno povedat",
-   answer: [],
+   answer: [ " jeho koncentrácia v sére je znížená pri kongenitálnej hyperplázii kôry nadoblicky", " jeho koncentrácia v slinách je zvýšená pri primárnej adrenálnej hyperfunkcii"],
    options: [
   " kortizol v sére je znížený pri Cushingovom syndróme", " jeho koncentrácia v sére je znížená pri kongenitálnej hyperplázii kôry nadoblicky", " jeho koncentrácia v moci je zvýšená pri kongenitálnej adrenálnej hyperplázii", " jeho koncentrácia v slinách je zvýšená pri primárnej adrenálnej hyperfunkcii"]
   },
