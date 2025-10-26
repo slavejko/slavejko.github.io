@@ -1193,6 +1193,7 @@ let questions = [
     "options": [
       "ktorí po narodení neprešli novorodeneckým skríningom sluchu",
       "po prekonaní úrazu hlavy",
+      "pracujúcich v prašnom prostredí",
       "pracujúcich v prašnom prostredí"
     ],
     "answer": ["ktorí po narodení neprešli novorodeneckým skríningom sluchu"]
@@ -1983,7 +1984,9 @@ let questions = [
     "question": "Meniérovu chorobu a neurinóm sluchovo-polohového nervu definitívne odlíši:",
     "options": [
       "MRI vyšetrenie",
-      "ne"
+      "neurologicke vysetrenie",
+      "vestibularne vysetrenie",
+      "BERA vysetrenie"
     ],
     "answer": ["MRI vyšetrenie"]
   },
