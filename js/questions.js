@@ -5109,19 +5109,6 @@ let questions = [
         ]
     },
     {
-        "numb": 394,
-        "question": "hodinovú intubáciu pacienta so súčasným podaním systémových antibiotík",
-        "options": [
-            "a kortikosteroidov v rámci ústavnej liečby",
-            "kalcium, perorálne dekongestíva, vitamín C a domácu starostlivosť",
-            "026Závažný infekčný zápal mäkkých podslizničných tkanív hrtana je:",
-            "flegmóna hrtana"
-        ],
-        "answer": [
-            "a kortikosteroidov v rámci ústavnej liečby"
-        ]
-    },
-    {
         "numb": 395,
         "question": "Závažný infekčný zápal mäkkých podslizničných tkanív hrtana je:",
         "options": [
