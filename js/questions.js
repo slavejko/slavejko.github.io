@@ -5177,10 +5177,10 @@ let questions = [
         "numb": 400,
         "question": "Opuch hrtana vzniká infiltráciou podslizničného tkaniva seróznym alebo serofibrinóznym trnassudátom alebo exsudátom najčastejšie na:",
         "options": [
-            "jazykovej ploche príchlopky, aryepiglotických riasach, hrboľoch krhlovitých chrupiek",
-            "a v subglotickej oblasti",
+            "jazykovej ploche príchlopky, aryepiglotických riasach, hrboľoch krhlovitých chrupiek a v subglotickej oblasti",
             "hrtanovej ploche príchlopky, vestibulových riasach a interarytenoidnom priestore",
-            "hrtanovej ploche príchlopky a hlasivkách"
+            "hrtanovej ploche príchlopky a hlasivkách",
+            "hlasivkách a vo ventriculus laryngis"
         ],
         "answer": [
             "jazykovej ploche príchlopky, aryepiglotických riasach, hrboľoch krhlovitých chrupiek"
