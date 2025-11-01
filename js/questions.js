@@ -2328,15 +2328,15 @@ let questions = [
     },
     {
         "numb": 180,
-        "question": "Jednostranná senzorineurálna porucha sluchu alebo intenzívny jednostranný tinitus sú",
+        "question": "Jednostranná senzorineurálna porucha sluchu alebo intenzívny jednostranný tinitus sú indikáciou na:",
         "options": [
-            "indikáciou na:",
+            "RTG vyšetrenie spánkovej kosti podľa Stenversa",
             "MRI vyšetrenie",
             "exporatívnu tympanotómiu",
             "nadprahové testy"
         ],
         "answer": [
-            "indikáciou na:"
+            "MRI vyšetrenie"
         ]
     },
     {
@@ -4691,20 +4691,7 @@ let questions = [
         "answer": [
             "15 000 vonkajších vláskových buniek a 3000 vnútorných vláskových buniek"
         ]
-    },
-    {
-        "numb": 362,
-        "question": "0 vonkajších vláskových buniek, 15000 vnútorných vláskových buniek",
-        "options": [
-            "rovnaký počet vonkajších aj vnútorných vláskových buniek",
-            "180Neurity gangliových buniek (ganglion spirale cochleare) vytvárajú:",
-            "pars cochlearis n.VIII",
-            "pars vestibularis n.VIII"
-        ],
-        "answer": [
-            "rovnaký počet vonkajších aj vnútorných vláskových buniek"
-        ]
-    },
+    }
     {
         "numb": 363,
         "question": "Neurity gangliových buniek (ganglion spirale cochleare) vytvárajú:",
