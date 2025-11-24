@@ -1678,15 +1678,15 @@ let questions = [
     },
     {
         "numb": 130,
-        "question": "Ak sa pri operácii iba odstráni cholesteatóm, ostiticky zmenená kosť, granulácie",
+        "question": "Ak sa pri operácii iba odstráni cholesteatóm, ostiticky zmenená kosť, granulácie alebo polypy urobila sa:",
         "options": [
-            "alebo polypy urobila sa:",
             "sanačná operácia",
+            "tympanoplastika",
             "rekonštrukčná operácia",
             "sanačno-rekonštrukčná operácia"
         ],
         "answer": [
-            "alebo polypy urobila sa:"
+            "sanačná operácia"
         ]
     },
     {
