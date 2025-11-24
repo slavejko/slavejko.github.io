@@ -3916,13 +3916,13 @@ let questions = [
         "numb": 302,
         "question": "A. carotis communis začína:",
         "options": [
-            "x",
+            "je vetvou a. subclavia obojstranne",
             "vpravo z truncus brachiocephalicus a vľavo priamo z arcus aortae",
             "vľavo z truncus brachiocephalicus, vpravo priamo z arcus aortae",
             "obojstranne z truncus brachiocephalicus"
         ],
         "answer": [
-            "x"
+            "vpravo z truncus brachiocephalicus a vľavo priamo z arcus aortae"
         ]
     },
     {
@@ -6971,13 +6971,13 @@ let questions = [
         "numb": 539,
         "question": "Pre supraglotickú obštrukciu je u detí charakteristický:",
         "options": [
-            "x",
+            "pískavé dýchanie",
             "inspiračný stridor",
             "expiračný stridor",
             "inspiračno-expiračný stridor"
         ],
         "answer": [
-            "x"
+            "inspiračný stridor"
         ]
     },
     {
