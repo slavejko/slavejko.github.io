@@ -5088,8 +5088,8 @@ let questions = [
         "options": [
             "systémové antibiotiká, kortikosteroidy, kalcium, obklady na krk a ústavnú liečbu",
             "lokálne antibiotiká, antipyretiká a domácu starostlivosť",
-            "48-hodinovú intubáciu pacienta so súčasným podaním systémových antibiotík",
-            "a kortikosteroidov v rámci ústavnej liečby"
+            "48-hodinovú intubáciu pacienta so súčasným podaním systémových antibiotík a kortikosteroidov v rámci ústavnej liečby",
+            "kalcium, perorálne dekongestíva, vitamín C a domácu starostlivosť"
         ],
         "answer": [
             "systémové antibiotiká, kortikosteroidy, kalcium, obklady na krk a ústavnú liečbu"
@@ -5203,13 +5203,13 @@ let questions = [
         "numb": 403,
         "question": "Medzi faktory podporujúce vznik chronického zápalu hrtana patrí:",
         "options": [
-            "fajčenie, nadmerná hlasová námaha, konzumácia koncentrovaného alkoholu, výpary",
-            "škodlivých látok v pracovnom prostredí, zlé ovzdušie v mestách",
+            "fajčenie, nadmerná hlasová námaha, konzumácia koncentrovaného alkoholu, výpary škodlivých látok v pracovnom prostredí, zlé ovzdušie v mestách",
+            "práca v kesónoch, časté potápanie a plávanie v bazénoch, povolanie pilota",
             "žuvanie betelu, ochutnávania pikantných a horúcich jedál, práca na slnku",
             "dlhodobé bývanie v paneláku, práca so zvieratami, drogová závislosť"
         ],
         "answer": [
-            "fajčenie, nadmerná hlasová námaha, konzumácia koncentrovaného alkoholu, výpary"
+            "fajčenie, nadmerná hlasová námaha, konzumácia koncentrovaného alkoholu, výpary škodlivých látok v pracovnom prostredí, zlé ovzdušie v mestách"
         ]
     },
     {
@@ -5268,13 +5268,13 @@ let questions = [
         "numb": 408,
         "question": "Chronická jednoduchá laryngitída (laryngitis chronica simplex) sa môže vyhojiť ad integrum, ak:",
         "options": [
-            "pacient dodrží hlasový pokoj, odstráni škodliviny, ktoré zápal vyvolali a podľa potreby",
+            "pacient dodrží hlasový pokoj, odstráni škodliviny, ktoré zápal vyvolali a podľa potreby absolvuje antibiotickú a inhalačnú liečbu",
             "absolvuje antibiotickú a inhalačnú liečbu",
             "pacient sa prelieči dlhodobo kortikosteroidmi",
-            "pacient absolvuje foniatrickú liečbu a naučí sa správne tvoriť hlas"
+            "pacient sa prelieči opakovane antibiotikami na základe výsledkov kultivačných vyšetrení spúta a sterov zo sliznice ústnej časti hltana"
         ],
         "answer": [
-            "pacient dodrží hlasový pokoj, odstráni škodliviny, ktoré zápal vyvolali a podľa potreby"
+            "pacient dodrží hlasový pokoj, odstráni škodliviny, ktoré zápal vyvolali a podľa potreby absolvuje antibiotickú a inhalačnú liečbu"
         ]
     },
     {
@@ -5437,13 +5437,13 @@ let questions = [
         "numb": 421,
         "question": "Liečba Reinkeho edému hlasiviek vyžaduje:",
         "options": [
-            "odstránenie patologicky zmenenej sliznice dekortikáciou hornej plochy hlasivky pri súčasnom",
-            "chránení väziva hlasivky",
+            "odstránenie patologicky zmenenej sliznice dekortikáciou hornej plochy hlasivky pri súčasnom chránení väziva hlasivky",
+            "systémovú antibiotickú liečbu a kortikosteroidy v spreji",
             "lokálnu antibiotickú liečbu a kortikosteroidy celkove",
             "lokálnu antibiotickú liečbu a perorálnu liečbu hydrolytickými enzýmami"
         ],
         "answer": [
-            "odstránenie patologicky zmenenej sliznice dekortikáciou hornej plochy hlasivky pri súčasnom"
+            "odstránenie patologicky zmenenej sliznice dekortikáciou hornej plochy hlasivky pri súčasnom chránení väziva hlasivky"
         ]
     },
     {
@@ -5632,13 +5632,13 @@ let questions = [
         "numb": 436,
         "question": "Liečba prekanceróz je:",
         "options": [
-            "chirurgická (opatrné limitované odstránenie postihnutej sliznice) s následnou elimináciou",
-            "vyvolávajúcich exogénnych škodlivín",
+            "chirurgická (opatrné limitované odstránenie postihnutej sliznice) s následnou elimináciou vyvolávajúcich exogénnych škodlivín",
+            "kombinovaná – chirurgická s následným lokálnym ošetrením operačného poľa cystostatikami",
             "rádiologická s následnou elimináciou vyvolávajúcich exogénnych škodlivín",
             "chemoterapeutická na princípe opakovaného lokálneho ošetrenia prekancerózy v direktnej"
         ],
         "answer": [
-            "chirurgická (opatrné limitované odstránenie postihnutej sliznice) s následnou elimináciou"
+            "chirurgická (opatrné limitované odstránenie postihnutej sliznice) s následnou elimináciou vyvolávajúcich exogénnych škodlivín"
         ]
     },
     {
@@ -5671,13 +5671,13 @@ let questions = [
         "numb": 439,
         "question": "Hyperplázia v rámci klasifikácie prekanceróz v histologickom obraze je charakterizovaná:",
         "options": [
-            "zmnožením počtu buniek, neprítomnosťou atypií v jadrách, zachovanou stratifikáciou",
-            "dlaždicového epitelu",
-            "zachovanou stratifikáciou len v hornej tretine epitelu, početnejšími mitózami a atypiami",
-            "v jadrách"
+            "zmnožením počtu buniek, neprítomnosťou atypií v jadrách, zachovanou stratifikáciou dlaždicového epitelu",
+            "zachovanou stratifikáciou len v hornej tretine epitelu, početnejšími mitózami a atypiami v jadrách",
+            "porušením stratifikácie epitelu takmer v celej hrúbke, jadrovým polymorfizmom, mitotickými obrazmi vo všetkých vrstvách, neporušenou bazilárnou membránou",
+            "zmnožením počtu buniek, stratou polarity bazálnych buniek, polymorfizmom buniek, vzostupom počtu mitóz"
         ],
         "answer": [
-            "zmnožením počtu buniek, neprítomnosťou atypií v jadrách, zachovanou stratifikáciou"
+            "zmnožením počtu buniek, neprítomnosťou atypií v jadrách, zachovanou stratifikáciou dlaždicového epitelu"
         ]
     },
     {
@@ -5698,8 +5698,8 @@ let questions = [
         "question": "Carcinoma in situ laryngis v rámci klasifikácie prekanceróz je v histologickom obraze charakterizovaná:",
         "options": [
             "porušenie stratifikácie postihuje epitel takmer v celej hrúbke, jadrový polymorfizmus, mitotické obrazy vo všetkých vrtsvách, bazilárna membrána na niektorých miestach porušená",
-            "stratifikácia je zachovaná len v hornej tretine epitelu, mitózy a atypie v jadrách sú početnejšie zmnožením počtu buniek, stratou polarity bazálnych buniek, polymorfizmom buniek,",
-            "vzostupom počtu mitóz",
+            "stratifikácia je zachovaná len v hornej tretine epitelu, mitózy a atypie v jadrách sú početnejšie",
+            "zmnožením počtu buniek, stratou polarity bazálnych buniek, polymorfizmom buniek, vzostupom počtu mitóz",
             "zmnožením počtu buniek, neprítomnosťou atypií v jadrách, zachovanou stratifikáciou dlaždicového epitelu"
         ],
         "answer": [
@@ -5827,26 +5827,26 @@ let questions = [
         "numb": 451,
         "question": "V supraglotickej oblasti je pomerne bohatá sieť lymfatických ciev. Veľká väčšina z nich smeruje do:",
         "options": [
-            "do ipsilaterálnych uzlín pozdĺž hornej časti vena jugularis interna a v strednej časti hrtana cez",
-            "podslizničné spojky na kontralaterálnu stranu krku",
+            "do ipsilaterálnych uzlín pozdĺž hornej časti vena jugularis interna a v strednej časti hrtana cez podslizničné spojky na kontralaterálnu stranu krku",
+            "povrchových lymfatických uzlín krku obojstranne a následne do hlbokých",
             "peritracheálnych a mediastinálnych lymfatických uzlín",
             "lymfatických uzlín pozdĺž hornej časti vena jugularis interna obojstranne priamym prúdením"
         ],
         "answer": [
-            "do ipsilaterálnych uzlín pozdĺž hornej časti vena jugularis interna a v strednej časti hrtana cez"
+            "do ipsilaterálnych uzlín pozdĺž hornej časti vena jugularis interna a v strednej časti hrtana cez podslizničné spojky na kontralaterálnu stranu krku"
         ]
     },
     {
         "numb": 452,
         "question": "Subglotická lymfatická sieť hrtana je bohatšia ako glotická, ale nedosahuje hustotu supraglotickej lymfangioarchitektoniky. Hranica strednej časti je minimálne vyznačená, preto sa pri šírení subgloticky uloženého karcinómu hrtana metastázy vyskytujú predilekčne:",
         "options": [
-            "ipsi-, kontra-, bilaterálne v krčných lymfatických uzlinách, prípadne v peritracheálnych",
-            "a mediastinálnych lymfatických uzlinách",
+            "ipsi-, kontra-, bilaterálne v krčných lymfatických uzlinách, prípadne v peritracheálnych a mediastinálnych lymfatických uzlinách",
+            "súčasne pozdĺž hornej časti vena jugularis interna obojstranne",
             "v ipsilaterálnych lymfatických uzlinách na krku pozdĺž vena jugularis interna",
             "v povrchových krčných lymfatických uzlinách s následným masívnym šírením do hlbokých"
         ],
         "answer": [
-            "ipsi-, kontra-, bilaterálne v krčných lymfatických uzlinách, prípadne v peritracheálnych"
+            "ipsi-, kontra-, bilaterálne v krčných lymfatických uzlinách, prípadne v peritracheálnych a mediastinálnych lymfatických uzlinách"
         ]
     },
     {
