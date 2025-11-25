@@ -5658,13 +5658,13 @@ let questions = [
         "numb": 438,
         "question": "Ak sa podarí pri chirurgickej liečbe carcinoma in situ laryngis odstrániť postihnutú sliznicu v celom rozsahu, považujeme liečbu za:",
         "options": [
-            "sliznicu v celom rozsahu, považujeme liečbu za:",
+            "definitívnu",
             "neukončenú s následnou rádio-chemoterapiou",
             "neukončenú s adjuvantným podaním chemoterapie",
             "neukončenú s následnou radikálnou rádioterapiou"
         ],
         "answer": [
-            "sliznicu v celom rozsahu, považujeme liečbu za:"
+            "definitívnu"
         ]
     },
     {
