@@ -5170,7 +5170,7 @@ let questions = [
             "hlasivkách a vo ventriculus laryngis"
         ],
         "answer": [
-            "jazykovej ploche príchlopky, aryepiglotických riasach, hrboľoch krhlovitých chrupiek"
+            "jazykovej ploche príchlopky, aryepiglotických riasach, hrboľoch krhlovitých chrupiek a v subglotickej oblasti"
         ]
     },
     {
@@ -5890,15 +5890,15 @@ let questions = [
     },
     {
         "numb": 456,
-        "question": "Rádioterapiu možno považovať za primárny spôsob liečby z hľadiska dobrých funkčných",
+        "question": "Rádioterapiu možno považovať za primárny spôsob liečby z hľadiska dobrých funkčných výsledkov a 5-ročného prežívania pri:",
         "options": [
-            "výsledkov a 5-ročného prežívania pri:",
+            "hlasivkových karcinómoch šíriacich sa limitovane prelaryngicky v oblasti prednej komisúry",
             "malých karcinómoch T1 a T2 bez znakov hlbokej infiltrácie",
             "laryngo-faryngických karcinómoch",
             "transglotických karcinómoch hrtana"
         ],
         "answer": [
-            "výsledkov a 5-ročného prežívania pri:"
+            "malých karcinómoch T1 a T2 bez znakov hlbokej infiltrácie"
         ]
     },
     {
@@ -6022,13 +6022,13 @@ let questions = [
         "numb": 466,
         "question": "Po laryngektómii je rehabilitácia hlasu:",
         "options": [
-            "väčšinou možná, pacient je rehabilitovaný buď pomocou pažerákového hlasu, elektrolaryngu",
-            "alebo pomocou hlasovej protézy v tracheo-ezofageálnej fistule",
+            "väčšinou možná, pacient je rehabilitovaný buď pomocou pažerákového hlasu, elektrolaryngu alebo pomocou hlasovej protézy v tracheo-ezofageálnej fistule",
+            "možná asi u 50% pacientov pomocou pažerákového hlasu, elektrolaryngu alebo hlasovej protézy v tracheo-ezofageálnej fistule, ostatní ostávajú afonický",
             "nemožná, pacient ostáva afonický",
-            "možná asi u 50% pacientov pomocou pažerákového hlasu, elektrolaryngu alebo hlasovej"
+            "možná asi u 25% pacientov pomocou pažerákového hlasu, elektrolaryngu alebo hlasovej protézy v tracheo-ezofageálnej fistule, ostatní sa naučia posunkovú reč"
         ],
         "answer": [
-            "väčšinou možná, pacient je rehabilitovaný buď pomocou pažerákového hlasu, elektrolaryngu"
+            "väčšinou možná, pacient je rehabilitovaný buď pomocou pažerákového hlasu, elektrolaryngu alebo pomocou hlasovej protézy v tracheo-ezofageálnej fistule"
         ]
     },
     {
@@ -6415,7 +6415,7 @@ let questions = [
             "laterofixáciou hlasivky a arytenoidektómiou",
             "hlasovými cvičeniami",
             "trvalou tracheostómiou",
-            "implantáciou stimulátora, ktorý pravidelne na základe dráždenia hlasiviek elektrickým"
+            "implantáciou stimulátora, ktorý pravidelne na základe dráždenia hlasiviek elektrickým impulzom ich stimuluje k oddialeniu" 
         ],
         "answer": [
             "laterofixáciou hlasivky a arytenoidektómiou"
@@ -6516,13 +6516,13 @@ let questions = [
         "numb": 504,
         "question": "Hltanová fáza hltacieho aktu",
         "options": [
-            "kontrakciou svalov sa hrtan dvíha nahor a dopredu, čím napomôže uzáveru dolných dýchacích",
-            "orgánov",
+            "kontrakciou svalov sa hrtan dvíha nahor a dopredu, čím napomôže uzáveru dolných dýchacích orgánov",
+            "telo jazyka v nej hrá kľúčovú úlohu",
             "je ovládateľná vôľou",
             "transportuje sa pri nej sústo z úst do oblasti hltanovej úžiny"
         ],
         "answer": [
-            "kontrakciou svalov sa hrtan dvíha nahor a dopredu, čím napomôže uzáveru dolných dýchacích"
+            "kontrakciou svalov sa hrtan dvíha nahor a dopredu, čím napomôže uzáveru dolných dýchacích orgánov"
         ]
     },
     {
@@ -6672,13 +6672,13 @@ let questions = [
         "numb": 516,
         "question": "Príznaky pri zväčšenej nosohltanovej mandli sú",
         "options": [
-            "facies adenoidea, opakované infekcie horných dýchacích orgánov, zatvorená rinofónia,",
-            "prevodová porucha sluchu, celkové zaostávanie vývoja dieťaťa",
-            "facies adenoidea, opakované infekcie horných dýchacích orgánov, zatvorená rinofónia, celkové",
-            "zaostávanie vývoja dieťaťa, paréza n. XII."
+            "facies adenoidea, opakované infekcie horných dýchacích orgánov, zatvorená rinofónia, prevodová porucha sluchu, celkové zaostávanie vývoja dieťaťa",
+            "facies adenoidea, opakované infekcie horných dýchacích orgánov, zatvorená rinofónia, celkové zaostávanie vývoja dieťaťa, paréza n. XII.",
+            "facies adenoidea, otoskleróza, opakované infekcie horných dýchacích orgánov, zatvorená rinofónia, prevodová porucha sluchu",
+            "facies adenoidea, častá tvorba konkrementov v ductus Whartoni, zatvorená rinofónia, prevodová porucha sluchu, celkové zaostávanie vývoja dieťaťa"
         ],
         "answer": [
-            "facies adenoidea, opakované infekcie horných dýchacích orgánov, zatvorená rinofónia,"
+            "facies adenoidea, opakované infekcie horných dýchacích orgánov, zatvorená rinofónia, prevodová porucha sluchu, celkové zaostávanie vývoja dieťaťa"
         ]
     },
     {
