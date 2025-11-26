@@ -7298,7 +7298,7 @@ let questions = [
         "options": [
             "infekčnú mononukleózu",
             "adenoid",
-            "y",
+            "ulceromembranóznu angínu",
             "peritonzilárny absces"
         ],
         "answer": [
@@ -8310,13 +8310,13 @@ let questions = [
         "numb": 642,
         "question": "Nystagmus sa skladá z",
         "options": [
-            "priférnej pomalej zložky a centrálnej rýchlej zložky, ktorá bije na stranu funkčne",
-            "dominantného vestibulového centra",
-            "centrálnej pomalej zložky a periférnej rýchlej zložky, ktorá bije na stranu funkčne",
-            "dominantného vestibulového centra"
+            "priférnej pomalej zložky a centrálnej rýchlej zložky, ktorá bije na stranu funkčne dominantného vestibulového centra",
+            "centrálnej pomalej zložky a periférnej rýchlej zložky, ktorá bije na stranu funkčne dominantného vestibulového centra",
+            "centrálrnej pomalej zložky a periférnej rýchlej zložky, ktorá bije na stranu funkčne slabšieho vestibulového centra",
+            "priférnej pomalej zložky a centrálnej rýchlej zložky, ktorá bije na stranu funkčne slabšieho vestibulového centra"
         ],
         "answer": [
-            "priférnej pomalej zložky a centrálnej rýchlej zložky, ktorá bije na stranu funkčne"
+            "priférnej pomalej zložky a centrálnej rýchlej zložky, ktorá bije na stranu funkčne dominantného vestibulového centra"
         ]
     },
     {
